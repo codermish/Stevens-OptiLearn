@@ -666,7 +666,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 # Footer
 st.markdown("""
 <div style="text-align: center; padding: 2rem 0; color: #666; font-size: 0.9rem; border-top: 1px solid #eee; margin-top: 3rem;">
-    <p>Stevens Institute of Technology | Corporate Training & Professional Development</p>
-    <p>📧 corporate.training@stevens.edu | 📞 (201) 216-5000</p>
+    <p>Stevens Institute of Technology | College of Professional Education</p>
+    <p>📧 cpe@stevens.edu | 📞 (201) 216-5000</p>
 </div>
 """, unsafe_allow_html=True)
