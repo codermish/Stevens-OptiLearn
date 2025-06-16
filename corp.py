@@ -10,61 +10,117 @@ st.set_page_config(
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:wght@400;600;700&display=swap');
-/* Enhanced Slider Styling */
-.stSlider > div > div > div > div {
-    background: linear-gradient(90deg, #8B1538 0%, #a61e42 100%) !important;
+
+/* ENHANCED SLIDER STYLING - COMPLETE REPLACEMENT */
+.stSlider {
+    padding: 2rem 0 !important;
 }
 
 .stSlider > div > div > div {
-    background: #e5e7eb !important;
-    height: 8px !important;
-    border-radius: 4px !important;
+    background: linear-gradient(90deg, #e5e7eb 0%, #d1d5db 100%) !important;
+    height: 14px !important;
+    border-radius: 7px !important;
+    position: relative !important;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1) !important;
+}
+
+.stSlider > div > div > div > div {
+    background: linear-gradient(90deg, #8B1538 0%, #a61e42 100%) !important;
+    height: 14px !important;
+    border-radius: 7px !important;
+    position: relative !important;
+    box-shadow: 0 2px 12px rgba(139, 21, 56, 0.4) !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
 }
 
 .stSlider > div > div > div > div > div {
     background: white !important;
-    border: 3px solid #8B1538 !important;
-    width: 20px !important;
-    height: 20px !important;
+    border: 4px solid #8B1538 !important;
+    width: 32px !important;
+    height: 32px !important;
     border-radius: 50% !important;
-    box-shadow: 0 2px 8px rgba(139, 21, 56, 0.3) !important;
-    transition: all 0.2s ease-in-out !important;
+    box-shadow: 0 6px 20px rgba(139, 21, 56, 0.4), 0 2px 8px rgba(0,0,0,0.1) !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    cursor: grab !important;
+    position: relative !important;
+    top: -9px !important;
 }
 
 .stSlider > div > div > div > div > div:hover {
-    transform: scale(1.1) !important;
-    box-shadow: 0 4px 12px rgba(139, 21, 56, 0.4) !important;
+    transform: scale(1.2) !important;
+    box-shadow: 0 8px 30px rgba(139, 21, 56, 0.5), 0 4px 12px rgba(0,0,0,0.15) !important;
+    border-width: 5px !important;
 }
 
-/* Custom ratio display */
+.stSlider > div > div > div > div > div:active {
+    cursor: grabbing !important;
+    transform: scale(1.25) !important;
+    box-shadow: 0 10px 35px rgba(139, 21, 56, 0.6), 0 6px 16px rgba(0,0,0,0.2) !important;
+}
+
+/* Enhanced ratio display */
 .ratio-display {
     display: flex;
     justify-content: space-between;
-    margin: 1rem 0;
-    padding: 1rem;
-    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-    border-radius: 8px;
-    border-left: 4px solid #8B1538;
+    margin: 2rem 0;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+    border-radius: 16px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    position: relative;
+    overflow: hidden;
+}
+
+.ratio-display::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: linear-gradient(90deg, #8B1538 0%, #a61e42 100%);
 }
 
 .ratio-item {
     text-align: center;
     flex: 1;
+    position: relative;
+}
+
+.ratio-item:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    right: -1px;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 50px;
+    width: 2px;
+    background: #cbd5e1;
 }
 
 .ratio-value {
-    font-size: 1.5rem;
-    font-weight: 600;
+    font-size: 2.5rem;
+    font-weight: 700;
     color: #8B1538;
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 4px rgba(139, 21, 56, 0.1);
+    transition: all 0.3s ease;
 }
 
 .ratio-label {
-    font-size: 0.9rem;
-    color: #666;
+    font-size: 1rem;
+    color: #64748b;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
+    font-weight: 600;
 }
+
+.element-container {
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+}
+
 /* Reset and base styles */
 .stApp {
     background-color: #fafafa;
@@ -193,17 +249,16 @@ html, body, [class*="css"] {
     margin-bottom: 1.5rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid #f0f0f0;
-    margin-left: 10 px;
-    margin-right: 10 px;
+    margin-left: 10px;
+    margin-right: 10px;
     margin: 1rem;
-            
 }
 
 /* Progress bar */
 .progress-container {
     max-width: 900px;
     margin: 2rem auto 0 auto;
-    padding: 1 3rem;
+    padding: 1rem 3rem;
 }
 
 .progress-bar {
@@ -276,11 +331,7 @@ html, body, [class*="css"] {
     color: white !important;
 }
 
-/* Slider */
-.stSlider > div > div > div {
-    background: #8B1538 !important;
-}
-
+            
 /* Error and success messages */
 .stError {
     background-color: #fef2f2 !important;
@@ -289,10 +340,19 @@ html, body, [class*="css"] {
 }
 
 .stSuccess {
-    background-color: #f0fdf4 !important;
-    border: 1px solid #bbf7d0 !important;
-    color: #16a34a !important;
+    background-color: #8B1538 !important;
+    border: 1px solid #A91B47 !important;
+    color: #white !important;
 }
+            
+.stAlert > div {
+        background-color: #8B1538 !important;
+        border: 1px solid #A91B47 !important;
+        color: white !important;
+    }
+.stAlert > div > div {
+        color: white !important;
+ }
 
 /* Remove Streamlit branding */
 #MainMenu {visibility: hidden;}
@@ -316,6 +376,20 @@ header {visibility: hidden;}
     
     .video-text h2 {
         font-size: 1.8rem;
+    }
+    
+    .ratio-display {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 1.5rem;
+    }
+    
+    .ratio-item:not(:last-child)::after {
+        display: none;
+    }
+    
+    .ratio-value {
+        font-size: 2rem;
     }
 }
 </style>
@@ -359,8 +433,8 @@ def prev_step():
 
 # Step 1: Company Information
 if st.session_state.step == 1:
-    st.markdown('<div class="section-title">Company Information</div>', unsafe_allow_html=True)
-    
+    st.markdown('<div class="section-title" style="align: center";>Company Information</div>', unsafe_allow_html=True) 
+    st.markdown('<div style="margin: 1rem;">', unsafe_allow_html=True)
     col1, col2 = st.columns(2)
     with col1:
         st.markdown('<div style="margin: 1rem;">', unsafe_allow_html=True)
@@ -384,6 +458,7 @@ if st.session_state.step == 1:
         
         contact_email = st.text_input("Contact Email *",
                                     value=st.session_state.form_data.get("contact_email", ""))
+    st.markdown('</div>', unsafe_allow_html=True)
 
     if st.button("Continue →", key="step1_continue"):
         if company_name and industry and company_size and contact_email:
@@ -401,37 +476,39 @@ if st.session_state.step == 1:
 # Step 2: Skill Focus
 elif st.session_state.step == 2:
     st.markdown('<div class="section-title" style="margin: 1rem;">Training Focus Areas</div>', unsafe_allow_html=True)
-    st.markdown(
-    """
-    <div style="margin: 1rem 0;">
-        <strong>What percentage of your training needs are technical vs. business-focused?</strong>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
 
-    st.markdown(
-    """
-    <div style="margin: 1rem 0;">
-        <label style="font-weight: 600;">Technical Skills (%)</label><br>
-        <small style="color: grey;">Technical skills include programming, data analysis, cybersecurity, etc.</small>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+    st.markdown("""
+<div style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); margin: 1rem;">
+    <label style="font-weight: 700; font-size: 1.3rem; color: #1e293b; display: block; text-align: center; margin-bottom: 1rem;">
+        Proportion of Technical vs. Business Skill Development
+    </label>
+</div>
+""", unsafe_allow_html=True)
 
     tech_ratio = st.slider(
-     label="",  # Leave label empty since it's handled in HTML above
-     min_value=0,
-     max_value=100,
-     value=st.session_state.form_data.get("tech_ratio", 50),
-     key="tech_ratio_slider"
-)
-
+        label="",
+        min_value=0,
+        max_value=100,
+        value=st.session_state.form_data.get("tech_ratio", 50),
+        key="tech_ratio_slider"
+    )
     
     business_ratio = 100 - tech_ratio
-    st.write(f"Business Skills: {business_ratio}%")
     
+    # Enhanced ratio display
+    st.markdown(f"""
+<div class="ratio-display">
+    <div class="ratio-item">
+        <div class="ratio-value">{business_ratio}%</div>
+        <div class="ratio-label">Business Skills</div>
+    </div>
+    <div class="ratio-item">
+        <div class="ratio-value">{tech_ratio}%</div>
+        <div class="ratio-label">Technical Skills</div>
+    </div>
+</div>
+""", unsafe_allow_html=True)
+
     st.write("**Primary training objectives (select all that apply):**")
     objectives = st.multiselect("Training Objectives",
                               ["Upskill existing workforce", "Leadership development", 
@@ -517,21 +594,16 @@ elif st.session_state.step == 4:
     
     col1, col2 = st.columns(2)
     with col1:
-             
         duration = st.selectbox("Training Duration",
                               ["1-2 days", "1 week", "2-4 weeks", "1-3 months", "3+ months", "Flexible"],
                               index=["1-2 days", "1 week", "2-4 weeks", "1-3 months", "3+ months", "Flexible"].index(
                                   st.session_state.form_data.get("duration", "Flexible")))
     
     with col2:
-        
-        
-        
-
-     budget_range = st.selectbox("Budget Range (per participant)",
-                              ["Under $1,000", "$1,000-$5,000", "$5,000-$10,000", "$10,000-$25,000", "$25,000+", "Need consultation"],
-                              index=["Under $1,000", "$1,000-$5,000", "$5,000-$10,000", "$10,000-$25,000", "$25,000+", "Need consultation"].index(
-                                  st.session_state.form_data.get("budget_range", "Need consultation")))
+        budget_range = st.selectbox("Budget Range (per participant)",
+                                  ["Under $1,000", "$1,000-$5,000", "$5,000-$10,000", "$10,000-$25,000", "$25,000+", "Need consultation"],
+                                  index=["Under $1,000", "$1,000-$5,000", "$5,000-$10,000", "$10,000-$25,000", "$25,000+", "Need consultation"].index(
+                                      st.session_state.form_data.get("budget_range", "Need consultation")))
 
     additional_notes = st.text_area("Additional Requirements or Notes",
                                   value=st.session_state.form_data.get("additional_notes", ""),
@@ -555,14 +627,11 @@ elif st.session_state.step == 4:
 
 # Step 5: Summary
 elif st.session_state.step == 5:
-    st.markdown('<div class="section-title" style="margin: 1rem;">Training Program Recommendations</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-title" style="margin: 1rem;">Training Profile Summary</div>', unsafe_allow_html=True)
     
     # Display summary
     data = st.session_state.form_data
-    
-    st.success("Thank you for completing the Stevens Corporate Training Program Matcher!")
-    
-    st.write("### Your Training Profile Summary:")
+        
     
     col1, col2 = st.columns(2)
     with col1:
@@ -579,26 +648,18 @@ elif st.session_state.step == 5:
     with col2:
         st.write("**Logistics:**")
         st.write(f"• Duration: {data.get('duration', 'N/A')}")
-        st.write(f"• Timeline: {data.get('timeline', 'N/A')}")
         st.write(f"• Budget: {data.get('budget_range', 'N/A')}")
 
-
-    st.write("### Next Steps:")
-    st.info("A Stevens representative will contact you within 2 business days to discuss these recommendations and customize a training solution for your organization.")
     
     col1, col2, col3 = st.columns([1, 1, 1])
     with col1:
         if st.button("← Back", key="step5_back"):
             prev_step()
             st.rerun()
-    with col2:
-        if st.button("🔄 Start Over", key="restart"):
-            for key in list(st.session_state.keys()):
-                del st.session_state[key]
-            st.rerun()
+    
     with col3:
-        if st.button("📧 Submit Inquiry", key="submit"):
-            st.success("Your inquiry has been submitted successfully! Thank you for your interest in Stevens Corporate Training programs.")
+        if st.button("View Recommended Courses", key="submit"):
+            st.success("Loadingggg!")
 
 st.markdown('</div>', unsafe_allow_html=True)
 
