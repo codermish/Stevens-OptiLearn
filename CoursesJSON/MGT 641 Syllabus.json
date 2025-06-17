@@ -1,0 +1,312 @@
+{
+  "textbooks": [
+    {
+      "title": "Marketing Management",
+      "author": "Philip Kotler and Kevin Keller",
+      "edition": "14th or 15th",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Course Overview",
+        "CaseMix Marketing Plan",
+        "Video Overview"
+      ],
+      "readings": [
+        "Course Syllabus",
+        "Video Pre-lecture Overview"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "SABRE Overview",
+        "CEO Selection and Team Formation"
+      ],
+      "readings": [
+        "SABRE Materials",
+        "Textbook: Chapters 1&3 (optional)",
+        "SABRE Pre-lecture Video"
+      ],
+      "assignments": [
+        "Upload by 8:00 AM: 1-min. CEO video: Why I should be CEO",
+        "Vote for one CEO video by Noon"
+      ],
+      "due_dates": [
+        "8:00 AM"
+      ]
+    },
+    "week3": {
+      "topics": [
+        "SABRE Quiz Review",
+        "SABRE Practice Round #1"
+      ],
+      "readings": [
+        "Textbook: Chapter 2 (optional)"
+      ],
+      "assignments": [
+        "SABRE Quiz"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Pricing: KidSmart Case",
+        "SABRE Practice Round #2"
+      ],
+      "readings": [
+        "Case: KidSmart"
+      ],
+      "assignments": [
+        "SABRE Practice Round #2 Decisions"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Allendale vs. eSettle",
+        "Marketing Plan (MP) Topics",
+        "Mid-Course Team Review"
+      ],
+      "readings": [
+        "Cases: Allendale and eSettle",
+        "MP Pre-lecture Video"
+      ],
+      "assignments": [
+        "Form MP Group and Select Topic",
+        "Mid-Course Team Performance Review"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Toyota: Global Marketing",
+        "SABRE Round #1 + Strategy & Slogan"
+      ],
+      "readings": [
+        "M6 Pre-Lecture Worksheet: Global Marketing",
+        "Case: Toyota Forklift",
+        "M6.1-M6.2 Worksheets: Global Marketing"
+      ],
+      "assignments": [
+        "SABRE Strategic Overview, Strategy by Year and Slogan",
+        "SABRE Real Round #1 Decisions"
+      ],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "MP: Segments/Customer Pain",
+        "SABRE Round #2 Results"
+      ],
+      "readings": [
+        "M7 Pre-Lecture Worksheet & Video: Benefits/Pain",
+        "M7.1-M7.2 Worksheets: Benefits/Pain"
+      ],
+      "assignments": [
+        "SABRE Round #2 Decisions"
+      ],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "MP: Ideal Customer, Target Market & Market Size",
+        "SABRE Round #3 Results"
+      ],
+      "readings": [
+        "M8 Pre-Lecture Worksheet & Video: Ideal Customer Profile, Target Market & Market Size",
+        "M8.1-M8.3 Worksheets: Ideal Customer Profile, Target Market & Market Size"
+      ],
+      "assignments": [
+        "SABRE Round #3 Decisions"
+      ],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "MP: Competitive Landscape, Ad Strategy, Sales Forecast",
+        "SABRE Round 4 Results"
+      ],
+      "readings": [
+        "M9 Videos: Ideal Segment, Competitive Landscape, & Internet Marketing",
+        "M9.1-M9.4 Worksheets: Competitive Landscape"
+      ],
+      "assignments": [
+        "SABRE Round #4 Decisions"
+      ],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Executive Presentation Tips",
+        "SABRE Round #5 & #6"
+      ],
+      "readings": [],
+      "assignments": [
+        "SABRE Round #5 Decisions"
+      ],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Marketing Plan Presentations"
+      ],
+      "readings": [
+        "Review A+ Prior MP Presentation"
+      ],
+      "assignments": [
+        "Upload 7 Min. Recorded Presentation by NOON (1/team)"
+      ],
+      "due_dates": [
+        "NOON"
+      ]
+    },
+    "week12": {
+      "topics": [
+        "Executive Presentation Tips",
+        "SABRE Round #5 & #6"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "SABRE Team Presentations",
+        "Course Summary"
+      ],
+      "readings": [
+        "Textbook Worksheet (Optional)"
+      ],
+      "assignments": [
+        "Upload 10 Min. SABRE Recorded Presentation by NOON (1/team)",
+        "Final Team Performance",
+        "Email: Improve the class"
+      ],
+      "due_dates": [
+        "NOON"
+      ]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "4%",
+      "assignments": "20%",
+      "exams": "",
+      "projects": "25%",
+      "quizzes": "15%",
+      "final": ""
+    },
+    "scale": "A=91-100%; A-=90%; B+=89%; B=81-88%; B-=80%; C+=79%; C=71-78%; C-=70%",
+    "policies": "To receive credit, unless otherwise noted, deliverables must be submitted on time; late submissions are not acceptable."
+  },
+  "assignments": [
+    {
+      "title": "CEO 1-min Video: Why should you be CEO of your team?",
+      "description": "Due by 8:00am of Class #2 post a sharable link in the Discussion Forum.",
+      "due_date": "8:00 AM of Class #2"
+    },
+    {
+      "title": "SABRE Quiz",
+      "description": "Open-book quiz covering SABRE material.",
+      "due_date": ""
+    },
+    {
+      "title": "SABRE Practice Round #2 Decisions",
+      "description": "Decisions for the second practice round.",
+      "due_date": ""
+    },
+    {
+      "title": "Mid-Course Team Performance Review",
+      "description": "Review of team performance at mid-course.",
+      "due_date": ""
+    },
+    {
+      "title": "SABRE Round #1 Decisions",
+      "description": "Decisions for the first real round.",
+      "due_date": ""
+    },
+    {
+      "title": "SABRE Round #2 Decisions",
+      "description": "Decisions for the second round.",
+      "due_date": ""
+    },
+    {
+      "title": "SABRE Round #3 Decisions",
+      "description": "Decisions for the third round.",
+      "due_date": ""
+    },
+    {
+      "title": "SABRE Round #4 Decisions",
+      "description": "Decisions for the fourth round.",
+      "due_date": ""
+    },
+    {
+      "title": "SABRE Round #5 Decisions",
+      "description": "Decisions for the fifth round.",
+      "due_date": ""
+    },
+    {
+      "title": "Upload 7 Min. Recorded Presentation",
+      "description": "Due by NOON (1/team).",
+      "due_date": "NOON of Week 11"
+    },
+    {
+      "title": "Upload 10 Min. SABRE Recorded Presentation",
+      "description": "Due by NOON (1/team).",
+      "due_date": "NOON of Week 13"
+    },
+    {
+      "title": "How to improve the class memo",
+      "description": "At least one specific, thoughtful, well-supported, and actionable suggestion.",
+      "due_date": "End of semester"
+    }
+  ],
+  "policies": {
+    "attendance": "Cameras are expected to be ON during teleclasses.",
+    "late_work": "Late submissions are not acceptable.",
+    "academic_integrity": "All students promise to be fully truthful and avoid dishonesty.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online with cameras on.",
+    "technology_requirements": "Computer with high-speed internet, webcam, microphone, SABRE software, Microsoft Excel, and PowerPoint.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:34:11.122753",
+    "pdf_source": "../StevensCourses/MGT 641 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 36285,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Marketing Management",
+      "code": "MGT 641",
+      "credits": "3",
+      "semester": "WN",
+      "year": "",
+      "instructor": {
+        "name": "Mansoor Basha",
+        "email": "mbasha@stevens.edu",
+        "office_hours": "see Course Homepage",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The study of marketing principles from the conceptual, analytical, and managerial points of view.",
+    "learning_outcomes": [
+      "Apply a number of strategic and tactical marketing concepts such as Segmenting, Targeting, and Positioning (STP) to real-world situations.",
+      "Assess a variety of market problems and opportunities.",
+      "Create a credible integrated marketing plan.",
+      "Apply critical marketing tools and techniques to real cases as well as to a global marketing simulation game."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

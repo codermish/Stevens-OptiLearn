@@ -1,0 +1,239 @@
+{
+  "textbooks": [
+    {
+      "title": "Practical Management Science",
+      "author": "Wayne L. Winston and S. Christian Albright",
+      "edition": "6th",
+      "year": "2018",
+      "ISBN": "978-1-337-40665-9"
+    },
+    {
+      "title": "Machine Learning under a Modern Optimization Lens",
+      "author": "D. Bertsimas, J. Dunn",
+      "edition": "1st",
+      "year": "2019"
+    },
+    {
+      "title": "Applied Mathematical Programming",
+      "author": "S. Bradley, A. Hax, T. Magnanti",
+      "edition": "",
+      "year": "1977"
+    },
+    {
+      "title": "Introduction to Linear Optimization",
+      "author": "D. Bertsimas, J. Tsitsiklis",
+      "edition": "",
+      "year": "1997"
+    },
+    {
+      "title": "Machine Learning in Business: An Introduction to the World of Data Science",
+      "author": "John Hull",
+      "edition": "",
+      "year": "2019"
+    },
+    {
+      "title": "Business Process Management: Concepts, Languages and Architectures",
+      "author": "M. Weske",
+      "edition": "3rd",
+      "year": "2020"
+    },
+    {
+      "title": "Spreadsheet Modeling and Decision Analysis",
+      "author": "C. Ragsdale",
+      "edition": "9th",
+      "year": "2022"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Modeling"],
+      "readings": ["Ch. 1, 2"],
+      "assignments": ["HW1 assigned"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Intro to Linear Optimization"],
+      "readings": ["Ch. 3 + notes"],
+      "assignments": ["HW1 discussed"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Applications of Linear Optimization"],
+      "readings": ["Ch. 4"],
+      "assignments": ["HW2: assigned"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Duality and the Economics of LP"],
+      "readings": ["Notes"],
+      "assignments": ["HW2 discussed", "HW3 assigned"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Network Optimization + DEA"],
+      "readings": ["Ch. 4 + 5"],
+      "assignments": ["HW3 discussed"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Intro to Integer Optimization"],
+      "readings": ["Ch. 6"],
+      "assignments": ["HW4 assigned"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Intro to Heuristics"],
+      "readings": ["Ch. 8"],
+      "assignments": ["HW4 discussed"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Multi-Objective optimization"],
+      "readings": ["Ch. 16"],
+      "assignments": ["HW5 assigned"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Non-linear Optimization"],
+      "readings": ["Ch. 7"],
+      "assignments": ["HW5 discussed"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Decision making under uncertainty"],
+      "readings": ["Ch. 9"],
+      "assignments": ["HW6 assigned"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Simulation"],
+      "readings": ["Chs. 10-11"],
+      "assignments": ["HW6 discussed"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Case studies"],
+      "readings": ["Notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Student final presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "25%",
+      "exams": "30%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "type": "Homework",
+      "description": "Six written homework assignments: four individual and two team case studies."
+    },
+    {
+      "type": "Midterm Exam",
+      "description": "Individual exam held in class during week 8."
+    },
+    {
+      "type": "Final Project",
+      "description": "Team project with oral presentation and written report."
+    }
+  ],
+  "policies": {
+    "attendance": "Class attendance + participation is required weekly.",
+    "late_work": "Assignments accepted up to one week late with a penalty.",
+    "academic_integrity": "Students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Accommodations for students with documented disabilities are provided."
+  },
+  "important_dates": [
+    {
+      "event": "Homework 1 Due",
+      "date": "9/11/2024"
+    },
+    {
+      "event": "Homework 2 Due",
+      "date": "9/25/2024"
+    },
+    {
+      "event": "Homework 3 Due",
+      "date": "10/9/2024"
+    },
+    {
+      "event": "Midterm Exam",
+      "date": "10/23/2024"
+    },
+    {
+      "event": "Homework 4 Due",
+      "date": "10/30/2024"
+    },
+    {
+      "event": "Homework 5 Due",
+      "date": "11/13/2024"
+    },
+    {
+      "event": "Homework 6 Due",
+      "date": "11/20/2024"
+    },
+    {
+      "event": "Final Project Presentations",
+      "date": "12/11/2024"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Lectures, in-class discussions, exercises, individual and team homework, midterm exam, and final project.",
+    "technology_requirements": "Basic computer skills, Microsoft Excel, Word, PowerPoint, high-speed internet, webcam, and microphone.",
+    "support_resources": "Office of Disability Services for accommodations, mental health resources available."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:36:01.376823",
+    "pdf_source": "../StevensCourses\\BIA650-Prastacos-Course outline-Fall 2024.pdf",
+    "source_type": "file",
+    "text_length": 14782,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Optimization and Process Analytics",
+      "code": "BIA 650",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Gregory Prastacos",
+        "email": "gprastac@stevens.edu",
+        "office_hours": "Monday 2:00 - 3:00 pm, WebCampus Wednesday 6.30-9.00pm, Thursday 6:00-7:00 pm, On Campus Thursday 3.30-6.00pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Decision-Making is one of the most important functions of Management. This course emphasizes understanding and formulating complex problems, developing decision models, and using them for effective decision making.",
+    "learning_outcomes": [
+      "Follow a systematic and proven methodology for addressing complex problems",
+      "Select the appropriate optimization model and technique to apply in each case",
+      "Develop and solve optimization models in various domains",
+      "Use popular software packages for decision making",
+      "Analyze optimization models arising in data analysis",
+      "Analyze alternative scenarios and examine sensitivity of key strategy parameters",
+      "Develop simulation models and design simulation experiments"
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

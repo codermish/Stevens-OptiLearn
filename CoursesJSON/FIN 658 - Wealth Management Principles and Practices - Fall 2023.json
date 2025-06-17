@@ -1,0 +1,175 @@
+{
+  "textbooks": [
+    {
+      "title": "Private Wealth Management: The Complete Reference for the Personal Financial Planner",
+      "author": "G. Victor Hallman and Jerry S. Rosenbloom",
+      "edition": "9th Edition",
+      "ISBN": "978-0071840163"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Private Wealth Management: Nature & Objectives, Environment, and Valuation Concepts"],
+      "readings": ["HR Ch. 1, 2, 3"],
+      "assignments": ["HW 1"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Investment Planning and Financial Management – Part I"],
+      "readings": ["HR Ch. 4, 5, 6"],
+      "assignments": ["HW 2"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Investment Planning and Financial Management – Part I"],
+      "readings": ["HR Ch. 7, 8, 9"],
+      "assignments": ["HW 3"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Income Tax Planning – Case study discussion"],
+      "readings": ["HR Ch. 10, 11"],
+      "assignments": ["HW 4"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Retirement Planning, Stock Compensation and Other Employee Benefits – Part I"],
+      "readings": ["HR Ch. 13, 14, 15"],
+      "assignments": ["HW 5"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Retirement Planning, Stock Compensation and Other Employee Benefits – Part II"],
+      "readings": ["HR Ch. 16, 17, 18"],
+      "assignments": ["HW 6"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Charitable Giving – Case study discussion"],
+      "readings": ["HR Ch. 19"],
+      "assignments": ["HW 7"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Insurance Planning and Risk Management – Part I"],
+      "readings": ["HR Ch. 20, 21, 22"],
+      "assignments": ["HW 8"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Insurance Planning and Risk Management – Part II"],
+      "readings": ["HR Ch. 23, 24"],
+      "assignments": ["HW 9"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Estate Planning – Part I"],
+      "readings": ["HR Ch. 25, 26, 27"],
+      "assignments": ["HW 10"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Estate Planning – Part II"],
+      "readings": ["HR Ch. 28, 29, 30"],
+      "assignments": ["HW 11"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Group Project Presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "15%",
+      "exams": "15%",
+      "projects": "30%",
+      "quizzes": "20%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    "HW 1",
+    "HW 2",
+    "HW 3",
+    "HW 4",
+    "HW 5",
+    "HW 6",
+    "HW 7",
+    "HW 8",
+    "HW 9",
+    "HW 10",
+    "HW 11"
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "Week 8"
+    },
+    {
+      "event": "Final Exam",
+      "date": "Week 14"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Class, Online, Modules, Other",
+    "technology_requirements": "Students will need to utilize data sources and software available at the Hanlon Labs.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:22:55.065088",
+    "pdf_source": "../StevensCourses\\FIN 658 - Wealth Management Principles and Practices - Fall 2023.pdf",
+    "source_type": "file",
+    "text_length": 4575,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Wealth Management Principles and Practices",
+      "code": "FIN 658",
+      "credits": "3 credit",
+      "semester": "Fall",
+      "year": "2021",
+      "instructor": {
+        "name": "Emmanuel D. Hatzakis",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This is a course on the theory and practice of wealth management. It covers the building blocks and fundamental theoretical and practical aspects of investment management and financial planning for individual investors as well as applications that put the former to use by practitioners in the industry.",
+    "learning_outcomes": [
+      "Master the framework of building and managing investor wealth",
+      "Apply a systematic process for constructing investment portfolios that help clients achieve their life goals",
+      "Understanding how investment analysis and management, and behavioral finance are synthesized in the practice of wealth management",
+      "View the investor-client relationship as an ongoing process, which ensures that the client’s wealth is managed such that the client’s life goals remain on track to be served"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "Private Equity & Venture Capital (FIN 626)",
+      "Investment Management (FIN 627)",
+      "Portfolio Theory and Applications (FE 630)",
+      "Derivatives (FIN 628)",
+      "Pricing and Hedging (FE 620)",
+      "Fixed Income (FIN 629)"
+    ],
+    "prerequisites_count": 6,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

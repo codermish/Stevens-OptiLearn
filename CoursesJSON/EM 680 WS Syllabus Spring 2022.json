@@ -1,0 +1,91 @@
+{
+  "textbooks": [
+    {
+      "title": "Organizational Behavior",
+      "author": "Hitt, M.A., Miller, C.C., Collela, A.",
+      "edition": "2017",
+      "ISBN": ""
+    },
+    {
+      "title": "Managing the Risks of Organizational Accidents",
+      "author": "Reason, J.",
+      "edition": "1997",
+      "ISBN": "1840141050"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "100 points (10%)",
+      "assignments": "200 points (20%)",
+      "exams": "300 points (30%)",
+      "projects": "400 points (40%)",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "description": "Defining an Organizational Accident project working in teams of 3-4 members. Details provided in separate documents."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance points will be given when students visualize the lecture podcast in the due week.",
+    "late_work": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "Students are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online. Classes are asynchronous.",
+    "technology_requirements": "Basic computer and web-browsing skills, live web conferencing using Zoom, recording a slide presentation with audio narration.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:11:09.431622",
+    "pdf_source": "../StevensCourses\\EM 680 WS Syllabus Spring 2022.pdf",
+    "source_type": "file",
+    "text_length": 17299,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "The management of the Development Enterprise",
+      "code": "EM 680 WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2022",
+      "instructor": {
+        "name": "Luca Iandoli",
+        "email": "liandoli@stevens.edu",
+        "office_hours": "by appointment to be scheduled over e-mail",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course introduces the attributes associated with the design and management of the human activity system that is responsible for developing and operating an organization.",
+    "learning_outcomes": [
+      "Develop a scientific understanding of organizational behavior concepts and theories and their applications to management context and work situations.",
+      "Apply several methodologies for organizational analysis based on system thinking perspective.",
+      "Develop skills and techniques to effectively design and manage engineering teams in organizations."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "textbooks": [
+    {
+      "title": "Practical Multivariate Analysis",
+      "author": "Afifi, A., May, S., & Clark, V.",
+      "edition": "6th Edition",
+      "ISBN": "9781032088471"
+    },
+    {
+      "title": "Multivariate Data Analysis",
+      "author": "Joseph G. Hair, William C. Black, Barry J. Babin, Rolph E. Anderson",
+      "edition": "8th Edition",
+      "ISBN": "9353501350"
+    },
+    {
+      "title": "Mathematical Statistics and Data Analysis",
+      "author": "John A. Rice",
+      "edition": "2009",
+      "ISBN": "978053439942"
+    },
+    {
+      "title": "Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python",
+      "author": "Peter Bruce, Andrew Bruce, Peter Gedeck",
+      "edition": "2nd Edition",
+      "ISBN": "149207294X"
+    },
+    {
+      "title": "An Introduction to Statistical Learning: with Applications in R",
+      "author": "Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani",
+      "edition": "2nd Edition",
+      "ISBN": "1461471370"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Probability and Random Variables"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Lab 1: Pandas and Dataframe Manipulation in Python"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Random Variables II"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Estimation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Bivariate Random Variables"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Linear Regression"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Variable Selection and Model Comparison"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Lab 2: Regression using Python"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Classification: Logistic Regression and Discriminant Analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Dimension Reduction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Lab 3: Dimension Reduction and Classification using Python"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Clustering"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Bayesian Inference"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Final Project Discussion"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "40%",
+      "exams": "",
+      "projects": "25%",
+      "quizzes": "30%",
+      "final": ""
+    },
+    "scale": "C or above to pass the course",
+    "policies": "Late Policy: Each student is allowed to submit one DataCamp Assignment late. There will be a 50% grade penalty for late submissions beyond one. Quizzes cannot be completed late."
+  },
+  "assignments": [
+    {
+      "description": "DataCamp assignments",
+      "weight": "40%",
+      "details": "Due dates are specified on Canvas and certificates of completion to be submitted at Canvas; each DataCamp assignment takes about 4 hours to complete."
+    },
+    {
+      "description": "Quizzes",
+      "weight": "30%",
+      "details": "There is a multiple-choice quiz at Canvas with the deadlines specified on Canvas."
+    },
+    {
+      "description": "Final project",
+      "weight": "25%",
+      "details": "For the final assignment of the course, you will work on a dataset to analyze and answer several research questions. You will be expected to present your report and codes at Google Collab and upload a pdf print of it at Canvas."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance will be worth 5% of your final grade and will be evaluated as follows: 5/5: 0-2 missed classes; 3.5/5: 3-4 missed classes; 2/5: 5-6 missed classes; 0/5: 7+ missed classes.",
+    "late_work": "Each student is allowed to submit one DataCamp Assignment late. There will be a 50% grade penalty for late submissions beyond one. Quizzes cannot be completed late.",
+    "academic_integrity": "Consequences of academic impropriety are severe. The minimum sanction for any violation of the academic integrity code is an automatic 'F' grade for the course.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Thanksgiving Recess: No Classes; Offices Closed."
+  ],
+  "additional_info": {
+    "course_format": "WebCampus",
+    "technology_requirements": "Python will be the programming language used for the course.",
+    "support_resources": "Student Counseling and Disability Services works with students to help achieve their academic and personal potential."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:36:33.515720",
+    "pdf_source": "../StevensCourses\\BIA652_Syllabus_Fall2024WS.pdf",
+    "source_type": "file",
+    "text_length": 9033,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Multivariate Data Analytics",
+      "code": "BIA-652",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Somayeh Moazeni",
+        "email": "smoazeni@stevens.edu",
+        "office_hours": "Tuesday 4:30 pm to 6:00 pm, Tuesday 9 pm to 9:30 pm, or by Appointment",
+        "contact_info": "(201) 216-5541"
+      }
+    },
+    "course_description": "This course introduces basic theory and methods underlying multivariate analytics. Students will study techniques used for regression, classification, dimension reduction, and clustering.",
+    "learning_outcomes": [
+      "understand the probability behind basic statistical models",
+      "use Python to analyze multivariate data",
+      "think critically about data and research findings"
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [
+      "Calculus (e.g., derivative and integration)",
+      "Linear Algebra (e.g., vector and matrix operation)"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

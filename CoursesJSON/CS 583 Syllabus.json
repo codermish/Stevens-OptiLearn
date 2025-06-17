@@ -1,0 +1,197 @@
+{
+  "textbooks": [
+    {
+      "title": "Deep learning with Python",
+      "author": "Francois Chollet",
+      "edition": "2017",
+      "ISBN": "9781617294433"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Machine Learning Basics"],
+      "readings": ["Course Syllabus", "Machine Learning Tasks", "Modeling and Computation", "Matrix Calculus"],
+      "assignments": ["Homework: Machine Learning Tasks", "Modeling and Computation", "Submit live session group member names"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week2": {
+      "topics": ["Regression"],
+      "readings": ["Linear Regression", "Polynomial Regression"],
+      "assignments": ["Homework: Linear Regression", "Polynomial Regression"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week3": {
+      "topics": ["Classification"],
+      "readings": ["Logistic Regression", "SVM", "Softmax Classifier", "KNN Classifier", "Requirements for Programming Assignment #1 and Paper Presentations"],
+      "assignments": ["Homework: Logistic Regression", "SVM", "Softmax Classifier", "KNN Classifier"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week4": {
+      "topics": ["Machine Learning Theories and Tools"],
+      "readings": ["Convex Sets, Convex Functions, and Convex Optimization", "Regularization", "Scientific Computing Libraries"],
+      "assignments": ["Homework: Convex Optimization", "Regularization", "Scientific Computing Libraries", "Quiz 1 (Proctored)"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week5": {
+      "topics": ["Neural Networks"],
+      "readings": ["Neural Network Basics", "Keras"],
+      "assignments": ["Homework: Neural Networks", "Keras"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week6": {
+      "topics": ["Convolutional Neural Networks"],
+      "readings": ["Convolution", "CNNs", "Tricks for Improving CNNs", "Requirements for Programming Assignment #2"],
+      "assignments": ["Homework: Convolution", "CNN", "Tricks for Improving CNNs", "Programming Assignment #1 DUE", "Paper Presentations begin and continue through Module 13"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week7": {
+      "topics": ["Advanced Topics on CNNs"],
+      "readings": ["Batch Normalization", "Deep Learning Theories", "Common Architectures"],
+      "assignments": ["Homework: Batch Normalization", "Deep Learning Theories", "Common Architectures"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week8": {
+      "topics": ["Parallel Computing"],
+      "readings": ["Parallel Computing Basics", "Advanced Parallel Computing Techniques", "Ring All-Reduce"],
+      "assignments": ["Homework: Parallel Computing Basics", "Advanced Parallel Computing", "Ring All-Reduce", "Quiz 2 (Proctored)"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week9": {
+      "topics": ["Text Processing & Recurrent Neural Network (RNN)"],
+      "readings": ["Data Processing", "Word Embedding", "RNN", "LSTM"],
+      "assignments": ["Homework: Word Embedding", "RNN", "LSTM", "Programming Assignment #2 DUE"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week10": {
+      "topics": ["Advanced Topics on Recurrent Neural Networks"],
+      "readings": ["Make RNNs More Effective", "Text Generation", "Machine Translation"],
+      "assignments": ["Homework: Make RNNs More Effective"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week11": {
+      "topics": ["Attention Models"],
+      "readings": ["Attention", "Self-Attention", "Transformer", "Bert"],
+      "assignments": ["Homework: Attention", "Self-Attention", "Transformer", "Bert"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week12": {
+      "topics": ["Autoencoders"],
+      "readings": ["Autoencoder", "VAE"],
+      "assignments": ["Homework: Autoencoder", "VAE", "Quiz 3 (Proctored)"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    },
+    "week13": {
+      "topics": ["GAN and Adversarial Robustness"],
+      "readings": ["GAN", "Data Evasion Attacks", "Data Poisoning Attacks"],
+      "assignments": ["Homework: GAN", "Data Evasion Attacks", "Programming Assignment #3 DUE", "Final Exam (Proctored)"],
+      "due_dates": ["Sunday 11:59 pm EST"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "40%",
+      "exams": "25%",
+      "projects": "",
+      "quizzes": "15%",
+      "final": ""
+    },
+    "scale": "A: 93 and above; A-: [90, 93); B+: [87, 90); B: [83, 87); B-: [80, 83); C+: [77, 80); C: [73, 77); Fail: below 73",
+    "policies": "Late submissions for whatever reason will be punished. 2% of the score will be deducted per day."
+  },
+  "assignments": [
+    {
+      "name": "Homework: Machine Learning Tasks",
+      "description": "Tasks related to machine learning concepts."
+    },
+    {
+      "name": "Homework: Linear Regression",
+      "description": "Tasks related to linear regression."
+    },
+    {
+      "name": "Homework: Logistic Regression",
+      "description": "Tasks related to logistic regression."
+    },
+    {
+      "name": "Homework: Convex Optimization",
+      "description": "Tasks related to convex optimization."
+    },
+    {
+      "name": "Homework: Neural Networks",
+      "description": "Tasks related to neural networks."
+    },
+    {
+      "name": "Homework: Convolution",
+      "description": "Tasks related to convolution."
+    },
+    {
+      "name": "Homework: Batch Normalization",
+      "description": "Tasks related to batch normalization."
+    },
+    {
+      "name": "Homework: Word Embedding",
+      "description": "Tasks related to word embedding."
+    },
+    {
+      "name": "Homework: Make RNNs More Effective",
+      "description": "Tasks related to improving RNNs."
+    },
+    {
+      "name": "Homework: Attention",
+      "description": "Tasks related to attention mechanisms."
+    },
+    {
+      "name": "Homework: Autoencoder",
+      "description": "Tasks related to autoencoders."
+    },
+    {
+      "name": "Homework: GAN",
+      "description": "Tasks related to Generative Adversarial Networks."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is expected in live sessions.",
+    "late_work": "Late submissions will incur a 20% penalty.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer skills, Python programming, Jupyter notebook, Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:54:22.637678",
+    "pdf_source": "../StevensCourses\\CS 583 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 19981,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Deep Learning",
+      "code": "CS 583",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Justo Karell",
+        "email": "jkarell@stevens.edu",
+        "office_hours": "Mondays, 8:30 - 10:00 pm ET",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Deep learning (DL) is a family of the most powerful and popular machine learning (ML) methods and has wide real-world applications including face recognition, machine translation, self-driving cars, recommender systems, and the Go game.",
+    "learning_outcomes": [
+      "Formulate real-world problems as machine learning models.",
+      "Write Python programs to implement linear models, CNNs, RNNs, autoencoders, and GANs.",
+      "Analyze the performance of deep learning and improve accuracy.",
+      "Implement advanced techniques for improving deep learning.",
+      "Implement parallel computing using learning libraries."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

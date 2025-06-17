@@ -1,0 +1,160 @@
+{
+  "textbooks": [
+    {
+      "title": "Deep Learning",
+      "author": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville",
+      "publisher": "The MIT Press",
+      "ISBN-10": "0262035618",
+      "ISBN-13": "978-0262035613"
+    },
+    {
+      "title": "Deep Learning with Python",
+      "author": "Francois Chollet",
+      "ISBN": "9781617294433"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction of machine learning, deep learning and big data platform", "Introduction of natural language processing (NLP)"],
+      "readings": [],
+      "assignments": ["Download and install required software"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Neural network basics", "Train/test sets", "Bias/variance"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Regularizing your neural network", "Overfitting", "Dropout regularization", "Normalization", "Gradient checking"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Optimization for deep learning", "Mini-batch gradient descent", "Exponentially weighted averages", "RMSprop", "Adam Optimization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Hyperparameter tuning for deep learning", "Batch normalization", "Multi-class classification"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Convolutional Networks", "Convolution", "Pooling", "Structured outputs"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["NLP: language modeling", "n-gram language models", "Sequence tagging with probabilistic models"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["NLP: word and sentence embeddings", "Matrix factorization", "word2vec"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Autoencoders & Variational autoencoder", "Autoencoder for clustering & anomaly detection", "Data augmentation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Sequence: Modeling recurrent & recursive nets", "Deep recurrent networks", "Recursive neural networks"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Autoencoders & Variational autoencoder", "Autoencoder for clustering & anomaly detection"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Sequence: Modeling recurrent & recursive nets", "RNN to Transformer"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Transformer II (attention mechanism)", "Self-attention", "Multi-header"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["GenAI /Large Language Models", "ChaGPT and prompt engineering"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "20%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": "20%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work. A student’s submission of work for academic credit indicates that the work is the student's own. All outside assistance must be acknowledged. Any student who violates this code or who knowingly assists another student in violating this code shall be subject to discipline.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities. Student Counseling and Disability Services works with undergraduate and graduate students with learning disabilities, attention deficit-hyperactivity disorders, physical disabilities, sensory impairments, and psychiatric disorders in order to help students achieve their academic and personal potential."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Virtual Online",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:04:54.987257",
+    "pdf_source": "../StevensCourses\\EE628WS_2023Fall_Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 7495,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Deep Learning for Engineering",
+      "code": "EE628WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Rensheng Wang",
+        "email": "RWANG1@stevens.edu",
+        "office_hours": "Online Session by Appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course covers the comprehensive introductions about deep learning techniques used by practitioners in industry and programming exercises with related deep learning software packages. It consists of three sections. The first part reviews the applied math and machine learning basics. The second part studies the industry practices with deep networks in convolutional networks, recurrent & recursive nets, regularization for deep learning, auto-encoders etc. The last one is to train the students with real industry data for deep learning tasks at the big-data platform. By the end of the course, students will have a thorough knowledge about the state-of-the-art approaches used in deep learning.",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": ["EE603"],
+    "corequisites_count": 1
+  }
+}

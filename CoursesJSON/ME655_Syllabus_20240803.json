@@ -1,0 +1,219 @@
+{
+  "textbooks": [
+    {
+      "title": "Wearable Robots: Biomechatronic Exoskeletons",
+      "author": "J. L. Pons",
+      "edition": "1st Ed",
+      "ISBN": "0470512946"
+    },
+    {
+      "title": "Biomechanics and motor control of human movement",
+      "author": "Winter, D.A.",
+      "edition": "",
+      "ISBN": "9780470398180"
+    },
+    {
+      "title": "Neurorehabilitation Technology",
+      "author": "David J. Reinkensmeyer, Laura Marchal-Crespo, Volker Dietz",
+      "edition": "",
+      "ISBN": "9783031089947"
+    },
+    {
+      "title": "Springer handbook of robotics",
+      "author": "Siciliano, Bruno, and Oussama Khatib",
+      "edition": "",
+      "ISBN": "978-3-319-32552-1"
+    },
+    {
+      "title": "Control Systems Engineering",
+      "author": "Norman S. Nise",
+      "edition": "7th Ed.",
+      "ISBN": "1118170512"
+    },
+    {
+      "title": "Introduction to robotics: mechanics and control",
+      "author": "Craig J.J.",
+      "edition": "",
+      "ISBN": "0133489795"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Overview, Review of Introduction to Robotics Topics Relevant to Wearable Robotics"],
+      "readings": ["Selected topics from Craig ch. 2, 3, 4, 5"],
+      "assignments": ["P/F Problems 1: Kinematics of Serial Manipulators"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Review of Modern Control Topics & Feedback Linearization", "Virtual Lab Experience I – Simulating the Dynamic Behavior of a Robotic System Using Simulink"],
+      "readings": ["Nise ch. 3.3-3.6; 4.4-4.6, 4.10; 5.4-5.8", "Selected topics from Craig ch. 9, 10"],
+      "assignments": ["P/F Problems 2: Feedback Linearization for Trajectory Tracking"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Biomechanics of Human Locomotion", "Virtual Lab Experience II – Optical Motion Capture System"],
+      "readings": ["Selected topics from Winter ch. 3, 5, 9"],
+      "assignments": ["P/F Problems 3: Extracting Joint Angles from Markers Data"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Robotic Exoskeletons I: Ergonomic designs"],
+      "readings": ["Pons ch. 1.1, 1.2, 3.3", "Ref. [1, 2]", "[List of papers (for student pres.) released today]"],
+      "assignments": ["P/F Problems 4: Self-Aligning Mechanisms"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Robotic Exoskeletons II: Actuators in Wearable Robotics (SEA, VST, PMA)"],
+      "readings": ["Pons. ch. 6", "Ref. [3]"],
+      "assignments": ["P/F Problems 5: Series and Parallel Elastic Actuators", "Work on your presentations"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Robotic Exoskeletons III: Low-Level Control"],
+      "readings": ["Craig ch. 11", "Selected topics from Siciliano ch. A.7", "Ref. [4]"],
+      "assignments": ["P/F Problems 6: Coupled stability", "Work on your presentations"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Student Flash Presentations"],
+      "readings": ["N/A"],
+      "assignments": ["[Student pres. (flash + full-length) due today]", "Work on 4 peer-reviews on stud. presentations"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Robotic Exoskeletons IV: Mid-Level Control", "Linear Estimation (Kalman Filter)"],
+      "readings": ["Ref. [5-8]"],
+      "assignments": ["[Peer reviews on 4 student pres. due today]"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Robotic Exoskeletons V: Fuzzy-based, Oscillator-based and EMG-based Control", "Virtual Lab Experience III – Overview of Simulation Lab Assignment"],
+      "readings": ["Ref. [9-13]"],
+      "assignments": ["[Topic selection for review paper due]", "[Course project (Sim. Lab) released today]", "Work on your course project & review paper"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Robotic Exoskeletons VI: Machine Learning Control", "Virtual Lab Experience IV – Introduction to OpenSim"],
+      "readings": ["Ref. [14-20]"],
+      "assignments": ["[Group signup for Course Project (Sim. Lab) due today]", "P/F Problem 10: OpenSim", "Work on your course project & review paper"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Robotic Manipulation in Medical Applications (Guest Lecture by Prof. Long Wang)"],
+      "readings": ["N/A"],
+      "assignments": ["Work on your course project & review paper"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Wearable Sensors I – Filters/Fusion Algorithms"],
+      "readings": ["Ref. [21]"],
+      "assignments": ["[Course Project (Sim. Lab) due today]", "[Draft of review paper due today (non-mandatory)]", "P/F Problems 12: Complem. & Kalman Filters"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Wearable Sensors II – Supervised Learning for Activity Classification"],
+      "readings": ["Ref. [22, 23, 24]"],
+      "assignments": ["Work on your review paper"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Overview of Lead Instructor’s research, Course Wrap-Up"],
+      "readings": ["N/A"],
+      "assignments": ["[Final version of review paper due today]"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "name": "P/F Problems",
+      "description": "Pass-fail homework assignments resembling real-world design and control problems."
+    },
+    {
+      "name": "Student Presentation",
+      "description": "Select one paper from a given list and present its main contributions."
+    },
+    {
+      "name": "Simulation Lab",
+      "description": "Develop dynamic simulations of human-robot coupled systems and cooperative controllers."
+    },
+    {
+      "name": "Review Paper",
+      "description": "Literature review summarizing a minimum of 3 recent archival publications."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Assignments must be completed and submitted on or before specified due date.",
+    "academic_integrity": "Academic dishonesty will not be tolerated in any form.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "09/05: Course Overview",
+    "09/12: P/F Problems 2 due",
+    "09/19: P/F Problems 3 due",
+    "09/26: P/F Problems 4 due",
+    "10/03: P/F Problems 5 due",
+    "10/10: P/F Problems 6 due",
+    "10/17: Student presentations due",
+    "10/24: Peer reviews due",
+    "10/31: Topic selection for review paper due",
+    "11/07: Group signup for Course Project due",
+    "11/21: Course Project due",
+    "12/05: Review paper draft due",
+    "12/12: Final version of review paper due"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online with weekly asynchronous lectures.",
+    "technology_requirements": "Basic computer and web-browsing skills, MathWorks MATLAB (with Simulink).",
+    "support_resources": "Contact Stevens Support at support@stevens.edu or call 201-380-6599."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:31:29.417584",
+    "pdf_source": "../StevensCourses\\ME655_Syllabus_20240803.pdf",
+    "source_type": "file",
+    "text_length": 32542,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Wearable Robotics and Sensors",
+      "code": "ME-655 (BME-656)",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Damiano Zanotto, Ph.D.",
+        "email": "dzanotto@stevens.edu",
+        "office_hours": "Tue 5-7pm ET",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The goal of this course is to provide students with an understanding of advanced methods used in the design and control of wearable robots and in the analysis of human motion through wearable sensors.",
+    "learning_outcomes": [
+      "Identify kinematic and kinetic variables to quantitatively describe patterns of human locomotion.",
+      "Systematically derive the conditions of kinematic compatibility between the human body and a wearable mechanism.",
+      "Compare state-of-the-art actuator technology suitable for safe physical human-robot interaction (pHRI).",
+      "Derive conditions of coupled stability for impedance controllers.",
+      "Identify the most appropriate assistive or rehabilitation controller for a given application and implement/test the controller in simulation.",
+      "Discuss state-of-the-art wearable sensing technology and related methods for human motion analysis and activity recognition.",
+      "Apply supervised learning techniques to real-life data collected with wearable sensors, to infer and quantify the wearer’s motion."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [
+      "ME-598 - Introduction to Robotics"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

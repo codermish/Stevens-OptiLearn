@@ -1,0 +1,207 @@
+{
+  "textbooks": [
+    {
+      "title": "Software Architecture in Practice",
+      "authors": ["Len Bass", "Paul Clements", "Rick Kazman"],
+      "edition": "4th Edition",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["What is Software Architecture"],
+      "readings": ["Chapter 1-3"],
+      "assignments": ["Why arch is important(discussion)", "1Password upgrade"],
+      "due_dates": ["01/23/24"]
+    },
+    "week2": {
+      "topics": ["Building Architecture"],
+      "readings": ["Chapter 4"],
+      "assignments": ["Quality attribute scenarios(group)"],
+      "due_dates": ["01/30/24"]
+    },
+    "week3": {
+      "topics": ["Tactics for Quality Attributes"],
+      "readings": ["Chapter 5-6"],
+      "assignments": ["Group Assignment"],
+      "due_dates": ["02/06/24"]
+    },
+    "week4": {
+      "topics": ["Tactics for Quality Attributes"],
+      "readings": ["Chapter 7-8"],
+      "assignments": ["Group Assignment"],
+      "due_dates": ["02/13/24"]
+    },
+    "week5": {
+      "topics": ["Tactics for Quality Attributes"],
+      "readings": ["Chapter 9-10"],
+      "assignments": ["Group Assignment"],
+      "due_dates": ["02/20/24"]
+    },
+    "week6": {
+      "topics": ["Monday Class Schedule on Wed"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Tactics for Quality Attributes"],
+      "readings": ["Chapter 11-12"],
+      "assignments": ["Applying tactics(group)"],
+      "due_dates": ["03/06/24"]
+    },
+    "week8": {
+      "topics": ["Patterns, Styles & Tactics"],
+      "readings": ["Chapter 13"],
+      "assignments": ["Using patterns"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Spring break"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Modeling Architecturally Significant Requirements"],
+      "readings": ["Chapter 16"],
+      "assignments": ["Utility tree construction"],
+      "due_dates": ["03/27/24"]
+    },
+    "week11": {
+      "topics": ["Solutions of Architectures"],
+      "readings": ["Chapter 16-18"],
+      "assignments": ["Solutions of Architecture"],
+      "due_dates": ["04/03/24"]
+    },
+    "week12": {
+      "topics": ["Design strategies"],
+      "readings": ["Chapter 17"],
+      "assignments": ["Architectural epics(discussion)"],
+      "due_dates": ["04/10/24"]
+    },
+    "week13": {
+      "topics": ["Documenting architecture, Testing& Arch Reconstruction"],
+      "readings": ["Chapter 18, 19, 20"],
+      "assignments": ["Arch documentation(discussion)"],
+      "due_dates": ["04/17/24"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "40%",
+      "exams": "",
+      "projects": "40%",
+      "quizzes": "",
+      "final": "10%"
+    },
+    "scale": "A: >=93, A-: >=90 and < 93, B+: >=87 and < 90, B: >=83 and < 87, B-: >=80 and < 83, C: >=70 and < 80, F: < 70",
+    "policies": "Late submissions may be penalized up to 20% of grade."
+  },
+  "assignments": [
+    {
+      "description": "Why arch is important(discussion)",
+      "due_date": "01/23/24"
+    },
+    {
+      "description": "1Password upgrade",
+      "due_date": "01/23/24"
+    },
+    {
+      "description": "Quality attribute scenarios(group)",
+      "due_date": "01/30/24"
+    },
+    {
+      "description": "Group Assignment",
+      "due_date": "02/06/24"
+    },
+    {
+      "description": "Group Assignment",
+      "due_date": "02/13/24"
+    },
+    {
+      "description": "Group Assignment",
+      "due_date": "02/20/24"
+    },
+    {
+      "description": "Applying tactics(group)",
+      "due_date": "03/06/24"
+    },
+    {
+      "description": "Using patterns",
+      "due_date": ""
+    },
+    {
+      "description": "Utility tree construction",
+      "due_date": "03/27/24"
+    },
+    {
+      "description": "Solutions of Architecture",
+      "due_date": "04/03/24"
+    },
+    {
+      "description": "Architectural epics(discussion)",
+      "due_date": "04/10/24"
+    },
+    {
+      "description": "Arch documentation(discussion)",
+      "due_date": "04/17/24"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late submissions may be penalized up to 20% of grade.",
+    "academic_integrity": "Students must write and sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology provides accommodations for students with documented disabilities."
+  },
+  "important_dates": [
+    "01/23/24 - Discussion due",
+    "01/30/24 - Assignment due",
+    "02/06/24 - Group Assignment due",
+    "02/13/24 - Group Assignment due",
+    "02/20/24 - Group Assignment due",
+    "03/06/24 - Applying tactics(group) due",
+    "03/27/24 - Utility tree construction due",
+    "04/03/24 - Solutions of Architecture due",
+    "04/10/24 - Architectural epics(discussion) due",
+    "04/17/24 - Arch documentation(discussion) due"
+  ],
+  "additional_info": {
+    "course_format": "This course is online synchronous class.",
+    "technology_requirements": "Basic computer and web-browsing skills, Live web conferencing using Zoom, Recording a slide presentation with audio narration, Recording, editing, and uploading video via Kaltura.",
+    "support_resources": "For course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:55:22.303874",
+    "pdf_source": "../StevensCourses\\Stevens Syllabus SSW 565_Spring2024.pdf",
+    "source_type": "file",
+    "text_length": 18908,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Software Architecture and Component Based Design",
+      "code": "SSW565",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Ying Wang",
+        "email": "ywang6@stevens.edu",
+        "office_hours": "Office Hours and by appointment",
+        "contact_info": "Cell: 540-921-7437"
+      }
+    },
+    "course_description": "This course provides the student with a working knowledge of the terms, principles and methods of Software Architecture and Component-Based Design.",
+    "learning_outcomes": [
+      "Construct an architecture using the '4+1' model, emphasizing architectural styles and nonfunctional requirements",
+      "Base software design on components, patterns and classes using a domain driven approach",
+      "Re-factor code to improve understanding or modification",
+      "Apply a continuous learning approach to software architecture and design"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": ["SSW 540 or equivalent experience"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

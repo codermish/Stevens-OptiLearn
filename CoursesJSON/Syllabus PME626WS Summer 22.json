@@ -1,0 +1,172 @@
+{
+  "textbooks": [
+    {
+      "title": "Manufacturing of Pharmaceutical Proteins: From Technology to Economy",
+      "author": "Stefan Behme",
+      "edition": "2nd",
+      "ISBN-13": "978-3527337668",
+      "ISBN-10": "3527337660"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to biopharmaceutical manufacturing."],
+      "readings": ["Ch. 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Fermentation and cell culture – process technology, equipment and controls."],
+      "readings": ["Ch. 2.1-2.4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Harvest and clarification of biological products. Centrifugation, microfiltration, depth filtration."],
+      "readings": ["Ch. 2.5.1-2.5.2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Filtration processes in protein purification. Ultrafiltration, diafiltration, viral clearance, sterilizing filtration."],
+      "readings": ["Ch. 2.5.3-2.5.5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Chromatography systems in protein purification."],
+      "readings": ["Ch. 2.5.3-2.5.5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Auxiliary process operations (media and buffer preparation, dispensing, storage)."],
+      "readings": ["Ch. 2.4.3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Design of Biopharmaceutical Facilities"],
+      "readings": ["Ch. 8.1-8.4, 8.6-8.9"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Equipment cleaning in modern biotech facilities (Clean-In-Place, Clean-Out of-Place)."],
+      "readings": ["Ch. 8.5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Sterilization of Equipment, Piping and Process Fluids (Steam-In-Place, Autoclave Sterilization, Biowaste Treatment)"],
+      "readings": ["Ch. 2.4.1.3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Simulation of Biopharmaceutical Processes"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Disposable Equipment Systems in Biopharmaceutical Manufacturing"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Facility Construction, Commissioning and Qualification. Term papers due."],
+      "readings": ["Ch. 9"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "240 points",
+      "assignments": "120 points",
+      "exams": "120 points",
+      "projects": "80 points",
+      "quizzes": "120 points",
+      "final": "120 points"
+    },
+    "scale": "A: 90% and above, B: 80% and above, C: 70% and above, F: Below 70%",
+    "policies": "Grades for late submissions will be reduced unless you ask for an extension in advance with a good reason."
+  },
+  "assignments": [
+    {
+      "description": "Initial homework submission is due on Thursday of each week; students are also required to participate in the online discussion by commenting on at least one posting by their classmates (by Sunday)."
+    },
+    {
+      "description": "Details of the term paper project will be posted during the course."
+    }
+  ],
+  "policies": {
+    "attendance": "Not applicable",
+    "late_work": "Grades for late submissions will be reduced unless you ask for an extension in advance with a good reason.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm exam",
+      "date": "7/3"
+    },
+    {
+      "event": "Term papers due",
+      "date": "8/14"
+    },
+    {
+      "event": "Final exam",
+      "date": "8/26"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Online",
+    "technology_requirements": "",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:07:54.818406",
+    "pdf_source": "../StevensCourses/Syllabus PME626WS Summer 22.pdf",
+    "source_type": "file",
+    "text_length": 13241,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Manufacturing of Biopharmaceutical Products",
+      "code": "PME-626WS",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2022",
+      "instructor": {
+        "name": "Leonid Shnayder",
+        "email": "lshnayde@stevens.edu",
+        "office_hours": "TBD",
+        "contact_info": "Tel. 201-216-8510"
+      }
+    },
+    "course_description": "This course is focused on topics related to the technology, design and operations of modern biopharmaceutical facilities.",
+    "learning_outcomes": [
+      "demonstrate familiarity with technologies, unit operations and GMP requirements for the manufacturing of biopharmaceutical products",
+      "analyze and develop manufacturing processes for most common biopharmaceuticals",
+      "formulate facility and process equipment requirements for manufacturing of biopharmaceuticals",
+      "develop and implement Standard Operating Procedures and other GMP documentation for various manufacturing and support operations"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "PME530",
+      "ME530",
+      "CHE530"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

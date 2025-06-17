@@ -1,0 +1,172 @@
+{
+  "textbooks": [
+    {
+      "title": "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies",
+      "author": "McAfee, Andrew and Brynjolfsson, Erik",
+      "edition": "1st",
+      "ISBN": ""
+    },
+    {
+      "title": "Work Disrupted",
+      "author": "Schwartz, Jeff & Riss, Susan",
+      "edition": "1st",
+      "ISBN": ""
+    },
+    {
+      "title": "A World Without Work",
+      "author": "Susskind, Daniel",
+      "edition": "1st",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction and Course Overview"],
+      "readings": [
+        "Schwab, K. (2016, January 14). The fourth industrial revolution: What it means and how to respond.",
+        "Davis, N. (2016, January 19). What is the fourth industrial revolution?",
+        "Montresor, F. (2016, January 19). The 7 technologies changing your world.",
+        "(2022). Centre for the Fourth Industrial Revolution."
+      ],
+      "assignments": ["Individual Discussion Board Post #1"],
+      "due_dates": ["After first Zoom Meeting"]
+    },
+    "week2": {
+      "topics": ["Implications of the 4IR on the Future of Work (FoW) and Workforce"],
+      "readings": [
+        "Manyika, J. (2018, October 29). Automation and the future of work.",
+        "Schwartz, J., (2021). What is the future of work? Redefining work, workforces, and workplaces.",
+        "(2023, January 23). What is the future of work?",
+        "(2023, May). Future of Jobs Report 2023."
+      ],
+      "assignments": ["Individual Written Assignment #1"],
+      "due_dates": ["After second Zoom Meeting"]
+    },
+    "week3": {
+      "topics": ["Harnessing the Power of Disruptive, Emerging Technologies"],
+      "readings": [
+        "World Economic Forum. (2024). Top 10 Emerging Technologies of 2024.",
+        "Deloitte Insights (2024). Tech trends 2024.",
+        "Deloitte Insights. (2023). Tech trends 2023.",
+        "Chui, M., Issler, M., Roberts, R. & Yee, L. (2023 July 20). McKinsey technology trends: Outlook 2023."
+      ],
+      "assignments": ["Team Assignment"],
+      "due_dates": ["During Immersion Weekend"]
+    },
+    "week4": {
+      "topics": ["Opportunities for Organizational Leadership in the 4IR"],
+      "readings": [
+        "World Economic Forum. (2019). Leading through the Fourth Industrial Revolution Putting People at the Centre.",
+        "Rotatori, D., Lee, E. J., & Sleeva, S. (2020). The Evolution of the Workforce during the Fourth Industrial Revolution."
+      ],
+      "assignments": ["Individual Discussion Board Post #2"],
+      "due_dates": ["After fourth Zoom Meeting"]
+    },
+    "week5": {
+      "topics": ["Key Takeaways for Additional Academic Research and Professional Practice on the 4IR"],
+      "readings": [],
+      "assignments": ["Individual Discussion Board Post #3", "Individual Written Assignment #2"],
+      "due_dates": ["After fourth/final Zoom Meeting", "After fourth/final Zoom meeting"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "25%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": "Assignments submitted up to 48 hours late will automatically receive one letter grade reduction, assignments submitted thereafter will not receive credit."
+  },
+  "assignments": [
+    {
+      "description": "Prepare a 500-word Canvas post in response to the class and readings.",
+      "due": "After first Zoom Meeting"
+    },
+    {
+      "description": "Respond with 500-word Canvas post to a cohort member’s post (additional responses welcome, at least 1 reply required).",
+      "due": "After first Zoom Meeting"
+    },
+    {
+      "description": "5-page paper, double spaced, APA citation standards, due prior to in-person immersive experience.",
+      "due": "After second Zoom Meeting"
+    },
+    {
+      "description": "In small teams, prepare group presentation during the immersion weekend.",
+      "due": "During Immersion Weekend"
+    },
+    {
+      "description": "Prepare a 500-word Canvas post in response to the class and readings.",
+      "due": "After fourth Zoom Meeting"
+    },
+    {
+      "description": "Prepare a 500-word Canvas post in response to the class and readings.",
+      "due": "After fourth/final Zoom Meeting"
+    },
+    {
+      "description": "5-page paper, double spaced, APA citation standards, based on literature and immersion experience.",
+      "due": "After fourth/final Zoom meeting"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance for live learning events will count toward final grades. Each live learning session will comprise 3% of the course grade.",
+    "late_work": "Assignments submitted up to 48 hours late will automatically receive one letter grade reduction, assignments submitted thereafter will not receive credit.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "September 3, 2024 - First class meeting",
+    "September 8, 2024 - Response to peer Canvas posts due",
+    "September 10, 2024 - Second virtual class",
+    "September 15, 2024 - Individual Written Assignment #1 due",
+    "September 20-22, 2024 - Immersion weekend",
+    "October 1, 2024 - Virtual session",
+    "October 6, 2024 - Individual reflections due",
+    "October 8, 2024 - Final virtual session",
+    "October 13, 2024 - Individual reflections due",
+    "October 20, 2024 - Individual Written Assignment #2 due"
+  ],
+  "additional_info": {
+    "course_format": "Hybrid",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, Microsoft office software.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:36:17.208464",
+    "pdf_source": "../StevensCourses/MGT 675 Syllabus - Fall 2024.pdf",
+    "source_type": "file",
+    "text_length": 29333,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Future of Work: Implications for Leadership & Organizations",
+      "code": "MGT 675",
+      "credits": "1.5",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Denise Rotatori",
+        "email": "drotator@stevens.edu",
+        "office_hours": "Saturday/Sunday Flexible Hours, Appointment Requests Welcome",
+        "contact_info": "+1-646-226-6028"
+      }
+    },
+    "course_description": "This is a 1.5-credit course in the Stevens Institute of Technology's online Masters in Business Administration (OMBA) program, designed for scholar practitioners interested in the future of work (FoW) during this current period in history, often referred to as the fourth Industrial Revolution (4IR).",
+    "learning_outcomes": [
+      "Gain a common understanding of the disruptive technologies at play in the 4IR.",
+      "Review illustrative ways in which these emerging technologies are impacting various sectors of the economy.",
+      "Examine similarities and differences between the 4IR and prior periods of transformative change.",
+      "Examine different philosophical orientations toward what these technologies mean for the future of work.",
+      "Review the way in which these broader trends have impacted professional practice.",
+      "Explore the role that leaders can play in stewarding effective workforce transitions within their organizations.",
+      "Review the ethical implications and challenges due to the rise of cognitive technologies."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

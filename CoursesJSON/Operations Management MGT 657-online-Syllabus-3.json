@@ -1,0 +1,178 @@
+{
+  "textbooks": [
+    {
+      "title": "Operations Management: Sustainability and Supply Chain Management",
+      "author": "Heizer, J., Render, B., & Munson, C.",
+      "edition": "12th",
+      "ISBN": "978-0-13-413042-2"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Spring Commencement – No Classes"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Course Overview and Introduction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Introduction to Operations Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Operations and Productivity"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Juneteenth – No Classes"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Supply Chain Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Inventory Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Case Presentations and Discussions"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Forecasting (Exam 1)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Managing Quality and SPC (Part 1)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Managing Quality and SPC (Part 2)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Facility location and network design"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Case Presentations and Discussions (Exam 2)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "50%",
+      "projects": "15%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A >95; A- 95~90; B+ 89~85; B 84~80; B- 79~75; C+ 74~70; C 69~65; C- 64~60; F<60",
+    "policies": "Partial grades will be considered for late submissions when submitted no later than two days from the original due date."
+  },
+  "assignments": [
+    {
+      "description": "Weekly homework assignments. Students may consult in groups of two or three, but each must write up their own assignments."
+    },
+    {
+      "description": "Case write-ups due during the semester in groups."
+    },
+    {
+      "description": "Participation in online and in-class discussions."
+    },
+    {
+      "description": "Midterm exams, each with two parts: closed books/notes and open book/notes."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Partial grades will be considered for late submissions when submitted no later than two days from the original due date.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "May 22 - Spring Commencement – No Classes",
+    "May 29 - Course Overview and Introduction",
+    "June 5 - Introduction to Operations Management",
+    "June 12 - Operations and Productivity",
+    "June 19 - Juneteenth – No Classes",
+    "June 26 - Supply Chain Management",
+    "July 3 - Inventory Management",
+    "July 10 - Case Presentations and Discussions",
+    "July 17 - Forecasting (Exam 1)",
+    "July 24 - Managing Quality and SPC (Part 1)",
+    "July 31 - Managing Quality and SPC (Part 2)",
+    "August 7 - Facility location and network design",
+    "August 14 - Case Presentations and Discussions (Exam 2)"
+  ],
+  "additional_info": {
+    "course_format": "This course is online.",
+    "technology_requirements": "Basic computer and web-browsing skills; Live web conferencing using Zoom; Recording a slide presentation with audio narration.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:48:54.739317",
+    "pdf_source": "../StevensCourses\\Operations Management MGT 657-online-Syllabus-3.pdf",
+    "source_type": "file",
+    "text_length": 15793,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Operations Management",
+      "code": "MGT 657",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Foad Mahdavi Pajouh, Ph.D.",
+        "email": "fmahdav1@stevens.edu",
+        "office_hours": "Wednesdays, 8:00 pm – 9:00 pm (Appointments only via email)",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Introduces the student to the concepts and techniques used by organizations to support their fundamental task of producing goods and services.",
+    "learning_outcomes": [
+      "Explain how the production and operations function is managed and how it interfaces with other key business functions.",
+      "Prescribe the tools and analytical techniques used by managers to improve operations and to aid decision-making.",
+      "Facilitate the various demand forecasting techniques.",
+      "Incorporate the concepts of quality management into the enterprise’s operations.",
+      "Explain the core concepts of supply chain management, the goals of a supply chain, the impact of supply chain decisions on the success of a company, and key decision areas.",
+      "Develop models for making network design decisions and use optimization methods for facility location and network design decisions.",
+      "Cultivate the details of capacity planning, facility planning, locating, layout and design.",
+      "Handle the facets of production planning, scheduling and inventory control systems."
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "textbooks": [
+    {
+      "title": "Deep learning",
+      "authors": ["Goodfellow, I.", "Bengio, Y.", "Courville, A."],
+      "edition": "2016",
+      "publisher": "MIT press"
+    },
+    {
+      "title": "Machine Learning in Finance: From Theory to Practice",
+      "authors": ["Dixon, M. F.", "Halperin, I.", "Bilokon, P."],
+      "edition": "2020",
+      "publisher": "Springer International Publishing"
+    },
+    {
+      "title": "Selected research papers",
+      "authors": [],
+      "edition": "",
+      "publisher": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Review of Supervised Machine Learning"],
+      "readings": ["Dixon et al.: Chapter 1", "Goodfellow et al.: Chapter 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Feed-forward neural networks with applications in finance"],
+      "readings": ["Dixon et al.: Chapter 4", "Goodfellow et al.: Chapter 6"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Convolutional neural networks with applications in finance"],
+      "readings": ["Dixon et al.: Chapter 8.5", "Goodfellow et al.: Chapter 9"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Applications to Finance"],
+      "readings": ["Research papers; Examples: Clark et al. (2020): A machine learning efficient frontier", "Golbayani et al. (2020): Application of deep neural networks to assess corporate credit rating"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Recurrent neural networks & long short-term memory (LSTM) networks with applications to financial time series"],
+      "readings": ["Dixon et al.: Chapter 8.2-8.4", "Goodfellow et al.: Chapter 10"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Special topics (ex: generative adversarial networks (GANs) or reinforcement learning for deep hedging)"],
+      "readings": ["Dependent on topic area chosen"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "35%",
+      "exams": "0%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 93%-100%, A-: 90%-93%, B+: 87%-90%, B: 83%-87%, B-: 80%-83%, C+: 77%-80%, C: 70%-77%, F: 0%-70%",
+    "policies": "This grading scheme is subject to change based on student outcomes. It may be curved more leniently. It will not be made more difficult."
+  },
+  "assignments": [
+    {
+      "description": "4 homework assignments and one large (individual) project during the semester."
+    },
+    {
+      "description": "Additional small assignments and quizzes will accompany certain lectures."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late assignments, without prior approval, will be accepted.",
+    "academic_integrity": "Copying solutions from other students in the class, former students, tutors, or any other source is strictly forbidden.",
+    "accommodations": "If requested, virtual office hours via Zoom can be arranged."
+  },
+  "important_dates": [
+    {
+      "date": "January 17, 2024",
+      "event": "Course Start"
+    },
+    {
+      "date": "March 6, 2024",
+      "event": "Course End"
+    }
+  ],
+  "additional_info": {
+    "course_format": "The lectures will combine lectures, guest presentations, class presentations, and discussions.",
+    "technology_requirements": "Students will be expected to install and have Python running on their computers.",
+    "support_resources": "Questions about course material can also be asked by email or in the Discussion Section of Canvas."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:16:21.147447",
+    "pdf_source": "../StevensCourses\\FA691 S24 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 9689,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Deep Learning for Finance",
+      "code": "FA691",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Zachary Feinstein",
+        "email": "zfeinste@stevens.edu",
+        "office_hours": "Wednesday 5-6PM",
+        "contact_info": "Office: Babbio 611"
+      }
+    },
+    "course_description": "This course is designed for Master and Ph.D. graduate students and advanced undergraduates. The purpose is to learn to apply machine learning techniques to financial problems.",
+    "learning_outcomes": [
+      "Be able to apply neural networks to financial problems",
+      "Be able to evaluate the performance of different methods to determine the best method/hyperparameters",
+      "Learn how to interpret results of machine learning in a financial context",
+      "Create and apply neural network models for regression and classification tasks in finance",
+      "Evaluate performance of trained machine learning models",
+      "Understand applicability of diverse techniques in deep learning"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": ["FA 590"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

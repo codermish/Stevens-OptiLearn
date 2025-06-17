@@ -1,0 +1,175 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction", "Review of course outline", "Create Teams", "Connect on LinkedIn"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Meet your teammates", "Organize team assignments"],
+      "readings": [],
+      "assignments": ["Entrepreneur Assignment: choose an entrepreneur and prepare 5 minute presentation"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Opportunity Cost", "Mentors"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Framework for Strategic Analysis", "The Global Market"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Compounding Interest", "Competitive Analysis", "The Exit Strategy", "The Entrepreneurial Mind"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Risk", "The Entrepreneurial Process"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Declining Interest Rates", "Guest Lecture: Whitestone Analytics"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Integrity", "Opportunity Recognition"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["AI", "Life Decisions", "Myths and Realities"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Shark Tank: HealthPrevent 360"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Workshop"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Team Media Presentations - (Teams 1,2, and 3)"],
+      "readings": [],
+      "assignments": ["Prepare for media presentation and Business plan presentation."],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Team Media Presentations - (Teams 4,5, and 6)"],
+      "readings": [],
+      "assignments": ["Prepare Business Plan Presentation"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "",
+      "exams": "",
+      "projects": "50%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late submissions will be reviewed on a case-by-case basis."
+  },
+  "assignments": [
+    "Entrepreneur Assignment: choose an entrepreneur and prepare 5 minute presentation",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare for media presentation and Business plan presentation.",
+    "Prepare Business Plan Presentation"
+  ],
+  "policies": {
+    "attendance": "Students are expected to attend class each week.",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted. Assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Week 1: 9/3/24",
+    "Week 2: 9/10/24",
+    "Week 3: 9/17/24",
+    "Week 4: 9/24/24",
+    "Week 5: 10/1/24",
+    "Week 6: 10/8/24",
+    "Week 7: 10/15/24",
+    "Week 8: 10/22/24",
+    "Week 9: 10/29/24",
+    "Week 10: 11/5/24",
+    "Week 11: 11/12/24",
+    "Week 12: 11/19/24",
+    "Week 13: 11/26/24",
+    "Week 14: 12/3/24",
+    "Week 15: 12/10/24"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Baseline technical skills necessary for online courses include basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, and recording, editing, and uploading video via Kaltura.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:53:49.115188",
+    "pdf_source": "../StevensCourses\\Stevens MGT 663 Syllabus Fall 2024.pdf",
+    "source_type": "file",
+    "text_length": 14598,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Discovering and Exploiting Entrepreneurial Opportunities",
+      "code": "MGT 663-WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Frank Gallucci and Dr. Andres Jimenez, MD, MSED, MBA, MS",
+        "email": "fgallucci@whitestone.net, aj@healthier.clinic",
+        "office_hours": "Tuesdays 5:30-6:30, or by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "In this course, students will evaluate and create their own perspectives on business strategies. They will develop an understanding of entrepreneurship and innovation in starting and growing a business venture.",
+    "learning_outcomes": [
+      "Differentiate between small business ideas and entrepreneurial business ideas.",
+      "Critically evaluate entrepreneurial business ideas.",
+      "Create complete business ideas.",
+      "Develop winning business models.",
+      "Effectively present entrepreneurial business ideas."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "FIN 523 Financial Management",
+      "FIN 500 Financial and Managerial Accounting",
+      "MGT 506 Economics for Managers"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

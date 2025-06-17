@@ -1,0 +1,178 @@
+{
+  "textbooks": [
+    {
+      "title": "Successful Project Management",
+      "authors": "Gido, Clements, & Baker",
+      "edition": "7th Edition",
+      "ISBN": "9781337095471",
+      "publisher": "Cengage",
+      "year": "2017"
+    },
+    {
+      "title": "A Guide to the Project Management Body of Knowledge",
+      "authors": "Project Management Institute (PMI)",
+      "edition": "6th Edition",
+      "ISBN": "978-1-62825-184-5"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation Week"],
+      "readings": [],
+      "assignments": ["Introductory posting", "update Canvas profiles"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Project Management Concepts: An overview"],
+      "readings": ["Gido, Chapter 1", "PMBOK pages 4-5", "PMBOK pages 23-24", "PMI & PMBOK videos"],
+      "assignments": ["Discussion 1 posting", "Quiz 1 (5%)"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Selecting Projects"],
+      "readings": ["Gido, Chapter 2", "PMBOK chapter 4", "Video: Creating a Project Charter", "Web Article: Project Selection Methods: A Primer for the Project Manager"],
+      "assignments": ["Discussion 2 posting", "Quiz 2 (5%)"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Scope Management - Quality and Work Breakdown Structure"],
+      "readings": ["Gido, Chapter 4 (part 1)", "PMBOK chapter 5", "Web Article: Project management for a sustainable model for education in Congo (WBS)", "Supplemental WBS reading: DOE’s Earned Value Management Tutorial", "Video: Creating a 5-level WBS"],
+      "assignments": ["Discussion 3 postings", "Quiz 3 (5%)"],
+      "due_dates": ["Phase 1 of Group Project due – Team Selection"]
+    },
+    "week5": {
+      "topics": ["Scope Management – Sequencing Activities"],
+      "readings": ["Gido, Chapter 4 (part 2)", "PMBOK chapter 6", "Video: Project Scheduling"],
+      "assignments": ["Discussion 4 posting", "Quiz 4"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["NO CLASS WEEK OF FEB 12"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Scheduling & the Network Diagram"],
+      "readings": ["Gido, Chapter 5 (part 1)", "Video: What is Agile?"],
+      "assignments": ["Discussion 5 posting", "Quiz 5"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Critical Path"],
+      "readings": ["Gido, Chapter 5 (part 2)", "Videos: Critical Path", "Supplemental Article: Polaris System Development"],
+      "assignments": ["Discussion 6 posting", "Quiz 6"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Midterm Exam due by March 8"]
+    },
+    "week10": {
+      "topics": ["Resource Utilization"],
+      "readings": ["Gido, Chapter 6", "PMBOK chapter 9, 12", "Web Article: PM for Emergency Response", "Videos: Constraints; Leveling; MS-Project examples"],
+      "assignments": ["Discussion 8 posting", "Quiz 8"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Project Costing and Budgeting / Earned Value (part 1)"],
+      "readings": ["Gido, Chapter 7 (part 1)", "PMBOK chapter 7", "Ethics Lecture", "HBR Article: What’s your Project’s Real Pricetag?"],
+      "assignments": ["Discussion 9 posting", "Quiz 9"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Project Costing and Budgeting / Earned Value (part 2)"],
+      "readings": ["Gido, Chapter 7 (part 2)", "Video: Earned Value Management"],
+      "assignments": ["Quiz 10"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Managing Risk"],
+      "readings": ["Gido, Chapter 8", "PMBOK chapter 11", "Article: Turning Uncertainties into Business Opportunities", "Video: Silver Lining Interview (Lechler)", "Optional Readings: Root Cause Analysis, Decision Trees/Oil & Gas, Black Swans"],
+      "assignments": ["Discussion 11 posting", "Quiz 11"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Project Communications"],
+      "readings": ["Gido, Chapter 12", "PMBOK chapter 8, 10", "PMI Article: Project Status Meetings that Work", "Video/Reading: Conflict Resolution"],
+      "assignments": ["Discussion 12 posting", "Quiz 12"],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Role of PM and Organization"],
+      "readings": ["Gido, Chapter 13", "PMBOK chapter 2, 3, 13", "Article: Classic Failures", "Article: Classic Success?", "Overview of new PMBOK, 6th edition; Additional topic as time allows"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week16": {
+      "topics": ["Study for Final"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Final Exam due Friday, April 26"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "20%",
+      "final": "30%"
+    },
+    "scale": "A: 100–93, A-: 92.9 –90, B+: 89.9 –87, B: 86.9 –83, B-: 82.9 –80, C+: 79.9 –77, C: 76.9 –73, C-: 72.9 –70, F: 69.9 –0",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "Students must sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology provides accommodations for students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm Exam due by March 8",
+    "Final Exam due Friday, April 26"
+  ],
+  "additional_info": {
+    "course_format": "Online course with study materials and assignments available on Canvas.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:23:13.103669",
+    "pdf_source": "../StevensCourses\\2024 WS  SPRING MGT-609-WS Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 12078,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Project Management Fundamentals",
+      "code": "MGT609-WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Alan C. Maltz, P.E.",
+        "email": "alan.maltz@stevens.edu",
+        "office_hours": "",
+        "contact_info": "+1 561-632-4848"
+      }
+    },
+    "course_description": "The purpose of this course is to introduce students to the world of projects and to projects’ real-life struggles and challenges.",
+    "learning_outcomes": [
+      "Understand the basic principles of managing projects using PMBOK® standards.",
+      "Create a project charter",
+      "Develop a work breakdown structure",
+      "Create a project schedule",
+      "Understand Earned Value concepts",
+      "Develop a comprehensive project plan"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

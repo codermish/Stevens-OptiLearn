@@ -1,0 +1,162 @@
+{
+  "textbooks": [
+    {
+      "title": "Investments",
+      "author": "Bodie, Kane and Marcus",
+      "edition": "12th Edition",
+      "ISBN": "978-1-260-57115-8"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Investment Environment", "Introduction to Equity Baskets – Group Project"],
+      "readings": ["BKM Ch. 1", "GS 1"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Macroeconomic and Industry Analysis", "Asset Classes and Financial Instruments", "review Equity Valuation Models"],
+      "readings": ["BKM Ch. 17", "BKM Ch. 2", "BKM Ch. 18"],
+      "assignments": ["Homework; read yourselves: Ch 18"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["How Securities are Traded", "review Financial Statement Analysis"],
+      "readings": ["BKM Ch. 3", "BKM Ch. 19"],
+      "assignments": ["Homework; read yourselves: Ch 19"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Mutual Funds and Other Investment Companies", "Risk", "Return", "the Historical Record"],
+      "readings": ["BKM Ch. 4", "BKM Ch. 5"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Capital Allocation between Risky Assets and the Risk-Free Asset"],
+      "readings": ["BKM Ch. 6"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Optimal Risky Portfolios"],
+      "readings": ["BKM Ch. 7"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Index Models"],
+      "readings": ["BKM Ch. 8"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["The Capital Asset Pricing Model"],
+      "readings": ["BKM Ch. 9"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Arbitrage Pricing Theory and Multifactor Models of Risk and Return"],
+      "readings": ["BKM Ch. 10"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["The Efficient Market Hypothesis"],
+      "readings": ["BKM Ch. 11"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Behavioral Finance and Technical Analysis", "Empirical Evidence on Security Returns"],
+      "readings": ["BKM Ch. 12", "BKM Ch. 13"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Fixed Income Investing", "Bond prices and yields", "Term Structure of Interest Rates", "Managing Bond Portfolios"],
+      "readings": ["BKM Ch. 14", "BKM Ch. 15", "BKM Ch. 16"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Hedge Funds", "Active Portfolio Management"],
+      "readings": ["BKM Ch. 26", "BKM Ch. 27"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Portfolio Management Game Final Presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "15%",
+      "exams": "25%",
+      "projects": "20%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral. Consequences of academic impropriety are severe, ranging from receiving an 'F' in a course to expulsion.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Lecture, Discussion, Modeling",
+    "technology_requirements": "Students will need to utilize data sources and software available at the Hanlon Labs.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:21:14.757741",
+    "pdf_source": "../StevensCourses\\FIN 627 Syllabus - Spring 2024.pdf",
+    "source_type": "file",
+    "text_length": 6537,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Investment Management",
+      "code": "FIN 627",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Katherine Hodsdon",
+        "email": "khodsdon@stevens.edu",
+        "office_hours": "~30 minutes after each Monday evening lecture and by appointment on Fridays",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This is an introductory course to the theory and practice of investment management. It covers the building blocks and fundamental theoretical and practical aspects of managing investments as well as applications that put the former to use by practitioners in the industry.",
+    "learning_outcomes": [
+      "Create the discipline and analytical processes that underscore the objective of building investor wealth.",
+      "Comprehend how both fundamental securities analysis and market behavior impact the short- and long-term value of securities.",
+      "Achieve a critical understanding of the most widely used theories and practices in investment analysis and management today.",
+      "Construct and manage equity portfolios based on selected objectives and styles."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "FIN 623",
+      "completion of an online course (MOOC) on Financial Management"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

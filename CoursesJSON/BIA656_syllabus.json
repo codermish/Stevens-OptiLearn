@@ -1,0 +1,197 @@
+{
+  "textbooks": [
+    {
+      "title": "An Introduction to Statistical Learning with Applications in R",
+      "authors": ["Gareth James", "Daniela Witten", "Trevor Hastie", "Robert Tibshirani"],
+      "edition": "2nd",
+      "year": 2021
+    },
+    {
+      "title": "The Elements of Statistical Learning",
+      "authors": ["Trevor Hastie", "Robert Tibshirani", "Jerome Friedman"],
+      "edition": "2nd",
+      "year": 2009
+    },
+    {
+      "title": "Data Science for Business",
+      "authors": ["Foster Provost", "Tom Fawcett"],
+      "edition": "2013"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overview of Supervised Learning", "Nearest neighbors", "Intro to bias variance trade-off"],
+      "readings": ["ISLR 2", "ESL 2", "PF, 1 and 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Linear Methods for Regression and Regularization"],
+      "readings": ["ISLR 3", "ESL 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Classification"],
+      "readings": ["ISLR 4", "ESL 4", "PF 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Classification"],
+      "readings": ["ISLR 4", "ESL 4", "PF 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Model Assessment and Selection"],
+      "readings": ["ISLR 5", "ESL 7", "PF, 5, 7 and 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Model Assessment and Selection"],
+      "readings": ["ISLR 5.1", "ESL 7", "PF, 5, 7 and 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Basis Expansions and Generalized Additive Models", "Midterm"],
+      "readings": ["ISLR 7", "ESL 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Basis Expansions and Generalized Additive Models"],
+      "readings": ["ISLR 7", "ESL 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Bootstrapping and EM", "Decision trees", "Ensemble methods"],
+      "readings": ["ISLR 5.2", "ESL 8", "ISLR 8", "ESL 9 (trees), 10, 15, 16; PF 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Support Vector Machines"],
+      "readings": ["ISLR 9", "ESL 12", "PF 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Graphical & Bayes models"],
+      "readings": ["PF, 11"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Sequential data (time series): Hidden Markov models"],
+      "readings": ["SL, 8.3, 8.6 and 17", "Rabiner's HMM tutorial {I,II,III}"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Neural Networks & Deep Learning"],
+      "readings": ["ISLR 10", "ESL 11", "PF 4"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "64%",
+      "exams": "35%",
+      "projects": "",
+      "quizzes": "",
+      "final": "20%"
+    },
+    "scale": "A: 100% to 94%, A-: < 94% to 90%, B+: < 90% to 87%, B: < 87% to 84%, B-: < 84% to 80%, C+: < 80% to 77%, C: < 77% to 70%, F: < 70% to 0%",
+    "policies": "The grade may be curved more leniently based on student outcome."
+  },
+  "assignments": [
+    {
+      "name": "Assignment 1",
+      "weight": "4%"
+    },
+    {
+      "name": "Assignment 2",
+      "weight": "20%"
+    },
+    {
+      "name": "Assignment 3",
+      "weight": "20%"
+    },
+    {
+      "name": "Assignment 4",
+      "weight": "20%"
+    },
+    {
+      "name": "Midterm",
+      "weight": "15%"
+    },
+    {
+      "name": "Final",
+      "weight": "20%"
+    },
+    {
+      "name": "Completion final student evaluation",
+      "weight": "1%"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "10% penalty for each late day: No assignments accepted after 2 days. 50% penalty for missing each one of the files: pdf/html or ipynb.",
+    "academic_integrity": "You cannot share ideas in any written form: code, pseudocode or solutions. You cannot submit someone else's work found through internet or any other source.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm",
+      "date": "10/24"
+    },
+    {
+      "event": "Final exam",
+      "date": "12/12"
+    }
+  ],
+  "additional_info": {
+    "course_format": "The class will combine class presentations, discussions, and exercises.",
+    "technology_requirements": "Python is the main software package that will be used. Recommended to install the Anaconda distribution.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:37:06.776359",
+    "pdf_source": "../StevensCourses\\BIA656_syllabus.pdf",
+    "source_type": "file",
+    "text_length": 20396,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Advanced Data Analytics and Machine Learning",
+      "code": "BIA656",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2022",
+      "instructor": {
+        "name": "Germán Creamer",
+        "email": "gcreamer@stevens.edu",
+        "office_hours": "Mon. 12.30 PM – 1.30 PM",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The significant amount of corporate information available requires a systematic and analytical approach to select the most important information and anticipate major events.",
+    "learning_outcomes": [
+      "Understand the foundations of statistical learning algorithms",
+      "Apply statistical models and analytical methods to several business domains using a statistical language.",
+      "Recognize the value and also the limits of statistical learning algorithms to solve business problems.",
+      "Written and oral communications skills: students are required to communicate properly during the class discussions.",
+      "Solve a major analytical problem using large datasets in a project and communicate its results in a professional way."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

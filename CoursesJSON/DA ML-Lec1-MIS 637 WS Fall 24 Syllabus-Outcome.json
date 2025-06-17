@@ -1,0 +1,251 @@
+{
+  "textbooks": [
+    {
+      "title": "Discovering Knowledge in Data: An introduction to Data Mining",
+      "author": "Daniel T. Larose",
+      "edition": "2nd Edition",
+      "publisher": "John Wiley",
+      "year": 2014
+    },
+    {
+      "title": "Data Mining and Analysis: Foundations and Algorithms",
+      "author": "Mohammed J. Zaki and Wagner Meira, Jr",
+      "publisher": "Cambridge University Press",
+      "year": 2014
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "What is Data Analytics & Machine Learning?",
+        "The Six Phases of Data Science & ML: An End-to-End Approach"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Five Business and Operations Applications"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Data Cleaning",
+        "Handling Missing Data",
+        "Identifying Misclassifications"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Graphical Methods for Outliers",
+        "Data Transformation: Min-Max Normalization; Z-Score Standardization"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Supervised and Unsupervised Learning",
+        "Methodology for Supervised Learning",
+        "k-Nearest Neighbor Algorithm",
+        "Distance Function",
+        "Database Considerations"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "k-Nearest Neighbor Algorithm for estimation and prediction",
+        "Choosing k",
+        "Case Study"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "C4.5 Algorithm",
+        "Classifications and Regression Trees (CART) Algorithm"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Decision Rules",
+        "Comparison of the C4.5 and CART Algorithms Applied to Real Data",
+        "Case Studies"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Artificial Intelligence",
+        "Human Brain",
+        "Input and Output",
+        "Neural Network for Estimation and Prediction",
+        "Summation Function",
+        "Sigmoid Activation Function"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Artificial Intelligence",
+        "Back-Propagation Algorithm",
+        "Terminating Criteria",
+        "Deep Learning & Learning Rate",
+        "Applications of ANN",
+        "Implementing R and Python",
+        "Real World Projects and Case Study"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Clustering Task",
+        "Hierarchical Clustering Methods",
+        "k-Means Clustering"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Applications of k-Means Clustering",
+        "Applications of k-Means Clustering Using SAS Enterprise Miner",
+        "Case Study"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Model Evaluation Techniques",
+        "Students Project Proposals Reviews",
+        "Completed Project Proposal"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": [
+        "End-to-End Review"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": [
+        "Students Executed Projects Presentations"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "10%",
+      "exams": "60%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Weekly Homework and Assignments",
+      "weight": "10%"
+    },
+    {
+      "description": "Mid-Term Exam",
+      "weight": "30%"
+    },
+    {
+      "description": "Final Exam",
+      "weight": "30%"
+    },
+    {
+      "description": "Data Science Project",
+      "weight": "30%"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral. Consequences of academic impropriety are severe.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Lectures, class discussion, individual and team assignments, individual and team homework and projects.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:58:19.294115",
+    "pdf_source": "../StevensCourses\\DA ML-Lec1-MIS 637 WS Fall 24 Syllabus-Outcome.pdf",
+    "source_type": "file",
+    "text_length": 8479,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Analytics and Machine Learning",
+      "code": "MIS 637 WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Mahmoud Daneshmand, PhD",
+        "email": "mahmoud.daneshmand@stevens.edu",
+        "office_hours": "Tuesdays 2-3 PM, Thursdays 2-3 PM, Wednesdays 5-6 PM",
+        "contact_info": "Cell Phone 518 257 6184, Office Phone 201 216 5542"
+      }
+    },
+    "course_description": "This course will focus on Data Analytics and Machine Learning Algorithms as well as their applications in solving real world Scientific, Business and Operation problems.",
+    "learning_outcomes": [
+      "Recognize, define, describe, and clearly state the objectives of Knowledge Discovery using Data Analytics and Machine Learning algorithms.",
+      "Identify relevant data and corresponding Databases, data Warehouses, and data sources from which Knowledge can be extracted.",
+      "Specify how to access the relevant data.",
+      "Preprocess the data (Clean, Integrate, and Transform).",
+      "Determine proper algorithm(s) and discovery model(s) & technologies.",
+      "Decide on up-to-date software packages to execute specified algorithms/ techniques.",
+      "Executive & and Discover: patterns, dependencies that will enable predictions; extract Nuggets of knowledge; make intelligent Scientific, business, and operation decisions.",
+      "Present and document results.",
+      "Input the extracted knowledge to the next iterative steps.",
+      "Demonstrate that your skilled as being a Data Scientist capable of executing an end to end Data Analytics and Machine Learning Project."
+    ],
+    "learning_outcomes_count": 10,
+    "prerequisites": [
+      "Student is expected to be familiar with calculus, elementary probability & statistics."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

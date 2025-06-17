@@ -1,0 +1,163 @@
+{
+  "textbooks": [
+    {
+      "title": "A Manual for Writers of Research Papers, Theses, and Dissertations",
+      "author": "Kate L. Turabian",
+      "edition": "7th Edition",
+      "ISBN": "02268233772"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Identifying a problem", "Literature reading"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Literature review reporting"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Literature review reporting", "Start writing final report"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Abstract, Schematics, and Literature Review"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["4 week mark"]
+    },
+    "week5": {
+      "topics": ["Phase One Presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["5 week mark"]
+    },
+    "week6": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Phase Two Presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["9 week mark"]
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Oral Presentation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["During Finals week"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "15% (Phase One Presentations), 15% (Phase Two Presentations)",
+      "exams": "",
+      "projects": "30% (Written Report)",
+      "quizzes": "",
+      "final": "20% (Oral Presentation)"
+    },
+    "scale": "",
+    "policies": "Late submissions will strictly not be accepted without prior notice and permission of the instructor."
+  },
+  "assignments": [
+    {
+      "description": "Abstract, Schematics, and Literature Review",
+      "due_date": "4 week mark"
+    },
+    {
+      "description": "Phase One Presentations",
+      "due_date": "5 week mark"
+    },
+    {
+      "description": "Phase Two Presentations",
+      "due_date": "9 week mark"
+    },
+    {
+      "description": "Oral Presentation",
+      "due_date": "During Finals week"
+    },
+    {
+      "description": "Written Report",
+      "due_date": "During finals week"
+    }
+  ],
+  "policies": {
+    "attendance": "Web section students are required to attend the class at the same time as on-campus students.",
+    "late_work": "Late submissions will strictly not be accepted without prior notice and permission of the instructor.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The course involves group projects and presentations.",
+    "technology_requirements": "Students must present via Zoom if unable to attend in person.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:10:37.670616",
+    "pdf_source": "../StevensCourses/Syllabus.FA800.Fall2023.pdf",
+    "source_type": "file",
+    "text_length": 13173,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Special Problems in Financial Analytics",
+      "code": "FA 800",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Ionut Florescu",
+        "email": "ifloresc@stevens.edu",
+        "office_hours": "Mondays 4-6pm and by appointment",
+        "contact_info": "(201) 216-5452"
+      }
+    },
+    "course_description": "This course is designed for students undertaking a research or analytical project either individually or as a group.",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

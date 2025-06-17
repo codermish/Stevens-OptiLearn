@@ -1,0 +1,113 @@
+{
+  "textbooks": [
+    {
+      "title": "Mathematical statistics and data analysis (with CD data sets)",
+      "author": "Rice, J. A.",
+      "edition": "3rd ed.",
+      "ISBN": "0-534-39942-8"
+    },
+    {
+      "title": "An introduction to statistical learning with applications in R",
+      "author": "James, G., Witten, D., Hastie, T., & Tibshirani, R.",
+      "edition": "1st ed. 2013, Corr. 7th printing 2017",
+      "ISBN": "978-1-4614-7137-0"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "25%",
+      "exams": "20%",
+      "projects": "20%",
+      "quizzes": "5%",
+      "final": "20%"
+    },
+    "scale": "A: 85%-100%, A-: 81%-84%, B+: 77%-80%, B: 73%-76%, B-: 69%-72%, C: 60%-68%, F: 0%-59%",
+    "policies": "20% of the total points (per day) will be deducted for homework assignments received 1-5 days late; assignments received more than 5 days late will receive 0 points. Late quiz submissions will not be accepted."
+  },
+  "assignments": [
+    {
+      "name": "Homework",
+      "description": "Assigned weekly and due the following Tuesday by 11:59 pm. Unlimited attempts allowed before due time. Scan and upload work as a PDF."
+    },
+    {
+      "name": "Quizzes",
+      "description": "Assigned weekly, 30 minutes long, due by 11:59 pm the following Monday. Two attempts allowed."
+    },
+    {
+      "name": "Midterm Exams",
+      "description": "Two midterm exams conducted on Canvas over two weekend days."
+    },
+    {
+      "name": "Course Project",
+      "description": "Group-based project applying major statistical methods to a real-life data set with a formal project report."
+    },
+    {
+      "name": "Final Exam",
+      "description": "Final exam in the form of a project presentation."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is mandatory for live sessions.",
+    "late_work": "20% of the total points (per day) will be deducted for homework assignments received 1-5 days late; assignments received more than 5 days late will receive 0 points. Late quiz submissions will not be accepted.",
+    "academic_integrity": "Students must adhere to the Stevens Honor System and submit work with the pledge: 'I pledge my honor that I have abided by the Stevens Honor System.'",
+    "accommodations": "Stevens Institute of Technology provides accommodations for students with documented disabilities through the Office of Disability Services."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom. Required equipment includes a current Mac or PC with high-speed internet, webcam, and microphone. Required software includes Microsoft Word, Excel, and PowerPoint.",
+    "support_resources": "For course access or support, contact the Technology Resource and Assistance Center (TRAC) at 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:15:49.083848",
+    "pdf_source": "../StevensCourses/Syllabus_MA 541-WN (Fall 2024).pdf",
+    "source_type": "file",
+    "text_length": 17764,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Statistical Methods",
+      "code": "MA 541",
+      "credits": "3",
+      "semester": "FALL",
+      "year": "2024",
+      "instructor": {
+        "name": "Hong Do",
+        "email": "hdo1@stevens.edu",
+        "office_hours": "Wednesdays, 5:30-6:30 pm and 8:30 - 9:30 pm EST",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course offers an introduction to exploratory data analysis and the use of basic statistical tools.",
+    "learning_outcomes": [
+      "Apply basic and classical statistical concepts, theories, methodologies, inferences, and models that are important in data science and machine learning.",
+      "Demonstrate the complete data analyzing process commonly employed in academia and industry.",
+      "Apply the required statistical skills to each stage of the data analysis procedure, including mathematical transformation of the scientific statement, data collection, data description, data preprocessing, model selection, output interpretation, conclusions, and decision-making.",
+      "Compare the similarities and differences among various statistical models, estimation, and prediction methods as well as commonly used and advanced approaches to data analysis.",
+      "Choose the appropriate statistical tools to understand and explore different types of data arising from engineering and sciences.",
+      "Evaluate assumptions and restrictions made on classical statistical methodologies, and understand the importance of developing new technologies in machine learning and data science."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "MA 540"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "textbooks": [
+    {
+      "title": "Mining of Massive Datasets",
+      "author": "Jure Leskovec, Anand Rajaraman, Jeff Ullman",
+      "edition": "",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Course Introduction",
+        "Introductions",
+        "Introduction to Big Data",
+        "The four V’s",
+        "Examples of Big Data in different industries",
+        "Case Study: Dow Chemical and Big Data"
+      ],
+      "readings": [
+        "Syllabus",
+        "Lee, I. (2017). Big data: dimensions, evolution, impacts, and challenges. Business Horizons, 60(3), 293–303. https://doi.org/10.1016/j.bushor.2017.01.004",
+        "Cheikh-Ammar, M., Haggerty, N. R. D., Meister, D., & Chandrasekhar, R. (2017). Dow Chemical Co.: Big data in manufacturing. Ivey Publishing."
+      ],
+      "assignments": [
+        "Interactive Video",
+        "Homework 1",
+        "Live Session Participation"
+      ],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "What is Big Data Strategy",
+        "Developing Big Data Strategies"
+      ],
+      "readings": [
+        "DalleMule, L., & Davenport, T. H. (2017). What's your data strategy? Harvard Business Review 95(3), 112–121. https://stevens.on.worldcat.org/oclc/7038901012",
+        "Hagiu, A., & Wright, J. (2020). When data creates competitive advantage...and when it doesn't. Harvard Business Review, 98(1), 94–101."
+      ],
+      "assignments": [
+        "Interactive Video",
+        "Homework 2",
+        "Live Session Participation"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "What is IT Governance",
+        "Risks associated with data governance",
+        "Case Study IT Governance at Oxford Industries"
+      ],
+      "readings": [
+        "Uppaluru, M. (2018). The U.S. Needs a New Paradigm for Data Governance. Harvard Business Review Digital Articles, 2–5.",
+        "Selig, G. J. (2016). IT governance-an integrated framework and roadmap: how to plan, deploy and sustain for improved effectiveness. Journal of International Technology and Information Management, 25(1), 55–76.",
+        "Parent, M., & Reich, B. H. (2009). Governing information technology risk. California Management Review, 51(3). 134–152. https://doi.org/10.2307/41166497",
+        "Khatri, V., & Brown, C. V. (2010). Designing data governance. Communications of the ACM, 53(1), 148–152. https://doi.org/10.1145/1629175.1629210",
+        "Davenport, T. H., & Patil, D. J. (2012). Data scientist: the sexiest job of the 21st century. Harvard Business Review, 90(10), 70–76."
+      ],
+      "assignments": [
+        "Interactive Video",
+        "Homework 3",
+        "Live Session Participation"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "What is data mining",
+        "Applications of Data Mining with Big Data",
+        "Case study: Champo Carpets"
+      ],
+      "readings": [],
+      "assignments": [
+        "Interactive Video",
+        "Homework 4",
+        "Live Session Participation"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "What is Machine Learning",
+        "Combining Machine Learning with Big Data",
+        "ROI of Big Data",
+        "Case Study: Big Basket"
+      ],
+      "readings": [
+        "Chapter 4 Sharda, R., Delen, D., & Turban, E. (2021). Analytics, data science, & artificial intelligence: Systems for decision support (11th edition, Global). Pearson Education Limited",
+        "Chapter 1 White, T. (2015). Hadoop: the definitive guide (4th ed.). O'Reilly Media.",
+        "Chapter 2 White, T. (2015). Hadoop: the definitive guide (4th ed.). O'Reilly Media."
+      ],
+      "assignments": [
+        "Interactive Video",
+        "Homework 5",
+        "Live Session Participation"
+      ],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "What is deep learning",
+        "Applications of Deep learning and Big Data",
+        "Case Study: Allianz: Improving P&L through Machine Learning"
+      ],
+      "readings": [],
+      "assignments": [
+        "Interactive Video",
+        "Homework 6",
+        "Live Session Participation"
+      ],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Text Analytics and Big Data Application",
+        "Social Analytics and Big Data",
+        "Case Study Evisort",
+        "Hadoop Mapreduce, Sparc",
+        "Start the project",
+        "Cloud computing",
+        "Stream Analytics",
+        "Case Study ShotSpotter",
+        "Applications of Robots in Various industries",
+        "Case study The YES",
+        "Recommendations Systems & Big Data",
+        "Case study: Bigbasket",
+        "IOT and Big Data Case Study"
+      ],
+      "readings": [
+        "Chapter 7, 9, 10, 12, 13 Sharda, R., Delen, D., & Turban, E. (2021). Analytics, data science, & artificial intelligence: Systems for decision support (11th edition, Global). Pearson Education Limited."
+      ],
+      "assignments": [
+        "Interactive Video",
+        "Homework 7",
+        "Live Session Participation",
+        "Homework 8",
+        "Live Session Participation",
+        "Homework 9",
+        "Live Session Participation",
+        "Homework 10",
+        "Live Session Participation",
+        "Homework 11",
+        "Live Session Participation",
+        "Homework 12",
+        "Live Session Participation",
+        "Homework 13",
+        "Course Project",
+        "Final Exam",
+        "Live Session Participation"
+      ],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "40%",
+      "exams": "",
+      "projects": "40%",
+      "quizzes": "10%",
+      "final": ""
+    },
+    "scale": "A >92; A- 92~90; B+ 89~85; B 84~80; B- 79~75; C+ 74~70; C 69~65; C- 64~60; F<60",
+    "policies": "Late homework submissions or final project submissions will be subject to a 20% deduction."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late homework submissions or final project submissions will be subject to a 20% deduction.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Baseline technical skills necessary for online courses include basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, and recording, editing, and uploading video via Kaltura. Required equipment includes a current Mac or PC with high-speed internet, a webcam, and a microphone. Required software includes Microsoft Word, Excel, and PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:34:24.406074",
+    "pdf_source": "../StevensCourses\\BIA 678 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 24276,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "BIA 678 Big Data Technologies",
+      "code": "BIA 678",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Dr. Alkis Vazacopoulos",
+        "email": "avazacop@stevens.edu",
+        "office_hours": "See course homepage for dates & times",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The field of Big Data is emerging as one of the transformative business processes of recent times. It utilizes classic techniques from Business Intelligence & Analysis, along with new tools and processes to deal with the volume, velocity, and variety associated with big data.",
+    "learning_outcomes": [
+      "Determine the characteristics of Big Data and their dimensions of scalability",
+      "Assess opportunities for Big Data to construct a strategy and show its value to the enterprise",
+      "Develop a Data Governance methodology to assess the risk of data strategies",
+      "Construct actionable business decisions by combining Big Data with Business Intelligence, Data Science, Machine Learning, and Artificial Intelligence (AI) technologies",
+      "Develop models by combining Big Data with text mining association rules and recommenders systems",
+      "Assess opportunities for developing Big Data technologies using Sparc and other similar technologies",
+      "Assess risk in the enterprise and the society by the ethical issues of AI and Big Data technologies",
+      "Assess the speed of development of internet of things, robotic applications when combined with Big Data technologies"
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

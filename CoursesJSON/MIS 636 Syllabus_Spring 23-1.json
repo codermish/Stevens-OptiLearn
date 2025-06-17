@@ -1,0 +1,203 @@
+{
+  "textbooks": [
+    {
+      "title": "Business Intelligence, Analytics, and Data Science: A Managerial Perspective",
+      "author": "Sharda, R., Delen, D., Turban, E.",
+      "edition": "Fourth",
+      "ISBN": "978-0-13-463328-2"
+    },
+    {
+      "title": "Business Intelligence Guidebook: From Data Integration to Analytics",
+      "author": "Sherman, R.",
+      "edition": "First",
+      "ISBN": "978-0-12-411461-6"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Business Intelligence and Data-Driven Decision-Making"],
+      "readings": ["Sharda, Chapters 1-2", "Sherman, Chapter 1"],
+      "assignments": ["Quiz due", "Software installation: Erwin, MongoDB, Alteryx, Tableau"],
+      "due_dates": ["TBA"]
+    },
+    "week2": {
+      "topics": ["Databases and Data Modeling"],
+      "readings": ["Sherman, Chapters 7-8"],
+      "assignments": ["Quiz due", "Entity Relationship Data Model assignment due"],
+      "due_dates": ["TBA"]
+    },
+    "week3": {
+      "topics": ["Data Warehousing -- Business and Technical Needs"],
+      "readings": ["Sharda, Chapter 3", "Sherman, Chapters 2-3"],
+      "assignments": ["Quiz due", "Team Case Study assignment due"],
+      "due_dates": ["TBA"]
+    },
+    "week4": {
+      "topics": ["Data Warehousing -- Technical Architecture"],
+      "readings": ["Sherman, Chapters 4-7"],
+      "assignments": ["Quiz due", "Scenario Analysis on Evaluating BI Tools assignment due"],
+      "due_dates": ["TBA"]
+    },
+    "week5": {
+      "topics": ["Dimensional Modeling"],
+      "readings": ["Sherman, Chapters 9-10"],
+      "assignments": ["Quiz due", "Simple and Advanced Star Schemas assignment due"],
+      "due_dates": ["TBA"]
+    },
+    "week6": {
+      "topics": ["Application of Data Modeling"],
+      "readings": ["Sherman, Chapter 10"],
+      "assignments": ["Quiz due", "Complex Star Schema assignment due"],
+      "due_dates": ["TBA"]
+    },
+    "week7": {
+      "topics": ["Data Staging and Extract, Transform, and Load (ETL)"],
+      "readings": ["Sherman, Chapter 12"],
+      "assignments": ["Quiz due", "Transforming and Cleaning Data (Alteryx) assignment due"],
+      "due_dates": ["TBA"]
+    },
+    "week8": {
+      "topics": ["Data Integration"],
+      "readings": ["Sherman, Chapter 11"],
+      "assignments": ["Quiz due", "Mongo Database assignment due", "Team Final Project Data Model (Part I of II) due"],
+      "due_dates": ["TBA"]
+    },
+    "week9": {
+      "topics": ["Business Intelligence Applications"],
+      "readings": ["Sherman, Chapters 13-14"],
+      "assignments": ["Quiz due", "User Task Analysis assignment due"],
+      "due_dates": ["TBA"]
+    },
+    "week10": {
+      "topics": ["Visual Analytics"],
+      "readings": ["None"],
+      "assignments": ["Dashboard Design and Implementation Using Tableau assignment due"],
+      "due_dates": ["TBA"]
+    },
+    "week11": {
+      "topics": ["Big Data and Analytics"],
+      "readings": ["Sharda, Chapter 7"],
+      "assignments": ["Work on Team Final Project"],
+      "due_dates": ["TBA"]
+    },
+    "week12": {
+      "topics": ["Business Analytics Trends and Directions"],
+      "readings": ["Sharda, Chapter 8"],
+      "assignments": ["Work on Team Final Project"],
+      "due_dates": ["TBA"]
+    },
+    "week13": {
+      "topics": ["Team Presentations"],
+      "readings": ["None"],
+      "assignments": ["Team Final Project (Part II of II) - Business Intelligence"],
+      "due_dates": ["TBA"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "",
+      "projects": "40% (20% Data Model, 20% final)",
+      "quizzes": "20%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late work will be accepted with a deduction of 10% after one week."
+  },
+  "assignments": [
+    {
+      "name": "Entity Relationship Data Model assignment",
+      "description": "Due in Week 2"
+    },
+    {
+      "name": "Team Case Study assignment",
+      "description": "Due in Week 3"
+    },
+    {
+      "name": "Scenario Analysis on Evaluating BI Tools assignment",
+      "description": "Due in Week 4"
+    },
+    {
+      "name": "Simple and Advanced Star Schemas assignment",
+      "description": "Due in Week 5"
+    },
+    {
+      "name": "Complex Star Schema assignment",
+      "description": "Due in Week 6"
+    },
+    {
+      "name": "Transforming and Cleaning Data (Alteryx) assignment",
+      "description": "Due in Week 7"
+    },
+    {
+      "name": "Mongo Database assignment",
+      "description": "Due in Week 8"
+    },
+    {
+      "name": "User Task Analysis assignment",
+      "description": "Due in Week 9"
+    },
+    {
+      "name": "Dashboard Design and Implementation Using Tableau assignment",
+      "description": "Due in Week 10"
+    },
+    {
+      "name": "Team Final Project Data Model (Part I of II)",
+      "description": "Due in Week 8"
+    },
+    {
+      "name": "Team Final Project (Part II of II) - Business Intelligence",
+      "description": "Due in Week 13"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is mandatory for live sessions.",
+    "late_work": "Late work will be accepted with a deduction of 10% after one week.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The course is structured in a modular fashion, providing a foundation in data modeling, data warehousing, and data integration.",
+    "technology_requirements": "Zoom, Kaltura for videos, Software (ERwin, Alteryx, MongoDB, Tableau)",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:42:04.900166",
+    "pdf_source": "../StevensCourses/MIS 636 Syllabus_Spring 23-1.pdf",
+    "source_type": "file",
+    "text_length": 17334,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Integration for Business Intelligence",
+      "code": "MIS 636",
+      "credits": "3.0",
+      "semester": "Spring",
+      "year": "2023",
+      "instructor": {
+        "name": "Chris Asakiewicz, PhD",
+        "email": "casakiew@stevens.edu",
+        "office_hours": "Available by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will focus on the design, management, and use of data warehouse (DW) and business intelligence (BI) systems.",
+    "learning_outcomes": [
+      "Perform the functions of a data architect in industry as evidenced through lab assignments and the final project.",
+      "Assess business information needs and apply appropriate data-oriented technology solutions.",
+      "Design a business intelligence system.",
+      "Apply the data warehouse life cycle in the development of a business intelligence system.",
+      "Develop conceptual data models.",
+      "Leverage commercial tools (Erwin, MongoDB, and Alteryx) for business intelligence and data integration.",
+      "Build dashboards and visualizations for business intelligence."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [
+      "Students must satisfy the requirements for enrollment in either the BI&A or MIS master’s degree programs."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

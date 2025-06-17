@@ -1,0 +1,198 @@
+{
+  "textbooks": [
+    {
+      "title": "Good Services. How to design Services that work",
+      "author": "Lou Downe",
+      "edition": "2020",
+      "ISBN": "978 90 6369 543 9"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Service Innovation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Designing Transformational Experiences"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Jan 25, 2023 by 8am"]
+    },
+    "week3": {
+      "topics": ["Case #1: Commerce Bank"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Feb 1, 2023 by 5:30pm"]
+    },
+    "week4": {
+      "topics": ["Case #2: Progressive Insurance"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Feb 8, 2023 by 5:30pm"]
+    },
+    "week5": {
+      "topics": ["Case #3: IDEO"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Feb 15, 2023 by 5:30pm"]
+    },
+    "week6": {
+      "topics": ["Case #4: Zipcar"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Feb 22, 2023 by 5:30pm"]
+    },
+    "week7": {
+      "topics": ["Case #5: Southwest Airlines"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Mar 1, 2023 by 5:30pm"]
+    },
+    "week8": {
+      "topics": ["Case #6: Commonwealth Bank"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Mar 8, 2023 by 5:30pm"]
+    },
+    "week9": {
+      "topics": ["Spring Break"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Final Project Milestone: Executive Summary"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Mar 22, 2023 by 8:30am"]
+    },
+    "week11": {
+      "topics": ["Case #7: The Dabbawalla System"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Mar 29, 2023 by 5:30pm"]
+    },
+    "week12": {
+      "topics": ["Case #8: Babcom"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Apr 5, 2023 by 5:30pm"]
+    },
+    "week13": {
+      "topics": ["Final Project: Service Design"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Wed Apr 26, 2023 by 5:30pm"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "50%",
+      "assignments": "20%",
+      "exams": "0%",
+      "projects": "30%",
+      "quizzes": "0%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late submissions will be penalized at a rate of 0.05% per minute."
+  },
+  "assignments": [
+    {
+      "description": "Designing Transformational Experiences",
+      "due_date": "Wed Jan 25, 2023 by 8am"
+    },
+    {
+      "description": "Case #1: Commerce Bank",
+      "due_date": "Wed Feb 1, 2023 by 5:30pm"
+    },
+    {
+      "description": "Case #2: Progressive Insurance",
+      "due_date": "Wed Feb 8, 2023 by 5:30pm"
+    },
+    {
+      "description": "Case #3: IDEO",
+      "due_date": "Wed Feb 15, 2023 by 5:30pm"
+    },
+    {
+      "description": "Case #4: Zipcar",
+      "due_date": "Wed Feb 22, 2023 by 5:30pm"
+    },
+    {
+      "description": "Case #5: Southwest Airlines",
+      "due_date": "Wed Mar 1, 2023 by 5:30pm"
+    },
+    {
+      "description": "Case #6: Commonwealth Bank",
+      "due_date": "Wed Mar 8, 2023 by 5:30pm"
+    },
+    {
+      "description": "Final Project Milestone: Executive Summary",
+      "due_date": "Wed Mar 22, 2023 by 8:30am"
+    },
+    {
+      "description": "Case #7: The Dabbawalla System",
+      "due_date": "Wed Mar 29, 2023 by 5:30pm"
+    },
+    {
+      "description": "Case #8: Babcom",
+      "due_date": "Wed Apr 5, 2023 by 5:30pm"
+    },
+    {
+      "description": "Final Project: Service Design",
+      "due_date": "Wed Apr 26, 2023 by 5:30pm"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is required for live discussions of case studies.",
+    "late_work": "Late submissions will be penalized at a rate of 0.05% per minute.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    "First Day of Course: January 18, 2023",
+    "Last Day of Course: April 26, 2023"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online and taught in a live online format.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live video conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) at 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:00:37.005655",
+    "pdf_source": "../StevensCourses/Syllabus for 2023S MIS 714-WZ.pdf",
+    "source_type": "file",
+    "text_length": 16522,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Service Innovation",
+      "code": "MIS 714",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2023",
+      "instructor": {
+        "name": "Prof. Michael zur Muehlen",
+        "email": "",
+        "office_hours": "",
+        "contact_info": "Via Canvas email"
+      }
+    },
+    "course_description": "This course leads students through the identification, analysis, definition, and deployment of service opportunities within public and private organizations.",
+    "learning_outcomes": [
+      "Understand the principles of good service design",
+      "Understand the concept of Customer Variability",
+      "Document the processes, rules, customer journey, and case management aspects of a service",
+      "Develop a Customer Journey Map across multiple related service tasks",
+      "Evaluate the quality of a given service offering",
+      "Develop a plan to improve a service offering",
+      "Design a new service offering from scratch"
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

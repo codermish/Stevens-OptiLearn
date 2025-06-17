@@ -1,0 +1,158 @@
+{
+  "textbooks": [
+    {
+      "title": "The Engineering Design of Systems: Models and Methods",
+      "author": "Buede, D. M., Miller W.D.",
+      "edition": "3rd Edition"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction and course overview"],
+      "readings": [],
+      "assignments": ["Complete ATM Guided Tour"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction and Strategic Role of Architecture"],
+      "readings": ["Ch. 2, 3"],
+      "assignments": ["Develop two new ATM sequence diagrams; update the requirements ORD."],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Functional Architecture Design"],
+      "readings": ["Ch. 7"],
+      "assignments": ["Update the architecture model for the new required inputs and outputs."],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Functional Architecture Tradeoffs"],
+      "readings": ["Ch. 7"],
+      "assignments": ["Develop the first level functional architecture."],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Tracing the Functional Architecture"],
+      "readings": ["Ch. 7"],
+      "assignments": ["Provide Team Assessment", "Create internal expanded sequence diagrams and trace through the team's first level functional architecture; provide detail on analysis and mismatches."],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Physical and Interface Architectures"],
+      "readings": ["Ch. 8, 10"],
+      "assignments": ["Develop top and first level physical architectures."],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Completing the System Model"],
+      "readings": ["Ch. 9"],
+      "assignments": ["Decompose most complex first level function and physical component down to the 2nd level."],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Architecture Assessment and Design Factors"],
+      "readings": ["Ch. 13"],
+      "assignments": ["Provide a risk assessment for the architecture."],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Preliminary Design Review (PDR), Team project part 1"],
+      "readings": [],
+      "assignments": ["Post PDR Presentation slides and team architecture model."],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Preliminary Design Review (PDR), Team part 2"],
+      "readings": [],
+      "assignments": ["Provide Team Assessment", "Post PDR Presentation recording, any updates to PDR slides, and team architecture model."],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Functional Modeling Simulator Report"],
+      "readings": ["Ch. 12, 9.5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Sys, SW, and Architecture Frameworks"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Wrap-up and Final Assignment"],
+      "readings": [],
+      "assignments": ["Complete 2nd level functional and physical architectures and extend architectures to 3rd level for one function; Course evaluation"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "20%",
+      "exams": "",
+      "projects": "30%",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "A: 930-1000, A-: 900-929, B+: 870-899, B: 830-869, B-: 800-829, C+: 770-799, C: 730-769, C-: 700-729, F: 699 or less",
+    "policies": "Late assignment submissions will not be graded, except with prior arrangements made with the instructor in writing."
+  },
+  "assignments": [
+    {
+      "description": "Guided tour of the architecture modeling tool"
+    },
+    {
+      "description": "Functional modeling and simulation for assessing system performance"
+    },
+    {
+      "description": "Final individual assignment to demonstrate mastery of course content"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late assignment submissions will not be graded, except with prior arrangements made with the instructor in writing.",
+    "academic_integrity": "Students must uphold the ideals set forth in the Honor System Constitution.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The course is divided into thirteen modules that are typically scheduled for completion over the same number of weeks.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:25:12.359129",
+    "pdf_source": "../StevensCourses\\SYS650 Syllabus Spring 2024 v2.pdf",
+    "source_type": "file",
+    "text_length": 28471,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "System Architecture and Design",
+      "code": "SYS-650",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Antonios Kotoulas",
+        "email": "akotoula1@Stevens.edu",
+        "office_hours": "Monday evenings from 7:00-8:00 pm EST",
+        "contact_info": "phone: 862.812.3540"
+      }
+    },
+    "course_description": "System Architecture and Design describes the fundamentals of system architectures and the architecting process, including practical heuristics for developing good architectures.",
+    "learning_outcomes": [
+      "Understand the link between the functional and physical system architectures and the iterative nature of architecture development.",
+      "Apply a process for flowing down or allocating system level requirements to components level requirements through equivalence, apportionment, synthesis and other methods.",
+      "Apply the experience gained through the use of a systems engineering based tool that supports systems engineering requirements, architecture and modeling processes.",
+      "Develop an architecture applying the methods learned in the course."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "SYS625 Fundamentals of Systems Engineering"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

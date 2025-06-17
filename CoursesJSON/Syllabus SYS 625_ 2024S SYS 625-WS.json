@@ -1,0 +1,98 @@
+{
+  "textbooks": [
+    {
+      "title": "Applied Space Systems Engineering",
+      "authors": ["Wiley Larson", "Doug Kilpatrick", "et al"],
+      "edition": "Learning Solutions, 2009"
+    },
+    {
+      "title": "The Innovator’s Dilemma",
+      "authors": ["Clayton M. Christensen"],
+      "edition": "Harvard Business Review, reprint Jan 5, 2016 edition only"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "30-40%",
+      "assignments": "20-30%",
+      "exams": "",
+      "projects": "30-40%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 93-100%, A-: 90-92%, B+: 87-89%, B: 83-86%, B-: 80-82%, C+: 77-79%, C: 73-76%, C-: 70-72%, F: <70",
+    "policies": "Assignments and papers must be submitted on time; late submissions require prior approval."
+  },
+  "assignments": [
+    {
+      "description": "Individual term paper(s), weekly team assignments, quizzes"
+    },
+    {
+      "description": "Team project/presentation"
+    },
+    {
+      "description": "Self and peer assessments of team contributions"
+    }
+  ],
+  "policies": {
+    "attendance": "Students are required to participate in online discussions each week.",
+    "late_work": "Prior approval must be received for late assignments, which may affect earned points.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive appropriate accommodations."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Weekly lectures, supplemental readings, quizzes, online discussions, team assignments, final team project.",
+    "technology_requirements": "Working external microphone and headset, current Mac or PC with high-speed internet, webcam, Microsoft Office.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) for mental health support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:08:39.455009",
+    "pdf_source": "../StevensCourses/Syllabus SYS 625_ 2024S SYS 625-WS.pdf",
+    "source_type": "file",
+    "text_length": 18037,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Fundamentals of Systems Engineering",
+      "code": "SYS 625",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The course introduces students to the principles and processes of systems engineering.",
+    "learning_outcomes": [
+      "Understand the need for good systems engineering up front and throughout the life cycle of the system.",
+      "Review and evaluate the various systems engineering models in use today.",
+      "Differentiate between the operational need and the system solution to be implemented.",
+      "Select from a wide range of system concepts as the first step in system design.",
+      "Derive quantitative system requirements that best meet the functions and performance requirements of the system.",
+      "Adopt a systems perspective when making decisions that affect performance or total ownership cost of the system."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

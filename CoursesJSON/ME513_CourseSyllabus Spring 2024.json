@@ -1,0 +1,172 @@
+{
+  "textbooks": [
+    {
+      "title": "Introduction to Nuclear Engineering",
+      "author": "J.R. Lamarsch and A.J. Baratta",
+      "edition": "4th Edition",
+      "isbn": "0134570057"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Nuclear Engineering"],
+      "readings": ["Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Atomic and Nuclear Physics"],
+      "readings": ["Chapter 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Atomic and Nuclear Physics"],
+      "readings": ["Chapter 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Interaction of Radiation with Matter"],
+      "readings": ["Chapter 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Interaction of Radiation with Matter"],
+      "readings": ["Chapter 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Nuclear Reactors and Nuclear Power"],
+      "readings": ["Chapter 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Heat Removal from Nuclear Reactors"],
+      "readings": ["Chapter 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Heat Removal from Nuclear Reactors"],
+      "readings": ["Chapter 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Mid-Term Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Radiation Protection and Shielding"],
+      "readings": ["Chapters 9 & 10"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Reactor Licensing, Safety, and the Environment"],
+      "readings": ["Chapter 11"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Reactor Licensing, Safety, and the Environment"],
+      "readings": ["Chapter 11"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Special Topics: Regulations, Waste management"],
+      "readings": ["Handouts"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "35%",
+      "exams": "30%",
+      "projects": "35%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Homework assigned weekly. No late submission will be accepted."
+    },
+    {
+      "description": "Semester Project - apply methods and concepts learned in the course."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late submission will be accepted.",
+    "academic_integrity": "Students must uphold the Stevens Honor System.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Project Statement Due",
+      "date": "February 11"
+    },
+    {
+      "event": "Progress Reports Due",
+      "date": "March 31"
+    },
+    {
+      "event": "Final Report Due",
+      "date": "May 5"
+    }
+  ],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:29:18.152113",
+    "pdf_source": "../StevensCourses\\ME513_CourseSyllabus Spring 2024.pdf",
+    "source_type": "file",
+    "text_length": 7578,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Nuclear Engineering",
+      "code": "ME 513WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "H. Hadim",
+        "email": "ahadim@stevens.edu",
+        "office_hours": "by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is designed to provide students with a broad perspective of nuclear engineering and an introduction to fundamentals and applications of nuclear science and technology.",
+    "learning_outcomes": [
+      "Demonstrate an understanding of the fundamental concepts and principles of nuclear engineering and its applications.",
+      "Demonstrate an introductory knowledge of current and future nuclear power systems.",
+      "Describe processes and applications that make use of the energy released from the nucleus, using both analytical and descriptive methods.",
+      "Demonstrate an understanding of nuclear reactions, nuclear radiation and nuclear reactor heat generation.",
+      "Demonstrate an understanding of neutron transport behavior.",
+      "Demonstrate an understanding of a nuclear steam supply system, nuclear safety and the nuclear fuel cycle.",
+      "Demonstrate an understanding of radiation protection and perform shielding calculations for simple reactor systems.",
+      "Demonstrate a general understanding of nuclear power plant systems, licensing, design, operation & maintenance, safety and security.",
+      "Perform a general design of a nuclear power plant including performance, economic, environmental, safety and reliability, and other considerations."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

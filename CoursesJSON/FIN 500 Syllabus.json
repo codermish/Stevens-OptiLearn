@@ -1,0 +1,172 @@
+{
+  "textbooks": [
+    {
+      "title": "Survey of Accounting",
+      "author": "Kimmel and Weygandt",
+      "edition": "Second Edition",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction and Course Overview"],
+      "readings": [],
+      "assignments": ["Student Introduction Due in class on LV"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to Financial Statements"],
+      "readings": ["Textbook Ch. 1", "Accounting in Action Article", "Guided Excel Example (Watch)", "Meta Q1 2023 Earnings Call (Listen)"],
+      "assignments": ["HW #1 via Canvas/WileyPlus", "Quiz #1 via Canvas"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week3": {
+      "topics": ["Financial Statements and Accounting Information Systems"],
+      "readings": ["Textbook Ch. 2", "Accounting in Action Article"],
+      "assignments": ["HW #2 via Canvas/WileyPlus", "Quiz #2 via Canvas"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week4": {
+      "topics": ["Accrual Accounting"],
+      "readings": ["Textbook Ch. 4", "Accounting in Action Article"],
+      "assignments": ["HW #3 via Canvas/WileyPlus", "Quiz #3 via Canvas"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week5": {
+      "topics": ["Fraud, Internal Controls, and Cash", "Inventory & Exam 1"],
+      "readings": ["Textbook Ch. 5", "Accounting in Action Article"],
+      "assignments": ["HW #4 via Canvas/WileyPlus", "Quiz #4 via Canvas", "Exam #1 (Chapters 1,2,4 & 5) due Sun (released Fri)"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week6": {
+      "topics": ["Receivables"],
+      "readings": ["Textbook Ch. 7 LO3", "Accounting in Action Article"],
+      "assignments": ["HW #6 via Canvas/WileyPlus", "Quiz #6 via Canvas"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week7": {
+      "topics": ["Long-Lived Assets"],
+      "readings": ["Textbook Ch. 8", "Accounting in Action Article"],
+      "assignments": ["HW #7 via Canvas/WileyPlus", "Quiz #7 via Canvas"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week8": {
+      "topics": ["Liabilities"],
+      "readings": ["Textbook Ch. 9 Pt. 1", "Accounting in Action Article"],
+      "assignments": ["HW #8 via Canvas/WileyPlus", "Quiz #8 via Canvas"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week9": {
+      "topics": ["Shareholder Equity, and Financial Statement Analysis"],
+      "readings": ["Textbook Ch. 9 Pt. 2 & 10", "Accounting in Action Article"],
+      "assignments": ["HW #9 via Canvas/WileyPlus", "Quiz #9 via Canvas"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week10": {
+      "topics": ["Overview of Managerial Accounting & Exam 2"],
+      "readings": ["Textbook Ch. 11", "Accounting in Action Article"],
+      "assignments": ["HW #10 via Canvas/WileyPlus", "Quiz #10 via Canvas", "Exam #2 (Chapters 6-10) due Sun (released Fri)"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week11": {
+      "topics": ["Break-Even Analysis"],
+      "readings": ["Textbook Ch. 12", "Accounting in Action Article"],
+      "assignments": ["HW #11 via Canvas/WileyPlus", "Quiz #11 via Canvas"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week12": {
+      "topics": ["Making Capital Investments"],
+      "readings": ["Textbook Ch. 18", "Accounting in Action Article"],
+      "assignments": ["HW #12 via Canvas/WileyPlus", "Quiz #12 via Canvas"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    },
+    "week13": {
+      "topics": ["Budgeting & Exam 3"],
+      "readings": ["Textbook Ch. 15", "Accounting in Action Article"],
+      "assignments": ["HW #13 via Canvas/WileyPlus", "Quiz #13 via Canvas", "Exam #3 (Chapters 11,12,13,15,18) due Sun (released Fri)"],
+      "due_dates": ["Due by 10:00 p.m. on the following Sunday"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "10%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Homework Assignments",
+      "description": "Weekly homework assignments for each module with questions selected from WileyPlus by the instructor."
+    },
+    {
+      "name": "Weekly Quizzes",
+      "description": "Short (4-5) question quizzes for each module that must be completed before the live session."
+    },
+    {
+      "name": "Exams",
+      "description": "Three 'Take Home' exams for this course, open-book and open-notes."
+    },
+    {
+      "name": "Discussion Boards",
+      "description": "Each team will control the board on a rotating basis, creating prompts and responding to classmates."
+    },
+    {
+      "name": "Poll Everywhere Check-in",
+      "description": "Students respond to a poll indicating the topics for the week that they feel need the most attention."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "All students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Exams will be released on the Friday Morning of Modules 5, 10, & 13 and will be due by Sunday at 10:00 p.m."
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom. Required equipment includes a computer with high-speed internet, a webcam, and a microphone. Required software includes Microsoft Word, Excel, and PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:19:22.626768",
+    "pdf_source": "../StevensCourses\\FIN 500 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 22496,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Financial and Managerial Accounting",
+      "code": "FIN-500",
+      "credits": "3",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Ryan Wynne",
+        "email": "rwynne@stevens.edu",
+        "office_hours": "Monday evenings from 7:00-8:00 pm EST",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will provide the student with the principles and techniques of financial and managerial accounting for technical organizations.",
+    "learning_outcomes": [
+      "Critically analyze financial statements, with a full appreciation of the inherent limitations of reported financial information.",
+      "Employ ratio and trend analyzes to evaluate the condition and performance of business entities.",
+      "Apply the concepts of present value analysis to valuing assets and making appropriate business decisions.",
+      "Create departmental/corporate budgets.",
+      "Generate and use financial data to make effective business decisions, including make/buy, capital investment, product introduction timing, etc.",
+      "Interpret cost accounting data to support operating decisions and cost reduction efforts."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

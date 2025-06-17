@@ -1,0 +1,282 @@
+{
+  "textbooks": [
+    {
+      "title": "Maintainability: A Key to Effective Serviceability and Maintenance Management",
+      "authors": [
+        "Benjamin S. Blanchard",
+        "Dinesh Verma",
+        "Elmer L. Peterson"
+      ]
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Introduction",
+        "Concepts and Definitions",
+        "What is R, M&S"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete the student profile"
+      ],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Early Influence – Requirements and Architecture",
+        "System RM&S Requirements"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "System Reliability Concepts"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "System Reliability Evaluation"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "System Reliability Measures"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "System Reliability Management"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week"
+      ],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Complex System Reliability"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week"
+      ],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "System Reliability Design Methods"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week"
+      ],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Design for System Maintainability"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week",
+        "Draft Term Paper Topic"
+      ],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "System Maintainability Measures"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week"
+      ],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Design for System Supportability"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Complete Exercise for week",
+        "Participate in discussion for week",
+        "Term paper Topic approval"
+      ],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Design for System RM&S for Software Intensive Systems"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Continue Term Paper",
+        "Participate in discussion for week"
+      ],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Commercial Off the Shelf (COTS) and Technology Refreshment",
+        "Course Review"
+      ],
+      "readings": [
+        "Textbook reading",
+        "Additional reading",
+        "Read Notes for week"
+      ],
+      "assignments": [
+        "Submit Term Paper",
+        "Participate in discussion for week",
+        "Complete Course Evaluation"
+      ],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "36 Points available",
+      "assignments": "30 Points available",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": "32 Points available"
+    },
+    "scale": "100 Maximum possible earned points",
+    "policies": "Assignments may be submitted to www.turnitin.com for originality evaluation."
+  },
+  "assignments": [
+    {
+      "description": "Specified reading"
+    },
+    {
+      "description": "On-line discussion"
+    },
+    {
+      "description": "Exercise"
+    },
+    {
+      "description": "Term Paper (due at end of class)"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The course will employ readings, lectures, discussions, individual assignments and an individual term paper.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:21:42.127782",
+    "pdf_source": "../StevensCourses\\SYS 645 Syllabus rev 2.pdf",
+    "source_type": "file",
+    "text_length": 5129,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "",
+      "code": "645",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Bill Robinson",
+        "email": "william.robinson@stevens.edu",
+        "office_hours": "",
+        "contact_info": "973-216-2177"
+      }
+    },
+    "course_description": "This course provides students with a disciplined approach for identifying opportunities to influence the design of a system from a reliability, maintainability, and supportability perspective.",
+    "learning_outcomes": [
+      "Understand and utilize the systems’ impact of reliability, maintainability and supportability."
+    ],
+    "learning_outcomes_count": 1,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "textbooks": [
+    {
+      "title": "Investment Banking: Valuation, LBOs, M&A, and IPOs",
+      "edition": "3rd Edition"
+    },
+    {
+      "title": "Wall Street Journal",
+      "edition": "daily"
+    },
+    {
+      "title": "Financial Times",
+      "edition": "daily"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Valuation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Valuation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Valuation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Leveraged Buyouts"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Leveraged Buyouts"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Leveraged Buyouts"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["No Class - Monday schedule"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Mid-term Exam", "FMA conference"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Mergers and Acquisitions"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Mergers and Acquisitions"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Mergers and Acquisitions"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Initial Public Offerings"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Initial Public Offerings"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "50%",
+      "projects": "20%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 94.0-100, A-: 90-93, B+: 87-89, B: 83-86, B-: 80-82, C+: 77-79, C: 73-76, C-: 70-72, D+: 67-69, D: 60-66, F: ≤ 60",
+    "policies": "Make-up exams are a privilege not a right and will be given at my discretion."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "Class attendance and participation is important.",
+    "late_work": "",
+    "academic_integrity": "Students must uphold the ideals set forth in the Honor System Constitution.",
+    "accommodations": "The Office of Disability Services works with students to provide appropriate accommodations."
+  },
+  "important_dates": [
+    "Sep 3 - First Day of Class",
+    "Oct 15 - No Class",
+    "Oct 22 - Mid-term Exam",
+    "Dec 10 - Final Exam"
+  ],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:20:46.103124",
+    "pdf_source": "../StevensCourses\\FIN 530 Wang_Syllabus_2024Fall.pdf",
+    "source_type": "file",
+    "text_length": 11196,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Investment Banking",
+      "code": "FIN 530",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr.Ye (Emma) Wang",
+        "email": "ywang15@stevens.edu",
+        "office_hours": "Friday 10:00-12:00 AM or By Appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The course provides an overview of Investment Banking from a transactional, regulatory and legal perspective.",
+    "learning_outcomes": [
+      "Capital Markets, Market Structure, Participants",
+      "Evolution of Financial Institutions - Commercial Banks, Investment Banks, Global Banks, Securities Firms/Broker-Dealers, Financial Intermediaries (Investment Companies). From the Glass-Steagall Act to the Dodd-Frank Regulatory Reform and the Capital Adequacy Tests (CCAR)",
+      "The Legal Structure of a Firm: Capital Structure, Capital Markets vs Bank Financing, IPOs, SPACs, Secondary Offerings",
+      "The Value of a Firm: Book Value, Market Value, Enterprise Value - Levered Equity, WACC, Discounted Cash Flows (DCF), Peer Valuation",
+      "Debt Financing, LBOs, CLOs, Mortgage Financing, MBS, REITs",
+      "M&A, Cross-Border Transactions, Taxes, CIFIUS transaction review and approvals"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

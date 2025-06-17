@@ -1,0 +1,220 @@
+{
+  "textbooks": [
+    {
+      "title": "Fundamentals of Business Process Management",
+      "author": "Dumas, M., La Rosa, M., Mendling, J. and Reijers, H.A.",
+      "edition": "2013"
+    },
+    {
+      "title": "The Process Edge: Creating Value Where It Counts",
+      "author": "Keen, Peter",
+      "edition": "1997"
+    },
+    {
+      "title": "Improving Performance: How to Manage the White Space on the Organization Chart",
+      "author": "Rummler, Geary A. and Alan P, Brache",
+      "edition": "Second Edition, 1995"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction", "What will you learn?", "Overview of the course"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Business Process, BPM, and Process Architecture", "What is a business process?", "Key components business process", "Business Process Life Cycle"],
+      "readings": ["zur Muehlen (2003)"],
+      "assignments": ["Individual Assignment #1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Organizational Effectiveness", "How do we determine organizational Effectiveness?", "Market-based Strategy", "Resource-based Strategy", "Balanced Scorecard", "Salience-Worth Matrix"],
+      "readings": ["Brynjolfsson & Hitt (1998)", "Portor (1981)", "Prahalad & Hamel (1990)", "Kaplan & Norton (2001)", "Keen (1997)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Organizational Efficiency", "How do we measure organizational efficiency?", "Data Envelopment Analysis", "Activity-based Costing", "Economic Value-added"],
+      "readings": ["Rummler & Brache Chapters 1-3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["A Framework for Organizational Change", "How do we plan organizational change?", "The Rummler-Brache Framework"],
+      "readings": ["Rummler & Brache Chapters 3-6"],
+      "assignments": [],
+      "due_dates": ["Optional Quiz #1"]
+    },
+    "week6": {
+      "topics": ["Introduction to Process Modeling (Part I)", "How do we map processes?", "Petri Net", "Event-driven Process Chain", "Modeling processes using the Business Process Modeling Notation"],
+      "readings": ["zur Muehlen & Ho (2008)"],
+      "assignments": ["Team Presentation #1"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Introduction to Process Modeling (Part II)", "How do we map processes?", "Business Process Modeling Notation: Extended Construct Set"],
+      "readings": ["Becker et al. (1999)", "zur Muehlen et al. (2007)", "Kim (1995)"],
+      "assignments": ["Individual Assignment #2"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["A Data View of Business Process", "What is a process-oriented information system?", "Workflow Reference Model"],
+      "readings": ["WfMC (1995)", "Malone, et al. (2008)"],
+      "assignments": ["Individual Assignment #3"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Process Performance Evaluation", "How do we measure process performance?", "Performance Measurements", "Process Simulation"],
+      "readings": ["Rummler & Brache Chapters 1-3"],
+      "assignments": ["Individual Assignment #4"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Performance Improvement Methodologies", "How do we identify process improvement opportunities?", "Total Quality Management", "Lean Manufacturing", "Six Sigma", "Value Focused Management", "Theory of Constraint"],
+      "readings": ["Goldratt (1992)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Process Improvement Principles I", "How do we redesign processes?", "Patterns for Process Improvement"],
+      "readings": ["Hammer (1993)", "Stoddard & Jarvenpaa (1995)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Process Improvement Principles II", "How do we redesign processes?", "More Patterns for Process Improvement"],
+      "readings": ["Reijers & Mansar (2005)", "Mansar & Reijers (2005)"],
+      "assignments": [],
+      "due_dates": ["Optional Quiz #2"]
+    },
+    "week13": {
+      "topics": ["Process Automation", "How do we support business processes with information technologies?", "WfMS/BPMS", "Web Services", "RPA, Chatbot, AI, IoT, Edge Computing"],
+      "readings": ["Georgakopoulos (1994)", "WfMC (1999)", "zur Muehlen (1999)", "Leymann, Roller (1997)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Process Mining", "What are the applications of data mining in BPM?", "(Celonis Tutorial)"],
+      "readings": [],
+      "assignments": ["Self-learning Assignment"],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Business Process Governance", "How do we build sustainable BPM initiatives?", "BPM Maturity Models", "BPM Centers of Excellence", "Organization Structure of BPM Efforts"],
+      "readings": ["Rosemann et al. (2007)"],
+      "assignments": ["Final Presentation"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "",
+      "projects": "60%",
+      "quizzes": "10%",
+      "final": ""
+    },
+    "scale": "A: 90-100%, A-: 90-94%, B+: 85-89%, B: 80-84%, B-: 75-79%, C+: 70-74%, C: 65-69%, C-: 60-64%, D: 50-59%, F: 0-49%",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "title": "Individual Assignment 1",
+      "description": "Business Process Discovery",
+      "points": 5
+    },
+    {
+      "title": "Individual Assignment 2",
+      "description": "Business Process Modeling",
+      "points": 5
+    },
+    {
+      "title": "Individual Assignment 3",
+      "description": "Process Data Modeling",
+      "points": 5
+    },
+    {
+      "title": "Individual Assignment 4",
+      "description": "Process Simulation",
+      "points": 5
+    },
+    {
+      "title": "Self-Learning Assignment",
+      "description": "Process Mining",
+      "points": 10
+    },
+    {
+      "title": "Group Project 1",
+      "description": "Process Selection",
+      "points": 15
+    },
+    {
+      "title": "Group Project 2",
+      "description": "Process Analysis",
+      "points": 15
+    },
+    {
+      "title": "Group Project 3",
+      "description": "Process Reengineering Proposal",
+      "points": 30
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late work will be penalized 10% per week overdue.",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral. Consequences of academic impropriety are severe.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "date": "9/3/2024",
+      "event": "Course Start"
+    },
+    {
+      "date": "12/13/2024",
+      "event": "Course End"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Lecture, Hands-on exercise, Individual assignment, Quiz, Group project",
+    "technology_requirements": "Signavio BPM Modeler, BIMP, Celonis",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:24:16.522462",
+    "pdf_source": "../StevensCourses\\2024-Fall-MIS 710-Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 16879,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Process Innovation and Management",
+      "code": "MIS 710",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Ting Yi (Danny) Ho",
+        "email": "ting.ho@stevens.edu",
+        "office_hours": "By appointment",
+        "contact_info": "+1.201.216.8322"
+      }
+    },
+    "course_description": "The focus of this course is on business transformation and the role of information technology (IT) as both an enabler and a driver of change.",
+    "learning_outcomes": [
+      "Describe the relationship between business process and organizational strategy",
+      "Map business processes with process modeling languages",
+      "Conduct process assessment from different management perspectives",
+      "Identify improvement opportunities for business processes",
+      "Redesign business processes by applying process improvement principles",
+      "Evaluate BPM maturity"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "textbooks": [
+    {
+      "title": "Contemporary Engineering Economics",
+      "author": "Park, C.",
+      "edition": "6th edition",
+      "ISBN-13": "978-0134105598",
+      "ISBN-10": "0134105591"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Engineering Economics"],
+      "readings": ["Sections M1.B1 through M1.B3."],
+      "assignments": ["Intro M1.A7 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week2": {
+      "topics": ["Accounting and Financial Decision Making"],
+      "readings": ["Sections M2.A1 through M2.A3."],
+      "assignments": ["Homework M1.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week3": {
+      "topics": ["Interest Rate and Economic Equivalence"],
+      "readings": ["Sections M3.A1 through M3.A2."],
+      "assignments": ["Homework M2.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week4": {
+      "topics": ["Understanding Money and Its Management"],
+      "readings": ["Sections M4.A1 through M4.A3."],
+      "assignments": ["Homework M3.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week5": {
+      "topics": ["Present Worth Analysis"],
+      "readings": ["Sections M5.A1 through M5.A2."],
+      "assignments": ["Homework M4.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week6": {
+      "topics": ["Annual Equivalent-Worth Analysis"],
+      "readings": ["Sections M6.A1 through M6.A2."],
+      "assignments": ["Homework M5.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week7": {
+      "topics": ["Return of Rate Analysis"],
+      "readings": ["Sections M7.A1 through M7.A2."],
+      "assignments": ["Homework M6.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week8": {
+      "topics": ["Cost Concepts Relevant to Decision Making"],
+      "readings": ["Sections M8.A1 through M8.A2."],
+      "assignments": ["Homework M7.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week9": {
+      "topics": ["Depreciation and Corporate Taxes"],
+      "readings": ["Sections M9.A1 through M9.A2."],
+      "assignments": ["Homework M8.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week10": {
+      "topics": ["Developing Cash Flow Analysis"],
+      "readings": ["Sections M10.A1 through M10.A2."],
+      "assignments": ["Homework M9.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week11": {
+      "topics": ["Project Risk and Uncertainty"],
+      "readings": ["Sections M11.A1 through M11.A2."],
+      "assignments": ["Homework M10.D1 due via Canvas"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week12": {
+      "topics": ["Inflation and its Impact on Project Cash Flows"],
+      "readings": ["Sections M12.A1 through M12.A2."],
+      "assignments": ["Start work on team presentation M12.D2"],
+      "due_dates": ["11:59 pm Sunday"]
+    },
+    "week13": {
+      "topics": ["Economic Analysis in the Service Sector"],
+      "readings": ["Section M13.A1"],
+      "assignments": ["Homework M12.D1 due via canvas", "Team Presentation M12.D2 due via Canvas for live sync"],
+      "due_dates": ["11:59 pm Sunday"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "48%",
+      "exams": "",
+      "projects": "15%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "20% of the total points will be deducted for late assignments."
+  },
+  "assignments": [
+    {
+      "description": "Intro M1.A7 due via Canvas",
+      "due_date": "Week 1"
+    },
+    {
+      "description": "Homework M1.D1 due via Canvas",
+      "due_date": "Week 2"
+    },
+    {
+      "description": "Homework M2.D1 due via Canvas",
+      "due_date": "Week 3"
+    },
+    {
+      "description": "Homework M3.D1 due via Canvas",
+      "due_date": "Week 4"
+    },
+    {
+      "description": "Homework M4.D1 due via Canvas",
+      "due_date": "Week 5"
+    },
+    {
+      "description": "Homework M5.D1 due via Canvas",
+      "due_date": "Week 6"
+    },
+    {
+      "description": "Homework M6.D1 due via Canvas",
+      "due_date": "Week 7"
+    },
+    {
+      "description": "Homework M7.D1 due via Canvas",
+      "due_date": "Week 8"
+    },
+    {
+      "description": "Homework M8.D1 due via Canvas",
+      "due_date": "Week 9"
+    },
+    {
+      "description": "Homework M9.D1 due via Canvas",
+      "due_date": "Week 10"
+    },
+    {
+      "description": "Homework M10.D1 due via Canvas",
+      "due_date": "Week 11"
+    },
+    {
+      "description": "Homework M12.D1 due via canvas",
+      "due_date": "Week 13"
+    },
+    {
+      "description": "Team Presentation M12.D2 due via Canvas for live sync",
+      "due_date": "Week 13"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for late assignments.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, and access to Microsoft Excel and PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:05:55.489393",
+    "pdf_source": "../StevensCourses\\EM 600 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 17689,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Engineering Economics and Cost Analysis",
+      "code": "EM 600",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Chong Ee",
+        "email": "cee@stevens.edu",
+        "office_hours": "Wednesdays, 8:00 - 9:00 pm EST",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Engineering Economics and Cost Analysis is an integral part of the Engineering Management program because it is focused on applications of economics and finance in making effective engineering decisions.",
+    "learning_outcomes": [
+      "Discover the analysis of financial data, the concept of interest rates and time value of money.",
+      "Assess between alternative projects using a set of basic tools and techniques of engineering analysis, including the time value of money, internal rate of return and benefit cost ratio.",
+      "Examine advanced engineering economics topics like depreciation of assets, after tax cash flows and inflation.",
+      "Apply important decision-making tools like sensitivity analysis, risk analysis and simulation."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

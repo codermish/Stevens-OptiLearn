@@ -1,0 +1,278 @@
+{
+  "textbooks": [
+    {
+      "title": "Reinventing Project Management: The Diamond Approach to Successful Growth and Innovation",
+      "author": "Aaron Shenhar and Dov Dvir",
+      "edition": "",
+      "ISBN": "978-1-59139-800-4"
+    },
+    {
+      "title": "Project Management Case Studies",
+      "author": "Harold Kerzner",
+      "edition": "Paperback",
+      "ISBN": "0471751677"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Overview of Project Management"
+      ],
+      "readings": [
+        "Why Projects Fail?",
+        "Why Your Business Success Depends on Projects, Shenhar and Dvir, Reinventing Project Management, pg 3-19",
+        "Denver International Airport (DIA), PM case studies, Kerzner, pg 517",
+        "Hobday, Rush, Tidd (2000) Innovation in complex products and system. Research Policy 29:793-804 (optional)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "System Engineering and Bounding Project Scope"
+      ],
+      "readings": [
+        "What Makes a Project Successful? Shenhar and Dvir, Reinventing Project Management, pg 21-36",
+        "The Diamond Approach, Shenhar and Dvir, Reinventing Project Management, 37-59",
+        "Carr (2000) Requirements engineering and management: the key to designing quality complex systems. The TQM Magazine 12(6):400-407 (optional)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Work Breakdown Structure"
+      ],
+      "readings": [
+        "Technology - Shenhar and Dvir Reinventing Project Management pg 79-100",
+        "Review DIA Part 1 (WBS)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Organizing for PM Organizational Structures"
+      ],
+      "readings": [
+        "Complexity - Shenhar and Dvir, Reinventing Project Management pg 101-121",
+        "Hobday (2000) The project-based organization: an idea form for managing complex products and systems? Research Policy 29:871-893 (optional)"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "DIA Part 1 Due (Baggage handling system WBS)"
+      ]
+    },
+    "week5": {
+      "topics": [
+        "Developing the Schedule, Network Diagrams"
+      ],
+      "readings": [
+        "Pace – Shenhar/Dvir, Reinventing Project Management pg 123-135",
+        "Review Part 2 DIA - Logic Diagram and Gantt"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Estimating and Budgeting"
+      ],
+      "readings": [
+        "Managing Projects for Business Innovation Shenhar/Dvir, Reinventing Project Management, pg 139-160",
+        "Review Part 3 DIA- Effort and Time Cost"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "DIA Part 2 Due (Network Diagram)"
+      ]
+    },
+    "week7": {
+      "topics": [
+        "Decisions Framework"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": [
+        "DIA Part 3 Due (Effort & Time Estimates)"
+      ]
+    },
+    "week8": {
+      "topics": [
+        "Risk and Opportunity Management"
+      ],
+      "readings": [
+        "Appendix 4,5A & 5B of Shenhar and Dvir, Reinventing Project Management",
+        "Miller and Lessard (2001) Understanding and managing risk in large engineering projects. International Journal of Project Management19:437-443 (optional)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Contracting & Sub-contracting",
+        "Agile"
+      ],
+      "readings": [
+        "Reinventing Project Management for your organization - Shenhar and Dvir, Reinventing Project Management pg 205-213",
+        "Eriksson and Lillieskold (2002) Project Management Competence Requirements when procuring Complex Systems IEEE. (optional)"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "DIA Part 4 Due (Opportunity & Risk)"
+      ]
+    },
+    "week10": {
+      "topics": [
+        "Project Assessment and Control"
+      ],
+      "readings": [
+        "Managing Projects Within the Existing Organization, Shenhar and Dvir, Reinventing Project Management 161-187",
+        "Glass (1996) Chaos, Non-Linear System and Day to Day Management European Management Journal 14(1):98-106(optional)"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "Shea Stadium Project Due"
+      ]
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Final Presentations – Part 2"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "30%",
+      "exams": "",
+      "projects": "45%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 100–93, A-: 92.9 –90, B+: 89.9 –87, B: 86.9 –83, B-: 82.9 –80, C+: 79.9 –77, C: 76.9 –73, C-: 72.9 –70, F: 69.9 –0",
+    "policies": "20% of the total points will be deducted for late assignments."
+  },
+  "assignments": [
+    {
+      "name": "Denver International Baggage System Project Plan",
+      "description": "Part 1 (WBS)",
+      "due_date": "Week 04",
+      "weight": "5%"
+    },
+    {
+      "name": "Denver International Baggage System Project Plan",
+      "description": "Part 2 (Network Diagram)",
+      "due_date": "Week 06",
+      "weight": "5%"
+    },
+    {
+      "name": "Denver International Baggage System Project Plan",
+      "description": "Part 3 (Effort & Time Estimates)",
+      "due_date": "Week 07",
+      "weight": "5%"
+    },
+    {
+      "name": "Denver International Baggage System Project Plan",
+      "description": "Part 4 (Opportunity & Risk)",
+      "due_date": "Week 09",
+      "weight": "5%"
+    },
+    {
+      "name": "Team NCTP Case Study",
+      "description": "",
+      "due_date": "Week 13/14",
+      "weight": "25%"
+    },
+    {
+      "name": "Alaskan Pipeline Summary",
+      "description": "",
+      "due_date": "Week 03",
+      "weight": ""
+    },
+    {
+      "name": "Earned Value Assignment",
+      "description": "",
+      "due_date": "Week 10",
+      "weight": ""
+    },
+    {
+      "name": "Shea Stadium Project",
+      "description": "",
+      "due_date": "Week 11",
+      "weight": ""
+    },
+    {
+      "name": "Enron Case (Canvas Discussion)",
+      "description": "",
+      "due_date": "Week 13/14",
+      "weight": ""
+    },
+    {
+      "name": "Weekly Lecture Slide Annotations (Hypothesis Readings)",
+      "description": "",
+      "due_date": "Weekly",
+      "weight": "10%"
+    }
+  ],
+  "policies": {
+    "attendance": "Class attendance and various in-class activities will be factored into the class participation component of the final grade.",
+    "late_work": "20% of the total points will be deducted for late assignments.",
+    "academic_integrity": "A remote proctoring system called Proctorio may be used for the midterm, final, and selected quizzes.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is available in a conventional on-campus setting and in an online format.",
+    "technology_requirements": "MS Project is strongly recommended.",
+    "support_resources": "For information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:08:10.497356",
+    "pdf_source": "../StevensCourses\\EM 612 Project Management of Complex Systems - Fall 2024 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 32644,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "PROJECT MANAGEMENT OF COMPLEX SYSTEMS",
+      "code": "EM 612WN",
+      "credits": "3",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Robert Zotti, PhD",
+        "email": "rzotti@stevens.edu",
+        "office_hours": "Mondays 9AM-1PM EST",
+        "contact_info": "201-216-5231"
+      }
+    },
+    "course_description": "Project Management of Complex Systems is a project-based course that exposes students to tools and methodologies useful for the effective management of systems engineering and engineering management projects.",
+    "learning_outcomes": [
+      "Evaluate guidelines, principles, and tools of project management.",
+      "Analyze factors in creating a project organization, culture, and team.",
+      "Adapt quantitative techniques to project planning, risk, performance, and monitoring, including stakeholder management.",
+      "Differentiate between waterfall and agile development benefits and costs in specific environments involving both software and hardware development as well as top-down versus distributed management hierarchical control structures.",
+      "Examine interdependencies in the project management of complex systems versus those in less complex situations using an analytical framework."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

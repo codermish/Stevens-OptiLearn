@@ -1,0 +1,198 @@
+{
+  "textbooks": [
+    {
+      "title": "Pattern Recognition and Machine Learning",
+      "author": "Christopher M. Bishop",
+      "edition": "2006",
+      "ISBN": ""
+    },
+    {
+      "title": "Deep Learning",
+      "author": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville",
+      "edition": "2016",
+      "ISBN": ""
+    },
+    {
+      "title": "The Elements of Statistical Learning",
+      "author": "Trevor Hastie, Robert Tibshirani, and Jerome Friedman",
+      "edition": "Second Edition, 2008",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Linear Regression"],
+      "readings": ["Ch 3"],
+      "assignments": ["HW 1", "Quiz 1"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Machine Learning Overview"],
+      "readings": [],
+      "assignments": ["HW 2", "Quiz 2"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Linear Classification I"],
+      "readings": ["Ch 4"],
+      "assignments": ["HW 3", "Quiz 3"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Linear Classification II"],
+      "readings": ["Ch 4"],
+      "assignments": ["HW 4", "Quiz 4"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Neural Networks (NNs)"],
+      "readings": ["Ch 5"],
+      "assignments": ["HW 5", "Quiz 5"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Kernel Methods"],
+      "readings": ["Ch 6"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Support Vector Machine"],
+      "readings": ["Ch 7"],
+      "assignments": ["HW 6", "Quiz 6"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Clustering Techniques"],
+      "readings": ["Ch 9"],
+      "assignments": ["HW 7", "Quiz 7"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Continuous Latent Variables", "Graphical Models"],
+      "readings": ["Ch 8, 12"],
+      "assignments": ["HW 8", "Quiz 8"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Combined Models"],
+      "readings": ["Ch 14"],
+      "assignments": ["HW 9", "Quiz 9"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Project Week"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Project Week"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "35%",
+      "projects": "25%",
+      "quizzes": "10%",
+      "final": "20%"
+    },
+    "scale": "",
+    "policies": "Assignments received every 24 hours after the due date will have 10% of the total points deducted. Assignments received more than two weeks late after the due date will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Quiz",
+      "description": "Weekly quizzes covering current week’s topics."
+    },
+    {
+      "name": "Assignments",
+      "description": "Nine assignments centered around applications to deepen understanding of theoretical concepts."
+    },
+    {
+      "name": "Project",
+      "description": "A project topic will be announced on the 10th week."
+    },
+    {
+      "name": "Midterm Exam",
+      "description": "Online exam covering topics discussed to date."
+    },
+    {
+      "name": "Final Exam",
+      "description": "Cumulative online exam covering all topics discussed during the semester."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "A 10% late submission penalty will be applied every 24 hours from the due date. Late assignments must receive permission.",
+    "academic_integrity": "All students must adhere to the Stevens Honor System and the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "7/1/2024 - 7/7/2024"
+    },
+    {
+      "event": "Final Exam",
+      "date": "8/19/2024 - 8/24/2024"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, live web conferencing using Zoom, recording and uploading video via Panopto.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:57:51.971789",
+    "pdf_source": "../StevensCourses/cs559_fall24_syllabus.pdf",
+    "source_type": "file",
+    "text_length": 22987,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Machine Learning: Fundamentals and Applications",
+      "code": "CS 559 WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "In Suk Jang, Ph.D",
+        "email": "ijang@stevens.edu",
+        "office_hours": "Friday 10 – 11 AM",
+        "contact_info": ""
+      }
+    },
+    "course_description": "In this course, we will talk about the foundational principles that drive machine learning applications and practice implementing machine learning algorithms.",
+    "learning_outcomes": [
+      "Explain Bayesian decision theory, the likelihood ratio, and minimum risk classification.",
+      "Implement Maximum Likelihood Estimation for Logistic Regression.",
+      "Apply dimensionality reduction using Principal Component Analysis.",
+      "Implement classifiers using linear discriminant functions and Fisher’s Linear Discriminant Analysis.",
+      "Implement k-nearest neighbors and perform non-parametric classification.",
+      "Implement k-means clustering and perform EM for Gaussian mixtures.",
+      "Explain the advantages of Support Vector Machines and margin maximization.",
+      "Explain boosting and decision tree models.",
+      "Implement backpropagation for basic neural networks and understand the concepts of deep neural networks."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": [
+      "Math 222: Probability Theory"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [
+      "Math 222: Probability Theory"
+    ],
+    "corequisites_count": 1
+  }
+}

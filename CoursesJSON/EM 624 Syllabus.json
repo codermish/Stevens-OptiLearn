@@ -1,0 +1,266 @@
+{
+  "textbooks": [
+    {
+      "title": "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",
+      "author": "McKinney, W.",
+      "edition": "2nd",
+      "year": 2017,
+      "publisher": "O'Reilly Media"
+    },
+    {
+      "title": "Python Data Science Handbook",
+      "author": "VanderPlas, J.",
+      "year": 2016,
+      "publisher": "O'Reilly Media, Inc."
+    },
+    {
+      "title": "Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code",
+      "author": "Shaw, Z. A.",
+      "edition": "3rd",
+      "year": 2014,
+      "publisher": "Addison-Wesley Professional"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Data Analysis and Python"],
+      "readings": [
+        "Data Analytics Tutorial for Beginners webpage",
+        "McKinney: Chapter 1, Preliminaries",
+        "Getting Started with PyCharm video series"
+      ],
+      "assignments": ["Quiz 1", "Homework 1"],
+      "due_dates": ["24 hours before next live session", "30 minutes before live session"]
+    },
+    "week2": {
+      "topics": ["Software Engineering and First Python Code"],
+      "readings": [
+        "McKinney Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks",
+        "McKinney Chapter 4: NumPy Basics: Arrays and Vectorized Computation",
+        "Shaw, Ex1 - Ex9",
+        "History of Software Development",
+        "Difference between Software Engineering and Computer Engineering"
+      ],
+      "assignments": ["Quiz 2", "Homework 2"],
+      "due_dates": ["24 hours before next live session"]
+    },
+    "week3": {
+      "topics": ["Software Testing/Debugging and Python lists"],
+      "readings": [
+        "Shaw, Ex 32 - Ex 36",
+        "Top Ten Most Disastrous Software Bugs",
+        "Tutorial Agile in Practice: Test-Driven Development",
+        "Debug your first Python application",
+        "Getting Started with PyCharm 6/8: Debugging"
+      ],
+      "assignments": ["Quiz 3", "Homework 3"],
+      "due_dates": ["24 hours before next live session"]
+    },
+    "week4": {
+      "topics": ["Software Development Life Cycle and Dictionaries in Python"],
+      "readings": [
+        "McKinney Chapter 3: Built-in Data Structures, Functions, and Files",
+        "Shaw Exercises 15, 16, 19-21, and 40",
+        "Software Development Lifecycle",
+        "Python for Data Analysis: Variables, Files, and Functions"
+      ],
+      "assignments": ["Quiz 4", "Homework 4"],
+      "due_dates": ["24 hours before next live session"]
+    },
+    "week5": {
+      "topics": ["Data Handling & Python Libraries"],
+      "readings": [
+        "What is data preparation? webpage",
+        "McKinney Chapter 5: Getting Started with pandas",
+        "McKinney Chapter 7: Data cleaning and preparation",
+        "Database Tutorial for Beginners"
+      ],
+      "assignments": ["Quiz 5", "Homework 5"],
+      "due_dates": ["24 hours before next live session"]
+    },
+    "week6": {
+      "topics": ["Process Maturity & Introduction to Artificial intelligence"],
+      "readings": [
+        "Software Engineering | Capability maturity model (CMM).",
+        "Introduction to Artificial Intelligence | What Is AI?| Artificial Intelligence Tutorial |Simplilearn",
+        "VanderPlas Chapter 5: Machine Learning",
+        "Python for Data Analysis and Machine Learning"
+      ],
+      "assignments": ["Quiz 6", "Homework 6"],
+      "due_dates": ["24 hours before next live session"]
+    },
+    "week7": {
+      "topics": ["Machine Learning Algorithms, Review, and Midterm"],
+      "readings": ["VanderPlas Chapter 5: Machine Learning"],
+      "assignments": ["Mid-term exam"],
+      "due_dates": ["Module 7"]
+    },
+    "week8": {
+      "topics": ["Data Exploration and Visualization"],
+      "readings": [
+        "What is the CRISP-DM methodology?",
+        "McKinney Chapter 8: Data Wrangling: Join, Combine, and Reshape",
+        "McKinney Chapter 9: Plotting and Visualization",
+        "Data Analysis Steps"
+      ],
+      "assignments": ["Quiz 8", "Homework 8"],
+      "due_dates": ["24 hours before next live session"]
+    },
+    "week9": {
+      "topics": ["Natural Language Processing and Text Parsing"],
+      "readings": [
+        "McKinney Chapter 6: Data Loading, Storage, and File Formats",
+        "Natural Language Processing In 10 Minutes",
+        "Natural Language Processing With Python's NLTK Package"
+      ],
+      "assignments": ["Quiz 9", "Homework 9"],
+      "due_dates": ["24 hours before next live session"]
+    },
+    "week10": {
+      "topics": ["Web Mining"],
+      "readings": [
+        "What is Web Scraping and What is it Used For? | Definition and Examples EXPLAINED",
+        "Web Scraping and APIs: What's The Difference?",
+        "A Practical Introduction to Web Scraping in Python"
+      ],
+      "assignments": ["Quiz 10", "Homework 10"],
+      "due_dates": ["24 hours before next live session"]
+    },
+    "week11": {
+      "topics": ["Metrics for Machine Learning and Text Mining"],
+      "readings": [
+        "Neural Network In 5 Minutes | What Is A Neural Network? | How Neural Networks Work | Simplilearn",
+        "Machine Learning: Model Evaluation",
+        "Natural Language Processing and Text Embedding"
+      ],
+      "assignments": ["Quiz 11", "Homework 11"],
+      "due_dates": ["24 hours before next live session"]
+    },
+    "week12": {
+      "topics": ["Workshop"],
+      "readings": [
+        "10 data journalism projects that impacted 2020: our ultimate COVID-19 roundup",
+        "Content-Aware Galaxies: Digital Fingerprints of Discussions on Social Media",
+        "Integrating County-Level Socioeconomic Data for COVID-19 Forecasting in the United States"
+      ],
+      "assignments": ["Quiz 11"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Final Project Presentation"],
+      "readings": [],
+      "assignments": ["Final projects and reports"],
+      "due_dates": ["Module 13"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "35%",
+      "exams": "20%",
+      "projects": "25%",
+      "quizzes": "10%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late assignments lose 20% after due date/time, 50% after 24 hours, receive a zero after 48 hours."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Homework 2",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Homework 3",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Homework 4",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Homework 5",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Homework 6",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Mid-term exam",
+      "description": "Assess the learning of material from modules 1-6."
+    },
+    {
+      "name": "Homework 8",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Homework 9",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Homework 10",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Homework 11",
+      "description": "Python coding problems solving real-world problems."
+    },
+    {
+      "name": "Final project",
+      "description": "Develop a Python code to solve the project according to its description."
+    }
+  ],
+  "policies": {
+    "attendance": "Students are expected to attend every class and be on time.",
+    "late_work": "Late assignments lose 20% after due date/time, 50% after 24 hours, receive a zero after 48 hours.",
+    "academic_integrity": "Cheating of any kind will result in a zero grade for the assignment and could also be subject to other Stevens academic penalties.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Mid-term exam: Module 7",
+    "Final projects and reports due: Module 13"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:10:29.007950",
+    "pdf_source": "../StevensCourses\\EM 624 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 23916,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Exploration and Informatics for Engineering Management",
+      "code": "EM 624",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Carlo Lipizzi",
+        "email": "clipizzi@stevens.edu",
+        "office_hours": "Monday evenings from 7:00-8:00 pm EST.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course enables the engineering management student to acquire the knowledge and skills they will need to handle the variety and volume of information encountered in today’s workplace.",
+    "learning_outcomes": [
+      "Conduct data analysis from different data sources.",
+      "Develop Python programs involving Python libraries to manipulate, process, and visualize data.",
+      "Apply machine learning techniques for data processing.",
+      "Analyze various types of information used in today’s business environment.",
+      "Describe the role of software development in today’s business environment."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

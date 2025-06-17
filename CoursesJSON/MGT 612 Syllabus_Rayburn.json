@@ -1,0 +1,175 @@
+{
+  "textbooks": [
+    {
+      "title": "Developing Management Skills",
+      "author": "Whetten & Cameron",
+      "edition": "9th",
+      "ISBN": "978-0-1-312747-8"
+    },
+    {
+      "title": "Project Leadership: From Theory to Practice",
+      "author": "Pinto, J.K., Thoms, P., Trailer, J., Palmer, T., Govekar, M.",
+      "edition": "N/A",
+      "ISBN": "1-880410-10-9"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Overview and Introduction"],
+      "readings": ["Course Syllabus"],
+      "assignments": ["Discussion board"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Behavioral and Trait Perspectives on Leading and Managing"],
+      "readings": [
+        "Whetten & Cameron (pp. 3-14, assigned textbook)",
+        "Zaleznik A., (1992). Managers and leaders: Are they different? HBR",
+        "Kotter, J. P. (1990). What leaders really do. HBR March"
+      ],
+      "assignments": ["Discussion boards"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Self-Awareness (Part 1): Being a Leader and Your Attitudes Toward Change"],
+      "readings": ["Whetten & Cameron Chapter 1: Developing Self Awareness"],
+      "assignments": ["Discussion boards"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Self-Awareness (Part 2): Your Core Values, Interpersonal Style (DISC), and Your VMLQ (360° Feedback)"],
+      "readings": [
+        "Eurich, T. (2018) What Self-Awareness Really Is (and How to Cultivate It), HBR.",
+        "Hougard, R., Carter, J., Afton, M. (2018). Self-awareness can help leaders more than an MBA can. HBR, January."
+      ],
+      "assignments": ["Discussion boards"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Managing Stress and Well-Being"],
+      "readings": ["Whetten & Cameron Chapter 2 - Managing Personal Stress"],
+      "assignments": ["Discussion boards"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Communication and Coaching: A Foundation for Influencing"],
+      "readings": ["Whetten & Cameron (Chapter 4)"],
+      "assignments": ["Skills Analysis Paper (U, Inc.)"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Influencing (With or Without Formal Authority)"],
+      "readings": [
+        "Whetten & Cameron (Chapter 5)",
+        "Interview with Marin Alsop"
+      ],
+      "assignments": ["Discussion board"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Leadership Development and Planning"],
+      "readings": ["McCall, (2010) Recasting leadership development."],
+      "assignments": ["Discussion boards"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Overview of Theoretical Perspectives"],
+      "readings": ["Chapter 2 - Classical Theories of Leadership in Pinto, J. K., Thomas, P., Trailer, J., Palmer, T., & Govekar, M. (1998). Project Leadership: From Theory to Practice."],
+      "assignments": ["Discussion boards"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Managing Conflict and Collaboration"],
+      "readings": [
+        "Whetten & Cameron (Chapter 7)",
+        "Dominick, P. (2008). The Vigilance Project case"
+      ],
+      "assignments": ["Discussion boards"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Leading Teams - Building Collaborative Capacity"],
+      "readings": ["Whetten & Cameron (Chapter 9)"],
+      "assignments": ["Discussion boards"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["SSS Software In-Basket Exercise"],
+      "readings": ["SSS Software in-basket exercise (Whetten & Cameron, pages 21-33)"],
+      "assignments": ["None"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Course Wrap-Up: Meeting with your Board of Directors"],
+      "readings": ["None"],
+      "assignments": ["Skill Development Plan & Report"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "25%",
+      "assignments": "35%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": "25%"
+    },
+    "scale": "A: 93-100, A-: 90-92, B+: 87-89, B: 83-86, B-: 80-82, C+: 76-79, C: 77-79, C-: 70-72, D+: 67-69, D: 63-66, D-: 60-62, F: <60",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "name": "Skills Analysis Paper (U, Inc.)",
+      "description": "An assessment of your strengths and development opportunities in relation to the skill areas discussed in class and in relation to your overall objectives (approx. 8 pages, 1.5 inch spacing, 1 inch margins)."
+    },
+    {
+      "name": "Skills Development Plan and Report",
+      "description": "A summary of the steps and actions you took to capitalize on your strengths and improve on other skills you identified in your Skills Analysis Paper. (approx. pages 3-5 pages, 1.5 inch spacing, 1 inch margins)."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is mandatory for live sessions.",
+    "late_work": "Timely posting will enrich your and class members' learning and will provide me with an opportunity to engage in discussions with you.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course spans thirteen weeks with a different learning module covered each week.",
+    "technology_requirements": "Access to Canvas and VirtualMentor.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:32:57.705751",
+    "pdf_source": "../StevensCourses/MGT 612 Syllabus_Rayburn.pdf",
+    "source_type": "file",
+    "text_length": 40224,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Leader Development",
+      "code": "MGT 612-WN",
+      "credits": "3.0",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Kalim Rayburn",
+        "email": "krayburn@stevens.edu",
+        "office_hours": "Tuesdays, 7:30 pm - 8:30 pm; Thursdays, 5:00 pm - 6:00 pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course develops your leading and influencing capabilities.",
+    "learning_outcomes": [
+      "Critique your leadership strengths and identify opportunities to develop personal/professional areas for growth.",
+      "Engage in the processes of personal leader development.",
+      "Distinguish among key theories and principles used to study leaders and leadership and apply these theories and principles to real-world situations.",
+      "Utilize key skills and competencies to lead, influence, and build relationships."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

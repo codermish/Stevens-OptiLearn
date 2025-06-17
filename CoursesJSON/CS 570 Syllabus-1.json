@@ -1,0 +1,197 @@
+{
+  "textbooks": [
+    {
+      "title": "Zybooks Data Structures Essentials: Pseudocode with Java Examples",
+      "isbn": "978-1-394-08231-5"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Intro to Data Structures"],
+      "readings": ["Module 1"],
+      "assignments": ["Homework Assignment 1 on Java Assigned"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Searching and Algorithm Analysis"],
+      "readings": ["Module 2"],
+      "assignments": ["Homework Assignment 1 on Java Due"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Lists", "More Lists"],
+      "readings": ["Module 3", "Module 4"],
+      "assignments": ["Homework Assignment 2 on Complexity Assigned", "Homework Assignment 2 on Complexity Due"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Stacks", "Queues"],
+      "readings": ["Module 5", "Module 6"],
+      "assignments": ["Homework Assignment 3 on Lists Assigned", "Homework Assignment 3 on Lists Due"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Recursion", "More Recursion"],
+      "readings": ["Module 7", "Module 8"],
+      "assignments": ["Homework Assignment 4 Assigned"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Trees", "Heaps and Treaps"],
+      "readings": ["Module 9", "Module 10"],
+      "assignments": ["Homework Assignment 4 on Recursion Due", "Homework Assignment 5 on Binary Search Trees and Heaps Assigned"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Hash Tables", "Sets"],
+      "readings": ["Module 11", "Module 12"],
+      "assignments": ["Homework Assignment 5 on Binary Search Trees and Heaps Due", "Homework Assignment 6 on Hashing Assigned"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Sorting Algorithms"],
+      "readings": ["Module 13"],
+      "assignments": ["Homework Assignment 6 on Hashing Due"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "60%",
+      "exams": "20%",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late homework assignments (even by one minute) will be given a -10% decrease penalty per day, after the deadline."
+  },
+  "assignments": [
+    {
+      "name": "Homework Assignment 1 on Java",
+      "description": "Assigned in Week 1"
+    },
+    {
+      "name": "Homework Assignment 1 on Java",
+      "description": "Due in Week 2"
+    },
+    {
+      "name": "Homework Assignment 2 on Complexity",
+      "description": "Assigned in Week 3"
+    },
+    {
+      "name": "Homework Assignment 2 on Complexity",
+      "description": "Due in Week 3"
+    },
+    {
+      "name": "Homework Assignment 3 on Lists",
+      "description": "Assigned in Week 4"
+    },
+    {
+      "name": "Homework Assignment 3 on Lists",
+      "description": "Due in Week 4"
+    },
+    {
+      "name": "Homework Assignment 4",
+      "description": "Assigned in Week 5"
+    },
+    {
+      "name": "Homework Assignment 4 on Recursion",
+      "description": "Due in Week 6"
+    },
+    {
+      "name": "Homework Assignment 5 on Binary Search Trees and Heaps",
+      "description": "Assigned in Week 6"
+    },
+    {
+      "name": "Homework Assignment 5 on Binary Search Trees and Heaps",
+      "description": "Due in Week 7"
+    },
+    {
+      "name": "Homework Assignment 6 on Hashing",
+      "description": "Assigned in Week 7"
+    },
+    {
+      "name": "Homework Assignment 6 on Hashing",
+      "description": "Due in Week 8"
+    }
+  ],
+  "policies": {
+    "attendance": "Weekly live sessions are a great opportunity to ask questions and interact with your instructor and classmates.",
+    "late_work": "Late homework assignments (even by one minute) will be given a -10% decrease penalty per day, after the deadline.",
+    "academic_integrity": "Any sign of collaboration will result in 0 points and being reported to the Honor Board.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online with weekly synchronous Live Sessions.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:53:53.526792",
+    "pdf_source": "../StevensCourses\\CS 570 Syllabus-1.pdf",
+    "source_type": "file",
+    "text_length": 17099,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Structures",
+      "code": "CS 570",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Reza Peyrovian",
+        "email": "rpeyrovi@stevens.edu",
+        "office_hours": "Virtual Office Hours are stated on the course Canvas home page.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course introduces the most commonly used data structures, as well as sorting algorithms, using the Java programming language.",
+    "learning_outcomes": [
+      "Understand the notion of Abstract Data Types, and their use in object-oriented designs.",
+      "Calculate the Big O of diverse non-recursive algorithms and use it to compare efficiency.",
+      "Use and understand Collection class in Java, with major emphasis on Lists, Stacks and Queues. Implement double linked lists in Java.",
+      "Implement Binary Search Trees, Max/Min-Heaps, Priority Queues in Java, and understand the basic concepts of self-balancing Binary Search Trees.",
+      "Understand Sets and Maps, and more specifically implement hash tables in Java.",
+      "Understand, and implement recursive algorithms, and data structures.",
+      "Combine different classes together to implement big programming assignments in Java that combine some of the data structures studied in class."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

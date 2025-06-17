@@ -1,0 +1,229 @@
+{
+  "textbooks": [
+    {
+      "title": "Cutting-Edge Marketing Analytics: Real World Cases and Data Sets for Hands On Learning",
+      "author": "Rajkumar Venkatesan, Paul Farris, Ronald Wicox",
+      "edition": "1st",
+      "ISBN": "978-0133552522"
+    },
+    {
+      "title": "Principles of Marketing Engineering",
+      "author": "Gary L. Lilien, Arvind Rangaswamy, and Arnaud De Bruyn",
+      "edition": "2nd",
+      "ISBN": "978-0985764807"
+    },
+    {
+      "title": "Discovering Knowledge in Data By Daniel Larose: An Introduction to Data Mining",
+      "author": "Daniel Larose",
+      "edition": "2nd",
+      "ISBN": "978-0470908747"
+    },
+    {
+      "title": "Data Mining and Predictive Analytics",
+      "author": "Wiley Series on Methods and Applications in Data Mining",
+      "edition": "2nd",
+      "ISBN": "978-1118116197"
+    },
+    {
+      "title": "Mining of Massive Datasets",
+      "author": "Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman",
+      "edition": "2nd",
+      "ISBN": "978-1107077232"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Marketing Analytics"],
+      "readings": [
+        "What is Marketing Analytics",
+        "The marketing analytics must-haves | SAS",
+        "Log into Apporto/SAS",
+        "Look up marketing expenditures",
+        "Look up available marketing analytics jobs"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Marketing Models: The Four Ps of Marketing and Data Analysis"],
+      "readings": [
+        "The Hidden Traps in Decision Making.",
+        "The Four Ps of Marketing.",
+        "Stakeholder Marketing: Beyond the 4 Ps and the Customer."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Customer Analytics: The Basics"],
+      "readings": [
+        "Venkatesan (chapter 3)",
+        "Larose 1 (chapter 8)"
+      ],
+      "assignments": ["Analytic assignment: Segmentation"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Marketing Channels"],
+      "readings": [
+        "Venkatesan (chapter 15)",
+        "A Refresher on A/B Testing",
+        "Any basic stat/prob. textbook"
+      ],
+      "assignments": ["Analytic assignment: A/B and ANOVA testing"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Promotion, Price and Marketing Mix Analytics"],
+      "readings": [
+        "Venkatesan (Chapter 8)",
+        "Lilien (Chapter 7)"
+      ],
+      "assignments": ["Analytic assignment: price elasticity"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Digital Analytics"],
+      "readings": [
+        "Lure LesKovec (Chapter 5)",
+        "Lure LesKovec (Chapter 8)"
+      ],
+      "assignments": ["Analytic assignment: Page rank", "Final project proposal"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Product Analytics"],
+      "readings": [
+        "Venkatesan (Chapter 5)",
+        "Lilien (Chapter 6)"
+      ],
+      "assignments": ["Analytic assignment: Conjoint Analysis"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Customer Analytics Part I"],
+      "readings": [
+        "Venkatesan (Chapter 10)",
+        "Lilien (Chapter 7)"
+      ],
+      "assignments": ["Analytic assignment: Calculating CLV/PLV", "Submit proof of completion for Google Analytics courses (2)"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Customer Analytics Part II"],
+      "readings": [
+        "Venkatesan (chapter 13)",
+        "Larose 2 (chapter 4)"
+      ],
+      "assignments": ["Analytic assignment: Logistic Regression"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Customer Analytics Part III"],
+      "readings": [
+        "Lure LesKovec (Chapter 10)",
+        "Posted PDF paper(s)"
+      ],
+      "assignments": ["Analytic assignment: Social Networks"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Resource Allocation"],
+      "readings": [
+        "Winston, Albright. Practical management science, Chapter 3"
+      ],
+      "assignments": ["Analytic assignment: resource allocation"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Forecasting"],
+      "readings": [
+        "Hanke, Wichern. Business Forecasting.",
+        "Lilien (Chapter 5)"
+      ],
+      "assignments": ["Analytic assignment: forecasting", "Submit final project"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Recommender Systems"],
+      "readings": [
+        "Lure LesKovec (Chapter 9)"
+      ],
+      "assignments": ["Analytic assignment: Recipe Recommendation", "Final project presentation"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "40%",
+      "exams": "",
+      "projects": "40%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Assignments received 1-5 days late will have 10% of the total points deducted; assignments received more than one week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "description": "Homework Assignments covering concepts introduced in the module."
+    },
+    {
+      "description": "Google Analytics Academy: Complete a minimum of the first 2 courses and submit certificates of completion."
+    },
+    {
+      "description": "Discussion Board: Post questions and comment on classmates’ posts (ungraded)."
+    },
+    {
+      "description": "Final project: Develop a real-world marketing analytics project."
+    }
+  ],
+  "policies": {
+    "attendance": "You are expected to attend and participate in the discussion during live sessions.",
+    "late_work": "Assignments received 1-5 days late will have 10% of the total points deducted; assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "Students must abide by the Stevens Honor System and submit work with the pledge: 'I pledge my honor that I have abided by the Stevens Honor System.'",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:33:07.677494",
+    "pdf_source": "../StevensCourses\\BIA 672 Syllabus_Summer 23.pdf",
+    "source_type": "file",
+    "text_length": 21650,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "BIA672 Marketing Analytics",
+      "code": "BIA672",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2023",
+      "instructor": {
+        "name": "Mr. Khasha Dehnad",
+        "email": "kdehnad@stevens.edu",
+        "office_hours": "By appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is designed to help students understand consumer/customer behavior using marketing models, analytics and data management techniques.",
+    "learning_outcomes": [
+      "Use a variety of SAS tools to store and manage data and perform analysis",
+      "Source various types of government data and incorporate it into marketing analysis.",
+      "Develop marketing models to illustrate consumer behavior",
+      "Use marketing models to analyze consumer behavior to shape marketing strategies",
+      "Develop predictive models to forecast consumer behavior"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "Admission requirements for the BI&A program."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

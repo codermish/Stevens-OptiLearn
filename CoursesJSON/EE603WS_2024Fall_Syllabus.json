@@ -1,0 +1,173 @@
+{
+  "textbooks": [
+    {
+      "title": "Signals and Systems",
+      "authors": ["A.V. Oppenheim", "A.S. Willsky", "S.H. Nawab"],
+      "edition": "Second Edition",
+      "publisher": "Prentice Hall",
+      "year": 1997
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to continuous and discrete-time signals and systems"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Linear Time-Invariant Systems"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Fourier Series"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Continuous-Time Fourier Transform"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Review of Ch.3 vs. Ch.4"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Discrete-Time Fourier Transform & Linear Optimization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Time-Frequency Characterizations; Sampling"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Laplace Transform"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Z-Transform"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Z-Transform vs. Linear Systems"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Linear Transform vs. Linear Systems"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "40%",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "For late homework assignments, every 24 hours incurs a 10% penalty. Late exams receive a score of 0."
+  },
+  "assignments": [
+    {
+      "description": "Multiple weekly homework assignments. The average score will be counted for the Homework weighted percent."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "For late homework assignments, every 24 hours incurs a 10% penalty. Late exams receive a score of 0.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm",
+      "date": "Week 7"
+    },
+    {
+      "event": "Final Exam",
+      "date": "Week 14"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": {
+      "equipment": [
+        "Computer: current Mac (OS X) or PC (Windows 7+) with high-speed internet connection",
+        "Webcam: built-in or external webcam, fully installed",
+        "Microphone: built-in laptop or tablet mic or external microphone"
+      ],
+      "software": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Matlab"
+      ]
+    },
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:03:28.676961",
+    "pdf_source": "../StevensCourses\\EE603WS_2024Fall_Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 14569,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Linear System Theory",
+      "code": "EE603WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Rensheng Wang",
+        "email": "RWANG1@stevens.edu",
+        "office_hours": "Friday 1:00 PM ~ 3:00 PM",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Exposing the student to analytic tools used in signal processing, communications and controls.",
+    "learning_outcomes": [
+      "Understand the concepts of linear and time-invariant (LTI) system",
+      "Apply LTI to the general system analysis about the input and output relationships",
+      "Implement Fourier transform to interpret the signal component decompositions",
+      "Derive the digital filter systems"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": ["EE348 or equivalent courses"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

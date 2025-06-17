@@ -1,0 +1,141 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction", "Feature Engineering"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Time series analysis (I)"],
+      "readings": [],
+      "assignments": ["HW #1"],
+      "due_dates": ["via canvas"]
+    },
+    "week3": {
+      "topics": ["Time series analysis (II)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Market basket analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Linear regression", "Logistic regression"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Ensemble learning: Bagging and Boosting"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Recommendation systems"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Principal component analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Final Project", "Feature Engineering"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["From Hadoop to Spark Programming"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Recommendation in PySpark"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["From Neural Networks to Deep Learning"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "30%",
+      "projects": "20%",
+      "quizzes": "",
+      "final": "20%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:04:16.117144",
+    "pdf_source": "../StevensCourses\\EE627WS_2024Fall_Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 6947,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Acquisition/Modeling/Analysis – Big Data Analytics",
+      "code": "EE627WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Rensheng Wang",
+        "email": "RWANG1@stevens.edu",
+        "office_hours": "Friday 9AM ~ 4PM or Online Session by Appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Exposing the student to analytic tools used for data acquisitions, processing and modeling with the challenges in the big-data era.",
+    "learning_outcomes": [
+      "Analyze time-series and provide forecast",
+      "Process huge volume set of data",
+      "Prune and tune big data for feature selections",
+      "Extra data inference/insights",
+      "Tune the recommender system"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": ["EE603"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

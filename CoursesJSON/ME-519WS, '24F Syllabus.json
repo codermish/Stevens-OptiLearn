@@ -1,0 +1,185 @@
+{
+  "textbooks": [
+    {
+      "title": "Principles of Solar Engineering",
+      "author": "D. Yogi Goswami",
+      "edition": "4th ed.",
+      "publisher": "Taylor & Francis",
+      "year": "2023"
+    },
+    {
+      "title": "Electricity from Sunlight, an Introduction to Photovoltaics",
+      "author": "Paul A. Lynn",
+      "edition": "2012",
+      "publisher": "John Wiley & Sons Ltd."
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Review the Principles of Solar Radiation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Heating Load Calculations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Pressure Drop in Ducts and Piping"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Performance Analysis of Passively Heated Buildings"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Determining Active Solar System Thermal Performance"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Solar Photovoltaic Systems"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["PV System Components"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Solar Powered Water Pumping", "Solar Desalination"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Solar Domestic Hot Water (DHW) Installation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Balancing Conservation and Solar", "Computer Software Available for Solar System Performance Calculations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Solar Energy Economics"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Special Topic – Energy Audits of Buildings"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "70%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "description": "Weekly homework assigned on Mondays, due the following Monday by 12:00am EST."
+    },
+    {
+      "description": "Class project reflecting real life consulting tasks, starting after Lecture #3."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "Students must adhere to the Stevens Honor System and submit a pledge with all work.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [
+    "Lecture 1: September 3, 2024",
+    "Lecture 2: September 9, 2024",
+    "Lecture 3: September 16, 2024",
+    "Lecture 4: September 23, 2024",
+    "Lecture 5: September 30, 2024",
+    "Lecture 6: October 7, 2024",
+    "Mid-Term Test Posted: October 15, 2024",
+    "Mid-Term Test Due: October 21, 2024",
+    "Lecture 8: October 28, 2024",
+    "Lecture 9: November 4, 2024",
+    "Lecture 10: November 11, 2024",
+    "Lecture 11: November 18, 2024",
+    "Thanksgiving Recess: November 25, 2024",
+    "Lecture 12: December 2, 2024",
+    "Final Test Posted: December 9, 2024",
+    "Final Test Due: December 16, 2024"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, current Mac (OS X) or PC (Windows 7+) with high-speed internet connection, Microsoft Word, Microsoft Excel, Microsoft PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:28:22.388997",
+    "pdf_source": "../StevensCourses\\ME-519WS, '24F Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 34278,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Solar Energy, System Designs",
+      "code": "ME-519WS/MT-528WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Charles Cohn",
+        "email": "charlescohn17@yahoo.com",
+        "office_hours": "Any time during the week, 9:00am – 5:00pm",
+        "contact_info": "Canvas e-mail or Tel. 973-696-4611"
+      }
+    },
+    "course_description": "This course provides an in-depth treatment of how to transfer the latest solar thermal and photovoltaic technologies available to real world applications.",
+    "learning_outcomes": [
+      "Determine azimuth and altitude angles of the sun by calculation or using a sun chart.",
+      "Identify module tilt angle and orientation that provides maximum energy production.",
+      "Identify the different types of PV Modules, thermal collectors, system components and materials used in the systems and determine their appropriate applications.",
+      "Calculate the heat loads of buildings and analyze hot water loads.",
+      "Compare different types of passive/active thermal systems and their advantages and disadvantages.",
+      "Identify data required and size/design PV and passive/active Thermal Systems.",
+      "Calculate PV System performance using the online PVWatts tool.",
+      "Identify the economic and non-economic benefits of the solar systems.",
+      "Perform energy audits of residential and commercial buildings and identify cost effective opportunities for energy savings."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": [
+      "ME/MT-518 Course"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

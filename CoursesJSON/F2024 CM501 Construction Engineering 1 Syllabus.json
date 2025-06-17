@@ -1,0 +1,160 @@
+{
+  "textbooks": [
+    {
+      "title": "Foundations. Construction Methods and Management",
+      "author": "Nunnally, S.W.",
+      "edition": "8th",
+      "ISBN": null,
+      "pages": "pp. 156-170",
+      "publisher": "Prentice Hall",
+      "location": "Upper Saddle River, NJ"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction", "Construction Industry Fundamentals", "Construction Industry Characteristics", "Economies of Scale"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Project Planning and Organization", "Project Lifecycle", "Project Organization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Cost Estimation", "Quantity Take-off", "Cost Estimation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Project Design", "Sustainability Issues in Design: LEED"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Construction Planning and Organization", "Activity Identification, and Sequencing", "Work Breakdown Structure (WBS), Organization Breakdown Structure (OBS), and Cost Breakdown Structure (CBS)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Human Resources and Site Organization", "Equipment and their use", "Crew Selection, Function, Productivity and Economics", "Materials"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Basic Construction Activities", "Earthmoving (Hauling and Queuing)", "Excavation and Stabilization", "Concreting", "Asphalting and road construction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Sustainability Issues in Construction", "Sustainability issues during construction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "50 pts",
+      "assignments": "100 pts",
+      "exams": "100 pts",
+      "projects": "50 pts",
+      "quizzes": "100 pts",
+      "final": "100 pts"
+    },
+    "scale": {
+      "A": "89.00 – 92.00",
+      "A-": "85.00 – 88.00",
+      "B+": "81.00 – 84.00",
+      "B": "77.00 – 80.00",
+      "B-": "74.00 – 76.00",
+      "C+": "71.00 – 73.00",
+      "C": "69.00– 70.00",
+      "F": "00.00 – 65.00"
+    },
+    "policies": "Attendance below 70% results in a failing grade, regardless of earned percentage. Make-up work will be accepted with pre-approval of the instructor."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "Attendance below 70% results in a failing grade, regardless of earned percentage.",
+    "late_work": "Make-up work will be accepted with pre-approval of the instructor.",
+    "academic_integrity": "Students must sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology provides accommodations for students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Seminar-format course with class discussions, in-class assignments, and guest lecturers.",
+    "technology_requirements": "Students are expected to bring laptops, notebooks, and pens to every lecture.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers mental health support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:15:01.074159",
+    "pdf_source": "../StevensCourses\\F2024 CM501 Construction Engineering 1 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 17589,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Construction Engineering 1",
+      "code": "CM501",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Karim S. Karam",
+        "email": "kkaram@stevens.edu",
+        "office_hours": "Before synchronous sessions or schedule via email",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course provides a comprehensive overview of construction engineering methods, techniques and equipment.",
+    "learning_outcomes": [
+      "Organize and plan projects",
+      "Perform preliminary cost estimates, quantity take offs, and bid cost estimates.",
+      "Understand and plan basic construction activities, and identify the resources required to perform them.",
+      "Produce a construction management plan",
+      "Manage the construction process through monitoring productivity and economics."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

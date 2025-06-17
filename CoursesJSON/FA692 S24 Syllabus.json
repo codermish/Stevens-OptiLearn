@@ -1,0 +1,186 @@
+{
+  "textbooks": [
+    {
+      "title": "Machine Learning in Finance: From Theory to Practice",
+      "author": "Dixon, M. F., Halperin, I., Bilokon, P.",
+      "year": 2020,
+      "publisher": "Springer International Publishing"
+    },
+    {
+      "title": "NLTK: the natural language toolkit",
+      "author": "Bird, S.",
+      "year": 2006,
+      "details": "In Proceedings of the COLING/ACL 2006 Interactive Presentation Sessions (pp. 69-72)"
+    },
+    {
+      "title": "Comprehensive review of text-mining applications in finance",
+      "author": "Gupta, A., Dengre, V., Kheruwala, H. A., & Shah, M.",
+      "year": 2020,
+      "journal": "Financial Innovation",
+      "volume": 6,
+      "issue": 1,
+      "pages": "1-25"
+    },
+    {
+      "title": "Finbert: Financial sentiment analysis with pre-trained language models",
+      "author": "Araci, D.",
+      "year": 2019,
+      "details": "arXiv preprint arXiv:1908.10063"
+    },
+    {
+      "title": "Latent dirichlet allocation",
+      "author": "Blei, D. M., Ng, A. Y., & Jordan, M. I.",
+      "year": 2003,
+      "journal": "Journal of Machine Learning Research",
+      "volume": 3,
+      "month": "January",
+      "pages": "993-1022"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Review of Machine Learning"],
+      "readings": ["Dixon et al.: Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to NLP with Applications to Financial Data"],
+      "readings": ["Bird (2006)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Text Mining of Financial Reports and News"],
+      "readings": ["Gupta et al. (2020)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Sentiment Analysis of Financial Reports and News"],
+      "readings": ["Araci (2019)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Topic Modeling in Finance"],
+      "readings": ["Blei et al. (2003)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Applications to Finance / Special topics"],
+      "readings": ["Dependent on topic area chosen"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "35%",
+      "exams": "0%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": "15%"
+    },
+    "scale": "A: 93%-100%, A-: 90%-93%, B+: 87%-90%, B: 83%-87%, B-: 80%-83%, C+: 77%-80%, C: 70%-77%, F: 0%-70%",
+    "policies": "This grading scheme is subject to change based on student outcomes. It may be curved more leniently."
+  },
+  "assignments": [
+    {
+      "description": "4 homework assignments and one large (individual) project during the semester."
+    },
+    {
+      "description": "Additional small assignments and quizzes will accompany certain lectures."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is required; no late assignments will be accepted without prior approval.",
+    "late_work": "No late assignments, without prior approval, will be accepted.",
+    "academic_integrity": "Copying solutions from other students or sources is strictly forbidden and will be dealt with according to the Stevens honor board policy.",
+    "accommodations": "Virtual office hours via Zoom can be arranged if requested."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The lectures will combine lectures, guest presentations, class presentations, and discussions.",
+    "technology_requirements": "Students will be expected to install and have Python running on their computers.",
+    "support_resources": "Questions about course material can be asked by email or in the Discussion Section of Canvas."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:16:53.462765",
+    "pdf_source": "../StevensCourses/FA692 S24 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 9728,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Natural Language Processing for Financial Applications",
+      "code": "FA692",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Zachary Feinstein",
+        "email": "zfeinste@stevens.edu",
+        "office_hours": "Wednesday 5-6PM or by appointment",
+        "contact_info": "Office: Babbio 611"
+      }
+    },
+    "course_description": "This course focuses on natural language processing (NLP) models and their applications to finance.",
+    "learning_outcomes": [
+      "Be able to apply NLP to financial problems",
+      "Be able to evaluate the performance of different methods to determine the best method/hyperparameters",
+      "Learn how to interpret results of NLP in a financial context",
+      "Create and apply NLP models for analyzing financial reports and news",
+      "Evaluate performance of trained NLP models for sentiment analysis",
+      "Understand applicability of diverse NLP techniques"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": ["FA 590"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "textbooks": [
+    {
+      "title": "Data Classification: Algorithms and Applications",
+      "author": "Charu C. Aggarwal",
+      "edition": "2015",
+      "ISBN": "978-1-4665-8674-1"
+    },
+    {
+      "title": "Data Mining",
+      "author": "Charu C. Aggarwal",
+      "edition": "2015",
+      "ISBN": "978-3-319-14141-8"
+    },
+    {
+      "title": "Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving",
+      "author": "Deborah Nolan and Duncan T. Lang",
+      "edition": "2015",
+      "ISBN": "978-1-4822-3481-7"
+    },
+    {
+      "title": "The Art of R Programming",
+      "author": "Norman Matloff",
+      "edition": "2011",
+      "ISBN": "978-1-59327-384-2"
+    },
+    {
+      "title": "Data Science",
+      "author": "Cathy O’Neil and Rachel Schutt",
+      "edition": "2014",
+      "ISBN": "978-1-449-35865-5"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Introduction to Financial Data Science",
+        "Data Science Process",
+        "Sample Data Processing",
+        "The Basic Data Types",
+        "The Major Building Blocks: A Bird’s Eye View",
+        "Introduction to R",
+        "Case Study: Exploratory Data Analysis (NYC Real Estate)"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Financial Data Quality Issues and Data Scrubbing",
+        "Data Preparation",
+        "Feature Extraction and Portability",
+        "Data Cleaning",
+        "Data Reduction and Transformation",
+        "Handling Missing Entries",
+        "Handling Incorrect and Inconsistent Entries",
+        "Scaling and Normalization",
+        "Sampling for Static Data and Data Streams",
+        "Dimensionality Reduction Intro"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Web page retrieval",
+        "scrapping",
+        "regular expression extraction",
+        "basic statistical techniques to identify wrong data entries",
+        "Case Study: Data and Web Technologies",
+        "Linear Model",
+        "Piecewise linear model"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Similarity and Distances",
+        "Impact of High Dimensionality",
+        "Generalized Minkovski Distance",
+        "Match-Based Similarity Computation",
+        "Impact of Data Distribution",
+        "ISOMAP",
+        "Impact of Local Data Distribution",
+        "Similarity on Categorical Data",
+        "Similarity on Mixed Quantitative and Categorical Data",
+        "Text Similarity Measures",
+        "Time Series Similarity Measures"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Classification Methods"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Tree-Based Methods"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Clustering Methods"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Financial Time Series Data",
+        "Using Decision Tree to Trade Stock",
+        "Building a Trading Strategy",
+        "Handling Time-Dependent Data in R",
+        "The Prediction Models"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Mining Text Data",
+        "Document Preparation and Similarity Computation",
+        "Specialized Clustering Methods for Text",
+        "Probabilistic Algorithms",
+        "Co-Clustering",
+        "Topic Modeling"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Case Study: Using Statistics to Identify Spam"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Blockchain",
+        "Cryptocurrencies"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Outlier Analysis",
+        "(Extreme Values, Clustering Models, Distance-Based Models, Density-Based Models, Probabilistic Models, Information-Theoretical Models)"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Hadoop",
+        "HDFS & MapReduce",
+        "Hive",
+        "Pig"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "55%",
+      "exams": "",
+      "projects": "40%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "All Stevens, graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "FA-582-A: Tuesday (6:30pm-8:20pm) Hanlon Lab I (Babbio 4th floor), FA-582-WS: Tuesday (6:30pm-8:20pm) Online (Zoom)",
+    "technology_requirements": "",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:13:26.052087",
+    "pdf_source": "../StevensCourses/Syllabus_FA582_F23.pdf",
+    "source_type": "file",
+    "text_length": 11865,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Foundations of Financial Data Science",
+      "code": "FA-582",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Dragos Bozdog",
+        "email": "dbozdog@stevens.edu",
+        "office_hours": "Tuesday & Thursday (5:30pm-6:30pm)",
+        "contact_info": "(201) 216-3527"
+      }
+    },
+    "course_description": "This course will provide an overview of issues and trends in data quality, data storage, data scrubbing, and data flows.",
+    "learning_outcomes": [
+      "Have a working knowledge of the issues of data quality, data storage, data scrubbing, data flows, and their potential solutions.",
+      "Understand and design various schemas needed for the representation of financial data.",
+      "Tackle problems dealing with data management issues such as collection, warehousing, preprocessing and querying.",
+      "Have a working understanding of all the databases available for them through the Hanlon lab.",
+      "Understand the data science pipeline process including processing, analytical tools, and outlier analysis.",
+      "Apply the newly acquired data management and database skills to analyze financial data from the capital markets, social media, and the financial services sector."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [
+      "FE 513 – Practical Aspects of Database Design"
+    ],
+    "corequisites_count": 1
+  }
+}

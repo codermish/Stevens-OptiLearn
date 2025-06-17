@@ -1,0 +1,164 @@
+{
+  "textbooks": [
+    {
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "author": "Malcolm Gladwell",
+      "edition": "Annotated ed.",
+      "ISBN": "978-0316010665"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overall course content and requirements"],
+      "readings": ["Read the syllabus", "Become familiar with Canvas Shell, Zoom, and course overview"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to course", "Probability & Statistics", "Monte Carlo Simulation"],
+      "readings": ["Engineer Decision", "Introduction to Blink", "Bayes Theorem", "Monte Carlo Simulation"],
+      "assignments": ["Quiz: Decision Making", "Discussion Board", "Homework 1"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week3": {
+      "topics": ["Decision Trees", "Bayes Law", "Decision Analysis Flow Chart", "Framing issues", "Fundamental Objective Hierarchy", "Means Objective Network"],
+      "readings": ["Elements of a Decision Problem, Slides 1-17", "Problem Framing", "Slideshare on Objectives", "Fundamental & Means Objectives"],
+      "assignments": ["Quiz: Framing Basics", "Discussion Board", "Homework 4"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week4": {
+      "topics": ["Alternatives", "Idea Generation Techniques", "Influence Diagrams", "Decision Tree Application"],
+      "readings": ["Synectics article", "TRIZ article", "Brainstorming article", "Silent brainstorming article"],
+      "assignments": ["Quiz: Identifying Alternatives", "Discussion Board", "Homework 5", "Homework 6", "Topic for final course project"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week5": {
+      "topics": ["Single and multi-criteria problems", "Utility Theory", "Want & Must Have Criteria", "Utility Table & Curve", "Pairwise comparison", "Evaluation Scoring", "AHP Model"],
+      "readings": ["Evaluating Alternatives", "Guidebook to Decision-Making Methods"],
+      "assignments": ["Homework 7"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week6": {
+      "topics": ["Cognitive Bias", "Prospect Theory", "Human Impacts"],
+      "readings": ["Hidden Traps in Decision Making", "20 Cognitive Biases that screw up your decisions", "The 12 cognitive biases", "Outsmart your own biases"],
+      "assignments": ["Quiz on biases and prospect theory", "Discussion Board", "Homework 8"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week7": {
+      "topics": ["Risk Management Process", "Risk Mgmt Planning", "Risk Identification"],
+      "readings": ["DOD Risk Mgmt Guide (section1, 3.0, 3.1, and 3.2-3.2.4)", "Ch 3 & 4 Proactive Risk Mgmt", "Risk Identification"],
+      "assignments": ["Quiz: Risk Management", "Discussion Board", "Homework 9"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week8": {
+      "topics": ["Qualitative Analysis", "Quantitative Risk Analysis", "Risk Register"],
+      "readings": ["DOD Risk Mgmt Guide (Sections 3.3-3.3.4)", "Ch 5 Proactive Risk Mgmt", "Qualitative Risk Analysis", "Quantitative Risk Analysis", "Risk Register Format"],
+      "assignments": ["Quiz: Risk Analysis", "Homework 10"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week9": {
+      "topics": ["Threat Handling Strategies", "Opportunity Handling Strategies", "Risk Leverage"],
+      "readings": ["DOD Risk Mgmt Guide (sections 3.4-3.4.5 & 4.0)", "Ch 7 Proactive Risk Mgmt", "Residual vs secondary risk", "Effective strategies for exploiting opportunities"],
+      "assignments": ["Quiz: Risk Mitigation", "Homework 11", "Homework 12"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week10": {
+      "topics": ["Risk Monitoring", "Pugh Matrix"],
+      "readings": ["DOD Risk Mgmt Guide, section 3.5", "Ch 8 Proactive Risk Mgmt", "Pugh Matrix"],
+      "assignments": ["Quiz", "Blink book report"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week11": {
+      "topics": ["Choosing a solution", "Engineering Trade Study"],
+      "readings": ["Even Swaps", "Trade Studies"],
+      "assignments": ["Quiz", "Discussion Board", "Decision Dominance", "Even Swap Methodology", "Impact of how decision is made"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week12": {
+      "topics": ["Simple Sensitivity Analysis", "One-way sensitivity", "Tornado Diagram", "Two-way sensitivity"],
+      "readings": [],
+      "assignments": ["Quiz: Sensitivity Analysis"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    },
+    "week13": {
+      "topics": ["What is Game Theory", "Impact on decisions", "Relevant factors"],
+      "readings": ["Week 8: Basic Concepts in Game Theory"],
+      "assignments": ["Quiz: Game Theory", "Final Course Project: Engineering Trade Study"],
+      "due_dates": ["11:59 PM ET on Sunday"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "13%",
+      "assignments": "25%",
+      "exams": "",
+      "projects": "25%",
+      "quizzes": "10%",
+      "final": "12%"
+    },
+    "scale": "",
+    "policies": "Assignments received 1-6 days late without prior coordination with the instructor will have 20% of the total points deducted. Assignments received more than one week late without prior coordination with the instructor will receive 0 points."
+  },
+  "assignments": [
+    "Homework 1: Due Week 2",
+    "Homework 2: Due Week 2",
+    "Homework 3: Due Week 2",
+    "Homework 4: Due Week 3",
+    "Homework 5: Due Week 4",
+    "Homework 6: Due Week 4",
+    "Homework 7: Due Week 5",
+    "Homework 8: Due Week 6",
+    "Homework 9: Due Week 7",
+    "Homework 10: Due Week 8",
+    "Homework 11: Due Week 9",
+    "Homework 12: Due Week 9",
+    "Blink Book report: Due Week 10",
+    "Final Course Project: Due Week 13"
+  ],
+  "policies": {
+    "attendance": "Attendance at the live sessions is mandatory and will be graded.",
+    "late_work": "If a student needs an extension, the instructor should be contacted ahead of the due date.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:23:51.382865",
+    "pdf_source": "../StevensCourses\\SYS 660 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 19852,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Decision and Risk Analysis",
+      "code": "SYS 660",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Safa El Kefi",
+        "email": "selkefi@stevens.edu",
+        "office_hours": "Monday 3:00 - 5:00 pm ET",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The ability to structure and analyze an effective trade study under conditions of uncertainty and risk is a core systems engineering skill. This course addresses the foundations of decision analysis and probability theory that are relevant to systems engineers.",
+    "learning_outcomes": [
+      "Develop a fundamental objective hierarchy or value tree to solve a decision.",
+      "Solve decision problems using decision trees, expected value, influence diagrams, Pugh Matrix, and engineering trade studies.",
+      "Incorporate risk management into the decision-making process to prevent unintended negative consequences and to take advantage of opportunities.",
+      "Formulate strategies to avoid negative consequences and potential impacts of human behavior on decision making.",
+      "Discuss factors contributing to successful and unsuccessful decisions.",
+      "Apply decision making process steps to maximize success."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

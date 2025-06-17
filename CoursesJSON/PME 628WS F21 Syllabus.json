@@ -1,0 +1,181 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to OSD manufacturing and packaging", "Characteristics and types of OSD"],
+      "readings": [],
+      "assignments": ["Post your introduction"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Design and operation of an OSD plant"],
+      "readings": ["https://www.pharmtech.com/view/review-ispes-baseline-guide-oral-solid-dosage-forms"],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week3": {
+      "topics": ["Powder mixing, granulation and drying"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week4": {
+      "topics": ["Dry granulation and milling"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week5": {
+      "topics": ["Tablet compression"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week6": {
+      "topics": ["Tablet coating"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week7": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Midterm exam due Sunday 11:59 pm"]
+    },
+    "week8": {
+      "topics": ["Capsule manufacturing"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week9": {
+      "topics": ["OSD container-closure systems"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week10": {
+      "topics": ["OSD primary packaging", "Labeling"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week11": {
+      "topics": ["OSD secondary and tertiary packaging", "Packaging line performance"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week12": {
+      "topics": ["Validation of OSD manufacturing and packaging processes", "OSD product quality tests"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week13": {
+      "topics": ["Thanksgiving Week – Plan Ahead", "The future of OSD products"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Homework due Thursday 11:59 pm; comments due Sunday 11:59 pm"]
+    },
+    "week14": {
+      "topics": ["Team project PP presentations, individual deliverables due"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Term project individual deliverables and team PP presentations due Thursday 11:59 pm"]
+    },
+    "week15": {
+      "topics": ["Final Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Final exam due Sunday 11:59 pm"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "48%",
+      "exams": "20%",
+      "projects": "20%",
+      "quizzes": "12%",
+      "final": "10%"
+    },
+    "scale": "",
+    "policies": "Homework assignments will be accepted late, but points will be deducted."
+  },
+  "assignments": [
+    {
+      "description": "Weekly homework assignments",
+      "points": "40 points each"
+    },
+    {
+      "description": "Weekly quizzes",
+      "points": "10 points each"
+    },
+    {
+      "description": "Individual term project",
+      "points": "100 points"
+    },
+    {
+      "description": "Team term project PP presentation",
+      "points": "100 points"
+    },
+    {
+      "description": "Midterm exam",
+      "points": "100 points"
+    },
+    {
+      "description": "Final exam",
+      "points": "100 points"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Homework assignments will be accepted late, but points will be deducted.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm exam due Sunday 11:59 pm",
+    "Term project individual deliverables and team PP presentations due Thursday 11:59 pm",
+    "Final exam due Sunday 11:59 pm"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills; current Mac (OS X) or PC (Windows 7+) with high-speed internet connection; Microsoft Word, Excel, PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:51:13.376851",
+    "pdf_source": "../StevensCourses\\PME 628WS F21 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 17680,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Manufacturing & Packaging of Pharmaceutical OSD Products",
+      "code": "PME 628",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2021",
+      "instructor": {
+        "name": "Professor Elaine Lehecka Pratt",
+        "email": "elaine.pratt@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This is an elective course in the Pharmaceutical Manufacturing and Engineering Program. It can be taken by students pursuing a Graduate Certificate in Pharmaceutical Manufacturing, or a Master’s Degree in Pharmaceutical Manufacturing.",
+    "learning_outcomes": [
+      "To demonstrate familiarity with the technologies, unit operations and GMP requirements for the manufacturing and packaging of OSD pharmaceutical products",
+      "To analyze and evaluate manufacturing and packaging processes for most common OSD products",
+      "To review and assess facility and process equipment requirements for OSD manufacturing and packaging",
+      "To understand and explain process validation and quality testing for OSD products"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": ["PME/CHE/ME 530"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "textbooks": [
+    {
+      "title": "Introduction to the practice of Statistics",
+      "author": "D. Moore, G. McCabe and B. Craig",
+      "edition": "10th",
+      "year": "2021"
+    },
+    {
+      "title": "Applied Linear Statistical Models",
+      "author": "Michael Kutner, Christopher Nachtsheim, John Neter, William Li",
+      "edition": "2013"
+    },
+    {
+      "title": "Introductory Statistics with R",
+      "author": "Peter Daalgard",
+      "edition": "3d printing edition January 9, 2004"
+    },
+    {
+      "title": "Handbook of Probability",
+      "author": "Ionut Florescu and Ciprian Tudor",
+      "edition": "2013"
+    },
+    {
+      "title": "Options, Futures and Other Derivatives",
+      "author": "John C. Hull",
+      "edition": "11th",
+      "year": "2022"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Looking at Data", "Descriptive graphical measures"],
+      "readings": ["Ch 1, 2 in [4]", "Ch 1-6 in [1]"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Intro to R", "Distributions in R", "Methods of finding estimators", "Maximum likelihood", "Method of moments", "Bayesian estimators"],
+      "readings": ["Ch. 8 in [2]"],
+      "assignments": ["Hwk 1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Conditional Maximum likelihood estimators", "Approximations", "Applications to financial models"],
+      "readings": [],
+      "assignments": ["Hwk 2"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Confidence intervals", "Testing Hypotheses on Population Means and Proportions"],
+      "readings": ["Ch 6, 7.1, 8.1 in [4]"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Two Population tests for Means and Proportions"],
+      "readings": ["Ch 7.2, 8.2 in [4]"],
+      "assignments": ["Hwk 3"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Tests of Population Variance", "Two Populations"],
+      "readings": ["Ch 7.3 in [4]"],
+      "assignments": ["Hwk 4"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm examination"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Categorical Data Analysis", "One and Two Way Tables", "Goodness of Fit test", "Independence test", "Regression"],
+      "readings": ["Ch 9 in [4]", "Part 1 in [3]"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Regression (cont)", "Least Squares Fitting", "Analysis and Testing", "Prediction"],
+      "readings": ["Part 2 in [3]"],
+      "assignments": ["Project update"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Multiple Regression", "Confidence intervals", "ANOVA table", "multiple R2", "residuals"],
+      "readings": ["Part 2 in [3]"],
+      "assignments": ["Hwk 5"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Analysis of variance (ANOVA) models", "Applications", "Expansion to mixture models", "Analysis of Covariance"],
+      "readings": ["Ch 12, 13 in [4]", "Ch 14 in [4]"],
+      "assignments": ["Hwk 6"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Logistic regression"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Intro to Risk measures: VaR, CVaR and CoVar", "Bootstrap Method and Permutation tests"],
+      "readings": ["Ch 16 in [4]"],
+      "assignments": ["Hwk 7"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Applications", "Review and catching up"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "30%",
+      "exams": "35%",
+      "projects": "40%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "name": "Hwk 1",
+      "description": ""
+    },
+    {
+      "name": "Hwk 2",
+      "description": ""
+    },
+    {
+      "name": "Hwk 3",
+      "description": ""
+    },
+    {
+      "name": "Hwk 4",
+      "description": ""
+    },
+    {
+      "name": "Hwk 5",
+      "description": ""
+    },
+    {
+      "name": "Hwk 6",
+      "description": ""
+    },
+    {
+      "name": "Hwk 7",
+      "description": ""
+    },
+    {
+      "name": "Final Project",
+      "description": "Design and produce a project which contains a data component and is applicable to their primary field of study."
+    },
+    {
+      "name": "Final Presentation",
+      "description": "Presentation of the final project."
+    }
+  ],
+  "policies": {
+    "attendance": "Active participation will be rewarded with bonus points that will count up to 5% of the grade.",
+    "late_work": "Late assignments will not be accepted under any circumstances without prior notice and permission of the instructor.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm examination",
+      "date": "Week 7"
+    },
+    {
+      "event": "Final Project Presentation",
+      "date": "Finals week"
+    }
+  ],
+  "additional_info": {
+    "course_format": "In-person classes held in Hanlon 2 Lab unless otherwise announced.",
+    "technology_requirements": "Students must know how to program using R.",
+    "support_resources": "Office of Disability Services, Office of Counseling and Psychological Services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:11:25.730919",
+    "pdf_source": "../StevensCourses/Syllabus.FE541.fall2024.pdf",
+    "source_type": "file",
+    "text_length": 16878,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Applied Statistics with applications to Finance",
+      "code": "FE 541",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Ionut Florescu",
+        "email": "ifloresc@stevens.edu",
+        "office_hours": "M 4:00-6pm, and by appointment",
+        "contact_info": "(201) 216-5452"
+      }
+    },
+    "course_description": "The course prepares students to employ essential ideas and reasoning of applied statistics.",
+    "learning_outcomes": [
+      "Understand and summarize complex data sets through graphs and numerical measures",
+      "Calculate estimates of parameters using fundamental statistical methods",
+      "Give measures of how good the estimators are by providing confidence intervals or approximate confidence intervals",
+      "Apply statistical tests to experimental observations",
+      "Estimate and calibrate parameters of mathematical models using real data",
+      "Study relationships between two or more random variables",
+      "Lay the foundation for a more advanced applied statistical course such as time series analysis, statistical learning, deep learning, and more."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [
+      "A sound understanding of probability gathered through an undergraduate class such as MA222 or QF 212 or equivalent."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [
+      "FE540 is a co-requisite if such knowledge has gaps."
+    ],
+    "corequisites_count": 1
+  }
+}

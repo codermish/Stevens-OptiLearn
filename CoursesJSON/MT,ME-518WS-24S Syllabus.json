@@ -1,0 +1,171 @@
+{
+  "textbooks": [
+    {
+      "title": "Principles of Solar Engineering",
+      "author": "D. Yogi Goswami",
+      "edition": "4rd ed.",
+      "ISBN": "978-1-032-15500-5"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Solar Energy", "Historical Perspective", "Energy Use in the United States", "Why is Solar Power on the Rise Now", "Use of Solar Photovoltaics in the US"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Review of Basic Heat Transfer Principles", "Conduction", "Radiation", "Convection", "Combined Heat Transfer Mechanisms"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Fundamentals of Solar Radiation", "The Nature of Solar Radiation", "Radiation on Earth’s Surface", "Solar and Local Standard Time", "Isogonic Chart", "Sun Path Chart", "Variation in Insolation", "Measurement of Insolation", "Radiation on Tilted Surfaces", "Absorption, Transmission, Reflection"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Solar Design Criteria", "Site Planning", "Building Location, Shape and Orientation", "Shading Effects", "Building Heat Losses", "Heat Load Calculations", "Internal Heat Sources in Buildings", "Climate – Degree Days", "Principles of Building for Energy Conservation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Collectors of Solar Radiation", "Photovoltaic (PV) Modules", "Solar Thermal Collectors", "Types of Solar Thermal Collectors", "Flat Plate Collectors", "Liquid-Type Collectors", "Air Collectors", "Construction", "Absorber Plate", "Cover Plate", "Enclosure / Insulation", "Thermal Analysis of Flat Plate Collectors", "Collector Efficiency", "Evacuated Tube Collectors", "Concentrating Collectors", "Parabolic Dish and Trough Concentrators", "Central Receiver Collector - Power Tower", "Collector Selection"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Transfer and Storage of Heat", "Types of Transfer Fluids", "Water and Water/Glycol Mixtures", "Hydrocarbon Oils", "Silicone Liquids", "Heat Pipes", "Types of Thermal Energy Storage", "Sensible Heat Storage", "Water Heat Storage", "Rock Bed Storage", "Latent Heat Storage", "Solid ↔ Liquid, Liquid ↔ Vapor, Solid ↔ Solid", "Thermo-chemical heat storage", "Decomposition of metal hydrides, oxides, peroxides etc.", "Design of Storage System", "Selection of Storage Material", "Design of Containment", "Sizing of Storage System", "Temperature Stratification"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Passive Solar Heating Systems", "Introduction to Passive Solar Technology", "Types of Passive Heating Systems", "Direct Gain Systems", "Indirect Gain Systems", "Attached Green House", "Masonry and Water Thermal Storage Wall", "Convective Loop", "The Envelope House", "The Passive Hybrid System", "Thermal Mass", "The Trombe Wall", "Design", "Predicting Passive Solar Heating Performance"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Active Solar Heating Systems", "Domestic Hot Water Heating", "Thermo-siphoned and Pumped Circulation Systems", "Domestic Hot Water Heating Loads", "Sizing of System Components", "System Installation Principles", "Swimming Pool Heating", "Space Heating", "Liquid and Air Systems", "System Design Principles", "Sizing of Collectors and Thermal Storage"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Solar Cooling of Buildings", "Cooling Requirements of Buildings", "Cooling Load Calculations", "Space Cooling Systems", "Absorption Refrigeration", "Evaporation Cooling with Rock Bed Storage", "Heat Pumps"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Photovoltaics (PV)", "PV Basic Principles", "The physics behind PV", "PV Cells", "PV Materials", "Solar Cell Fabrication Processes", "Photovoltaic System Types", "Stand-alone Systems", "Systems with Battery Storage", "System with Back-up Generator Power", "System Connected to the Utility Grid", "Hybrid Systems", "System Installation", "PV System Design", "Module Performance", "PV Research and Development", "A Sampling of Photovoltaic Systems in the United States"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Solar Energy Economics", "Introduction", "Principles of Discounted Cash Flow Analysis", "Annualized Present Worth", "Capital Recovery Factor – Series of Payments", "Solar System Life Cycle Cost", "Annualized Solar Costs – Residential Applications", "Solar System Optimization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["A Sampling of Solar Heated Homes in the United States", "Introduction", "Green Building Design", "Solar Design Features", "Performance"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "70%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": "20% of the total points will be deducted for assignments received 1-3 days late; assignments received more than 3 days late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "description": "Homework assigned on Mondays, due a week later on Monday (not later than 12:00am EST)."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1-3 days late; assignments received more than 3 days late will receive 0 points.",
+    "academic_integrity": "Students must write and sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology provides accommodations for students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Mid-Term Test Posted",
+      "date": "Monday, February 26, 2024"
+    },
+    {
+      "event": "Mid-Term Test Due",
+      "date": "Monday, March 4, 2024"
+    },
+    {
+      "event": "Spring Recess",
+      "date": "Monday, March 11, 2024"
+    },
+    {
+      "event": "Final Test Posted",
+      "date": "Thursday, April 25, 2024"
+    },
+    {
+      "event": "Final Test Due",
+      "date": "Thursday, May 2, 2024"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas. Required equipment includes a current Mac (OS X) or PC (Windows 10) with high-speed internet connection. Required software includes Microsoft Word, Microsoft Excel, and Microsoft PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:46:54.917323",
+    "pdf_source": "../StevensCourses\\MT,ME-518WS-24S Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 23134,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Solar Energy, Theory & Application",
+      "code": "ME/MT-518WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Charles Cohn",
+        "email": "charlescohn17@yahoo.com",
+        "office_hours": "Any time during the week, 9:00am – 5:00pm",
+        "contact_info": "Canvas e-mail or Tel. 973-696-4611"
+      }
+    },
+    "course_description": "The course is intended for students who have interest in alternate energy sources as a contributor to sustainability. It provides a comprehensive treatise on the science and technology of solar energy, its collection and the design principles that need to be understood for its effective use in a variety of installations and uses.",
+    "learning_outcomes": [
+      "Understand the factors that influence the use of solar radiation as an energy source.",
+      "Know the various active and passive technologies that are available for collecting solar energy.",
+      "Have the ability to apply design principles to selection of an appropriate solar energy installation to meet requirements."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

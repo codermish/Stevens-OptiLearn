@@ -1,0 +1,77 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {"topics": ["Introduction to Wireless Networking"], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": ["Wireless Transmission Fundamentals"], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": ["Wireless LAN Technologies"], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": ["Cellular Networks and Mobile IP"], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": ["Wireless Sensor Networks"], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": ["Ad hoc and Mesh Networks"], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": ["Wireless Network Security"], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": ["Mobile Device Management and Internet of Things (IoT)"], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": ["Wireless Network Performance and Optimization"], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": ["Cognitive Radio and Dynamic Spectrum Access"], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": ["Next-Generation Wireless Technologies"], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": ["Case Studies and Emerging Topics"], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "50%",
+      "exams": "",
+      "projects": "50%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work. A student’s submission of work for academic credit indicates that the work is the student's own. All outside assistance must be acknowledged. Any student who violates this code or who knowingly assists another student in violating this code shall be subject to discipline.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities. The Office of Disability Services (ODS) works with undergraduate and graduate students with learning disabilities, attention deficit-hyperactivity disorders, physical disabilities, sensory impairments, psychiatric disorders, and other disabilities to help students achieve their academic and personal potential."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:09:12.794097",
+    "pdf_source": "../StevensCourses/Syllabus-EE-582.pdf",
+    "source_type": "file",
+    "text_length": 8591,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Wireless Networking: Architectures, Protocols, and Standards",
+      "code": "EE-582",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Prof. Yu-Dong Yao",
+        "email": "yyao@stevens.edu",
+        "office_hours": "Zoom: Monday/Thursday 7:00PM; In-Person: Friday 4:00PM",
+        "contact_info": "(201) 216-5264"
+      }
+    },
+    "course_description": "This course addresses the fundamentals of wireless networking, including architectures, protocols, and standards. It describes concepts, technology and applications of wireless networking as used in current and next-generation wireless networks. It explains the engineering aspects of network functions and designs. Issues such as mobility management, wireless enterprise networks, GSM, network signaling, WAP, mobile IP, and 3/4/5G systems are covered.",
+    "learning_outcomes": [
+      "Student will be able to understand the relevance of mathematical principles in wireless network designs.",
+      "Student will be able to identify inputs and outputs in wireless networks.",
+      "Student will be able to understand the key modules in wireless networks.",
+      "Student will be able to understand the design principles and methods in wireless networks.",
+      "Student will be able to develop ideas for presentation by clearly outlining crucial concepts.",
+      "Student will be able to follow current professional literature in various media."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

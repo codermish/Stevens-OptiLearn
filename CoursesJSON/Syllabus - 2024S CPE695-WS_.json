@@ -1,0 +1,209 @@
+{
+  "textbooks": [
+    {
+      "title": "Machine learning",
+      "author": "Mitchell, T.",
+      "edition": "2017",
+      "ISBN": "978-1-25-909695-2"
+    },
+    {
+      "title": "Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow : concepts, tools, and techniques to build intelligent systems",
+      "author": "Géron, A.",
+      "edition": "2019",
+      "ISBN": "1492032646"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction & Tools"],
+      "readings": ["Mitchell, Chapter 1", "Geron, Chapters 1 and 2"],
+      "assignments": ["Module 1 Quiz", "Begin Homework 1"],
+      "due_dates": ["January 22"]
+    },
+    "week2": {
+      "topics": ["Linear Regression"],
+      "readings": ["Geron, Chapter 4"],
+      "assignments": ["Module 2 Quiz", "Continue Homework 1"],
+      "due_dates": ["January 29"]
+    },
+    "week3": {
+      "topics": ["Logistic Regression"],
+      "readings": ["Geron, Chapters 3 and 4"],
+      "assignments": ["Module 3 Quiz", "Submit Homework 1", "Begin Homework 2", "Form a team"],
+      "due_dates": ["February 5"]
+    },
+    "week4": {
+      "topics": ["Decision Tree Learning"],
+      "readings": ["Mitchell, Chapter 3", "Geron, Chapter 6"],
+      "assignments": ["Module 4 Quiz", "Continue Homework 2", "Submit Team Roster"],
+      "due_dates": ["February 12"]
+    },
+    "week5": {
+      "topics": ["Bias-Variance Tradeoff; Ensemble Learning; Random Forest"],
+      "readings": ["Geron, Chapter 7"],
+      "assignments": ["Module 5 Quiz", "Submit Homework 2", "Begin Homework 3"],
+      "due_dates": ["February 19"]
+    },
+    "week6": {
+      "topics": ["Support Vector Machine"],
+      "readings": ["Geron, Chapter 5"],
+      "assignments": ["Module 6 Quiz", "Continue Homework 3", "Submit Team Project Proposal"],
+      "due_dates": ["February 26"]
+    },
+    "week7": {
+      "topics": ["Bayesian Learning"],
+      "readings": ["Mitchell, Chapter 6"],
+      "assignments": ["Module 7 Quiz", "Submit Homework 3", "Begin Homework 4"],
+      "due_dates": ["March 4"]
+    },
+    "week8": {
+      "topics": ["Artificial Neural Networks"],
+      "readings": ["Mitchell, Chapter 4", "Geron, Chapter 10"],
+      "assignments": ["Module 8 Quiz", "Continue Homework 4"],
+      "due_dates": ["March 18"]
+    },
+    "week9": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Evaluating Hypothesis"],
+      "readings": ["Mitchell, Chapter 5", "Geron, Chapter 15"],
+      "assignments": ["Module 9 Quiz", "Continue Homework 4", "Submit Team Project Mid-Stage Report"],
+      "due_dates": ["April 1"]
+    },
+    "week11": {
+      "topics": ["Unsupervised Learning; Dimensionality Reduction"],
+      "readings": ["Marsland, Sections 7.1 and 14.1", "Geron, Chapters 8 and 9"],
+      "assignments": ["Module 10 Quiz", "Submit Homework 4", "Begin Homework 5"],
+      "due_dates": ["April 8"]
+    },
+    "week12": {
+      "topics": ["Genetic Algorithm"],
+      "readings": ["Mitchell, Chapter 9", "Marsland, Chapter 10"],
+      "assignments": ["Module 11 Quiz", "Continue Homework 5"],
+      "due_dates": ["April 15"]
+    },
+    "week13": {
+      "topics": ["Introduction to Deep Learning (1)"],
+      "readings": ["Geron, Chapters 11 and 14"],
+      "assignments": ["Module 12 Quiz", "Submit Homework 5"],
+      "due_dates": ["April 22"]
+    },
+    "week14": {
+      "topics": ["Introduction to Deep Learning (2)"],
+      "readings": ["Geron, Chapters 15 and 16"],
+      "assignments": ["Module 13 Quiz"],
+      "due_dates": ["April 29"]
+    },
+    "week15": {
+      "topics": [],
+      "readings": [],
+      "assignments": ["Submit 1) Final Report and 2) Presentation"],
+      "due_dates": ["May 6"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10% 100 points",
+      "assignments": "32% 320 points",
+      "exams": "12% 120 points",
+      "projects": "30% 300 points",
+      "quizzes": "16% 160 points",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late submissions incur a 25% penalty if submitted within 7 days after the deadline; no submissions accepted beyond 7 days."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Homework 2",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Homework 3",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Homework 4",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Homework 5",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Team Project Proposal",
+      "description": "Proposal for the final project."
+    },
+    {
+      "name": "Team Project Mid-Stage Report",
+      "description": "Mid-stage report for the final project."
+    },
+    {
+      "name": "Final Report and Presentation",
+      "description": "Final report and presentation for the project."
+    }
+  ],
+  "policies": {
+    "attendance": "Students are expected to view recorded lectures and participate in live sessions.",
+    "late_work": "25% penalty for late homework and project submissions within 7 days; no late submissions accepted beyond 7 days.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [
+    "January 22 - Start of Course",
+    "March 11 - Spring Recess. No Class.",
+    "April 1 - Midterm Exam",
+    "May 6 - Final Report and Presentation Due"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online with recorded lectures and live sessions.",
+    "technology_requirements": "Python 3, NumPy, Scikit-Learn, Matplotlib, Jupyter Notebooks.",
+    "support_resources": "Contact Technology Resource and Assistance Center (TRAC) for course access support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:56:22.166993",
+    "pdf_source": "../StevensCourses/Syllabus - 2024S CPE695-WS_.pdf",
+    "source_type": "file",
+    "text_length": 16196,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Applied Machine Learning",
+      "code": "AAI/CPE/EE 695-WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Elijah Bolluyt",
+        "email": "ebolluyt@stevens.edu",
+        "office_hours": "5:30PM-8:30PM Thursdays, by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "An introductory course for machine learning theory, algorithms, and applications.",
+    "learning_outcomes": [
+      "Demonstrate basic principles and algorithms of representative machine learning systems including supervised learning, unsupervised learning, batch learning, online learning, model-based learning, and instance-based learning.",
+      "Determine appropriate machine learning algorithms for real-world tasks.",
+      "Evaluate the performance of a machine learning system with appropriate performance measurement metrics.",
+      "Apply appropriate training, evaluation, and parameter tuning techniques to improve machine learning algorithms.",
+      "Develop a machine learning system with programming languages such as Python.",
+      "Create interactive documentation with program codes and rich texts.",
+      "Write a comprehensive report to communicate the main ideas, techniques, and findings of a machine learning project."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [
+      "Basic probability and statistics",
+      "Familiarity with Python language"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

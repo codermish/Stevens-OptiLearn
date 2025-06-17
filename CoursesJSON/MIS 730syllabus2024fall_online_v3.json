@@ -1,0 +1,210 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction", "Overview of the course", "Design space", "Evaluation space", "Generative AI", "Discussion of first problem"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["First Problem Presentations 1", "Crit", "Bios/Photos in Canvas"],
+      "readings": [
+        "Portraying Design Essence",
+        "Design space notes (in Canvas)",
+        "Wikipedia: Generative AI",
+        "Word Embedding",
+        "Work (Human Activity)",
+        "Unified Modeling Language",
+        "Modularity",
+        "Pareto-optimal"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["First Problem Presentations 2", "Crit", "Prototyping discussion"],
+      "readings": [
+        "Wikipedia: Information Visualization",
+        "Ontology",
+        "Dimension",
+        "Cartesian Product",
+        "Code Reuse",
+        "Optimization",
+        "Satisficing",
+        "Tradeoff",
+        "Design Pattern",
+        "Remix",
+        "MEAN (software_bundle)",
+        "D3.JS"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Second Problem Presentation 1", "Crit"],
+      "readings": [
+        "Wikipedia: Personal Information Manager",
+        "Personal Information Management"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Second Problem Presentation 2", "Crit", "Mechanisms of Integration"],
+      "readings": [
+        "Wikipedia: Asynchronous I/O",
+        "Abstraction layer",
+        "ACID (Atomicity, etc)",
+        "Microservices"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Third Problem Presentation 1", "Crit"],
+      "readings": [
+        "Wikipedia: Network devices",
+        "Internet Protocol Suite",
+        "SaaS (Software as a Service)",
+        "Cloud Computing"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Third Problem Presentation 2", "Crit", "Memory and Disk", "Moore's law", "How storage speeds drive design decisions"],
+      "readings": [
+        "Wikipedia: Storage hierarchy",
+        "Moore’s law",
+        "Disk Drives",
+        "Solid State Drives"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Review of midterm", "Discussion of final projects", "Ideas for projects"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Working session on final projects", "Come prepared to start working with your team", "Guest lecturer"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Machine Learning, AI, Autonomous Tools", "Trends in AI: LLMs, Diffusion models, Multi-modal systems, alignment"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Designing the Metaverse", "Augmented and Virtual Reality", "Gaming platforms and the ongoing design of the metaverse"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Final Presentations 1"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Final Presentations 2"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Final project due as a Powerpoint and/or as a word document."]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "60%",
+      "exams": "",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "title": "Quizzes, midterm, and homework (individual and group)",
+      "description": "Group grades as one grade for all members, adjusted based on individual contributions."
+    },
+    {
+      "title": "Final Project",
+      "description": "Presentation and report."
+    }
+  ],
+  "policies": {
+    "attendance": "If you don’t come to class, you get a zero on the quiz given in the class.",
+    "late_work": "",
+    "academic_integrity": "Cite the work that influences your design.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    "9/4: Introduction",
+    "9/11: First Problem Presentations 1",
+    "9/18: First Problem Presentations 2",
+    "9/25: Second Problem Presentation 1",
+    "10/2: Second Problem Presentation 2",
+    "10/9: Third Problem Presentation 1",
+    "10/16: Third Problem Presentation 2",
+    "10/23: Midterm",
+    "10/30: Review of midterm",
+    "11/6: Working session on final projects",
+    "11/13: Machine Learning, AI, Autonomous Tools",
+    "11/20: Designing the Metaverse",
+    "11/27: Thanksgiving Break – no class",
+    "12/4: Final Presentations 1",
+    "12/11: Final Presentations 2"
+  ],
+  "additional_info": {
+    "course_format": "Web",
+    "technology_requirements": "Generative AI tools for homework assignments.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:42:48.507615",
+    "pdf_source": "../StevensCourses/MIS 730syllabus2024fall_online_v3.pdf",
+    "source_type": "file",
+    "text_length": 16038,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Integrating IS Technologies",
+      "code": "MIS 730",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Jeffrey Nickerson",
+        "email": "jnickerson@stevens.edu",
+        "office_hours": "Tuesday 11:15am-12:15 pm.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course focuses on ways of designing and integrating information systems architectures.",
+    "learning_outcomes": [
+      "By the end of this course, students will be able to formulate a series of plausible alternative designs for integrating technologies.",
+      "Students will know the different components of IS architectures, how they work, and how they integrate with each other.",
+      "Students will improve their ability to communicate about design in group and presentation settings."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

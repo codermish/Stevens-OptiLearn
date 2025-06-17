@@ -1,0 +1,223 @@
+{
+  "textbooks": [
+    {
+      "title": "Data points: visualization that means something",
+      "author": "Nathan Yau",
+      "edition": "1st",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation and Introductions"],
+      "readings": [
+        "Data visualization literacy: Definitions, conceptual frameworks, exercises.",
+        "Principles of Effective Data Visualization",
+        "Top considerations for effective visualizations"
+      ],
+      "assignments": ["HW: Data Visualization in Your Life", "Quiz", "Discussion Board"],
+      "due_dates": ["Sunday after Week 1"]
+    },
+    "week2": {
+      "topics": ["Recap of Python"],
+      "readings": ["Data Structures", "Data structures in Python"],
+      "assignments": ["HW: Data Structures", "Quiz", "Discussion Board"],
+      "due_dates": ["Sunday after Week 2"]
+    },
+    "week3": {
+      "topics": ["Data Manipulation 1"],
+      "readings": [
+        "The Data Life Cycle",
+        "8 Steps in the data life cycle",
+        "CRISP-DM for Data Science: Strengths, Weaknesses and Potential Next Steps"
+      ],
+      "assignments": ["HW: Data Manipulation 1", "Quiz", "Discussion Board"],
+      "due_dates": ["Sunday after Week 3"]
+    },
+    "week4": {
+      "topics": ["Data Manipulation 2"],
+      "readings": ["Long vs Wide Data"],
+      "assignments": ["HW: Data Manipulation 2", "Quiz", "Discussion Board"],
+      "due_dates": ["Sunday after Week 4"]
+    },
+    "week5": {
+      "topics": ["Developing Basic Charts"],
+      "readings": ["Midterm Project Instructions", "Matplotlib examples"],
+      "assignments": ["HW: Basic Graphs", "Quiz"],
+      "due_dates": ["Sunday after Week 5"]
+    },
+    "week6": {
+      "topics": ["Enhancing Basic Graphs"],
+      "readings": ["Midterm Project Instructions", "Seaborn examples"],
+      "assignments": ["HW: Enhancing Basic Graphs", "Quiz"],
+      "due_dates": ["Sunday after Week 6"]
+    },
+    "week7": {
+      "topics": ["Midterm Project - Storytelling"],
+      "readings": ["Midterm Project Instructions"],
+      "assignments": ["Midterm Project"],
+      "due_dates": ["Sunday after Week 7"]
+    },
+    "week8": {
+      "topics": ["Spatial Data and Time Series"],
+      "readings": ["Midterm Project Instructions", "Seaborn examples"],
+      "assignments": ["HW: Spatial Data", "Quiz"],
+      "due_dates": ["Sunday after Week 8"]
+    },
+    "week9": {
+      "topics": ["Interactive Visualizations & Heatmaps"],
+      "readings": ["These Heatmaps Show How Retailers Shop"],
+      "assignments": ["HW: Heatmaps and Treemaps", "Quiz", "Discussion Board"],
+      "due_dates": ["Sunday after Week 9"]
+    },
+    "week10": {
+      "topics": ["Interactive Visualizations: Introduction to Dashboards"],
+      "readings": [
+        "Five key properties of interactive data visualization",
+        "3 Ways Data Dashboards Can Mislead You",
+        "Build a Better Dashboard for Your Agile Project"
+      ],
+      "assignments": ["HW: Introduction to Dashboards", "Discussion Board"],
+      "due_dates": ["Sunday after Week 10"]
+    },
+    "week11": {
+      "topics": ["Text Analysis Visualization"],
+      "readings": [
+        "Review Final Project Instructions",
+        "Text Analytics 101: The C-Suite Guide to Mining The Voice of The Customer",
+        "Natural Language Processing (NLP)",
+        "Actionable Strategies in Real-Time Marketing Using Sentiment Analysis"
+      ],
+      "assignments": ["HW: Text Analysis", "Discussion Board"],
+      "due_dates": ["Sunday after Week 11"]
+    },
+    "week12": {
+      "topics": ["Network Graphs"],
+      "readings": ["An introduction to Graph, The Essential Data Analysis Tool"],
+      "assignments": ["HW: Network Graphs", "Quiz"],
+      "due_dates": ["Sunday after Week 12"]
+    },
+    "week13": {
+      "topics": ["Working with Image Data"],
+      "readings": [
+        "The Hidden Dilemma in Harnessing AI to Combat COVID-19",
+        "Understanding DICOM"
+      ],
+      "assignments": ["Final Project", "Quiz"],
+      "due_dates": ["Sunday after Week 13"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "25%",
+      "exams": "",
+      "projects": "45%",
+      "quizzes": "10%",
+      "final": "25%"
+    },
+    "scale": "",
+    "policies": "25% of the total points will be deducted for late assignments."
+  },
+  "assignments": [
+    {
+      "name": "Data Visualization in Your Life",
+      "description": "Homework assignment for Module 1"
+    },
+    {
+      "name": "Data Structures",
+      "description": "Homework assignment for Module 2"
+    },
+    {
+      "name": "Data Manipulation 1",
+      "description": "Homework assignment for Module 3"
+    },
+    {
+      "name": "Data Manipulation 2",
+      "description": "Homework assignment for Module 4"
+    },
+    {
+      "name": "Basic Graphs",
+      "description": "Homework assignment for Module 5"
+    },
+    {
+      "name": "Enhancing Basic Graphs",
+      "description": "Homework assignment for Module 6"
+    },
+    {
+      "name": "Midterm Project",
+      "description": "Project for Module 7"
+    },
+    {
+      "name": "Spatial Data",
+      "description": "Homework assignment for Module 8"
+    },
+    {
+      "name": "Heatmaps and Treemaps",
+      "description": "Homework assignment for Module 9"
+    },
+    {
+      "name": "Introduction to Dashboards",
+      "description": "Homework assignment for Module 10"
+    },
+    {
+      "name": "Text Analysis",
+      "description": "Homework assignment for Module 11"
+    },
+    {
+      "name": "Network Graphs",
+      "description": "Homework assignment for Module 12"
+    },
+    {
+      "name": "Final Project",
+      "description": "Final project for Module 13"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "25% of the total points will be deducted for late assignments.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Python 3.8.2, IDE PyCharm Community, Microsoft PowerPoint.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:09:04.955212",
+    "pdf_source": "../StevensCourses\\EM 622 Syllabus_Summer_23.pdf",
+    "source_type": "file",
+    "text_length": 19471,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Analysis and Visualization Techniques for Decision-Making",
+      "code": "EM 622",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2023",
+      "instructor": {
+        "name": "Sergio Luna",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course provides a hands-on introduction to the modern techniques for visualizing data and leverages such techniques with the corresponding problem-solving skills necessary to complement data visualization into specific strategic decision making.",
+    "learning_outcomes": [
+      "Determine appropriate visualization charts based on data attributes and analysis.",
+      "Assess data-driven projects by evaluating data analytics frameworks and the respective lifecycle phases.",
+      "Analyze projects through the lens of critical thinking by answering 5WH questions, and contextualizing the 'so-what'.",
+      "Create Python scripts to develop visualization charts.",
+      "Generate data-driven insights by loading, cleaning, transforming, and visualizing datasets using Python.",
+      "Develop static and interactive charts to visualize scenarios such as change over time, spatial visualizations, distribution and variation, correlation, magnitude by category, part-to-whole, network graphs, and text data.",
+      "Formulate a data analytics project manuscript and presentation describing clear project objectives, explaining the data analytics process implemented, and summarizing the study into key insights and recommendations for stakeholders."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

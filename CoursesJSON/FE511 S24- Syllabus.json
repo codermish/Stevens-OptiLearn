@@ -1,0 +1,160 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course introduction", "Account set up", "Login and navigation overview"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["B- Fundamental Analysis", "BMC- Economic Indicators- Part I"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["B- Fundamental Analysis", "BMC- Economic Indicators- Part II"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["B- Fundamental Analysis", "BMC- Currencies- Part I"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["B- Fundamental Analysis", "BMC- Currencies- Part II"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["B- Fundamental Analysis", "BMC- Fixed Income- Part I"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["B- Fundamental Analysis", "BMC- Fixed Income- Part II"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["B- Fundamental Analysis", "BMC- Fixed Income- Part III"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["B- Fundamental Analysis", "BMC- Equities- Part I"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["B- Fundamental Analysis", "BMC- Equities- Part II"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["B- API", "Bloomberg API- R and Excel"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["C- API and WRDS", "Capital IQ API- Excel, WRDS query"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["B- Fundamental Analysis", "BMC- Portfolio Management I and II"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["TBD"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "55%",
+      "exams": "",
+      "projects": "45%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Homework",
+      "due": "Submitted by the deadline"
+    },
+    {
+      "description": "Individual Project",
+      "due": "By the end of the semester"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "Stevens Institute of Technology holds its students to the highest standard and expects exemplary academic behavior from them.",
+    "accommodations": "If any course meetings conflict with your religious events, please reach out to your instructor to make alternative arrangements."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Weekly 1 credit-hour lab sessions (50 minute class period)",
+    "technology_requirements": "Bloomberg terminal and Capital IQ access required for web section.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:17:50.555972",
+    "pdf_source": "../StevensCourses\\FE511 S24- Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 5755,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Bloomberg and Thomson Reuters",
+      "code": "FE-511A/WS",
+      "credits": "1",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Agathe Sadeghi",
+        "email": "asadeghi@stevens.edu",
+        "office_hours": "",
+        "contact_info": "Babbio - Room 209"
+      }
+    },
+    "course_description": "This course is designed to teach students the nature and availability of financial data at Stevens.",
+    "learning_outcomes": [
+      "Navigate the available data using the Bloomberg terminal.",
+      "Retrieve relevant information for your projects.",
+      "Learn how to use Bloomberg API (R and EXCEL).",
+      "Navigate through Capital IQ database.",
+      "Learn how to use Capital IQ API (EXCEL).",
+      "Learn how to run queries in WRDS."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "This course is a prerequisite for any practical or empirical project using real data in Finance at graduate level.",
+      "Every student enrolled in the capstone project course FE800 or planning to do a Thesis FE900 should have taken this course."
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "textbooks": [
+    {
+      "title": "zyBook Introduction to Java Programming",
+      "type": "Online ebook",
+      "description": "Includes practice activities and challenge activities",
+      "purchase_link": "Provided in the Canvas course"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Java"],
+      "readings": [],
+      "assignments": ["Module 1 Quiz", "Introduction Discussion Post"],
+      "due_dates": ["11:59 PM ET on Sunday, Feb 7, 2021"]
+    },
+    "week2": {
+      "topics": ["Variables/Assignments"],
+      "readings": [],
+      "assignments": ["Programming Assignment 1 Assigned", "Module 2 Quiz"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Branches"],
+      "readings": [],
+      "assignments": ["Programming Assignment 1 Due", "Module 3 Quiz"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Loops"],
+      "readings": [],
+      "assignments": ["Programming Assignment 2 Assigned", "Module 4 Quiz"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Arrays"],
+      "readings": [],
+      "assignments": ["Programming Assignment 2 Due", "Module 5 Quiz"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["User-Defined Methods"],
+      "readings": [],
+      "assignments": ["Programming Assignment 3 Assigned", "Module 6 Quiz"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Objects and Classes"],
+      "readings": [],
+      "assignments": ["Programming Assignment 3 Due", "Module 7 Quiz"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Memory Management"],
+      "readings": [],
+      "assignments": ["Programming Assignment 4 Assigned", "Module 8 Quiz"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Input/Output"],
+      "readings": [],
+      "assignments": ["Programming Assignment 4 Due", "Module 9 Quiz"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Inheritance"],
+      "readings": [],
+      "assignments": ["Programming Assignment 5 Assigned", "Module 10 Quiz"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Exceptions"],
+      "readings": [],
+      "assignments": ["Programming Assignment 5 Due", "Module 11 Quiz"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Searching and Sorting"],
+      "readings": [],
+      "assignments": ["Programming Assignment 6 Assigned", "Module 12 Quiz"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Recursion"],
+      "readings": [],
+      "assignments": ["Programming Assignment 6 Due", "Module 13 Quiz"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "40%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "15%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "20% of the total points will be deducted for assignments received 1-2 days late; assignments received more than 2 days late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Programming Assignment 1",
+      "description": "Assigned in Module 2, Due in Module 3"
+    },
+    {
+      "name": "Programming Assignment 2",
+      "description": "Assigned in Module 4, Due in Module 5"
+    },
+    {
+      "name": "Programming Assignment 3",
+      "description": "Assigned in Module 6, Due in Module 7"
+    },
+    {
+      "name": "Programming Assignment 4",
+      "description": "Assigned in Module 8, Due in Module 9"
+    },
+    {
+      "name": "Programming Assignment 5",
+      "description": "Assigned in Module 10, Due in Module 11"
+    },
+    {
+      "name": "Programming Assignment 6",
+      "description": "Assigned in Module 12, Due in Module 13"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1-2 days late; assignments received more than 2 days late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Assignments due by 11:59 PM ET on Sunday, Feb 7, 2021"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Canvas Zoom. Required equipment includes a current Mac or PC with high-speed internet, a webcam, and a microphone. Required software includes Microsoft Word, Java SDK, and Eclipse IDE.",
+    "support_resources": "For more information about course access or support, contact the TRAC by calling 201-380-6599 or 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:45:45.010954",
+    "pdf_source": "../StevensCourses\\CS 501 Introduction to Java.pdf",
+    "source_type": "file",
+    "text_length": 20112,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Java Programming",
+      "code": "CS 501",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Debbie Reid",
+        "email": "dreid@stevens.edu",
+        "office_hours": "Virtual Office Hours are stated on the Canvas home page.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course introduces the Java programming language to students with little programming experience.",
+    "learning_outcomes": [
+      "Apply programming techniques including decision and loop structures, arrays, sorts, string handling, and subprograms to create and execute Java programs.",
+      "Apply object-oriented programming principles including classes, test classes, objects, methods, and exception handling in multiple files.",
+      "Develop graphical user interfaces and components.",
+      "Create a project using advanced JAVA features."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

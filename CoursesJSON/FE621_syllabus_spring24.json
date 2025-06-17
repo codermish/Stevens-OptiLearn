@@ -1,0 +1,80 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {"topics": ["Review of financial modeling and numerical analysis"], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": ["Lattice/tree methods"], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": ["Monte Carlo simulation"], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": ["Finite-difference methods"], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": ["Calibration and optimization"], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": ["Machine learning techniques"], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": ["Applications in asset allocation"], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": ["Risk management"], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": ["High-frequency trading (HFT)"], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "90%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "At least five individual homework assignments",
+      "details": "You have 5 'late days' over the semester. Beyond that, late homework will not be accepted."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is mandatory.",
+    "late_work": "You have 5 'late days' over the semester. Beyond that, late homework will not be accepted.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "In-person and Zoom",
+    "technology_requirements": "Familiarity with a programming language such as Matlab, R, or Python.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:19:00.899117",
+    "pdf_source": "../StevensCourses\\FE621_syllabus_spring24.pdf",
+    "source_type": "file",
+    "text_length": 8917,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Computational Methods in Finance",
+      "code": "FE 621",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Sveinn Ólafsson",
+        "email": "solafsso@stevens.edu",
+        "office_hours": "TBA in Babbio 514 / Zoom",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Provide students with understanding of essential computational tools used by quantitative analysts in the financial industry.",
+    "learning_outcomes": [
+      "Understanding of essential computational tools used by quantitative analysts in the financial industry.",
+      "Ability to apply these tools to forecasting, asset pricing, hedging, risk management, and other financial applications."
+    ],
+    "learning_outcomes_count": 2,
+    "prerequisites": [
+      "Stochastic calculus at the level of FE543/FE610."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

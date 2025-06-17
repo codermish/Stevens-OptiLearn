@@ -1,0 +1,225 @@
+{
+  "textbooks": [
+    {
+      "title": "Human Spaceflight Mission Analysis and Design",
+      "author": "Larson and Pranke",
+      "edition": "2nd",
+      "ISBN": ""
+    },
+    {
+      "title": "Understanding Space: An Introduction to Astronautics",
+      "author": "Sellers, et al.",
+      "edition": "4th",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Designing Human Space Missions"],
+      "readings": ["Handout up to page 16"],
+      "assignments": ["Personal Study Plan and Profile", "Case Study 1"],
+      "due_dates": ["23 Jan"]
+    },
+    "week2": {
+      "topics": ["Safety of Human Space Missions", "Space Environments"],
+      "readings": ["Handout up to page 52"],
+      "assignments": ["Homework (HW) 1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Physiology of Human Spaceflight"],
+      "readings": ["Handout up to page 64"],
+      "assignments": ["HW 2"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Human Factors and Psychology", "International Crewed Missions"],
+      "readings": ["Handout up to page 80", "Text Ref Ch 6, 7, 30"],
+      "assignments": ["Quiz 1", "HW 3"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Understanding Orbits", "Describing and Using Orbits", "Maneuvering and Rendezvous"],
+      "readings": ["Handout up to page 110", "Text Ref Ch 9"],
+      "assignments": ["HW 4"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Entry, Descent, Landing and Ascent"],
+      "readings": ["Handout up to page 129"],
+      "assignments": ["HW 5"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Designing and Sizing Space Elements", "Designing and Sizing Transfer Vehicles", "Cost Estimating"],
+      "readings": ["Handout up to page 150", "Text Ref Ch 11, 12, 29"],
+      "assignments": ["HW 6", "Quiz 2"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Review for Midterm Exam", "Finish Case Study 1 Reviews"],
+      "readings": [],
+      "assignments": ["Midterm Exam", "Mid-term Study Plan Review", "Case Study 1 Reviews"],
+      "due_dates": ["10-12 Mar"]
+    },
+    "week9": {
+      "topics": ["Thermal Control", "Environmental Control and Life Support", "Crew"],
+      "readings": ["Handout up to page 189", "Text Ref Ch 16-18"],
+      "assignments": ["Case Study 2"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["ADCS/GNC", "Electrical Power", "Data Handling"],
+      "readings": ["Handout up to page 222"],
+      "assignments": ["HW 8"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Structures", "Space Propulsion"],
+      "readings": ["Handout up to page 239"],
+      "assignments": ["Quiz 3", "HW 9"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["EVA Systems", "Mission Operations", "Command, Control and Communications"],
+      "readings": ["Handout up to page 270", "Text Ref Ch 22, 26, 27"],
+      "assignments": ["HW 7"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Logistics Support", "In-Situ Resources"],
+      "readings": ["Handout up to page 286"],
+      "assignments": ["HW 10 & 11"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "25%",
+      "exams": "50%",
+      "projects": "",
+      "quizzes": "8%",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "20% penalty for late assignments (1-6 days late); 0 points for more than 1 week late."
+  },
+  "assignments": [
+    {
+      "name": "Personal Study Plan and Profile",
+      "description": "Due by 23 Jan"
+    },
+    {
+      "name": "Case Study 1",
+      "description": "Due by 23 Jan"
+    },
+    {
+      "name": "Homework (HW) 1",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "HW 2",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "Quiz 1",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "HW 3",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "HW 4",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "HW 5",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "HW 6",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "Quiz 2",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "Midterm Exam",
+      "description": "Available 10-12 Mar"
+    },
+    {
+      "name": "Case Study 2",
+      "description": "Due on variable dates"
+    },
+    {
+      "name": "HW 8",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "HW 9",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "HW 7",
+      "description": "Due by midnight on the week assigned"
+    },
+    {
+      "name": "HW 10 & 11",
+      "description": "Due by midnight on the week assigned"
+    }
+  ],
+  "policies": {
+    "attendance": "N/A",
+    "late_work": "20% penalty for late assignments (1-6 days late); 0 points for more than 1 week late.",
+    "academic_integrity": "Students are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [
+    "Midterm Exam: 10-12 Mar 2023",
+    "Final Exam: 12-15 May 2023",
+    "Final Study Plan Review and Self-Assessment: due 4 May",
+    "Case Study 2 Reviews: 5-16 May"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online with pre-recorded lectures, readings, homework, case studies, and quizzes.",
+    "technology_requirements": "Basic computer and web-browsing skills, ability to view video lessons, and required software.",
+    "support_resources": "Contact the Technology Resource and Assistance Center TRAC for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:20:47.605625",
+    "pdf_source": "../StevensCourses\\SYS 635 WS Spring detailed syllabus.pdf",
+    "source_type": "file",
+    "text_length": 22532,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Human Spaceflight Mission Analysis and Design",
+      "code": "SYS 635",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2023",
+      "instructor": {
+        "name": "Prof. Pam Magee",
+        "email": "pmagee@tsti.net",
+        "office_hours": "In Zoom, between 7pm and 9pm eastern one night weekly.",
+        "contact_info": "719-440-3200"
+      }
+    },
+    "course_description": "This course is designed to provide the conceptual framework for developing crewed space missions starting from a blank sheet of paper.",
+    "learning_outcomes": [
+      "Summarize human spaceflight mission design principles, limitations and processes and apply them to develop goals, objectives as well as top level requirements",
+      "Describe the physiological and psychological limitations and challenges for humans to live and work and space",
+      "Explain basic principles of orbital mechanics and how they apply to human missions. Apply these principles to calculate and analyze trajectory and orbit maneuver options for different mission concepts.",
+      "Describe and apply space element architectures, design and sizing principles and processes for on-orbit, ascent and re-entry operations. Apply sizing principles to estimate mass and power for a given set of requirements.",
+      "Characterize the scope, functions and physical architecture options for human spaceflight support systems such as Environmental Control and Life Support, Thermal Control, EVA Systems and others. Apply sizing principles to estimate mass and power for a given set of requirements.",
+      "Discuss scope, functions and requirements for mission operations elements including Operations Planning; command, control and communications (C3); Logistics; and in-situ resource utilization (ISRU)."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

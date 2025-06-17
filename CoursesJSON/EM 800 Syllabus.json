@@ -1,0 +1,166 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction and Selecting a Topic"],
+      "readings": ["A paper to be assigned as example", "Samples of outcomes", "Slides driving through the module"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Topic Selection: Research & Data Storytelling"],
+      "readings": ["Slides driving through the module"],
+      "assignments": ["First evidences of the project"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Description of Topic and Supporting Research"],
+      "readings": ["Slides driving through the module"],
+      "assignments": ["Draft version of the final document/paper"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Presentations"],
+      "readings": ["Slides driving through the module"],
+      "assignments": ["Presentation of the results of the research/project"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "100%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "25% of the total points will be deducted for late assignments."
+  },
+  "assignments": [
+    {
+      "description": "Detailed description of the project",
+      "weight": "5%",
+      "due_date": "1 week from start"
+    },
+    {
+      "description": "Preliminary results",
+      "weight": "15%",
+      "due_date": "Midterm"
+    },
+    {
+      "description": "First draft",
+      "weight": "30%",
+      "due_date": "2 weeks before end of the course"
+    },
+    {
+      "description": "Final delivery",
+      "weight": "50%",
+      "due_date": "End of course"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "25% of the total points will be deducted for late assignments.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, recording, editing, and uploading video via Kaltura.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:11:32.454010",
+    "pdf_source": "../StevensCourses\\EM 800 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 15352,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Special Projects in Engineering Management",
+      "code": "EM 800",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Carlo Lipizzi",
+        "email": "clipizzi@stevens.edu",
+        "office_hours": "Available by appointment",
+        "contact_info": "+1 201-216-3303"
+      }
+    },
+    "course_description": "This course is on a 'special project' and it has the following main components: Define how a project-oriented topic should be developed, Define criteria and methods to determine the topic and the data sources for the project, Develop a project on the selected topic.",
+    "learning_outcomes": [
+      "Frame complex problems into research steps",
+      "Match research questions with data to support the process to address them",
+      "Prepare the data for the analysis",
+      "Create a model to extract the metrics required to address the research questions",
+      "Create visualizations as needed to better present the value of the metrics in addressing the questions",
+      "Create a narrative to frame the findings and addressing the questions in a plain readable format",
+      "Present the results",
+      "Place information in the context of the defined issues as they work to rebuild/build.",
+      "Solve complex problems for the immediacy and in relation to the larger picture."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": ["This is a capstone project, to be taken close to the end of the program"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

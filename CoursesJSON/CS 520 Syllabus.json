@@ -1,0 +1,258 @@
+{
+  "textbooks": [
+    {
+      "title": "Operating System Concepts",
+      "authors": "Silberschatz, Galvin, and Gagne",
+      "edition": "10th",
+      "ISBN": "978-1119800361"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overview"],
+      "readings": ["Chapters 1, 2"],
+      "assignments": ["Module 1 OS Challenge Activity", "Module 1 Quiz"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Process Management: Process and Threads"],
+      "readings": ["Chapters 3, 4"],
+      "assignments": ["Module 2 OS Challenge Activity", "Module 2 Quiz"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Process Management: Concurrency and Scheduling"],
+      "readings": ["Chapter 5"],
+      "assignments": ["OS Project 1", "Module 3 Quiz"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Synchronization and Mutual Exclusion"],
+      "readings": ["Chapters 6, 7"],
+      "assignments": ["Module 4 Challenge Activity", "Module 4 Quiz"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Deadlocks and Starvation"],
+      "readings": ["Chapter 8"],
+      "assignments": ["Module 5 Challenge Activity", "Midterm Exam 1"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Memory Management: Main Memory"],
+      "readings": ["Chapter 9"],
+      "assignments": ["Module 6 Challenge Activity", "Module 6 Quiz"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Memory Management: Virtual Memory"],
+      "readings": ["Chapter 10"],
+      "assignments": ["Module 7 Challenge Activity", "Module 7 Quiz"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Mass Storage and I/O Systems"],
+      "readings": ["Chapter 11"],
+      "assignments": ["Module 8 Challenge Activity", "Module 8 Quiz"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["File System Interface"],
+      "readings": ["Chapter 13"],
+      "assignments": ["OS Project 2", "Module 9 Quiz"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["File System Implementation and Internals"],
+      "readings": ["Chapters 14 & 15"],
+      "assignments": ["Module 10 Challenge Activity", "Midterm Exam 2"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Security"],
+      "readings": ["Chapter 16"],
+      "assignments": ["Module 11 Challenge Activity", "Module 11 Quiz"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Protection"],
+      "readings": ["Chapter 17"],
+      "assignments": ["OS Project 3", "Module 12 Quiz"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Case Studies"],
+      "readings": ["Chapter 20"],
+      "assignments": ["Module 13 Challenge Activity", "Final Exam"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "20%",
+      "exams": "20%",
+      "projects": "30%",
+      "quizzes": "20%",
+      "final": "10%"
+    },
+    "scale": "A: 100% to 94%, A-: < 94% to 90%, B+: < 90% to 87%, B: < 87% to 84%, B-: < 84% to 80%, C+: < 80% to 77%, C: < 77% to 70%, F: < 70% to 0%",
+    "policies": "20% of the total points will be deducted for assignments received 1-2 days late; assignments received more than 2 days late will receive 0 points. There are no makeups for quizzes but your lowest score will be dropped."
+  },
+  "assignments": [
+    {
+      "name": "Module 1 OS Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Module 1 Quiz",
+      "description": ""
+    },
+    {
+      "name": "Module 2 OS Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Module 2 Quiz",
+      "description": ""
+    },
+    {
+      "name": "OS Project 1",
+      "description": ""
+    },
+    {
+      "name": "Module 3 Quiz",
+      "description": ""
+    },
+    {
+      "name": "Module 4 Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Module 4 Quiz",
+      "description": ""
+    },
+    {
+      "name": "Module 5 Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Midterm Exam 1",
+      "description": ""
+    },
+    {
+      "name": "Module 6 Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Module 6 Quiz",
+      "description": ""
+    },
+    {
+      "name": "Module 7 Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Module 7 Quiz",
+      "description": ""
+    },
+    {
+      "name": "Module 8 Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Module 8 Quiz",
+      "description": ""
+    },
+    {
+      "name": "OS Project 2",
+      "description": ""
+    },
+    {
+      "name": "Module 9 Quiz",
+      "description": ""
+    },
+    {
+      "name": "Module 10 Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Midterm Exam 2",
+      "description": ""
+    },
+    {
+      "name": "Module 11 Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Module 11 Quiz",
+      "description": ""
+    },
+    {
+      "name": "OS Project 3",
+      "description": ""
+    },
+    {
+      "name": "Module 12 Quiz",
+      "description": ""
+    },
+    {
+      "name": "Module 13 Challenge Activity",
+      "description": ""
+    },
+    {
+      "name": "Final Exam",
+      "description": ""
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1-2 days late; assignments received more than 2 days late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom. Required equipment includes a current Mac or PC with high-speed internet, a webcam, and a microphone. Required software includes Microsoft Word.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:46:11.365920",
+    "pdf_source": "../StevensCourses\\CS 520 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 16941,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Operating Systems",
+      "code": "CS 520",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Debbie Reid",
+        "email": "dreid@stevens.edu",
+        "office_hours": "See course homepage for details",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will provide focus on the use and internals of modern operating systems. Primary topics include the process concept; concurrency and how to program with threads; memory management techniques, including virtual memory and shared libraries; file system data structures; and input/output (I/O).",
+    "learning_outcomes": [
+      "Integrate the concepts and creation of computer processes, threads and multi-tasking.",
+      "Elucidate memory management and virtual memory concepts in modern OS processes.",
+      "Explicate concurrency and synchronization processes.",
+      "Incorporate the scheduling policies of modern operating systems to prevent deadlocks.",
+      "Compare the concepts of data input/output systems, mass storage and file system management.",
+      "Analyze how operating systems must incorporate security and protection."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "CS 550",
+      "CS 570",
+      "CS 590"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

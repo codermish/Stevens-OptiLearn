@@ -1,0 +1,215 @@
+{
+  "textbooks": [
+    {
+      "title": "Introduction to Data Mining",
+      "authors": ["Pang-Ning Tan", "Michael Steinbach", "Vipin Kumar"],
+      "edition": "2005",
+      "publisher": "Addison-Wesley"
+    },
+    {
+      "title": "Pattern Classification",
+      "authors": ["Duda, R.O.", "Hart, P.E.", "Stork, D.G."],
+      "edition": "2nd Edition",
+      "publisher": "Wiley-Interscience",
+      "year": "2001"
+    },
+    {
+      "title": "Hands on Machine Learning with scikit-learn and Tensorflow",
+      "authors": ["Aurélien Géron"],
+      "year": "2017"
+    },
+    {
+      "title": "Deep Learning",
+      "authors": ["Ian Goodfellow", "Yoshua Bengio", "Aaron Courville"],
+      "year": "2016",
+      "publisher": "MIT Press"
+    },
+    {
+      "title": "Pattern Recognition and Machine Learning",
+      "authors": ["M. Bishop"],
+      "year": "2007",
+      "publisher": "Springer"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Python/Data Exploration/Visualization"],
+      "readings": [],
+      "assignments": ["HW 1 released"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Data Preprocessing"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["KNN, Trees"],
+      "readings": [],
+      "assignments": ["HW 2 released"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Accuracy Metrics, Random Forest"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Feature Selection/Unsupervised Learning"],
+      "readings": [],
+      "assignments": ["HW 3 released"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["SVM, XGBoost"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Convolutional Neural Networks"],
+      "readings": [],
+      "assignments": ["HW 4 released", "Group presentation requirement released"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Group project preliminary result presentation/Linear Regression Models"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Graph Neural Networks"],
+      "readings": [],
+      "assignments": ["Homework 5 released"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Special Topics: Data Science in Industry or Healthcare"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Large Language Models (LLM)"],
+      "readings": [],
+      "assignments": ["Homework 6 released"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Final project supervising session"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Final project presentation"],
+      "readings": [],
+      "assignments": ["Project report due by the weekend"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "12%",
+      "assignments": "45%",
+      "exams": "",
+      "projects": "43%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": {
+      "A": "93.7-100",
+      "A-": "90-93.7",
+      "B+": "87-89.99",
+      "B": "83-86.99",
+      "B-": "80-82.99",
+      "C+": "77-79.99",
+      "C": "73-76.99",
+      "C-": "70-72.99",
+      "F": "0-69.99"
+    },
+    "policies": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "HW 1",
+      "description": "Released in Week 2"
+    },
+    {
+      "name": "HW 2",
+      "description": "Released in Week 4"
+    },
+    {
+      "name": "HW 3",
+      "description": "Released in Week 6"
+    },
+    {
+      "name": "HW 4",
+      "description": "Released in Week 8"
+    },
+    {
+      "name": "Homework 5",
+      "description": "Released in Week 10"
+    },
+    {
+      "name": "Homework 6",
+      "description": "Released in Week 12"
+    },
+    {
+      "name": "Project report",
+      "description": "Due by the weekend of Week 14"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "Students must write and sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using BlackBoard Collaborate, recording a slide presentation with audio narration, recording, editing, and uploading video via Kaltura.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) at 201-216-5500 for course access or support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:01:46.249012",
+    "pdf_source": "../StevensCourses/Syllabus for 2024F EM 623-CA.pdf",
+    "source_type": "file",
+    "text_length": 20517,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Science and Knowledge Discovery",
+      "code": "EM/SYS 623",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Feng Liu",
+        "email": "fliu22@stevens.edu",
+        "office_hours": "7-8 pm Monday, 1-2 pm Thursday",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course provides an introduction to data mining and pattern recognition.",
+    "learning_outcomes": [
+      "Provide students with a sound basis in data mining and pattern recognition tasks and techniques.",
+      "Ensure that students are able to read, and critically evaluate data mining and analytics research papers.",
+      "Ensure that students are able to implement and to use important data mining and pattern recognition models and algorithms and to solve interdisciplinary problems for data-driven decision-making problems in engineering and sciences."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

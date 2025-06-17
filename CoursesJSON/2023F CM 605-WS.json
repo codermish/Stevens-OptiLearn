@@ -1,0 +1,181 @@
+{
+  "textbooks": [
+    {
+      "title": "Construction Safety Management and Engineering",
+      "author": "Darryl C. Hill",
+      "edition": "2nd",
+      "ISBN": "1885581777"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction and Overview of Safety in the Construction Industry"],
+      "readings": ["Read Articles – SMS, HBR, Corporate Culture"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Safety Management Approaches & Systems"],
+      "readings": ["Read Articles – 5S and 6 Sigma"],
+      "assignments": ["Guest Lecture Thank You"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Risk Assessment"],
+      "readings": ["Review: NYC Department of Buildings - Chapter 33"],
+      "assignments": ["Job Hazard Analysis"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Construction Operations in NYC – DOB and FDNY Requirements"],
+      "readings": ["Read – The Accident and the Investigation"],
+      "assignments": ["Online Quiz #1"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Incident Causation and Investigation"],
+      "readings": ["Read Article: All About OSHA"],
+      "assignments": ["What’s Wrong with this Photo?"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Regulatory Review"],
+      "readings": ["Study for Mid-Term"],
+      "assignments": ["Regulatory Review"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["MID-TERM EXAMINATION"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Site Preparation & Interior Construction Operations"],
+      "readings": ["Read - Applying an Error Reduction Model to an I2P2 Program"],
+      "assignments": ["Online Quiz #2"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Injury and Illness Prevention Programs"],
+      "readings": [],
+      "assignments": ["Guest Lecturer - Michael Presutti, Select Safety"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Mega Project Safety Orientation Program"],
+      "readings": ["Read - Prevention Through Design for Hazards in Construction – ASSP"],
+      "assignments": ["Critique Training & Video"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Prevention Through Design & Building Information Modeling"],
+      "readings": [],
+      "assignments": ["Guest Lecturer - Leo Molina, Mobile Coordination Technology in Safety", "Guest Lecturer – Sebastien de Ghellinck, SkillSignal"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["THANKSGIVING – NO CLASSES"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Serious Injury and Fatality Management (SIF)"],
+      "readings": ["Review – OSHA web - Cranes & Derricks in Construction"],
+      "assignments": ["Serious Injury and Fatality Management"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Crane and Hoist Safety"],
+      "readings": ["Read - Contract Issues and Construction Safety Management - ASSP"],
+      "assignments": ["Online Quiz #3"],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Contractor Safety Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week16": {
+      "topics": ["FINAL EXAM"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "45%",
+      "exams": "20%",
+      "projects": "",
+      "quizzes": "10%",
+      "final": "20%"
+    },
+    "scale": "A: 100% to 94%, A-: < 94% to 90%, B+: < 90% to 87%, B: < 87% to 84%, B-: < 84% to 80%, C+: < 80% to 77%, C: < 77% to 70%, F: < 70% to 0%",
+    "policies": "Late assignments are automatically reduced by Canvas at a rate of 10% per day."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "Students must complete the assignments, quizzes, discussions and be actively engaged to be eligible to pass the class.",
+    "late_work": "Assignments not submitted via Canvas on-time will be late and grade will be reduced.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Sep 7: Class 1 - Introduction and Overview of Safety in the Construction Industry",
+    "Sep 19: Class 2 - Safety Management Approaches & Systems",
+    "Sep 21: Class 3 - Risk Assessment",
+    "Sep 28: Class 4 - Construction Operations in NYC – DOB and FDNY Requirements",
+    "Oct 5: Class 5 - Incident Causation and Investigation",
+    "Oct 12: Class 6 - Regulatory Review",
+    "Oct 19: MID-TERM EXAMINATION",
+    "Oct 26: Class 8 - Site Preparation & Interior Construction Operations",
+    "Nov 2: Class 9 - Injury and Illness Prevention Programs",
+    "Nov 9: Class 10 - Mega Project Safety Orientation Program",
+    "Nov 16: Class 11 - Prevention Through Design & Building Information Modeling",
+    "Nov 23: THANKSGIVING – NO CLASSES",
+    "Nov 30: Class 12 - Serious Injury and Fatality Management (SIF)",
+    "Dec 7: Class 14 - Crane and Hoist Safety",
+    "Dec 14: Class 15 - Contractor Safety Management",
+    "Dec 21: FINAL EXAM"
+  ],
+  "additional_info": {
+    "course_format": "The course will utilize online live lectures through ZOOM and/or pre-recorded lectures, virtual discussions, assignments, and readings.",
+    "technology_requirements": "This course requires the use of LockDown Browser and a webcam for online exams.",
+    "support_resources": "The Office of Counseling and Psychological Services (CAPS) offers free and confidential services to all enrolled students."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:21:39.435144",
+    "pdf_source": "../StevensCourses\\2023F CM 605-WS.pdf",
+    "source_type": "file",
+    "text_length": 18094,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "",
+      "code": "",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Joseph M. Schwed, CSP, SSM, CS, CSFSM, FMA, RPA",
+        "email": "E-mail via Canvas Inbox Only",
+        "office_hours": "By Appointment",
+        "contact_info": "973-722-2600 (mobile)"
+      }
+    },
+    "course_description": "A study of safety practices in the construction industry.",
+    "learning_outcomes": [
+      "Discuss occupational safety and health management systems",
+      "Assess risk at a construction site using a variety of tools",
+      "Understand construction site operations as it pertains to safety management"
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

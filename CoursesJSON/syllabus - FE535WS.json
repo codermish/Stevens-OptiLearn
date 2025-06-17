@@ -1,0 +1,180 @@
+{
+  "textbooks": [
+    {
+      "title": "Financial Risk Manager Handbook, + Test Bank: FRM Part I / Part II",
+      "author": "Philippe Jorion",
+      "edition": "6th Edition"
+    },
+    {
+      "title": "Risk Management and Financial Institutions",
+      "author": "John C. Hull",
+      "edition": "4th Edition"
+    },
+    {
+      "title": "The Economic Foundations of Risk Management: Theory, Practice, and Applications",
+      "author": "Robert A. Jarrow"
+    },
+    {
+      "title": "The Essentials of Risk Management",
+      "author": "Michel Crouhy, Dan Galai, and Robert Mark",
+      "edition": "2nd Edition"
+    },
+    {
+      "title": "Risk Management and Simulation",
+      "author": "Aparna Gupta"
+    },
+    {
+      "title": "Practical Methods of Financial Engineering and Risk Management: Tools for Modern Financial Professionals",
+      "author": "Rupak Chatterjee"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Intro to Risk Management"],
+      "readings": ["Ch. 1 from Jorion", "Recommended: Ch.1 from Hull", "Refresh your probability and statistics knowledge: read Ch. 2 and Ch 3 from Jorion"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Modeling and Simulation"],
+      "readings": ["Ch. 4 from Jorion", "Recommended: Ch. 7 from Hull"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Modeling and Simulation II"],
+      "readings": ["Ch. 4 from Jorion", "Recommended: Ch. 7 from Hull"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Introduction to Bond and Interest Rate Risk"],
+      "readings": ["Ch. 6 from Jorion"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Introduction to Derivatives"],
+      "readings": ["Ch. 7 from Jorion", "Recommended: Ch. 5 from Hull", "For further information on the OTC market refer to Ch 18 from Hull"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Introduction to Derivatives II"],
+      "readings": ["Ch. 7 from Jorion", "Recommended: Ch. 5 from Hull", "For further information on the OTC market refer to Ch 18 from Hull"],
+      "assignments": [],
+      "due_dates": ["Project 1 Due"]
+    },
+    "week7": {
+      "topics": ["Review Session"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Managing Linear Risk"],
+      "readings": ["Ch. 13 from Jorion", "Recommended: Ch. 8 from Hull"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Option Markets"],
+      "readings": ["Ch. 8 from Jorion", "Recommended: Ch. 8 from Hull"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Managing Non-Linear Risk"],
+      "readings": ["Ch. 14 from Jorion", "Recommended: Ch. 8 from Hull"],
+      "assignments": [],
+      "due_dates": ["Project 2 Due"]
+    },
+    "week12": {
+      "topics": ["Credit Risk Management I"],
+      "readings": ["Ch 19 and 20 from Jorion", "Recommended: Ch 18 from Hull"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Credit Risk Management II"],
+      "readings": ["Ch 21 from Jorion", "Recommended: Ch 19 from Hull"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "15%",
+      "exams": "50%",
+      "projects": "35%",
+      "quizzes": "",
+      "final": "25%"
+    },
+    "scale": "",
+    "policies": "Late submissions are not allowed. Please notify the instructor under special circumstances."
+  },
+  "assignments": [
+    {
+      "description": "There will be three long assignments over the semester. The projects will be completed as a team. I will consider the top two out of three grades as a final assessment. Nonetheless, teams must submit all three projects. As an incentive, the third project will serve as a bonus grade up to 5 points, added to the final grade."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance will be taken over the course of the semester.",
+    "late_work": "Late submissions are not allowed. Please notify the instructor under special circumstances.",
+    "academic_integrity": "Students must write and sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Project 1 Due",
+    "Project 2 Due",
+    "Final Exam"
+  ],
+  "additional_info": {
+    "course_format": "Lectures will be combined with discussions, in-class labs, and applied projects using real data and computations.",
+    "technology_requirements": "Students are encouraged to bring their laptops to class for lab sessions.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:58:27.013121",
+    "pdf_source": "../StevensCourses\\syllabus - FE535WS.pdf",
+    "source_type": "file",
+    "text_length": 15523,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Financial Risk Management",
+      "code": "FE535",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Anthony Diaco",
+        "email": "adiaco@stevens.edu",
+        "office_hours": "upon request",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The course will review different topics related to risk modeling and management, specifically in line with Financial Risk Manager (FRM) Parts I and II (mainly Part I).",
+    "learning_outcomes": [
+      "model risk using stochastic processes",
+      "use statistical analysis of financial data for risk pricing and management",
+      "understand different types of asset classes and derivatives",
+      "identify different types of risk such as model, market, and credit",
+      "apply derivatives for linear and non-linear risk management"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "A quantitative background is assumed, i.e. knowledge of probability, statistics, and calculus.",
+      "Knowledge in programming would be extremely helpful."
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "textbooks": [
+    {
+      "title": "Systems Thinking: Managing Chaos and Complexity",
+      "author": "Jamshid Gharajedaghi"
+    },
+    {
+      "title": "Systems Thinking: Coping with 21st Century Problems",
+      "author": "John Boardman and Brian Sauser"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "30%",
+      "exams": "",
+      "projects": "50%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Class Participation - Expected to participate in class discussion board."
+    },
+    {
+      "description": "Assignments - Must be completed by the required date and submitted on Canvas."
+    },
+    {
+      "description": "Individual assignment presentation - Prepare Power Point slides and present online."
+    },
+    {
+      "description": "Final Project - Application of all learned concepts presented in written format."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "Assignments may be submitted to www.turnitin.com for originality evaluation.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Recorded lectures, online Q&A and discussions, individual assignments, and final projects.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:08:57.799382",
+    "pdf_source": "../StevensCourses/Syllabus SYS684.pdf",
+    "source_type": "file",
+    "text_length": 2950,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Systems Thinking",
+      "code": "SYS 684",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Mo Mansouri",
+        "email": "mo.mansouri@stevens.edu",
+        "office_hours": "By Appointment only",
+        "contact_info": "201-216-8644"
+      }
+    },
+    "course_description": "Systems Thinking is an introductory course to a systemic philosophy of thinking.",
+    "learning_outcomes": [
+      "Understanding the concept of systemic phenomena",
+      "Learning the constructing blocks of systems thinking as a paradigm and philosophy",
+      "Practicing systemic tools in formulating complex problems"
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

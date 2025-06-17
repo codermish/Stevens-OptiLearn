@@ -1,0 +1,186 @@
+{
+  "textbooks": [
+    {
+      "title": "Machine learning",
+      "author": "Mitchell, T.",
+      "edition": "2017",
+      "ISBN": "978-1-25-909695-2"
+    },
+    {
+      "title": "Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: concepts, tools, and techniques to build intelligent systems",
+      "author": "Géron, A.",
+      "edition": "2019",
+      "ISBN": "1492032646"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction & Tools"],
+      "readings": ["Mitchell, Chapter 1", "Géron, Chapters 1 and 2"],
+      "assignments": ["Module 1 Quiz", "Begin Homework 1"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Linear Regression"],
+      "readings": ["Géron, Chapter 4"],
+      "assignments": ["Module 2 Quiz", "Continue Homework 1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Logistic Regression"],
+      "readings": ["Géron, Chapters 3 and 4", "Jurafsky and Martin (3rd Ed.), Chapter 5"],
+      "assignments": ["Module 3 Quiz", "Submit Homework 1", "Begin Homework 2"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Decision Tree Learning"],
+      "readings": ["Mitchell, Chapter 3", "Géron, Chapter 6"],
+      "assignments": ["Module 4 Quiz", "Continue Homework 2", "Form a team"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Bias-Variance Tradeoff; Ensemble Learning; Random Forest"],
+      "readings": ["Géron, Chapter 7"],
+      "assignments": ["Module 5 Quiz", "Submit Homework 2", "Submit Team Contract", "Begin Homework 3"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Support Vector Machine"],
+      "readings": ["Géron, Chapter 5"],
+      "assignments": ["Module 6 Quiz", "Continue Homework 3"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Bayesian Learning"],
+      "readings": ["Mitchell, Chapter 6"],
+      "assignments": ["Module 7 Quiz", "Submit Homework 3", "Submit Team Project Proposal", "Begin Homework 4"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Artificial Neural Networks"],
+      "readings": ["Mitchell, Chapter 4", "Géron, Chapter 10"],
+      "assignments": ["Module 8 Quiz", "Continue Homework 4"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Evaluating Hypothesis"],
+      "readings": ["Mitchell, Chapter 5", "Géron, Chapter 15"],
+      "assignments": ["Module 9 Quiz", "Midterm Exam", "Continue Homework 4"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Unsupervised Learning; Dimensionality Reduction"],
+      "readings": ["Marsland, Sections 7.1 and 14.1", "Géron, Chapters 8 and 9"],
+      "assignments": ["Module 10 Quiz", "Submit Homework 4", "Begin Homework 5", "Submit Team Project Mid-Stage Report"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Genetic Algorithms"],
+      "readings": ["Mitchell, Chapter 9", "Marsland, Chapters 10"],
+      "assignments": ["Module 11 Quiz", "Continue Homework 5"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Introduction to Deep Learning (1)"],
+      "readings": ["Géron, Chapters 11 and 14"],
+      "assignments": ["Module 12 Quiz", "Submit Homework 5"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Introduction to Deep Learning (2)"],
+      "readings": ["Géron, Chapter 15 and 16"],
+      "assignments": ["Module 13 Quiz", "Submit Team Project Final Report and Video Presentation"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "12%",
+      "assignments": "31%",
+      "exams": "11%",
+      "projects": "30%",
+      "quizzes": "16%",
+      "final": ""
+    },
+    "scale": "A: 93% - 100%, A-: 90% - 92.9%, B+: 86% - 89.9%, B: 83% - 85.9%, B-: 80% - 82.9%, C: 60% - 79.9%, F: 0% - 59.9%",
+    "policies": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Homework 2",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Homework 3",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Homework 4",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Homework 5",
+      "description": "Problem-based scenario to solve."
+    },
+    {
+      "name": "Team Project",
+      "description": "Final project with milestones: proposal, mid-stage report, and final report with presentation."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "All students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "Week 9"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narrative and video using Zoom.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:44:02.967174",
+    "pdf_source": "../StevensCourses\\CPE 695 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 20346,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Applied Machine Learning",
+      "code": "CPE 695",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Shucheng Yu",
+        "email": "syu19@stevens.edu",
+        "office_hours": "By appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "An introductory course for machine learning theory, algorithms, and applications.",
+    "learning_outcomes": [
+      "Demonstrate basic principles and algorithms of representative machine learning systems including supervised learning, unsupervised learning, batch learning, online learning, model-based learning, and instance-based learning.",
+      "Determine appropriate machine learning algorithms for real-world tasks.",
+      "Evaluate the performance of a machine learning system with appropriate performance measurement metrics.",
+      "Apply appropriate training, evaluation, and parameter tuning techniques to improve machine learning algorithms.",
+      "Develop a machine learning system with programming languages such as Python.",
+      "Create interactive documentation with program codes and rich texts.",
+      "Write a comprehensive report to communicate the main ideas, techniques, and findings of a machine learning project."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

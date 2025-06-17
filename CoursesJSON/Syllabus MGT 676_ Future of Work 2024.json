@@ -1,0 +1,216 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Building the Case for Durable skills in the Future of Work"],
+      "readings": [
+        "Future proof: Solving the ‘adaptability paradox’ for the long term | McKinsey: Hone Your Soft Skills",
+        "Aspire to Lead in Industry 4.0 | Deloitte US",
+        "America Succeeds. (n.d). The High Demand for Durable Skills."
+      ],
+      "assignments": ["Attendance and active participation during Zoom", "Intro to individual written assignments and team project"],
+      "due_dates": ["September 9, 2024"]
+    },
+    "week2": {
+      "topics": ["Going Beyond Active Listening in a Tech-Driven Era: Deep Listening, Active Learning, and the Power of Observation"],
+      "readings": [
+        "The Art of Active Listening | The Harvard Business Review Guide",
+        "Video: The Art of Active Listening"
+      ],
+      "assignments": ["Attendance and active participation during in-person session", "Bulletin board post #1"],
+      "due_dates": ["September 20, 2024"]
+    },
+    "week3": {
+      "topics": ["Sustaining Engagement with Two-way Communication"],
+      "readings": [
+        "World Economic Forum Leading through the Fourth Industrial Revolution"
+      ],
+      "assignments": ["Attendance and active participation during in-person session", "Discussion board post #2"],
+      "due_dates": ["September 20, 2024"]
+    },
+    "week4": {
+      "topics": ["Critical Thinking and Navigating Complex Discussions"],
+      "readings": [
+        "Margaret Heffernan Ted Talk",
+        "Pearson resource on critical thinking"
+      ],
+      "assignments": ["Attendance and active participation during in-person session", "Team project discussions", "Preview of mini research proposal and City Health Dashboard"],
+      "due_dates": ["September 21, 2024"]
+    },
+    "week5": {
+      "topics": ["Optimizing conversations regarding User requirements in a Dynamic 4th IR Landscape"],
+      "readings": [
+        "City Health Dashboard",
+        "Gartner's Top Strategic Predictions for 2024 and Beyond"
+      ],
+      "assignments": ["Attendance and active participation during in-person session", "Gartner discussion", "Discussion board post #3", "Mini research proposal and City Health Dashboard"],
+      "due_dates": ["September 21, 2024"]
+    },
+    "week6": {
+      "topics": ["Fueling Inspired Innovation through Multidisciplinary Thinking"],
+      "readings": [
+        "Pearson. (2022). Critical Thinking: Skill Development Framework.",
+        "Aminpour, F.; Katz, I.; Skattebol, J. (2024, April 15). What’s “biophilic design and how can it benefit neurodivergent people?”",
+        "Future-Focused Marketing.",
+        "Dudley, J. (2023, August 9). Why employee engagement matters for optimal healthcare outcomes."
+      ],
+      "assignments": ["Attendance and active participation during in-person session", "Mini research proposal"],
+      "due_dates": ["September 22, 2024"]
+    },
+    "week7": {
+      "topics": ["Future-Focused Feedback for Collaboration"],
+      "readings": [
+        "The future of feedback: Motivating performance improvement through future-focused feedback",
+        "Strategies for More Effective & Inclusive Feedback"
+      ],
+      "assignments": ["Attendance and active participation during Zoom session", "Team Presentation & Written Feedback on Other Team’s Presentation"],
+      "due_dates": ["September 30, 2024"]
+    },
+    "week8": {
+      "topics": ["Moving Ahead"],
+      "readings": ["Inspiration from browsing"],
+      "assignments": ["Attendance and active participation during Zoom session"],
+      "due_dates": ["October 7, 2024"]
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "65%",
+      "exams": "",
+      "projects": "20%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Assignments submitted up to 48 hours late will automatically receive one letter grade reduction, assignments submitted thereafter will not receive credit."
+  },
+  "assignments": [
+    {
+      "description": "Pre-immersion Individual Written Assignment (personal professional statement)",
+      "due_date": "September 16, 2024"
+    },
+    {
+      "description": "Discussion board 1 post",
+      "due_date": "September 20, 2024"
+    },
+    {
+      "description": "Discussion board 2 post",
+      "due_date": "September 20, 2024"
+    },
+    {
+      "description": "Discussion board 3 post",
+      "due_date": "September 21, 2024"
+    },
+    {
+      "description": "Submission of draft notes on research proposal",
+      "due_date": "September 22, 2024"
+    },
+    {
+      "description": "Responses to peer discussion board posts 1, 2, and 3",
+      "due_date": "September 27, 2024"
+    },
+    {
+      "description": "Team presentation during virtual session",
+      "due_date": "September 30, 2024"
+    },
+    {
+      "description": "Written feedback on other team's presentation",
+      "due_date": "September 30, 2024"
+    },
+    {
+      "description": "Mini-research brief/proposal",
+      "due_date": "October 1, 2024"
+    },
+    {
+      "description": "Post-immersion personal written statement",
+      "due_date": "October 15, 2024"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance for live learning events will count toward final grades. Each live learning session will comprise 2% of the course grade.",
+    "late_work": "Assignments submitted up to 48 hours late will automatically receive one letter grade reduction, assignments submitted thereafter will not receive credit.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "September 9, 2024",
+    "September 20, 2024",
+    "September 21, 2024",
+    "September 22, 2024",
+    "September 30, 2024",
+    "October 1, 2024",
+    "October 7, 2024",
+    "October 15, 2024"
+  ],
+  "additional_info": {
+    "course_format": "This course is hybrid.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, Microsoft office software.",
+    "support_resources": "Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:05:03.345371",
+    "pdf_source": "../StevensCourses/Syllabus MGT 676_ Future of Work 2024.pdf",
+    "source_type": "file",
+    "text_length": 32979,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Future of Work: Implications for Leadership Communications",
+      "code": "MGT 676",
+      "credits": "1.5",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Steven Gogel",
+        "email": "sgogel@stevens.edu",
+        "office_hours": "By appointment only: Mondays Sept 9, 2024-Oct 21, 2024: 5pm-6pm, 7pm-8pm",
+        "contact_info": "Phone: 646-656-6121"
+      }
+    },
+    "course_description": "This is a 1.5-credit course in the Stevens Institute of Technology's online Masters in Business Administration (OMBA) program, designed for scholar practitioners interested in the future of work (FoW) during this current period in history, often referred to as the fourth Industrial Revolution (4IR).",
+    "learning_outcomes": [
+      "Analyze the importance of different communication strategies for effective leadership.",
+      "Apply communication strategies (including active listening) to foster collaboration and engagement in the context of evolving digital platforms.",
+      "Create strategies to navigate multi-perspective conversations, thinking critically on topics such as digital transformation and sustainability, to drive innovative solutions.",
+      "Design a framework for future-focused feedback for fostering quality improvement, collaboration, and innovation in the 4th Industrial Revolution."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "MGT 675 (Future of Work: Implications for Leadership & Organizations)",
+      "MGT 612 (Leader Development)"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

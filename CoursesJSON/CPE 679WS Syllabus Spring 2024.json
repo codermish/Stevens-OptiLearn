@@ -1,0 +1,226 @@
+{
+  "textbooks": [
+    {
+      "title": "Computer Networks",
+      "authors": ["Tanenbaum", "Feamster", "Wetherall"],
+      "edition": "6e",
+      "ISBN": {
+        "print": ["9780136764052", "0136764053"],
+        "eText": ["9780135407981", "0135407982"]
+      }
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Syllabus", "Introduction of computer networks", "Use of computer networks", "Type of computer networks", "Network technology"],
+      "readings": ["Textbook 1.1", "1.2", "1.3"],
+      "assignments": ["Homework 1 assigned"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Examples of networks", "Network protocols", "Reference models"],
+      "readings": ["Textbook 1.4", "1.5", "1.6.1", "1.6.2"],
+      "assignments": ["Term-project assigned"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Guided transmission media", "Wireless transmission", "From waveforms to bits"],
+      "readings": ["Textbook 2.1.1-2.1.4", "2.2", "2.3", "2.4"],
+      "assignments": ["Homework 2 assigned"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Public switched telephone network", "Cellular networks", "Data link layer design issues", "Error detection and correction"],
+      "readings": ["Textbook 2.5", "2.6", "3.1", "3.2"],
+      "assignments": ["Homework 3 assigned"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Elementary data link protocols", "Improving efficiency"],
+      "readings": ["Textbook 3.3", "3.4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Channel allocation", "Multiple access protocols", "Ethernet"],
+      "readings": ["Textbook 4.1", "4.2", "4.3.1-4.3.4"],
+      "assignments": ["Homework 4 assigned"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Wireless LAN", "Bluetooth", "Data link layer switching"],
+      "readings": ["Textbook 4.4", "4.5.1-4.5.3", "4.7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Mid-term exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Network layer design issues", "Routing algorithms in a single network"],
+      "readings": ["Textbook 5.1", "5.2.1-5.2.5"],
+      "assignments": ["Homework 5 assigned", "Term-project 3-page mid-stage report due"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Routing algorithms in a single network", "Traffic management"],
+      "readings": ["Textbook 5.2.6-5.2.8", "5.3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Quality of service", "Internetworking", "Network layer in the Internet"],
+      "readings": ["Textbook 5.4.1-5.4.3", "5.5", "5.7.1-5.7.4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Transport service", "Elementary of transport protocols", "Congestion control"],
+      "readings": ["Textbook 6.1", "6.2.1-6.2.4", "6.3.1-6.3.2", "6.4"],
+      "assignments": ["Homework 6 assigned"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Transport protocols: UDP and TCP"],
+      "readings": ["Textbook 6.5.1-6.5.10"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "25%",
+      "exams": "50%",
+      "projects": "25%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "No late submission is accepted unless pre-approved by the instructor."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "First homework assignment",
+      "points": 50
+    },
+    {
+      "name": "Homework 2",
+      "description": "Second homework assignment",
+      "points": 50
+    },
+    {
+      "name": "Homework 3",
+      "description": "Third homework assignment",
+      "points": 50
+    },
+    {
+      "name": "Homework 4",
+      "description": "Fourth homework assignment",
+      "points": 50
+    },
+    {
+      "name": "Homework 5",
+      "description": "Fifth homework assignment",
+      "points": 50
+    },
+    {
+      "name": "Homework 6",
+      "description": "Sixth homework assignment",
+      "points": 50
+    },
+    {
+      "name": "Term-project mid-stage report",
+      "description": "3-4 page mid-stage report in IEEE format",
+      "points": 50
+    },
+    {
+      "name": "Term-project presentation",
+      "description": "Presentation of the term project",
+      "points": 50
+    },
+    {
+      "name": "Term-project final report",
+      "description": "6-7 page final report in IEEE format",
+      "points": 200
+    },
+    {
+      "name": "Mid-term Exam",
+      "description": "Mid-term exam covering first half of the course",
+      "points": 300
+    },
+    {
+      "name": "Final Exam",
+      "description": "Final exam covering second half of the course",
+      "points": 300
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late submission is accepted unless pre-approved by the instructor.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities may receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [
+    {
+      "event": "Mid-term exam",
+      "date": "Week 8"
+    },
+    {
+      "event": "Term-project mid-stage report due",
+      "date": "Week 9"
+    },
+    {
+      "event": "Term-project presentation",
+      "date": "Week 14"
+    },
+    {
+      "event": "Term-project final report due",
+      "date": "Week 15"
+    },
+    {
+      "event": "Final exam",
+      "date": "Week 15 (time TBD)"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online with weekly lectures and discussions.",
+    "technology_requirements": "Computer with high-speed internet, webcam, microphone, Microsoft Word, Excel, PowerPoint.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:42:55.113771",
+    "pdf_source": "../StevensCourses\\CPE 679WS Syllabus Spring 2024.pdf",
+    "source_type": "file",
+    "text_length": 16710,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Computer and Information Networks",
+      "code": "CPE 679WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Prof. Min Song",
+        "email": "Msong6@Stevens.edu",
+        "office_hours": "Mondays, 1:00 – 5:00 PM, EST",
+        "contact_info": "(201) 216-5291"
+      }
+    },
+    "course_description": "Learn the technologies that make the Internet work, focusing on the OSI and TCP/IP models.",
+    "learning_outcomes": [
+      "Demonstrate a good understanding of network performance analysis.",
+      "Demonstrate the ability to research and communicate in presenting high-level network topics.",
+      "Demonstrate an overall understanding of issues in network architectures."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": ["C/C++/MATLAB programming"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

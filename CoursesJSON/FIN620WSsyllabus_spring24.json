@@ -1,0 +1,193 @@
+{
+  "textbooks": [
+    {
+      "title": "Analysis of Financial Time Series",
+      "author": "R. S. Tsay",
+      "edition": "3rd Ed",
+      "publisher": "John Wiley",
+      "year": "2010"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overview of the course: introduction to R and financial econometrics"],
+      "readings": ["Tsay 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Autoregressive and moving average models"],
+      "readings": ["Tsay 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Autoregressive and moving average models"],
+      "readings": ["Tsay 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Autoregressive and moving average models"],
+      "readings": ["Tsay 2"],
+      "assignments": ["Project Report #1"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Seasonality, Stationary and Unit-Root Processes, Cointegration"],
+      "readings": ["Tsay 2, 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Multivariate models: VAR and VECM models"],
+      "readings": ["Tsay 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["GARCH Models"],
+      "readings": ["Tsay 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Mid term"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Projects Presentations – 1 and Project Report #2"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Alternative GARCH models"],
+      "readings": ["Tsay 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Value at Risk & extreme value theory"],
+      "readings": ["Tsay 7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Principle component analysis (PCA) and Factor Models"],
+      "readings": ["Tsay 9"],
+      "assignments": ["Project Report #3"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Final Exam", "Projects Presentations – 2 and Final Project Report"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "35%",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": {
+      "A+": "93-100",
+      "A-": "89-91",
+      "B+": "82-88",
+      "B": "73-81",
+      "B-": "65-72",
+      "C+": "52-65",
+      "C": "45-51",
+      "F": "below 45"
+    },
+    "policies": "Late submission policy: 20% of the total points will be deducted for work received 1-6 days late; work received more than one week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "description": "Project Report #1",
+      "due_date": ""
+    },
+    {
+      "description": "Project Report #2",
+      "due_date": ""
+    },
+    {
+      "description": "Project Report #3",
+      "due_date": ""
+    },
+    {
+      "description": "Final Project Report",
+      "due_date": ""
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for work received 1-6 days late; work received more than one week late will receive 0 points.",
+    "academic_integrity": "Assignments may be submitted to www.turnitin.com for originality evaluation. Academic impropriety includes cheating and plagiarism.",
+    "accommodations": "Stevens Institute of Technology provides accommodations for students with documented disabilities through the Office of Disability Services."
+  },
+  "important_dates": [
+    "1/19: Overview of the course",
+    "1/26: Autoregressive and moving average models",
+    "2/2: Autoregressive and moving average models",
+    "2/9: Autoregressive and moving average models",
+    "2/16: Seasonality, Stationary and Unit-Root Processes, Cointegration",
+    "2/23: Multivariate models: VAR and VECM models",
+    "3/1: GARCH Models",
+    "3/08: Mid term",
+    "3/15: Spring Break",
+    "3/22: Projects Presentations – 1 and Project Report #2",
+    "3/29: Good Friday: No Classes; Offices Open.",
+    "4/05: Alternative GARCH models",
+    "4/12: Value at Risk & extreme value theory",
+    "4/19: Principle component analysis (PCA) and Factor Models",
+    "4/26: Final Exam",
+    "5/3: Projects Presentations – 2 and Final Project Report"
+  ],
+  "additional_info": {
+    "course_format": "The class will combine class presentations, discussions, exercises, and case analysis.",
+    "technology_requirements": "Basic computer and web-browsing skills; navigating Canvas.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:23:56.730227",
+    "pdf_source": "../StevensCourses\\FIN620WSsyllabus_spring24.pdf",
+    "source_type": "file",
+    "text_length": 13209,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Financial Econometrics",
+      "code": "FIN620",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Prof Pallavi Pal",
+        "email": "ppal2@stevens.edu",
+        "office_hours": "Wednesday 1:00-3:00 PM",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will cover the main topics of the analysis of time series to evaluate risk and return of the main products of capital markets.",
+    "learning_outcomes": [
+      "Understand the foundations of financial time series data, including high-frequency data",
+      "Apply models and methods for analysis of financial time series (return and volatility) and risk management.",
+      "Recognize the value and also the limits of econometric methods in financial time series."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [
+      "BIA 652 Multivariate data analytics",
+      "MGT 700 Econometrics"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

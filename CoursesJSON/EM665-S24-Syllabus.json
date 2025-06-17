@@ -1,0 +1,199 @@
+{
+  "textbooks": [
+    {
+      "title": "Supply Chain Management",
+      "authors": ["Sunil Chopra", "Peter Meindl"],
+      "edition": "7th Edition",
+      "ISBN-13": "978-0-13-473188-9",
+      "ISBN-10": "0-13-473188-3"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Introduction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Understanding the Supply Chain"],
+      "readings": ["Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Supply Chain Drivers and Metrics"],
+      "readings": ["Chapter 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Supply Chain Drivers and Metrics"],
+      "readings": ["Chapter 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Supply Chain Network Design"],
+      "readings": ["Chapter 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Network Design in the Supply Chain"],
+      "readings": ["Chapters 5 & 6"],
+      "assignments": ["Homework 3"],
+      "due_dates": ["Feb 25"]
+    },
+    "week7": {
+      "topics": ["Demand Forecasting in a Supply Chain"],
+      "readings": ["Chapter 7"],
+      "assignments": ["Homework 4"],
+      "due_dates": ["Mar 3"]
+    },
+    "week8": {
+      "topics": ["Demand Forecasting in a Supply Chain"],
+      "readings": ["Chapter 7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Aggregate Planning in a Supply Chain"],
+      "readings": ["Chapter 8"],
+      "assignments": ["Homework 5"],
+      "due_dates": ["Mar 24"]
+    },
+    "week10": {
+      "topics": ["Managing Economies of Scale in a Supply Chain: Cycle Inventory"],
+      "readings": ["Chapter 11"],
+      "assignments": ["Homework 8"],
+      "due_dates": ["Apr 7"]
+    },
+    "week11": {
+      "topics": ["Managing Economies of Scale in a Supply Chain: Safety Inventory"],
+      "readings": ["Chapter 12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Managing Economies of Scale in a Supply Chain: Safety Inventory"],
+      "readings": ["Chapter 13"],
+      "assignments": ["Homework 9"],
+      "due_dates": ["Apr 21"]
+    },
+    "week13": {
+      "topics": ["Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Apr 28"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "75%",
+      "exams": "25%",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": {
+      "A": "93 - 100",
+      "A-": "90 - 92.9",
+      "B+": "87 - 89.9",
+      "B": "83 - 86.9",
+      "B-": "80 - 82.9",
+      "C+": "77 - 79.9",
+      "C": "73 - 76.9",
+      "C-": ""
+    },
+    "policies": "Students will have up to 24 hours past the deadline to submit late assignments for 50% credit. After 24 hours, students will receive a zero."
+  },
+  "assignments": [
+    {
+      "name": "Homework 3",
+      "description": "Due by indicated Sunday at 10pm."
+    },
+    {
+      "name": "Homework 4",
+      "description": "Due by indicated Sunday at 10pm."
+    },
+    {
+      "name": "Homework 5",
+      "description": "Due by indicated Sunday at 10pm."
+    },
+    {
+      "name": "Homework 8",
+      "description": "Due by indicated Sunday at 10pm."
+    },
+    {
+      "name": "Homework 9",
+      "description": "Due by indicated Sunday at 10pm."
+    },
+    {
+      "name": "Exam",
+      "description": "Timed and to be completed independently on specified day."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Students will have up to 24 hours past the deadline to submit late assignments for 50% credit. After 24 hours, students will receive a zero.",
+    "academic_integrity": "Students must write and sign the pledge for the Honor System on all submitted work.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Course Introduction Live Review",
+      "date": "Jan 17"
+    },
+    {
+      "event": "Spring Break",
+      "date": "Mar 11-17"
+    },
+    {
+      "event": "Happy Holidays",
+      "date": "Mar 25-31"
+    },
+    {
+      "event": "Exam",
+      "date": "Apr 28"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Graduate-level course blending logistics and supply chain management with analytical problem-solving techniques.",
+    "technology_requirements": "MS-Excel’s Solver and Statistical Analysis ADDIN.",
+    "support_resources": "Lecture slides and videos provided in Canvas."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:13:28.159367",
+    "pdf_source": "../StevensCourses\\EM665-S24-Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 9766,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Integrated Supply Chain Management",
+      "code": "EM 665",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Kathryn Abel",
+        "email": "kabel@stevens.edu",
+        "office_hours": "Zoom by appointment",
+        "contact_info": "(201) 216 – 8647"
+      }
+    },
+    "course_description": "This course illustrates the theory and practice of designing and analyzing supply chains.",
+    "learning_outcomes": [
+      "Identify and discuss supply chain drivers and their effect on supply chain performance.",
+      "Develop performance metrics for supply chains, and design networks for integration.",
+      "Perform demand forecasting, aggregate planning, and evaluate the effect on inventory/supply.",
+      "Investigate all factors of supply chain integration through the research and presentation of case studies."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

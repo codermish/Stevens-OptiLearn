@@ -1,0 +1,177 @@
+{
+  "textbooks": [
+    {
+      "title": "Operations Management: Sustainability and Supply Chain Management",
+      "author": "Heizer, J., Render, B., Munson, C.",
+      "edition": "13th Edition",
+      "ISBN": "9780135173626"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Overview"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Operations and Productivity (Ch. 1)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Supply-Chain Management (Ch. 11)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Inventory Management (Ch. 12)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Forecasting (Ch. 4)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Forecasting (Ch. 4)-continued"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm exam 1"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Spring break"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Managing Quality and SPC (Ch. 6 and 6S)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Managing Quality and SPC (Ch. 6 and 6S)-continued"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Facility location and network design (Ch. 8)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Facility location and network design (Ch. 8)-continued"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Procurement and sourcing"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "50%",
+      "projects": "15%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late submissions will be accepted up to two days after the due date with partial grades considered."
+  },
+  "assignments": [
+    {
+      "description": "Almost weekly homework assignments. Students may consult in groups of two or three, but each must write up their own assignments."
+    },
+    {
+      "description": "Case write-ups due during the semester in groups."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Partial grades will be considered for late submissions when submitted no later than two days from the original due date.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [
+    {
+      "date": "January 23",
+      "event": "Course Overview"
+    },
+    {
+      "date": "March 5",
+      "event": "Midterm exam 1"
+    },
+    {
+      "date": "March 12",
+      "event": "Spring break"
+    },
+    {
+      "date": "April 23",
+      "event": "Midterm Exam 2"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is online.",
+    "technology_requirements": "Basic computer and web-browsing skills, live web conferencing using Zoom, and recording a slide presentation with audio narration.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:49:27.102472",
+    "pdf_source": "../StevensCourses\\Operations Management MGT 657-online-Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 15953,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Operations Management",
+      "code": "MGT 657",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Foad Mahdavi Pajouh, Ph.D.",
+        "email": "fmahdav1@stevens.edu",
+        "office_hours": "Tuesdays, 9:00 am – 12:00 pm (Appointments only via email)",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Introduces the student to the concepts and techniques used by organizations to support their fundamental task of producing goods and services.",
+    "learning_outcomes": [
+      "Understand how the production and operations function is managed and how it interacts with other key business functions.",
+      "Understand core concepts of supply chain management, discuss the goals of a supply chain, explain the impact of supply chain decisions on the success of a company, and identify key decision areas.",
+      "Comprehend and evaluate the details of capacity planning, facility planning, locating, layout and design.",
+      "Learn and select the tools and analytical techniques used by managers to improve operations and to aid decision-making.",
+      "Incorporate the concepts of quality management into the enterprise’s operations.",
+      "Examine and specify various demand forecasting techniques.",
+      "Understand the aspects of production planning and inventory control systems.",
+      "Mine procurement and vendor data, perform spend analysis and make sourcing decisions.",
+      "Develop models for making network design decisions and use optimization methods for facility location and network design decisions.",
+      "Use decision tree methodologies to evaluate supply chain planning and capacity allocation decisions under uncertainty."
+    ],
+    "learning_outcomes_count": 10,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

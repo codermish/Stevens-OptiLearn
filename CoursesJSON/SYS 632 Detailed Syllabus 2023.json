@@ -1,0 +1,334 @@
+{
+  "textbooks": [
+    {
+      "title": "Core Capabilities for Space Mission Analysis and Design",
+      "author": "SMAD Core",
+      "edition": "",
+      "ISBN": ""
+    },
+    {
+      "title": "Understanding Space: An Introduction to Astronautics",
+      "author": "Sellers, et al.",
+      "edition": "",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Course Intro",
+        "Applied Space Systems Engineering",
+        "Space Mission Design"
+      ],
+      "readings": [
+        "1-46"
+      ],
+      "assignments": [
+        "Personal Study Plan and Profile",
+        "Case Study 1 (variable due dates)"
+      ],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Intro to Orbits and Trajectories",
+        "Space Environments"
+      ],
+      "readings": [
+        "47-74"
+      ],
+      "assignments": [
+        "Homework 1"
+      ],
+      "due_dates": [
+        "9/11"
+      ]
+    },
+    "week3": {
+      "topics": [
+        "Understanding Orbits",
+        "Describing and Using Orbits"
+      ],
+      "readings": [
+        "75-112"
+      ],
+      "assignments": [
+        "HW2",
+        "Quiz 1"
+      ],
+      "due_dates": [
+        "9/18"
+      ]
+    },
+    "week4": {
+      "topics": [
+        "Orbit Maneuvers",
+        "Orbit Design and Selection"
+      ],
+      "readings": [
+        "113-160"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Ascent /Entry",
+        "Launch System Services"
+      ],
+      "readings": [
+        "161-190"
+      ],
+      "assignments": [
+        "HW 3 & 4",
+        "Quiz 2"
+      ],
+      "due_dates": [
+        "10/2"
+      ]
+    },
+    "week6": {
+      "topics": [
+        "Spacecraft Architecture Development"
+      ],
+      "readings": [
+        "191-204"
+      ],
+      "assignments": [
+        "Mid-term Exam",
+        "HW 5"
+      ],
+      "due_dates": [
+        "10/9"
+      ]
+    },
+    "week7": {
+      "topics": [
+        "Payload Design",
+        "Spacecraft Allocated Architecture",
+        "Spacecraft Subsystem Design"
+      ],
+      "readings": [
+        "205-252"
+      ],
+      "assignments": [
+        "Mid-term Study Plan Review",
+        "Case Study 1 Peer Reviews Due"
+      ],
+      "due_dates": [
+        "10/16"
+      ]
+    },
+    "week8": {
+      "topics": [
+        "Subsystem Design (Electrical Power, ADCS/GNC)"
+      ],
+      "readings": [
+        "253-294"
+      ],
+      "assignments": [
+        "HW 6",
+        "Case Study 2 (variable dates)"
+      ],
+      "due_dates": [
+        "10/23"
+      ]
+    },
+    "week9": {
+      "topics": [
+        "Subsystem Design (Space Propulsion, Communications)"
+      ],
+      "readings": [
+        "295-326"
+      ],
+      "assignments": [
+        "HW 7 & 8",
+        "Quiz 3"
+      ],
+      "due_dates": [
+        "10/30"
+      ]
+    },
+    "week10": {
+      "topics": [
+        "Subsystem Design (Data Handling)"
+      ],
+      "readings": [
+        "327-349"
+      ],
+      "assignments": [
+        "HW 9"
+      ],
+      "due_dates": [
+        "11/6"
+      ]
+    },
+    "week11": {
+      "topics": [
+        "Subsystem Design (Thermal Control, Spacecraft Structures & Configuration)"
+      ],
+      "readings": [
+        "350-384"
+      ],
+      "assignments": [
+        "HW 10"
+      ],
+      "due_dates": [
+        "11/13"
+      ]
+    },
+    "week12": {
+      "topics": [
+        "System Realization",
+        "Space Mission Operations"
+      ],
+      "readings": [
+        "385-434"
+      ],
+      "assignments": [
+        "HW 11 & 12"
+      ],
+      "due_dates": [
+        "11/27"
+      ]
+    },
+    "week13": {
+      "topics": [
+        "Evaluating Mission Risk and Cost",
+        "Review"
+      ],
+      "readings": [
+        "435-460"
+      ],
+      "assignments": [
+        "HW 13 & 14",
+        "Quiz 4",
+        "Final Plan Review and Self-Assessment"
+      ],
+      "due_dates": [
+        "12/4"
+      ]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "11%",
+      "assignments": "25%",
+      "exams": "50%",
+      "projects": "",
+      "quizzes": "8%",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "Late work will be penalized by 20% of the total points for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Personal Study Plan and Profile",
+      "description": "Due during week 1"
+    },
+    {
+      "name": "Case Study 1",
+      "description": "Variable due dates during the semester"
+    },
+    {
+      "name": "Homework 1",
+      "description": "Due by midnight eastern time on 9/11"
+    },
+    {
+      "name": "HW2",
+      "description": "Due by midnight eastern time on 9/18"
+    },
+    {
+      "name": "Mid-term Exam",
+      "description": "Covers content from weeks 1-5, available 10/13-10/16"
+    },
+    {
+      "name": "HW 5",
+      "description": "Due by midnight eastern time on 10/9"
+    },
+    {
+      "name": "Mid-term Study Plan Review",
+      "description": "Due on 10/16"
+    },
+    {
+      "name": "Case Study 1 Peer Reviews",
+      "description": "Due on 10/16"
+    },
+    {
+      "name": "HW 6",
+      "description": "Due by midnight eastern time on 10/23"
+    },
+    {
+      "name": "HW 7 & 8",
+      "description": "Due by midnight eastern time on 10/30"
+    },
+    {
+      "name": "HW 9",
+      "description": "Due by midnight eastern time on 11/6"
+    },
+    {
+      "name": "HW 10",
+      "description": "Due by midnight eastern time on 11/13"
+    },
+    {
+      "name": "HW 11 & 12",
+      "description": "Due by midnight eastern time on 11/27"
+    },
+    {
+      "name": "HW 13 & 14",
+      "description": "Due by midnight eastern time on 12/4"
+    },
+    {
+      "name": "Final Plan Review and Self-Assessment",
+      "description": "Due during finals week"
+    }
+  ],
+  "policies": {
+    "attendance": "Weekly course attendance is not required as all lessons are pre-recorded and available on-demand.",
+    "late_work": "Late work will be penalized by 20% of the total points for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "Any plagiarism or other form of cheating will be dealt with under relevant Stevens policies.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Mid-term Exam: 10/13-10/16",
+    "Final Exam: 12/15-12/18"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online and combines lectures, readings, homework, case studies, and quizzes.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:20:06.986109",
+    "pdf_source": "../StevensCourses\\SYS 632 Detailed Syllabus 2023.pdf",
+    "source_type": "file",
+    "text_length": 22600,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Designing Space Missions and Systems",
+      "code": "SYS 632",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Prof Pam Magee",
+        "email": "pmagee@tsti.net",
+        "office_hours": "Virtual Office Hours: TBD weekly group meeting: In Zoom, 7-8 or 8-9 pm eastern one night weekly.",
+        "contact_info": "mobile: 719-440-3200"
+      }
+    },
+    "course_description": "This course examines the real-world application of the entire space systems engineering discipline to robotic space mission design.",
+    "learning_outcomes": [
+      "Enhanced understanding of the big picture for space missions and systems",
+      "Working, technical knowledge of how the elements of a space mission work, how the functions of a space system are implemented in practice, and the key trades that lead to a successful mission",
+      "Practical experience with using data and systems engineering processes in the Space Technology Series to develop conceptual designs for space missions and systems",
+      "An organized framework for future space learning—on your own, in academic courses, or other short courses"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

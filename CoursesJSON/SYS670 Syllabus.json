@@ -1,0 +1,150 @@
+{
+  "textbooks": [
+    {
+      "title": "Introduction to Time Series Analysis and Forecasting",
+      "authors": "Montgomery, Jennings, Kulahci",
+      "edition": "2nd",
+      "publisher": "Wiley & Sons",
+      "year": "2015"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overview of Forecasting"],
+      "readings": ["Chapter 1"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Basic Forecasting Statistics"],
+      "readings": ["Chapter 2"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Regression, Error, Monitoring"],
+      "readings": ["Chapter 2"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Simple Linear Regression in Forecasting"],
+      "readings": ["Chapter 3"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Advanced Regression Modeling and Assessment"],
+      "readings": ["Chapter 3"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Exponential Smoothing Methods"],
+      "readings": ["Chapter 4"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["ARIMA Modeling - Autocorrelation"],
+      "readings": ["Chapter 5"],
+      "assignments": ["Midterm Exam"],
+      "due_dates": ["Chapters 1 - 4"]
+    },
+    "week8": {
+      "topics": ["ARIMA Modeling – Partial Autocorrelation"],
+      "readings": ["Chapter 5"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Forecasting ARIMA Processes"],
+      "readings": ["Chapter 5"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Transfer Function Models"],
+      "readings": ["Chapter 6"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Multivariate Transfer Function Models and Intervention Analysis"],
+      "readings": ["Chapter 6"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Multivariate Time Series and State Space Models"],
+      "readings": ["Chapter 7"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Advanced Forecasting Techniques"],
+      "readings": ["Chapter 7"],
+      "assignments": ["Final Exam"],
+      "due_dates": ["Chapters 5 - 7"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "30%",
+      "exams": "55%",
+      "projects": "",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "Late submittals will be allowed only on a case-by-case basis."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late submittals will be allowed only on a case-by-case basis, unless on-time submissions are not possible due to utility outages, pandemic issues, or work/family emergencies (which must be documented to the professor).",
+    "academic_integrity": "Enrollment into the undergraduate class of Stevens Institute of Technology signifies a student's commitment to the Honor System.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills; Live web conferencing using Zoom; Recording a slide presentation with audio narration; Possible recording, editing, and uploading video via Kaltura.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:25:40.250841",
+    "pdf_source": "../StevensCourses\\SYS670 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 17675,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Forecasting and Demand Modeling",
+      "code": "SYS670",
+      "credits": "3",
+      "semester": "",
+      "year": "2022",
+      "instructor": {
+        "name": "",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course builds analytical skills for developing mathematical models for decision-making concentrating specifically on time series data.",
+    "learning_outcomes": [
+      "Develop appropriate forecasting time series models based on theoretical standards",
+      "Judge the suitability of models based on the assessment of performance, fitness, and applicability",
+      "Utilize appropriate software analysis tools for various analyses and situations",
+      "Propose relevant recommendations with accuracy measurements to various levels of managerial staff"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "Knowledge of probability and statistics"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "textbooks": [
+    {
+      "title": "Software and tool documentation for Draw.io and PostgreSQL",
+      "author": "",
+      "edition": "",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Install Draw.io", "Install PostgreSQL"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Normalization exercises", "ERwin tutorial"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Design simple E-R models"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Construct SQL queries"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Construct complex SQL queries"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["SQL queries exercise"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Extended ER with examples"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Construct a use case for various business scenarios"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Develop a database model in PostgreSQL using DDL"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Business examples"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Use ERwin to construct a simple star schema"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Install a database in the cloud (AWS)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "40%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:06:32.197971",
+    "pdf_source": "../StevensCourses/Syllabus MIS 632-ws.pdf",
+    "source_type": "file",
+    "text_length": 4096,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Management LAB",
+      "code": "MIS 632",
+      "credits": "1 credit",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Yangyang Yu",
+        "email": "yyu44@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This 1-credit lab course provides an experiential learning component for MIS 631 Data Management for which it is a co-requisite. MIS 632 provides hands-on experience in designing, implementing, and querying databases.",
+    "learning_outcomes": [
+      "Understand the major phases of the data life-cycle (analysis of business needs, design, implementation and use)",
+      "Develop conceptual data models (E-R diagrams to design relational databases)",
+      "Implement a database in PostgreSQL",
+      "Build SQL queries",
+      "Work in a team to execute a database development project."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [
+      "MIS 631"
+    ],
+    "corequisites_count": 1
+  }
+}

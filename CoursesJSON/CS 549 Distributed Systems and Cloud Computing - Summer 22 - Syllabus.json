@@ -1,0 +1,352 @@
+{
+  "textbooks": [
+    {
+      "title": "BASE: An ACID Alternative",
+      "author": "Dan Pritchett",
+      "edition": "2008",
+      "ISBN": ""
+    },
+    {
+      "title": "BigTable: A Distributed Storage System for Structured Data",
+      "author": "F. Chang et al.",
+      "edition": "2008",
+      "ISBN": "https://doi.org/10.1145/1365815.1365816"
+    },
+    {
+      "title": "Keeping CALM: When Distributed Consistency is Easy",
+      "author": "J. Hellerstein and P. Alvaro",
+      "edition": "September 2020",
+      "ISBN": "https://doi.org/10.1145/3369736"
+    },
+    {
+      "title": "Cassandra: A Decentralized Structured Storage System",
+      "author": "A. Lakshman, P. Malick",
+      "edition": "April 2010",
+      "ISBN": "https://doi.org/10.1145/1773912.1773922"
+    },
+    {
+      "title": "Distributed snapshots: Determining global states of distributed systems",
+      "author": "K. M. Chandy, L. Lamport",
+      "edition": "1985",
+      "ISBN": ""
+    },
+    {
+      "title": "Dynamo: Amazon’s Highly Available Key-value Store",
+      "author": "G. DeCandia et al.",
+      "edition": "2007",
+      "ISBN": "https://doi.org/10.1145/1323293.1294281"
+    },
+    {
+      "title": "End-to-end arguments in system design",
+      "author": "J. H. Saltzer, D. P. Reed, D. D. Clark",
+      "edition": "1984",
+      "ISBN": ""
+    },
+    {
+      "title": "Above the clouds: A Berkeley view of Cloud Computing",
+      "author": "D. A. Patterson et al.",
+      "edition": "2009",
+      "ISBN": ""
+    },
+    {
+      "title": "The Google file system",
+      "author": "S. Ghemawat, H. Gobioff, S-T. Shun-Tak Leung",
+      "edition": "2003",
+      "ISBN": ""
+    },
+    {
+      "title": "Consensus on transaction commit",
+      "author": "J. Gray, L. Lamport",
+      "edition": "2006",
+      "ISBN": ""
+    },
+    {
+      "title": "Time, clocks and the ordering of events in a distributed system",
+      "author": "L. Lamport",
+      "edition": "1978",
+      "ISBN": ""
+    },
+    {
+      "title": "MapReduce: Simplified data processing on large clusters",
+      "author": "J. Dean, S. Ghemawat",
+      "edition": "2008",
+      "ISBN": ""
+    },
+    {
+      "title": "The NFS Version 4 Protocol",
+      "author": "B. Pawlowski et al.",
+      "edition": "2000",
+      "ISBN": ""
+    },
+    {
+      "title": "Paxos Made Simple",
+      "author": "L. Lamport",
+      "edition": "2001",
+      "ISBN": ""
+    },
+    {
+      "title": "From Viewstamped Replication to Byzantine Fault Tolerance",
+      "author": "B. Liskov",
+      "edition": "2010",
+      "ISBN": ""
+    },
+    {
+      "title": "Pig Latin: A not-so-foreign language for data processing",
+      "author": "C. Olston et al.",
+      "edition": "2008",
+      "ISBN": ""
+    },
+    {
+      "title": "Fallacies of distributed computing explained",
+      "author": "A. Rotem-Gal-Oz",
+      "edition": "2008",
+      "ISBN": ""
+    },
+    {
+      "title": "Session guarantees for weakly consistent replicated data",
+      "author": "D. B. Terry et al.",
+      "edition": "1994",
+      "ISBN": ""
+    },
+    {
+      "title": "Thunderella: Blockchains with Optimistic Instant Confirmation",
+      "author": "R. Pass, E. Shi",
+      "edition": "2018",
+      "ISBN": ""
+    },
+    {
+      "title": "A note on distributed computing",
+      "author": "Wyant, G., Wollrath, A., Kendall, S.",
+      "edition": "1994",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Distributed Systems and Cloud Computing"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #1"],
+      "due_dates": ["May 30"]
+    },
+    "week2": {
+      "topics": ["Client-Server Computing"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #2", "Assignment #1"],
+      "due_dates": ["June 6"]
+    },
+    "week3": {
+      "topics": ["Distributed File Systems"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #3"],
+      "due_dates": ["June 13"]
+    },
+    "week4": {
+      "topics": ["Web Services and Failure Models"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #4", "Assignment #2", "Quiz #5"],
+      "due_dates": ["June 20"]
+    },
+    "week5": {
+      "topics": ["Time and Ordering of Events"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #6"],
+      "due_dates": ["June 27"]
+    },
+    "week6": {
+      "topics": ["Asynchronous Communication"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Assignment #3"],
+      "due_dates": ["July 4"]
+    },
+    "week7": {
+      "topics": ["Transactions"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #7"],
+      "due_dates": ["July 11"]
+    },
+    "week8": {
+      "topics": ["Distributed Transactions"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #8", "Assignment #4"],
+      "due_dates": ["July 18"]
+    },
+    "week9": {
+      "topics": ["MapReduce; High Availability"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #9", "Quiz #10"],
+      "due_dates": ["July 25"]
+    },
+    "week10": {
+      "topics": ["Cloud Computing: Hadoop, Pig"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Assignment #5"],
+      "due_dates": ["Aug. 1"]
+    },
+    "week11": {
+      "topics": ["Consensus Protocols: Paxos, PBFT"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #11"],
+      "due_dates": ["Aug. 8"]
+    },
+    "week12": {
+      "topics": ["Blockchain Protocols"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Quiz #12"],
+      "due_dates": ["Aug. 15"]
+    },
+    "week13": {
+      "topics": ["Eventual Consistency and NoSQL"],
+      "readings": ["Required: Articles and lecture slides provided in online classroom"],
+      "assignments": ["Final Exam"],
+      "due_dates": ["Aug. 22"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "40%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "40%",
+      "final": "10%"
+    },
+    "scale": "",
+    "policies": "Assignments may be submitted after the due date, but up until the cutoff date, with a penalty of -5%. Assignments may be submitted up until the second cutoff date (usually two weeks after the original due date), with an additional penalty of -20%. Assignments may be submitted up until the third cutoff date (usually three weeks after the original due date), with an additional penalty of -25%. There will be no extensions past the third cutoff date. All exams and quizzes must be submitted by the time and date posted. There will be no extensions and no late submissions allowed."
+  },
+  "assignments": [
+    {
+      "name": "Quiz #1",
+      "description": "Due May 30"
+    },
+    {
+      "name": "Quiz #2",
+      "description": "Due June 6"
+    },
+    {
+      "name": "Assignment #1",
+      "description": "Due June 6"
+    },
+    {
+      "name": "Quiz #3",
+      "description": "Due June 13"
+    },
+    {
+      "name": "Quiz #4",
+      "description": "Due June 20"
+    },
+    {
+      "name": "Assignment #2",
+      "description": "Due June 20"
+    },
+    {
+      "name": "Quiz #5",
+      "description": "Due June 20"
+    },
+    {
+      "name": "Quiz #6",
+      "description": "Due June 27"
+    },
+    {
+      "name": "Assignment #3",
+      "description": "Due July 4"
+    },
+    {
+      "name": "Quiz #7",
+      "description": "Due July 11"
+    },
+    {
+      "name": "Quiz #8",
+      "description": "Due July 18"
+    },
+    {
+      "name": "Assignment #4",
+      "description": "Due July 18"
+    },
+    {
+      "name": "Quiz #9",
+      "description": "Due July 25"
+    },
+    {
+      "name": "Quiz #10",
+      "description": "Due July 25"
+    },
+    {
+      "name": "Assignment #5",
+      "description": "Due Aug. 1"
+    },
+    {
+      "name": "Quiz #11",
+      "description": "Due Aug. 8"
+    },
+    {
+      "name": "Quiz #12",
+      "description": "Due Aug. 15"
+    },
+    {
+      "name": "Final Exam",
+      "description": "Due Aug. 22"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Assignments may be submitted after the due date, but up until the cutoff date, with a penalty of -5%. Assignments may be submitted up until the second cutoff date (usually two weeks after the original due date), with an additional penalty of -20%. Assignments may be submitted up until the third cutoff date (usually three weeks after the original due date), with an additional penalty of -25%. There will be no extensions past the third cutoff date.",
+    "academic_integrity": "Undergraduate Honor System applies to all undergraduate students in coursework and Honor Board proceedings. Students must write and sign the pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities. The Office of Disability Services (ODS) works with students to help achieve their academic potential."
+  },
+  "important_dates": [
+    "May 30: Quiz #1 due",
+    "June 6: Quiz #2 and Assignment #1 due",
+    "June 13: Quiz #3 due",
+    "June 20: Quiz #4, Assignment #2, and Quiz #5 due",
+    "June 27: Quiz #6 due",
+    "July 4: Assignment #3 due",
+    "July 11: Quiz #7 due",
+    "July 18: Quiz #8 and Assignment #4 due",
+    "July 25: Quiz #9 and Quiz #10 due",
+    "Aug. 1: Assignment #5 due",
+    "Aug. 8: Quiz #11 due",
+    "Aug. 15: Quiz #12 due",
+    "Aug. 22: Final Exam due"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online. To access the course, please visit stevens.edu/canvas.",
+    "technology_requirements": "All assignments will be done in the Java programming language. Assignments will involve the use of tools such as Eclipse IDE, Maven, Sockets, Java RMI, Jersey framework for Web services, Tyrus framework for Websockets, and Hadoop.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:49:07.928290",
+    "pdf_source": "../StevensCourses\\CS 549 Distributed Systems and Cloud Computing - Summer 22 - Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 24091,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Distributed Systems and Cloud Computing",
+      "code": "CS 549",
+      "credits": "3",
+      "semester": "Summer",
+      "year": "2022",
+      "instructor": {
+        "name": "Dominic Duggan",
+        "email": "dduggan@stevens.edu",
+        "office_hours": "By appointment",
+        "contact_info": "Canvas email preferred"
+      }
+    },
+    "course_description": "The objective of this course is to give students a basic grounding in designing and implementing distributed and cloud systems.",
+    "learning_outcomes": [
+      "Develop distributed and Web services, using programming paradigms such as client-server, streaming, peer-to-peer, event-driven, and REST.",
+      "Explain protocols for achieving agreement in distributed systems, such as Two Phase Commit (2PC) and Paxos, and explain their application in scenarios such as transactional e-commerce and cloud infrastructure.",
+      "Explain methods for building highly available services, and explain the trade-off between weak and strong consistency as given in the CAP theorem.",
+      "Develop cloud applications using frameworks such as Cassandra, Hadoop, Pig, and Hive.",
+      "Describe implementation methods and protocols for distributed storage systems: distributed file systems, distributed hash tables, cloud storage, and NoSQL databases."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "You are expected to have a certain amount of programming maturity, since you will be developing distributed programs during the course of the term.",
+      "You should know Java since that will be the language for the assignments."
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

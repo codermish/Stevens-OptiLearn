@@ -1,0 +1,213 @@
+{
+  "textbooks": [
+    {
+      "title": "A First Course in Probability",
+      "author": "Sheldon Ross",
+      "edition": "Tenth",
+      "ISBN_13": "978-0-13-475311-9",
+      "ISBN_10": "0-13-475311-9"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Axioms of Probability"],
+      "readings": ["Textbook Ch. 2"],
+      "assignments": ["Homework 1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Combinatorial Analysis"],
+      "readings": ["Textbook Ch. 1"],
+      "assignments": ["Homework 2"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Conditional Probability & Independence"],
+      "readings": ["Textbook Ch. 3"],
+      "assignments": ["Homework 3"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Discrete Random Variables"],
+      "readings": ["Textbook Ch. 4"],
+      "assignments": ["Homework 4"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Continuous Random Variables (Part I)"],
+      "readings": ["Textbook Ch. 5"],
+      "assignments": ["Homework 5"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Continuous Random Variables (Part II)"],
+      "readings": ["Textbook Ch. 5"],
+      "assignments": ["Homework 6"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["No new material covered"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Fri Mar 8"]
+    },
+    "week9": {
+      "topics": ["Jointly Distributed Random Variables (Part I)"],
+      "readings": ["Textbook Ch. 6"],
+      "assignments": ["Homework 7"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Jointly Distributed Random Variables (Part II)"],
+      "readings": ["Textbook Ch. 6"],
+      "assignments": ["Homework 8"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Properties of Expectation"],
+      "readings": ["Textbook Ch. 7"],
+      "assignments": ["Homework 9"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Limit Theorems"],
+      "readings": ["Textbook Ch. 8"],
+      "assignments": ["Homework 10"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Poisson process"],
+      "readings": ["Textbook Ch. 9.1"],
+      "assignments": ["Homework 11"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Entropy"],
+      "readings": ["Textbook Ch. 9.3-4"],
+      "assignments": ["Homework 12"],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["No new material covered"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Fri May 3"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "20%",
+      "exams": "80%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": "Late homework will get 50% of the points. Points for incomplete homework will be prorated accordingly."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "Due after Week 2"
+    },
+    {
+      "name": "Homework 2",
+      "description": "Due after Week 3"
+    },
+    {
+      "name": "Homework 3",
+      "description": "Due after Week 4"
+    },
+    {
+      "name": "Homework 4",
+      "description": "Due after Week 5"
+    },
+    {
+      "name": "Homework 5",
+      "description": "Due after Week 6"
+    },
+    {
+      "name": "Homework 6",
+      "description": "Due after Week 7"
+    },
+    {
+      "name": "Homework 7",
+      "description": "Due after Week 9"
+    },
+    {
+      "name": "Homework 8",
+      "description": "Due after Week 10"
+    },
+    {
+      "name": "Homework 9",
+      "description": "Due after Week 11"
+    },
+    {
+      "name": "Homework 10",
+      "description": "Due after Week 12"
+    },
+    {
+      "name": "Homework 11",
+      "description": "Due after Week 13"
+    },
+    {
+      "name": "Homework 12",
+      "description": "Due after Week 14"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late homework will get 50% of the points. Points for incomplete homework will be prorated accordingly.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Fri Mar 8: Midterm Exam",
+    "Spring Recess: Mar 10",
+    "Fri May 3: Final Exam"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills; Navigating Canvas; Computer: current Mac (OS X) or PC (Windows 7+) with high-speed internet connection; Required Software: Microsoft Word, Microsoft PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:00:59.502475",
+    "pdf_source": "../StevensCourses\\EE 605 - Syllabus (Spring 2024).pdf",
+    "source_type": "file",
+    "text_length": 11225,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "PROBABILITY AND STOCHASTIC PROCESSES I",
+      "code": "EE 605 / CS 505",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Goran Djuknic, PhD",
+        "email": "gdjuknic@hotmail.com",
+        "office_hours": "Friday 7-9 pm EST (by appointment)",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Topics covered: Combinatorial Analysis, Axioms of Probability, Conditional Probability and Independence, Random Variables, Continuous Random Variables, Jointly Distributed Random Variables, Properties of Expectation, Limit Theorems, Introduction to Stochastic Processes.",
+    "learning_outcomes": [
+      "Evaluate probabilities in compound situations involving a sequence of operations using the axioms of probability, independence arguments, the law of total probability and Bayes's Theorem.",
+      "Evaluate probabilities in situations consisting of a finite number of equally likely outcomes, using combinatorial methods.",
+      "Model and evaluate in a probabilistic manner systems and situations involving continuous random variables (e.g., uniform, exponential, normal, etc).",
+      "Model and evaluate in a probabilistic manner systems and situations involving discrete random variables (e.g., Bernoulli, binomial, geometric, hyper-geometric, negative binomial, Poisson, etc)."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

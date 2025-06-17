@@ -1,0 +1,232 @@
+{
+  "textbooks": [
+    {
+      "title": "Augmented Intelligence: The Business Power of Human-Machine Collaboration",
+      "author": "Hurwitz, J. et.al.",
+      "edition": "2020",
+      "ISBN": "978-0-367-18489-6"
+    },
+    {
+      "title": "Machine Learning for Decision Makers: Cognitive Computing Fundamentals for Better Decision Making",
+      "author": "Kashyap, P.",
+      "edition": "2017",
+      "ISBN": "978-1-4842298-7-3"
+    },
+    {
+      "title": "Cognitive Computing with IBM Watson, Build smart applications using artificial intelligence as a service",
+      "author": "High, R. and Bakshi, T.",
+      "edition": "2019",
+      "ISBN": "978-1-78847-829-8"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Cognitive Computing"],
+      "readings": ["CCwIW - Ch. 1, Background, Transition and the Future of Computing"],
+      "assignments": ["Registration in IBM Academic Initiative, Watson Academy and Cognitive Class"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["AI, ML, and the Cognitive Enterprise"],
+      "readings": [
+        "MLDM – Ch. 1 Let’s Integrate with Machine Learning",
+        "MLDM – Ch. 2 Practical Concepts of Machine Learning",
+        "CCwIW - Ch. 2 Can Machines Converse Like Humans?",
+        "CCwIW - Ch. 4 This Is How Computers Speak"
+      ],
+      "assignments": ["Assignment #1A Watson Assistant"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Tools for Building Cognitive Applications"],
+      "readings": [
+        "CCwIW - Ch. 6 Language",
+        "CCwIW - Ch. 7 Structuring"
+      ],
+      "assignments": ["Assignment #1B Watson Discovery"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Tools for Building Deep Learning Applications"],
+      "readings": ["AI – Ch. 3 The Cycle of Data"],
+      "assignments": ["Assignment #1C Watson Studio"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Perspectives on Cognitive Computing and Systems"],
+      "readings": [
+        "CCwIW - Ch. 3 Computer Vision",
+        "CCwIW - Ch. 8 Putting it all together with Watson"
+      ],
+      "assignments": ["Assignment #1D Watson Visual"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Big Data and Augmented Intelligence"],
+      "readings": [
+        "AI – Ch.1 What is Augmented Intelligence",
+        "MLDM - Ch. 3 ML Algorithms and Their Relationship with Modern Technologies"
+      ],
+      "assignments": ["Assignment #2A Deep Learning Fundamentals"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Building Knowledge-Based Agents"],
+      "readings": [
+        "MLDM Ch. 8 Industrial Applications",
+        "The Human Side of ML",
+        "MLDM Appendix A Building ML Applications"
+      ],
+      "assignments": ["Assignment #2B Deep Learning with Tensorflow"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Knowledge-Based Agents and Cognitive Analytics"],
+      "readings": ["AI – Ch. 4 Building Models to Support Augmented Intelligence"],
+      "assignments": ["Assignment #3 Cognitive Analytics - Deep Learning"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Knowledge-Based Agents and Cognitive Systems"],
+      "readings": ["AI – Ch. 5 Augmented Intelligence in a Business Process"],
+      "assignments": ["Assignment #4 Cognitive Systems – Deep QA"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Cognitive Analytics and Evidence-Based Decision Making"],
+      "readings": ["MLDM Ch. 5 Industrial Applications of Machine Learning"],
+      "assignments": ["Cognitive Systems – Project Proposal"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Cognitive Systems in Marketing, Sales, Customer Support"],
+      "readings": [
+        "Applications - Artificial Intelligence in Practice",
+        "Ch 19 Uniliver - AI to Streamline Recruiting and Onboarding",
+        "Ch 20 Walmart - AI to Keep Shelves Stacked and Customers Happy",
+        "Ch 29 Verizon - ML to Assess Service Quality",
+        "Ch 32 Elsevier- AI to Improve Medical Decisions and Scientific Research",
+        "Ch 37 Infervision - AI to Detect Cancer and Strokes"
+      ],
+      "assignments": ["Cognitive System – Project Development"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Building Cognitive Applications – Ethics"],
+      "readings": ["AI – Ch. 7 The Criticality of Governance and Ethics in Augmented Intelligence"],
+      "assignments": ["Cognitive System – Project Development"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["The Future of Cognitive Systems"],
+      "readings": [
+        "MLDM - Ch. 6 I Am the Future: Machine Learning in Action",
+        "The Future - On AI, Analytics, and the New Machine Age - HBR’s 10 Most Reads"
+      ],
+      "assignments": ["Cognitive System – Project Presentation"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "60%",
+      "exams": "",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "title": "Assignment #1A",
+      "description": "Watson Assistant"
+    },
+    {
+      "title": "Assignment #1B",
+      "description": "Watson Discovery"
+    },
+    {
+      "title": "Assignment #1C",
+      "description": "Watson Studio"
+    },
+    {
+      "title": "Assignment #1D",
+      "description": "Watson Visual"
+    },
+    {
+      "title": "Assignment #2A",
+      "description": "Deep Learning Fundamentals"
+    },
+    {
+      "title": "Assignment #2B",
+      "description": "Deep Learning with Tensorflow"
+    },
+    {
+      "title": "Assignment #3",
+      "description": "Cognitive Analytics - Deep Learning"
+    },
+    {
+      "title": "Assignment #4",
+      "description": "Cognitive Systems – Deep QA"
+    },
+    {
+      "title": "Cognitive Systems – Project Proposal",
+      "description": ""
+    },
+    {
+      "title": "Cognitive System – Project Development",
+      "description": ""
+    },
+    {
+      "title": "Cognitive System – Project Presentation",
+      "description": ""
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance at live sessions counts as 10% of your grade.",
+    "late_work": "",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral. Consequences of academic impropriety are severe, ranging from receiving an 'F' in a course to expulsion.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "Register for the IBM Academic Initiative and Cognitive Class using your Stevens.Edu email address.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:26:39.668947",
+    "pdf_source": "../StevensCourses\\v^ BIA 662-[GenAI]Syllabus-Revised01-2024 (1).pdf",
+    "source_type": "file",
+    "text_length": 16422,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Augmented Intelligence and Generative AI",
+      "code": "BIA 662",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Dr. Chris Asakiewicz",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course explores the area of augmented intelligence and its implications for today’s world of big data analytics and evidence-based decision making.",
+    "learning_outcomes": [
+      "Understand and discuss what augmented intelligence and generative AI is, and how it differs from traditional approaches.",
+      "Plan and use the primary tools associated with augmented intelligence and generative AI.",
+      "Plan and execute a project that leverages augmented intelligence and generative AI.",
+      "Understand and discuss the business implications of augmented intelligence and generative AI."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

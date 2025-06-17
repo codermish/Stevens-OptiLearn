@@ -1,0 +1,367 @@
+{
+  "textbooks": [
+    {
+      "title": "Cost-Effective Space Mission Operations",
+      "author": "Squibb et al.",
+      "edition": "2nd Ed",
+      "publisher": "McGraw-Hill",
+      "url": "https://spacetechnologyseries.com/~spacet9/books/Cost-Effective-Space-Mission-Operations.html"
+    },
+    {
+      "title": "Understanding Space: An Introduction to Astronautics",
+      "author": "Sellers et al.",
+      "publisher": "McGraw-Hill"
+    },
+    {
+      "title": "Space Mission Analysis & Design",
+      "author": "edited by Larson",
+      "publisher": "Inkling book via CEI"
+    },
+    {
+      "title": "Applied Space Systems Engineering",
+      "author": "Larson et al.",
+      "publisher": "CEI"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Course Intro",
+        "Mission Operations Overview",
+        "Falconsat Case Study"
+      ],
+      "readings": [
+        "CV: 1.1, 1.2",
+        "HO: 1.1, 1.2",
+        "CESMO: 1, 2",
+        "ASSE: 1",
+        "US: 11, 15"
+      ],
+      "assignments": [
+        "Personal Study Plan and Profile"
+      ],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Failure is Not an Option video",
+        "ConOps Overview"
+      ],
+      "readings": [
+        "CV: 2.1",
+        "HO: 2.1",
+        "CESMO: 4"
+      ],
+      "assignments": [
+        "Quiz 1",
+        "Failure Not an Option Exercise"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "ConOps Development",
+        "Operations complexity",
+        "Cygnus Case Study"
+      ],
+      "readings": [
+        "CV: 2.2",
+        "HO: 2.2",
+        "CESMO: 5",
+        "ASSE: 3"
+      ],
+      "assignments": [
+        "Complexity Exercise"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "QuickLook (QL) ConOps Overview",
+        "Understanding and Using Orbits pt 1"
+      ],
+      "readings": [
+        "CV: 3.1.1",
+        "HO: 3.1 pt 1",
+        "CESMO: 10",
+        "US: 4-6"
+      ],
+      "assignments": [
+        "QL Exercise",
+        "Quiz 2"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Understanding and Using Orbits pt 2"
+      ],
+      "readings": [
+        "CV: 3.1.2",
+        "CV: 3.1.3",
+        "HO: 3.1 pt 2",
+        "CESMO: 10",
+        "US: 4-6"
+      ],
+      "assignments": [
+        "Spreadsheet Maneuver Exercise",
+        "Kepler's TOF Problem Exercise"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Perturbations & Orbit Prediction"
+      ],
+      "readings": [
+        "CV: 3.2.1",
+        "CV: 3.2.2",
+        "HO: 3.2 pt",
+        "CESMO: 10",
+        "US: 8"
+      ],
+      "assignments": [
+        "Quiz 3"
+      ],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "STK Introduction",
+        "STK Tutorial",
+        "STK OPS Scenarios 1 & 2"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "TT & C"
+      ],
+      "readings": [
+        "CV: 4.1.1",
+        "HO: 4.1 pt",
+        "CESMO: 12",
+        "SMAD: 11.2"
+      ],
+      "assignments": [
+        "STK OPS Scenario 3"
+      ],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Communication Architecture / Link Analysis"
+      ],
+      "readings": [
+        "CV: 4.1.2",
+        "HO: 4.1 pt 2",
+        "CESMO: 11, 12",
+        "SMAD: 13"
+      ],
+      "assignments": [
+        "SMAD Spreadsheet Link Analysis Exercise"
+      ],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Ground Systems & Comm Architecture"
+      ],
+      "readings": [
+        "CV: 4.2",
+        "HO: 4.2",
+        "CESMO: 11, 12",
+        "SMAD: 13"
+      ],
+      "assignments": [
+        "SMAD/STK Link Analysis Exercise",
+        "Quiz 4"
+      ],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Space Environment & Spacecraft Design"
+      ],
+      "readings": [
+        "CV: 5.1",
+        "HO: 5.1",
+        "US: 3, 11-14"
+      ],
+      "assignments": [
+        "NetworKing Exercise"
+      ],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Contingency Planning & Anomalies",
+        "Echo Star Case Study"
+      ],
+      "readings": [
+        "CV: 5.2",
+        "HO: 5.2",
+        "CESMO: 16"
+      ],
+      "assignments": [
+        "Anomaly Resolution Exercise",
+        "Quiz 5"
+      ],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Launch & EO Ops Planning & Execution",
+        "Organization & Training"
+      ],
+      "readings": [
+        "CV: 6.1, 6.2",
+        "HO: 6.1, 6.2",
+        "CESMO: 8 & 9"
+      ],
+      "assignments": [
+        "Final Study Plan Review and Self-Assessment"
+      ],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": [
+        "Take Home Final Exam"
+      ],
+      "readings": [
+        "Review All"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "TBD during final exam period"
+      ]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "75%",
+      "exams": "25%",
+      "projects": "",
+      "quizzes": "18%",
+      "final": "25%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "name": "Personal Study Plan, Profile, Annotated Syllabus",
+      "weight": "4%"
+    },
+    {
+      "name": "Failure is Not an Option Exercise",
+      "weight": "5%"
+    },
+    {
+      "name": "Quizzes (6 @ 3% each)",
+      "weight": "18%"
+    },
+    {
+      "name": "Complexity Exercise",
+      "weight": "4%"
+    },
+    {
+      "name": "ConOps Exercise",
+      "weight": "4%"
+    },
+    {
+      "name": "SMAD Spreadsheet Maneuver Exercise",
+      "weight": "5%"
+    },
+    {
+      "name": "Kepler TOF Problem Exercise",
+      "weight": "4%"
+    },
+    {
+      "name": "STK Ops Scenarios 1 & 2 Exercises",
+      "weight": "5%"
+    },
+    {
+      "name": "STK Ops Scenario 3 Exercise",
+      "weight": "5%"
+    },
+    {
+      "name": "SMAD Spreadsheet Link Analysis Exercise",
+      "weight": "5%"
+    },
+    {
+      "name": "SMAD / STK Link Analysis Exercise",
+      "weight": "5%"
+    },
+    {
+      "name": "NetworKing Exercise",
+      "weight": "5%"
+    },
+    {
+      "name": "Anomaly Resolution Exercise",
+      "weight": "4%"
+    },
+    {
+      "name": "Final Study Plan Review and Self-Assessment",
+      "weight": "2%"
+    },
+    {
+      "name": "Final Exam (Take Home)",
+      "weight": "25%"
+    },
+    {
+      "name": "Course Feedback (PLEASE!)",
+      "weight": "0%"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "Assignments may be submitted to www.turnitin.com for originality evaluation.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course combines course videos, handout readings, case studies, hands-on exercises, and a take home final exam.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:26:01.029115",
+    "pdf_source": "../StevensCourses\\SYS_637_Online_Syllabus_Spring_2024.pdf",
+    "source_type": "file",
+    "text_length": 5366,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Space Missions Operations",
+      "code": "SYS 637",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course explores the challenge of designing and implementing real-world mission operations in a practical, cost-effective way.",
+    "learning_outcomes": [
+      "Define and explain the critical activities of space mission operations",
+      "Discuss the inputs, outputs and uses for a space Mission Operations Concept and be able to critically analyze one of these key documents",
+      "Describe the elements that contribute to mission operations complexity and perform trade-off analyses to reduce that complexity",
+      "Analyze mission orbits to determine ground system pass characteristics",
+      "Describe key elements of mission ground systems",
+      "Compare and contrast operations concepts for military, civil, scientific and human space missions",
+      "Develop and analyze aspects of simulated satellite pass plans"
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

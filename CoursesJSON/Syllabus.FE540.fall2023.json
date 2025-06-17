@@ -1,0 +1,246 @@
+{
+  "textbooks": [
+    {
+      "title": "Handbook of Probability",
+      "author": "Ionut Florescu and Ciprian A. Tudor",
+      "edition": "2014",
+      "ISBN": "1118593146, 9781118593141"
+    },
+    {
+      "title": "Fundamentals of Probability: with Stochastic Processes",
+      "author": "Saeed Ghahramani",
+      "edition": "Third Edition, Nov. 2015",
+      "ISBN": "9781498755016"
+    },
+    {
+      "title": "Probability and Stochastic Processes",
+      "author": "Ionut Florescu",
+      "edition": "Oct. 2014",
+      "ISBN": "978-0470624555, 047062455"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Axioms of Probability",
+        "Sample Spaces",
+        "Combinatorial Analysis",
+        "Counting",
+        "Permutations",
+        "Combinations",
+        "Binomial Coefficient"
+      ],
+      "readings": [
+        "FT-1",
+        "G-1,2"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Conditional Probability and Independence",
+        "Law of Total Probability",
+        "Bayes’ Theorem",
+        "Applications"
+      ],
+      "readings": [
+        "FT-2",
+        "F-2",
+        "G-3"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Random Variables: Generalities"
+      ],
+      "readings": [
+        "FT-3"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Discrete Random variables",
+        "Examples"
+      ],
+      "readings": [
+        "FT-4",
+        "G-4,5"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Continuous Random variables",
+        "Examples"
+      ],
+      "readings": [
+        "FT-5",
+        "G-6,7"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Generating Random variables",
+        "Catching up"
+      ],
+      "readings": [
+        "FT-6",
+        "F-3"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "MIDTERM"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Random vectors",
+        "Joint distribution"
+      ],
+      "readings": [
+        "FT-7",
+        "F-4"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Conditional distribution",
+        "Conditional expectation"
+      ],
+      "readings": [
+        "G-8,9"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Moment Generating Function",
+        "Characteristic Function"
+      ],
+      "readings": [
+        "FT-8,9",
+        "F-6"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Gaussian Random Vectors",
+        "Catch up"
+      ],
+      "readings": [
+        "FT-10"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Statistical Inference",
+        "Limit Theorems"
+      ],
+      "readings": [
+        "FT-11,12",
+        "F-7,8"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Poisson Process and Markov Chain"
+      ],
+      "readings": [
+        "F-10,12",
+        "G-12.2,12.4"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": [
+        "Brownian motion (time permitting)"
+      ],
+      "readings": [
+        "F-15",
+        "G-12.5"
+      ],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "25%",
+      "exams": "70%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "All on-campus students must attend the lecture in person.",
+    "late_work": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The class meets every Monday and the lecture will be broadcasted for the WS students.",
+    "technology_requirements": "Students must submit assignments in .pdf format.",
+    "support_resources": "Students can use Adobe Acrobat or a pdf printer driver to create pdf files."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:10:59.685794",
+    "pdf_source": "../StevensCourses/Syllabus.FE540.fall2023.pdf",
+    "source_type": "file",
+    "text_length": 9912,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Probability theory for Financial Engineering",
+      "code": "FE 540",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Ionut Florescu",
+        "email": "ifloresc@stevens.edu",
+        "office_hours": "Monday 4-6pm and by appointment",
+        "contact_info": "(201) 216-5452"
+      }
+    },
+    "course_description": "The main goal of this course is to provide FE and FA students with the necessary probability theory background to ensure a proper performance for the remaining classes in the programs.",
+    "learning_outcomes": [
+      "Perform probability reasoning and fundamental probability calculations.",
+      "Understand stochastic processes.",
+      "Proper introduction of random variables."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

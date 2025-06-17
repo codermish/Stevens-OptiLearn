@@ -1,0 +1,182 @@
+{
+  "textbooks": [
+    {
+      "title": "Robot Modeling and Control",
+      "author": "Spong, Hutchinson, Vidyasagar"
+    },
+    {
+      "title": "Autonomous Mobile Robots",
+      "author": "Siegwart, Nourbakhsh, Scaramuzza",
+      "edition": "2nd Ed."
+    },
+    {
+      "title": "Introduction to Robotics: Mechanics and Control",
+      "author": "Craig",
+      "edition": "2nd Ed."
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction & Course Overview"],
+      "readings": [],
+      "assignments": ["Student Intro"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Manipulator Basics, Rot. & Trans."],
+      "readings": ["Spong, Ch. 1 & 2"],
+      "assignments": ["Week 1 Prob. Set"],
+      "due_dates": ["9-Sep"]
+    },
+    "week3": {
+      "topics": ["Manipulator Kinematics"],
+      "readings": ["Spong, Ch. 3"],
+      "assignments": ["Week 2 Prob. Set"],
+      "due_dates": ["16-Sep"]
+    },
+    "week4": {
+      "topics": ["Velocity Kinematics"],
+      "readings": ["Spong, Ch. 4"],
+      "assignments": ["Week 4 Prob. Set", "Virtual Lab 1"],
+      "due_dates": ["23-Sep"]
+    },
+    "week5": {
+      "topics": ["Path & Trajectory Planning"],
+      "readings": ["Spong, Ch. 5"],
+      "assignments": ["Week 5 Prob. Set"],
+      "due_dates": ["30-Sep"]
+    },
+    "week6": {
+      "topics": ["Control of Manipulators"],
+      "readings": ["Craig, Ch. 9"],
+      "assignments": ["Virtual Lab 1"],
+      "due_dates": ["7-Oct"]
+    },
+    "week7": {
+      "topics": [],
+      "readings": [],
+      "assignments": ["Lab 1 Part. Survey", "Quizzes"],
+      "due_dates": ["15-Oct"]
+    },
+    "week8": {
+      "topics": ["Actuators & Sensors"],
+      "readings": ["Siegwart, Ch. 4.1"],
+      "assignments": [],
+      "due_dates": ["28-Oct"]
+    },
+    "week9": {
+      "topics": ["Image Processing"],
+      "readings": ["Siegwart, Ch. 4.2 & 4.3"],
+      "assignments": [],
+      "due_dates": ["4-Nov"]
+    },
+    "week10": {
+      "topics": ["Virtual Lab 2"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["11-Nov"]
+    },
+    "week11": {
+      "topics": ["Mobile Robot Kinematics"],
+      "readings": ["Siegwart, Ch. 2 & 3"],
+      "assignments": ["Swedish Wheels", "Lab 3 Pre-Lab"],
+      "due_dates": ["18-Nov"]
+    },
+    "week12": {
+      "topics": ["Virtual Lab 3 (Thanksgiving Week)"],
+      "readings": [],
+      "assignments": ["Virtual Lab 3"],
+      "due_dates": ["25-Nov"]
+    },
+    "week13": {
+      "topics": ["Localization, Path Planning & Nav."],
+      "readings": ["Siegwart, Ch. 5 & 6"],
+      "assignments": ["Final Project"],
+      "due_dates": ["2-Dec"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "10%",
+      "exams": "",
+      "projects": "20%",
+      "quizzes": "30%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Grades will be based on class participation, problem sets, online quizzes, virtual labs, final project, and group participation."
+  },
+  "assignments": [
+    {
+      "name": "Student Intro",
+      "description": "Introduction assignment for students."
+    },
+    {
+      "name": "Problem Sets",
+      "description": "Five problem sets consisting of textbook-style example problems."
+    },
+    {
+      "name": "Quizzes",
+      "description": "Quizzes administered during class times."
+    },
+    {
+      "name": "Virtual Labs",
+      "description": "Three group assignments requiring various tasks and analysis."
+    },
+    {
+      "name": "Final Project",
+      "description": "Group assignment with elaborate objectives and solution-freedom."
+    },
+    {
+      "name": "Lab Participation Surveys",
+      "description": "Surveys to assess group participation."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance during live, synchronous course meetings will factor into the class participation portion of term grades. Students receive one 'free' session they may miss without any grading impact.",
+    "late_work": "Unless agreed upon with the professor in advance, assignments received late may incur a 50% penalty. Late submissions will generally not be accepted after solutions are posted.",
+    "academic_integrity": "Students must adhere to the Stevens Honor System and the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities must communicate with the professor to coordinate accommodations."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer skills, live web conferencing using Zoom, and MATLAB programming skills are required.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:30:59.015008",
+    "pdf_source": "../StevensCourses\\ME598WS_Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 26766,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Robotics",
+      "code": "ME 598",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Mishah Uzziél Salman, Ph. D.",
+        "email": "msalman@stevens.edu",
+        "office_hours": "Thursdays, 11:30am – 1:30pm EST",
+        "contact_info": "(201) 216-5072"
+      }
+    },
+    "course_description": "This course introduces students to a breadth of foundational topics relevant to robotic manipulators and mobile robots.",
+    "learning_outcomes": [
+      "Apply mathematical foundations relevant for describing the geometry, motion, and behavior of robotic manipulators and wheeled mobile robots.",
+      "Utilize mathematical methods for robot capability analysis and operation.",
+      "Use software to perform analyses, generate programming code, and generate simulations for various robotic devices."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [
+      "Knowledge of differential equations and matrix analysis strongly recommended",
+      "Familiarity with fundamentals of computer coding and MATLAB recommended"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

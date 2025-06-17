@@ -1,0 +1,228 @@
+{
+  "textbooks": [
+    {
+      "title": "Construction Scheduling Principals and Practices",
+      "author": "Jay S. Newitt",
+      "edition": "Second Edition",
+      "ISBN": "978-0-13-513782-6"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Scheduling Systems"],
+      "readings": [],
+      "assignments": ["Assignment 1"],
+      "due_dates": ["3-Sep"]
+    },
+    "week2": {
+      "topics": ["Introduction to CPM"],
+      "readings": [],
+      "assignments": ["Assignment 2"],
+      "due_dates": ["10-Sep"]
+    },
+    "week3": {
+      "topics": ["CPM Calculations"],
+      "readings": [],
+      "assignments": ["Assignment 3"],
+      "due_dates": ["17-Sep"]
+    },
+    "week4": {
+      "topics": ["Lags and Floats in CPM"],
+      "readings": [],
+      "assignments": ["Assignment 4"],
+      "due_dates": ["24-Sep"]
+    },
+    "week5": {
+      "topics": ["Introduction to MS Project"],
+      "readings": [],
+      "assignments": ["Assignment 5"],
+      "due_dates": ["1-Oct"]
+    },
+    "week6": {
+      "topics": ["Resource Management"],
+      "readings": [],
+      "assignments": ["Assignment 6"],
+      "due_dates": ["8-Oct"]
+    },
+    "week7": {
+      "topics": ["Linear Scheduling"],
+      "readings": [],
+      "assignments": ["Assignment 7"],
+      "due_dates": ["22-Oct"]
+    },
+    "week8": {
+      "topics": ["Exam 1"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["29-Oct"]
+    },
+    "week9": {
+      "topics": ["Earned Value Management + MS Project: Calendar"],
+      "readings": [],
+      "assignments": ["Assignment 8", "Assignment 9"],
+      "due_dates": ["5-Nov"]
+    },
+    "week10": {
+      "topics": ["Progress Monitoring"],
+      "readings": [],
+      "assignments": ["Assignment 10"],
+      "due_dates": ["12-Nov"]
+    },
+    "week11": {
+      "topics": ["Probabilistic Scheduling: PERT Method"],
+      "readings": [],
+      "assignments": ["Assignment 11"],
+      "due_dates": ["19-Nov"]
+    },
+    "week12": {
+      "topics": ["Probabilistic Scheduling: Distribution Method"],
+      "readings": [],
+      "assignments": ["Assignment 12"],
+      "due_dates": ["26-Nov"]
+    },
+    "week13": {
+      "topics": ["Probabilistic Scheduling: Monte Carlo Simulation"],
+      "readings": [],
+      "assignments": ["Assignment 13", "Assignment 14"],
+      "due_dates": ["3-Dec", "10-Dec"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "50%",
+      "exams": "50%",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 92-100%, A-: 90-91.99%, B+: 87-89.99%, B: 83-86.99%, B-: 80-82.99%, C+: 77-79.99%, C: 60-76.99%, F: 0-59.99%",
+    "policies": "No late assignment or make-up exam will be accepted without pre-approval of the instructor."
+  },
+  "assignments": [
+    {
+      "name": "Assignment 1",
+      "points": 50
+    },
+    {
+      "name": "Assignment 2",
+      "points": 100
+    },
+    {
+      "name": "Assignment 3",
+      "points": 100
+    },
+    {
+      "name": "Assignment 4",
+      "points": 100
+    },
+    {
+      "name": "Assignment 5",
+      "points": 100
+    },
+    {
+      "name": "Assignment 6",
+      "points": 100
+    },
+    {
+      "name": "Assignment 7",
+      "points": 100
+    },
+    {
+      "name": "Assignment 8",
+      "points": 100
+    },
+    {
+      "name": "Assignment 9",
+      "points": 100
+    },
+    {
+      "name": "Assignment 10",
+      "points": 200
+    },
+    {
+      "name": "Assignment 11",
+      "points": 100
+    },
+    {
+      "name": "Assignment 12",
+      "points": 200
+    },
+    {
+      "name": "Assignment 13",
+      "points": 100
+    },
+    {
+      "name": "Assignment 14",
+      "points": 200
+    }
+  ],
+  "policies": {
+    "attendance": "Students are expected to attend the class or watch the recorded videos regularly.",
+    "late_work": "No late assignment or make-up exam will be accepted without pre-approval of the instructor.",
+    "academic_integrity": "Plagiarism is defined as taking, and using as one’s own, the ideas and writings of another without giving appropriate credit through proper documentation.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "3-Sep: Assignment 1 due",
+    "10-Sep: Assignment 2 due",
+    "17-Sep: Assignment 3 due",
+    "24-Sep: Assignment 4 due",
+    "1-Oct: Assignment 5 due",
+    "8-Oct: Assignment 6 due",
+    "15-Oct: No Class",
+    "22-Oct: Assignment 7 due",
+    "29-Oct: Exam 1",
+    "5-Nov: Assignment 8 and Assignment 9 due",
+    "12-Nov: Assignment 10 due",
+    "19-Nov: Assignment 11 due",
+    "26-Nov: Assignment 12 due",
+    "3-Dec: Assignment 13 due",
+    "10-Dec: Assignment 14 due"
+  ],
+  "additional_info": {
+    "course_format": "Every Tuesday at 3:00 PM EDT, a recorded lecture will be uploaded on Canvas. Live sessions will be held at the time of the class to enhance engagement.",
+    "technology_requirements": "",
+    "support_resources": "The Office of Counseling and Psychological Services (CAPS) offers free and confidential services to all enrolled students."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:39:56.051079",
+    "pdf_source": "../StevensCourses\\CM-529-WS-Fall-2024 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 14127,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Construction Project Scheduling",
+      "code": "CM-529-WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Mohammad Ilbeigi",
+        "email": "milbeigi@stevens.edu",
+        "office_hours": "By appointment",
+        "contact_info": "ABS 226, 201.216.8048"
+      }
+    },
+    "course_description": "This course provides an overview of construction project scheduling concepts and computer applications employed in construction including scheduling logic, critical path method, resources management, progress monitoring, and probabilistic scheduling methods.",
+    "learning_outcomes": [
+      "Explain basic scheduling theory and scheduling specifications",
+      "Assemble the Work Breakdown Structure (WBS)",
+      "Calculate schedule float and determine the critical path",
+      "Apply resource loading and leveling to schedules",
+      "Schedule work activities based on applied logic",
+      "Construct and finalize the baseline project schedule",
+      "Perform Earned Value Management (EVM)",
+      "Describe forensic scheduling for construction claims",
+      "Utilize construction schedules for project management",
+      "Create Construction Project Schedules",
+      "Understand the Construction Project Control Process",
+      "Implement project schedule using MS Project"
+    ],
+    "learning_outcomes_count": 12,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

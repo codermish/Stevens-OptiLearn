@@ -1,0 +1,161 @@
+{
+  "textbooks": [
+    {
+      "title": "Database System Concepts",
+      "author": "Avi Silberschatz",
+      "edition": "Fifth Edition",
+      "ISBN": "0-07-295886-3"
+    },
+    {
+      "title": "SQL QuickStart Guide: The Simplified Beginner’s Guide to Managing, Analyzing, and Manipulating Data With SQL",
+      "author": "Walter Shields",
+      "edition": "2019",
+      "ISBN": "1945051752"
+    },
+    {
+      "title": "MongoDB: The Definitive Guide: Powerful and Scalable Data Storage",
+      "author": "Eoin Brazil",
+      "edition": "3rd Edition",
+      "ISBN": "1491954469"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Intro to course", "working environment setup"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Basic R: Usage of Packages and functions"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Advanced R: functions and visualization"],
+      "readings": [],
+      "assignments": ["Assignment I Publish"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["SQL I: Intro to PostgreSQL"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["SQL II: Table Join and Set Operation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["SQL III: Subquery and I/O"],
+      "readings": [],
+      "assignments": ["Assignment I Due", "Assignment II Publish"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["SQL IV: Role Management and Function"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["SQL V: Triggers and Backup/Restore"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["SQL and R: PostgreSQL API and other APIs"],
+      "readings": [],
+      "assignments": ["Assignment II due", "Assignment III Publish"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["SQL VI: Explain"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["SQL VII: Index and Summary"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["MongoDB I: Intro to NoSQL and MongoDB Setup"],
+      "readings": [],
+      "assignments": ["Assignment III Due"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["MongoDB II: Basic Query Syntax"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "60%",
+      "exams": "40%",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "No late assignment is allowed without permission from instructor. No curving in this class."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late assignment is allowed without permission from instructor.",
+    "academic_integrity": "All Stevens, graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work. A student’s submission of work for academic credit indicates that the work is the student’s own. All outside assistance must be acknowledged. Any student who violates this code or who knowingly assists another student in violating this code shall be subject to discipline. All graduate students are bound to the Graduate Student Code of Academic Integrity by enrollment in graduate coursework at Stevens.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:13:54.621242",
+    "pdf_source": "../StevensCourses/Syllabus_FE513_section_A_WS (2).pdf",
+    "source_type": "file",
+    "text_length": 3497,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "FE513",
+      "code": "FE 513 - A/WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Cheng Lu",
+        "email": "clu12@stevens.edu",
+        "office_hours": "Wed 3:00 - 4:00 pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The course aims to introduce the required techniques and fundamental knowledge in data science techniques. It helps students to be familiar with database and data analysis tools. Students will be able to manage data in database and solve financial problems using R program packages.",
+    "learning_outcomes": [
+      "Use R to scrape, clean, and process data",
+      "Use relational database to store data locally",
+      "Manage database through R and get data from database using R",
+      "Design efficient relational databases for different data sizes and different industry",
+      "Use NoSQL (MongoDB) to store data",
+      "Design efficient MongoDB databases"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

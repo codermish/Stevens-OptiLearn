@@ -1,0 +1,231 @@
+{
+  "textbooks": [
+    {
+      "title": "Artificial Intelligence in Practice: How 50 Successful Companies Used AI and Machine Learning to Solve Problems",
+      "author": "Marr, B. & Ward, M.",
+      "edition": "1st Edition"
+    },
+    {
+      "title": "Applied Artificial Intelligence: A Handbook for Business Leaders",
+      "author": "Yao, M., Zhou, A., and Jia, M.",
+      "edition": "2018"
+    },
+    {
+      "title": "Atlas of AI",
+      "author": "Crawford, K.",
+      "edition": "2021"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to AI Technologies"],
+      "readings": [
+        "[AOAI] Introduction and Chapter 1, Earth",
+        "The Sequence (required subscription)"
+      ],
+      "assignments": ["Introductory Survey"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Face Recognition: History and Foundations"],
+      "readings": [
+        "Facial recognition technologies: A primer: Face Recognition Homepage - Algorithms",
+        "Marr, D. (2010). Vision: Chapter 1: The Philosophy and the Approach.",
+        "Marr, D. (2010). Vision: Chapter 2: Representing the Image.",
+        "Profiled: A Brief History of Identification",
+        "Bricks + Mortals | UCL CULTURE"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Face Recognition: Modern Systems"],
+      "readings": [
+        "The Nvidia AI Network Effect Goes Beyond Hardware",
+        "Closing the Gap Between Deep Learning Software and Hardware",
+        "The ML Hardware Virtualization Layer",
+        "The AI Chip Race is Getting More Specialized",
+        "Face Recognition Vendor Test (FRVT) Ongoing | NIST",
+        "Face Recognition Vendor Test (FRVT) Part 2: Identification",
+        "Face Recognition Vendor Test (FRVT), Part 3: Demographic Effects"
+      ],
+      "assignments": ["Start Assignment 1"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Face Recognition: Ethics, Accountability, and the Law"],
+      "readings": [
+        "AOAI Chapters (3): Data; Classification; Affect",
+        "Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification.",
+        "Regulating Biometrics: Global Approaches and Urgent Questions"
+      ],
+      "assignments": ["Submit Assignment 1", "Start Assignment 2"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Autonomous Transportation: History and Foundations"],
+      "readings": [
+        "A Brief History of Autonomous Vehicle Technology | WIRED",
+        "Nebot, E. M. (1999). Sensors used for autonomous navigation.",
+        "Awesome Autonomous Vehicles"
+      ],
+      "assignments": ["Submit Assignment 2"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Autonomous Transportation: Modern Systems"],
+      "readings": [
+        "Full AV Stacks: Who, What, Where, etc. - EE Times",
+        "Mcity: Leading the Mobility Transportation",
+        "The AI Platform Startup Ecosystem is Getting Crowded",
+        "The First AI Startups IPOs - by Jesus Rodriguez"
+      ],
+      "assignments": ["Start Assignment 3"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Autonomous Transportation: Ethics, Accountability, and the Law"],
+      "readings": [
+        "Autonomous vehicles state bill tracking database.",
+        "A Mother of a Child with Autism Shares How Fully Autonomous Driving Could Benefit Families of Children with Disabilities.",
+        "Autonomous Vehicles Testing and Operating in the State of Arizona | ADOT",
+        "Autonomous Vehicles - California DMV"
+      ],
+      "assignments": ["Submit Assignment 3", "Start Assignment 4"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Machine Translation: History and Foundations"],
+      "readings": [
+        "There is no word.",
+        "Tongue and tech: The many emotions for which English has no words.",
+        "Surfaces and Essences Analogy As The Fuel and Fire of Thinking",
+        "11.8: Introduction to Linguistics - Social Sci LibreTexts",
+        "Natural Language Understanding Recap"
+      ],
+      "assignments": ["Submit Assignment 4", "Start Assignment 5"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Machine translation: Modern systems, Ethics, Accountability, and the Law"],
+      "readings": [
+        "The shallowness of Google Translate. The Atlantic.",
+        "Statistical Machine Translation",
+        "Google's neural machine translation system: Bridging the gap between human and machine translation.",
+        "Beyond English-centric multilingual machine translation"
+      ],
+      "assignments": ["Submit Assignment 5", "Start Assignment 6"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Fraud Detection: History and Foundations"],
+      "readings": [
+        "Common scams and crimes.",
+        "Statistical fraud detection: a review.",
+        "Fraud detection in telecommunications: History and lessons learned."
+      ],
+      "assignments": ["Submit Assignment 6", "Start Assignment 7"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Fraud Detection: Modern Systems"],
+      "readings": [
+        "Guest post: Introducing Low-Latency Streaming Pipelines for Real-Time ML",
+        "Computational methods for dynamic graphs."
+      ],
+      "assignments": ["Submit Assignment 7"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Fraud Detection: Ethics, Accountability, and the Law"],
+      "readings": [
+        "The Ethical Algorithm.",
+        "Bias Isn't the Only Problem with Credit Scores—and No, AI Can't Help *",
+        "AOAI Chapter 6, State, and Conclusion"
+      ],
+      "assignments": ["Start Assignment 8"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["The Problem of Scheduling Meetings"],
+      "readings": [
+        "How we built a virtual scheduling assistant at Microsoft.",
+        "Calendar.help: Designing a workflow-based scheduling agent with humans in the loop. Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, 2382–2393.",
+        "AOAI Chapter 2, Labor"
+      ],
+      "assignments": ["Submit Assignment 8", "Start Assignment 9 (submit by the last day of finals week)"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "85%",
+      "exams": "0%",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 94, A-: 90, B+: 87, B: 84, B-: 80, C+: 77, C: 74, C-: 70, D+: 67, D: 64, F: 0",
+    "policies": "Late problem sets and projects will not be accepted unless excused in writing by the instructor."
+  },
+  "assignments": [
+    "Introductory Survey",
+    "Assignment 1",
+    "Assignment 2",
+    "Assignment 3",
+    "Assignment 4",
+    "Assignment 5",
+    "Assignment 6",
+    "Assignment 7",
+    "Assignment 8",
+    "Assignment 9 (submit by the last day of finals week)"
+  ],
+  "policies": {
+    "attendance": "Full participation in live sessions means showing up on time, being attentive, and participating in any activities or group discussions.",
+    "late_work": "Late problem sets and projects will not be accepted unless excused in writing by the instructor.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "You will need a computer that can run Python 3.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:32:26.686503",
+    "pdf_source": "../StevensCourses\\BIA 668 Syllabus_Summer 23.pdf",
+    "source_type": "file",
+    "text_length": 15836,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Management of AI Technologies",
+      "code": "BIA 668",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2023",
+      "instructor": {
+        "name": "Jordan W. Suchow",
+        "email": "jsuchow@stevens.edu",
+        "office_hours": "Listed on course homepage",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Artificial Intelligence (AI) is an interdisciplinary field that draws on insights from computer science, engineering, mathematics, statistics, linguistics, psychology, and neuroscience to design agents that can perceive the environment and act upon it.",
+    "learning_outcomes": [
+      "Manage the performance of an AI system and monitor its ongoing effectiveness",
+      "Distinguish between hype and rapid advances in AI methods",
+      "Assess AI systems along dimensions of fairness, accountability, transparency, ethics, and the law",
+      "Plan the lifecycle of an AI project, from discovery through post-deployment monitoring",
+      "Develop strategy for deployment of AI solutions within an organization"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "One advanced ML course (e.g., BIA 667 Deep Learning)"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

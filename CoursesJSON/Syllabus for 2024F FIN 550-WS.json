@@ -1,0 +1,209 @@
+{
+  "textbooks": [
+    {
+      "title": "Fundamentals of Financial Planning",
+      "author": "Michael Dalton, et al.",
+      "edition": "7th",
+      "ISBN": "978-1-946711-39-7",
+      "year": "2021"
+    },
+    {
+      "title": "Principles of Risk Management and Insurance",
+      "author": "George Rejda and Michael McNamara",
+      "edition": "14th",
+      "ISBN": "9780135641293",
+      "year": "2020"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Fundamentals of Financial Planning and Risk Management", "Ethics Code", "Fiduciary Rules"],
+      "readings": ["Dalton, 1", "Rejda 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Client Communication"],
+      "readings": ["Dalton, 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Financial Planning Approaches"],
+      "readings": ["Dalton, 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Personal Financial Statement"],
+      "readings": ["Dalton, 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Time Value of Money"],
+      "readings": ["Dalton, 7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Regulation and Consumer Laws", "Debt Management", "Credit"],
+      "readings": ["Dalton, 15"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Investment Planning"],
+      "readings": ["Dalton, 9"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Ethics"],
+      "readings": ["Dalton, 16"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Risk Management and Insurance", "Introduction to Risk", "Insurers and Marketing Systems", "Government Regulations"],
+      "readings": ["Rejda, 2", "5", "8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Legal Principles", "Insurance Contracts"],
+      "readings": ["Rejda, 9", "10"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Life Insurance"],
+      "readings": ["Rejda, 11", "12", "13"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Auto & Homeowners' Insurance"],
+      "readings": ["Rejda, 20", "21", "22", "23"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "",
+      "exams": "35%",
+      "projects": "30%",
+      "quizzes": "25%",
+      "final": ""
+    },
+    "scale": "A (92.0+), A- (89.01-92.0), B+ (87.01-89.0), B (85.01 - 87.0), B- (80.01 - 85.0), C (75.01 - 80.0)",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "title": "Introduce yourself",
+      "due_date": "Tue Sep 24, 2024",
+      "description": "Due by 11:59pm"
+    },
+    {
+      "title": "Quiz#1 - KYC/Risk Appetite",
+      "due_date": "Mon Sep 30, 2024",
+      "description": "Due by 11:59pm"
+    },
+    {
+      "title": "Attendance",
+      "due_date": "",
+      "description": ""
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "date": "Mon Sep 9, 2024",
+      "event": "Class Session",
+      "time": "6:30pm to 9:30pm"
+    },
+    {
+      "date": "Mon Sep 16, 2024",
+      "event": "Class Session",
+      "time": "6:30pm to 9:30pm"
+    },
+    {
+      "date": "Mon Sep 23, 2024",
+      "event": "Class Session",
+      "time": "6:30pm to 9:30pm"
+    },
+    {
+      "date": "Mon Oct 7, 2024",
+      "event": "Class Session",
+      "time": "6:30pm to 9:30pm"
+    },
+    {
+      "date": "Mon Oct 14, 2024",
+      "event": "Class Session",
+      "time": "6:30pm to 9:30pm"
+    },
+    {
+      "date": "Mon Oct 21, 2024",
+      "event": "Class Session",
+      "time": "6:30pm to 9:30pm"
+    },
+    {
+      "date": "Mon Oct 28, 2024",
+      "event": "Final Exam",
+      "time": ""
+    }
+  ],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:02:18.486406",
+    "pdf_source": "../StevensCourses/Syllabus for 2024F FIN 550-WS.pdf",
+    "source_type": "file",
+    "text_length": 5377,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Financial Planning",
+      "code": "FIN 550-WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Vasileios Katsikiotis",
+        "email": "vkatsiki@stevens.edu",
+        "office_hours": "Monday 5:30pm-6:30pm",
+        "contact_info": "Tel/Text: 201-294-2174"
+      }
+    },
+    "course_description": "This course will review the fundamental principles of financial planning, professional conduct, education planning, risk management and regulation.",
+    "learning_outcomes": [
+      "Understand the fundamental concepts of financial planning from a theoretical and applied perspective.",
+      "Understanding and apply the code of ethics and professional responsibility, rules of conduct, planning standards and disciplinary rules (including related procedures) applicable to certified financial planning along with the fiduciary standards to which planners must conform.",
+      "Understand consumer financial laws that apply to financial planning products and processes",
+      "Apply the basic concepts of time value of money, portfolio selection and optimization to problems related to financial planning and risk management.",
+      "Know the value and also the limits of financial planning and risk management at a personal level.",
+      "Understand different insurance products that can be used to hedge the risk of financial plans."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

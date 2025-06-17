@@ -1,0 +1,304 @@
+{
+  "textbooks": [
+    {
+      "title": "The Memory Jogger II",
+      "author": "Michael Brassard, Diane Ritter, Francine Oddo, Janet MacCausland",
+      "edition": "2nd",
+      "ISBN": "1576811131"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Overview and Introduction to Quality",
+        "History of quality as part of management responsibility",
+        "Background on quality 'gurus'",
+        "Overview of representative quality programs used by life sciences industry"
+      ],
+      "readings": [
+        "Posted in week 1"
+      ],
+      "assignments": [
+        "Post your self-introduction",
+        "Log into the link in the Reading Assignments Column, download FDA’s Guidance for Industry Q10 Pharmaceutical Quality System"
+      ],
+      "due_dates": [
+        "Thursday 11:59 pm for homework; comments due Sunday 11:59 pm"
+      ]
+    },
+    "week2": {
+      "topics": [
+        "Quality Management System Implementation",
+        "Brief review of US quality standards (GMP, QSR)",
+        "Overview of quality awards (Deming, Baldrige, etc.)",
+        "Quality management system implementation strategies",
+        "Flowcharting a process",
+        "Process reengineering"
+      ],
+      "readings": [
+        "Posted in week 2"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "Thursday 11:59 pm for homework; comments due Sunday 11:59 pm"
+      ]
+    },
+    "week3": {
+      "topics": [
+        "The Quality System Model",
+        "Brief review of ISO quality standards (ISO 9000 vs. 13485)",
+        "What is the Quality System Model?",
+        "FDA’s 'One Quality Voice'",
+        "FDA’s 'Case for Quality'"
+      ],
+      "readings": [
+        "Posted in week 3",
+        "http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM070337.pdf (Quality System Approach to Pharmaceutical cGMP)"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "Thursday 11:59 pm for homework; no comments"
+      ]
+    },
+    "week4": {
+      "topics": [
+        "Root Cause Analysis and Quality Tools",
+        "Overview of root cause analysis and investigations",
+        "Data organization tools",
+        "Root cause analysis tools",
+        "Corrective action tool",
+        "Cost of quality",
+        "The Memory Jogger II (reference pages that cover listed quality tools)"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": [
+        "Thursday 11:59 pm for homework; comments due Sunday 11:59 pm"
+      ]
+    },
+    "week5": {
+      "topics": [
+        "Proactive Tools to Improve Quality",
+        "Internal auditing",
+        "CAPA investigations",
+        "Management quality system review",
+        "Metrics and trend analysis",
+        "Supplier auditing certification",
+        "FDA and other regulatory authority inspections",
+        "ISO audits and certification"
+      ],
+      "readings": [
+        "Posted in week 5"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "Thursday 11:59 pm for homework; comments due Sunday 11:59 pm"
+      ]
+    },
+    "week6": {
+      "topics": [
+        "Team Presentations – Project I"
+      ],
+      "readings": [],
+      "assignments": [
+        "Team PowerPoint presentation"
+      ],
+      "due_dates": [
+        "Thursday 11:59 pm for presentation; comments due Sunday 11:59 pm"
+      ]
+    },
+    "week7": {
+      "topics": [
+        "Midterm Exam"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": [
+        "Sunday 11:59 pm for midterm exam"
+      ]
+    },
+    "week8": {
+      "topics": [
+        "Lean and Six Sigma and Their Roles in Life Sciences Quality",
+        "Lean and six sigma as quality programs",
+        "DMAIC and DMADV methodologies",
+        "Control charts"
+      ],
+      "readings": [
+        "Posted in week 8"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "Thursday 11:59 pm for homework; comments due Sunday 11:59 pm"
+      ]
+    },
+    "week9": {
+      "topics": [
+        "The Role of Quality in Life Sciences R & D",
+        "Quality in the drug, biotech, and device development lifecycle and production scale-up",
+        "TRIZ methodology"
+      ],
+      "readings": [
+        "Posted in week 9",
+        "www.fda.gov (Go to Code of Federal Regulations and select 21 CFR 56, Institutional Review Boards)"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "Thursday 11:59 pm for homework; comments due Sunday 11:59 pm"
+      ]
+    },
+    "week10": {
+      "topics": [
+        "Structure and Trends in Quality in Life Sciences Commercial Manufacturing, Post-marketing Pharmacovigilance and Complaint Handling",
+        "Quality organization",
+        "Lab testing",
+        "Inspection",
+        "Document management and review",
+        "Training",
+        "Process validation",
+        "Complaint handling",
+        "Adverse event reporting",
+        "Product recalls"
+      ],
+      "readings": [
+        "www.fda.gov (21 CFR 310.305)",
+        "http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?cfrpart=7&showfr=1 (FDA Recall Policies)",
+        "https://www.fda.gov/media/72504/download (Post marketing Safety Reporting for Human Drug and Biological Products Including Vaccines)"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "Thursday 11:59 pm for homework; comments due Sunday 11:59 pm"
+      ]
+    },
+    "week11": {
+      "topics": [
+        "Team Presentations – Project II"
+      ],
+      "readings": [],
+      "assignments": [
+        "Team PowerPoint presentation"
+      ],
+      "due_dates": [
+        "Thursday 11:59 pm for presentation; comments due Sunday 11:59 pm"
+      ]
+    },
+    "week12": {
+      "topics": [
+        "Thanksgiving Week – Plan Ahead"
+      ],
+      "readings": [],
+      "assignments": [
+        "Individual Term Paper and PowerPoint Summary"
+      ],
+      "due_dates": [
+        "Thursday 11:59 pm for term paper and PP summary"
+      ]
+    },
+    "week13": {
+      "topics": [
+        "Life Sciences Software Quality Requirements, Computer System Validation and Part 11",
+        "Software development lifecycle",
+        "Computer system validation",
+        "Part 11 requirements"
+      ],
+      "readings": [
+        "http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM085371.pdf (General Principles of Software Validation)",
+        "http://www.fda.gov/downloads/RegulatoryInformation/Guidances/ucm125125.pdf (Guidance - Part 11, Electronic Records, Signatures)"
+      ],
+      "assignments": [],
+      "due_dates": [
+        "Thursday 11:59 pm for homework; comments due Sunday 11:59 pm"
+      ]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "25%",
+      "exams": "20%",
+      "projects": "40%",
+      "quizzes": "",
+      "final": "10%"
+    },
+    "scale": "A: 90% and above, B: 80% and above, C: 70% and above, F: Below 70%",
+    "policies": "Late homework assignments will be accepted but points may be deducted."
+  },
+  "assignments": [
+    {
+      "description": "Weekly homework assignments (10 @ 25 points each)",
+      "points": 250
+    },
+    {
+      "description": "Student team case study presentation #1",
+      "points": 150
+    },
+    {
+      "description": "Student team case study presentation #2",
+      "points": 150
+    },
+    {
+      "description": "Individual term paper project",
+      "points": 150
+    },
+    {
+      "description": "Individual term paper PowerPoint summary presentation",
+      "points": 100
+    },
+    {
+      "description": "Midterm exam",
+      "points": 100
+    },
+    {
+      "description": "Final exam",
+      "points": 100
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late homework assignments will be accepted but points may be deducted.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm exam due Sunday 11:59 pm",
+    "Term paper and PP summary due Thursday 11:59 pm",
+    "Final exam due Sunday 11:59 pm"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills; current Mac (OS X) or PC (Windows 7+) with high-speed internet connection; Microsoft Word, Excel, PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:50:25.714561",
+    "pdf_source": "../StevensCourses\\PME 560WS 2023 Introduction & Syllabus Updated 19Aug.pdf",
+    "source_type": "file",
+    "text_length": 21710,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Quality in Life Sciences Manufacturing",
+      "code": "PME 560",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Sam Spagnuolo",
+        "email": "sspagnuolo@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This is a required course in the Pharmaceutical Manufacturing and Engineering Program. It can be taken by students pursuing a Graduate Certificate in Validation, Compliance and Quality, or a Master’s Degree in Pharmaceutical Manufacturing.",
+    "learning_outcomes": [
+      "To describe various life sciences quality system models",
+      "To demonstrate a variety of quality tools and to explain their use in life sciences industry investigations and assessments",
+      "To discuss various quality roles in life science industries and how they contribute to the overall quality of the industry",
+      "To effectively communicate the results of assignments and research about quality in life science manufacturing in written reports"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

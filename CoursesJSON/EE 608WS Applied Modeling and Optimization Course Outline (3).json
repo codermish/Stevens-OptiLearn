@@ -1,0 +1,171 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to optimization"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["First order conditions for Optimization"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Constrained optimization"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Convex optimization"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Exam 1 Review"],
+      "readings": ["Review lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Exam 1"],
+      "readings": ["Closed book/notes exam"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Steepest descent, Newton method, penalty and barrier algorithms"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Conjugate direction method, duality"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Duality, subgradients"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Subgradient algorithm and linear programming"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Linear programming, regularization, and least squares"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Exam 2"],
+      "readings": ["Open book/notes exam"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Norms, quadratic forms, SOCP, SDP"],
+      "readings": ["Lecture notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Final Project"],
+      "readings": ["Final Project report submission"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "",
+      "exams": "60%",
+      "projects": "40%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "description": "Homework: Submit your solution to homework on Canvas as a pdf file."
+    },
+    {
+      "description": "Project: Final project topic is chosen by the students. You will do the project in a small group (up to 3 students per group). Each group will identify an application area and a related optimization problem within that area."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "Students are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Exam 1",
+      "date": "Week 6"
+    },
+    {
+      "event": "Exam 2",
+      "date": "Week 12"
+    },
+    {
+      "event": "Final Project submission",
+      "date": "Week 14"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom. Required equipment includes a current Mac or PC with high-speed internet, a webcam, and a microphone. Required software includes MATLAB, Python, Microsoft Word, and Microsoft PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:01:29.639003",
+    "pdf_source": "../StevensCourses\\EE 608WS Applied Modeling and Optimization Course Outline (3).pdf",
+    "source_type": "file",
+    "text_length": 16620,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Applied Modeling and Optimization",
+      "code": "EE 608WS",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "R. Chandramouli (Mouli)",
+        "email": "rchandr1@stevens.edu",
+        "office_hours": "Thursday 10 pm to 1 pm (EDT)",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This is an introductory course on mathematical modeling of optimization problems and techniques for finding solutions.",
+    "learning_outcomes": [
+      "Model an optimization problem",
+      "Solve unconstrained and constrained optimization problems",
+      "Recognize a convex optimization problem",
+      "Apply numerical techniques such as gradient descent",
+      "Choose a software toolbox to solve an optimization problem",
+      "Apply optimization techniques to machine learning and other areas"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "Background in Calculus and Linear Algebra.",
+      "MATLAB, Python or equivalent scientific programming skills."
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

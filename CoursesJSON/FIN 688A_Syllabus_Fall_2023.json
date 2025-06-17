@@ -1,0 +1,171 @@
+{
+  "textbooks": [
+    {
+      "title": "Corporate Finance The Core",
+      "author": "Jonathan Berk & Peter DeMarzo",
+      "edition": "4th Edition"
+    },
+    {
+      "title": "Corporate Finance",
+      "author": "Stephen A. Ross, Randolph W. Westerfield, Jeffrey Jaffe (RWJ)",
+      "edition": "10th Edition"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["M&A, Restructurings, Control & Governance"],
+      "readings": ["BD Chap 24"],
+      "assignments": ["EoC Problems"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Overview 2 & DCF Valuation"],
+      "readings": ["BD Chaps 8, 9 & 12"],
+      "assignments": ["EoC Problems"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Signs of Optimism in the M&A Market", "Eight Basic Beliefs Capturing Value-in-a-M&A"],
+      "readings": [],
+      "assignments": ["All Groups 5 min/article"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Details on Mergers and Acquisition"],
+      "readings": ["BD Chaps 29 & Notes"],
+      "assignments": ["EoC Problems"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Dow’s Bid for Rohm and Haas"],
+      "readings": ["HBC 9-211-020"],
+      "assignments": ["20/22 mins each"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Midterm Examination"],
+      "readings": ["In-class"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["M&A Continued and M&A Financing – Equity"],
+      "readings": ["BD Chaps 28 & 23 & Notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["The flip side of large M&A deals", "Driving growth in consumer goods through programmatic M&A"],
+      "readings": [],
+      "assignments": ["All Groups 5 min/article"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Lecture on Real Options & M&A"],
+      "readings": ["RWJ, Notes"],
+      "assignments": ["End of Chapter Problems"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Canadian Pacific Takeover of Norfolk Southern"],
+      "readings": ["HBC 9-211-020"],
+      "assignments": ["20/22 mins each", "SPA: Student Presentation of Article", "SPC: Student Presentation of Case"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "",
+      "exams": "20%",
+      "projects": "",
+      "quizzes": "15%",
+      "final": "25%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "It is your responsibility to find out from your classmates what you miss when you are absent.",
+    "late_work": "",
+    "academic_integrity": "Cheating will not be tolerated under any circumstances. Anyone involved in these activities will receive an ‘F’ grade in the course.",
+    "accommodations": "Any student with a disability and in need of special accommodations during the course or examination should request accommodations in advance."
+  },
+  "important_dates": [
+    {
+      "event": "Course Start",
+      "date": "September 1, 2023"
+    },
+    {
+      "event": "Course End",
+      "date": "December 18, 2023"
+    },
+    {
+      "event": "Midterm Examination",
+      "date": "Week 6"
+    }
+  ],
+  "additional_info": {
+    "course_format": "In person sessions, live question and answer sessions with high level of student involvement.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:23:26.734012",
+    "pdf_source": "../StevensCourses\\FIN 688A_Syllabus_Fall_2023.pdf",
+    "source_type": "file",
+    "text_length": 11439,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Mergers, Acquisitions and Other Corporate Restructuring",
+      "code": "FIN 688",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Dr. Suman Banerjee",
+        "email": "sbanerj2@stevens.edu",
+        "office_hours": "Wednesday from 1:00 p.m. – 3:00 p.m.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Finance stands as the foundation of profit-driven enterprises. This core finance course equips students with skills and knowledge essential for diverse career paths, encompassing various investment types (especially in debt-involved firms), specialized investment situations, financial advisory roles, and finance research.",
+    "learning_outcomes": [
+      "Assessing both theoretical and practical research within the realms of mergers and acquisitions, initial public offerings, corporate carve-outs, and spinoffs.",
+      "Grasping the ramifications of corporate insolvency and restructuring on the wealth of stakeholders.",
+      "Contrasting diverse models for making investment and divestiture choices amid uncertainty.",
+      "Recognizing the legal dimensions of corporate investment and divestiture determinations, along with the impacts of legal risk on stakeholders’ wealth.",
+      "Applying ethical frameworks to scrutinize organizational decision-making within the financial context."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "FIN 638: Corporate Finance",
+      "FIN 616: Managerial Economics",
+      "FIN 510: Financial Statement Analysis",
+      "FIN 628: Derivatives",
+      "Instructor’s consent"
+    ],
+    "prerequisites_count": 5,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

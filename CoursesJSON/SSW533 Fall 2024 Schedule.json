@@ -1,0 +1,169 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction & Measurement Theory"],
+      "readings": [],
+      "assignments": ["HW1"],
+      "due_dates": ["September 3, 2024"]
+    },
+    "week2": {
+      "topics": ["Data Analysis"],
+      "readings": [],
+      "assignments": ["HW2"],
+      "due_dates": ["September 10, 2024"]
+    },
+    "week3": {
+      "topics": ["Measuring Size"],
+      "readings": [],
+      "assignments": ["HW3"],
+      "due_dates": ["September 17, 2024"]
+    },
+    "week4": {
+      "topics": ["Complexity & Function Points"],
+      "readings": [],
+      "assignments": ["HW4"],
+      "due_dates": ["September 24, 2024"]
+    },
+    "week5": {
+      "topics": ["Function Points"],
+      "readings": [],
+      "assignments": ["HW5"],
+      "due_dates": ["October 1, 2024"]
+    },
+    "week6": {
+      "topics": ["Agile Estimation"],
+      "readings": [],
+      "assignments": ["HW6"],
+      "due_dates": ["October 8, 2024"]
+    },
+    "week7": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["October 15, 2024"]
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Defects"],
+      "readings": [],
+      "assignments": ["HW7"],
+      "due_dates": ["October 29, 2024"]
+    },
+    "week10": {
+      "topics": ["Reliability"],
+      "readings": [],
+      "assignments": ["HW8"],
+      "due_dates": ["November 5, 2024"]
+    },
+    "week11": {
+      "topics": ["Performability and Presentability"],
+      "readings": [],
+      "assignments": ["HW9"],
+      "due_dates": ["November 12, 2024"]
+    },
+    "week12": {
+      "topics": ["In-Process Metrics"],
+      "readings": [],
+      "assignments": ["HW10"],
+      "due_dates": ["November 19, 2024"]
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Software Analytics"],
+      "readings": [],
+      "assignments": ["HW11"],
+      "due_dates": ["December 3, 2024"]
+    },
+    "week15": {
+      "topics": ["Performance Metrics & Applications"],
+      "readings": [],
+      "assignments": ["HW12"],
+      "due_dates": ["December 10, 2024"]
+    },
+    "week16": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["December 17, 2024"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    "HW1",
+    "HW2",
+    "HW3",
+    "HW4",
+    "HW5",
+    "HW6",
+    "HW7",
+    "HW8",
+    "HW9",
+    "HW10",
+    "HW11",
+    "HW12"
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [
+    "Midterm: October 15, 2024",
+    "Final Exam: December 17, 2024"
+  ],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:53:26.283415",
+    "pdf_source": "../StevensCourses\\SSW533 Fall 2024 Schedule.pdf",
+    "source_type": "file",
+    "text_length": 694,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "",
+      "code": "",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

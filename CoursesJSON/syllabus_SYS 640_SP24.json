@@ -1,0 +1,154 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "20%",
+      "exams": "30%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "title": "Homework",
+      "description": "One homework question per week from the posted exercises. Each assignment will be worth 20 points, no late submissions are accepted."
+    },
+    {
+      "title": "Team Project",
+      "description": "Choose one of the Major Defense Systems (e.g., Abrams, Bradley, B52, F16, etc.). Write a critical review focusing on the supportability and logistics associated with your chosen topic."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late submissions are accepted.",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Team Project Presentation",
+      "date": "Week 8"
+    }
+  ],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:17:15.040534",
+    "pdf_source": "../StevensCourses\\syllabus_SYS 640_SP24.pdf",
+    "source_type": "file",
+    "text_length": 3413,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "System Supportability and Logistics",
+      "code": "SYS640",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course introduces students to a disciplined approach to providing efficient and effective system logistics support, focusing on integrated supply chain and demand management.",
+    "learning_outcomes": [
+      "Integrate the knowledge acquired in this course.",
+      "Integrate how the concepts and ideas in this course apply to actual business and/or government organizations.",
+      "Apply the system supportability and logistics tools and techniques acquired in this course.",
+      "Apply and improve the students’ ability to effectively work on teams."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

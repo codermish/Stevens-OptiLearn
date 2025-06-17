@@ -1,0 +1,124 @@
+{
+  "textbooks": [
+    {
+      "title": "Essentials of Marketing",
+      "author": "Perrault, Cannon and McCarthy",
+      "edition": "17th",
+      "ISBN": "9781265552701"
+    },
+    {
+      "title": "Essentials of Marketing",
+      "author": "Perrault",
+      "edition": "17th",
+      "ISBN": "9781260260373"
+    },
+    {
+      "title": "Essentials of Marketing",
+      "author": "Perrault",
+      "edition": "17th",
+      "ISBN": "9781264156689"
+    },
+    {
+      "title": "Essentials of Marketing",
+      "author": "Perrault",
+      "edition": "17th",
+      "ISBN": "9781264156702"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "12.5%",
+      "assignments": "12.5%",
+      "exams": "25%",
+      "projects": "45%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 93%, A-: 90%, B+: 85%, B: 80%, B-: 75%, C+: 70%, D: 65%, F: Below 650",
+    "policies": "Grades assigned at the end of the semester are not negotiable. No rounding of grades."
+  },
+  "assignments": [
+    {
+      "description": "Client organization snapshot (Post Brief)",
+      "points": 50
+    },
+    {
+      "description": "Progress Feedback",
+      "points": 50
+    },
+    {
+      "description": "Dry Run Presentation (2 weeks before final)",
+      "points": 100
+    },
+    {
+      "description": "Final Presentation",
+      "points": 250
+    },
+    {
+      "description": "Class Discussions",
+      "points": 150
+    },
+    {
+      "description": "Assignments",
+      "points": 150
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is optional, but missing two or more classes is discouraged.",
+    "late_work": "Timely submissions are required; late submissions may be penalized.",
+    "academic_integrity": "Cheating and plagiarism are strictly prohibited and will result in severe consequences.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Interactive exchange with lectures and discussions.",
+    "technology_requirements": "Access to Canvas and online discussion platforms.",
+    "support_resources": "Resources available on campus for writing and presentation assistance."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:35:01.207215",
+    "pdf_source": "../StevensCourses/MGT 641WS Course Syllabus_ 2024S MGT 641-WS.pdf",
+    "source_type": "file",
+    "text_length": 22205,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Marketing Management",
+      "code": "MGT 641WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Mansoor Basha",
+        "email": "mbasha@stevens.edu",
+        "office_hours": "After class or scheduled as per needed",
+        "contact_info": "Tel: 408-905-0119"
+      }
+    },
+    "course_description": "This course provides skills to understand and create an integrated marketing plan and includes an international marketing project.",
+    "learning_outcomes": [
+      "Learn marketing concepts such as Segmenting, Targeting, and Positioning.",
+      "Create a winning integrated marketing plan using the 4P's of marketing.",
+      "Apply concepts and techniques to real cases and a global marketing simulation game."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

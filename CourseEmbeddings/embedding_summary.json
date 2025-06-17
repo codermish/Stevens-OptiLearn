@@ -1,0 +1,860 @@
+{
+  "total_courses": 232,
+  "failed_files": [
+    "EE 575 Introduction to Control Theory - 2024 Syllabus.json"
+  ],
+  "courses_by_semester": {
+    "Fall 2024": [
+      "SSW 540",
+      "MIS 710",
+      "BIA-686",
+      "BIA 500 WS",
+      "BIA 650",
+      "BIA-652",
+      "BIA 658-WS",
+      "BIA 672-WS",
+      "CM-581",
+      "CM-529-WS",
+      "CPE 521-WS",
+      "CS-546",
+      "CS 522",
+      "CS 559",
+      "CS 559 WS",
+      "MIS 637 WS",
+      "EE 602",
+      "EE603WS",
+      "EE627WS",
+      "EM 612WN",
+      "EM 605",
+      "EM 612-WS1",
+      "EN/CM545WS",
+      "CM501",
+      "CM512WS",
+      "FIN-500",
+      "FIN 530",
+      "FIN 628",
+      "MA 574",
+      "ME-511WS",
+      "ME-519WS/MT-528WS",
+      "ME510WS",
+      "ME554",
+      "ME 598",
+      "ME-655 (BME-656)",
+      "MGT 675",
+      "MGT699",
+      "MGT 700",
+      "MGT 613",
+      "MIS 730",
+      "MIS 699A",
+      "MIS 760",
+      "FIN 515 WS/WS1",
+      "",
+      "MGT 663-WS",
+      "SSW565",
+      "SSW 567",
+      "EM 622",
+      "EM/SYS 623",
+      "FIN 550-WS",
+      "MGT 676",
+      "MIS 632",
+      "FE 541",
+      "FA-542",
+      "MGT610-WZ",
+      "SYS 660"
+    ],
+    "Fall 2022": [
+      "MGT 695 A",
+      "BIA656",
+      "FE 620 A/WS",
+      "EMT 696",
+      "SSW 564 A",
+      "FA550"
+    ],
+    "Fall 2023": [
+      "CS 556",
+      "BIA 668",
+      "EE628WS",
+      "FE-515",
+      "FIN 688",
+      "MIS 636",
+      "PME 560",
+      "CPE555WS",
+      "FE535",
+      "PME 530",
+      "SSW 567",
+      "MGT 635",
+      "MIS631",
+      "FE543",
+      "FE630",
+      "FA 800",
+      "FE 540",
+      "FA-582",
+      "FE 513 - A/WS",
+      "SYS 632"
+    ],
+    "Spring 2024": [
+      "MGT609-WS",
+      "CPE593",
+      "AAI/CPE/EE 551",
+      "CM/CE 541-WS & WS1",
+      "FIN 629 WS",
+      "CPE/EE 517-WS",
+      "CPE 679WS",
+      "",
+      "EE 605 / CS 505",
+      "EE-CPE552-WS",
+      "EE553WS",
+      "EE603WS",
+      "EE627WS",
+      "EE628WS",
+      "EM 612",
+      "EM 665",
+      "FA691",
+      "FA692",
+      "FE-511A/WS",
+      "FE 621",
+      "FIN 510/ACC 510-WS",
+      "FIN 627",
+      "FIN 638A",
+      "FIN620",
+      "ME 513WS",
+      "ME-656",
+      "MGT 641WS",
+      "Management 619",
+      "ME/MT-518WS",
+      "MGT 657",
+      "",
+      "CM592A-WS",
+      "FE 610",
+      "SSW565",
+      "AAI/CPE/EE 695-WS",
+      "BIA 678 WS",
+      "EE 575",
+      "FE 590",
+      "ME 621-WS",
+      "FIN-500",
+      "PME602WS",
+      "SYS 625",
+      "SYS 625",
+      "FA 636-A",
+      "FIN 648",
+      "SYS605WS",
+      "SYS 611",
+      "SYS 660",
+      "SYS-650",
+      "SYS 637"
+    ],
+    "Summer 2024": [
+      "ME514WS/MT514WS",
+      "MGT 612",
+      "ME 635-WS",
+      "CpE 646",
+      "ME564",
+      "MGT 612-WN",
+      "MGT 635-WN",
+      "EMT506",
+      "EMT506",
+      "MIS-637",
+      "MGT 657",
+      "PME 542",
+      "CPE/EE/AAI 695WS",
+      "FIN 523 WZ",
+      "FE-680",
+      "Mgt 699",
+      "SYS 611",
+      "SYS 670"
+    ],
+    "Spring 2023": [
+      "AAI/CPE/EE 551",
+      "BIA 610",
+      "EM 623",
+      "FA631",
+      "MIS 636",
+      "MIS 714",
+      "PME540WS1",
+      "SYS 635"
+    ],
+    "Summer 2023": [
+      "BIA 500",
+      "BIA 668",
+      "BIA672",
+      "EM 600",
+      "EM 622",
+      "MGT 663",
+      "CPE/EE/AAI 695WS"
+    ],
+    "Summer 2019": [
+      "CM 510"
+    ],
+    "SUMMER 2024": [
+      "FE 520"
+    ],
+    "Summer 2022": [
+      "CS 549",
+      "PME-626WS"
+    ],
+    "Spring 2022": [
+      "EM 680 WS",
+      "MA 576"
+    ],
+    "Spring 2013": [
+      "FE 517"
+    ],
+    "Fall 2021": [
+      "FIN 658",
+      "FIN 615 WS",
+      "PME 628",
+      "PME 535WS"
+    ],
+    "WN": [
+      "MGT 641"
+    ],
+    "FALL 2024": [
+      "MA 541"
+    ],
+    "Spring": [
+      "SYS 611"
+    ],
+    "2023-2024": [
+      "SYS640"
+    ],
+    "Summer 2023/2024": [
+      "SYS 650"
+    ],
+    "2022": [
+      "SYS670"
+    ]
+  },
+  "courses_by_code": {
+    "SSW 540": [
+      "Fall 2024"
+    ],
+    "MGT 695 A": [
+      "Fall 2022"
+    ],
+    "CS 556": [
+      "Fall 2023"
+    ],
+    "CS560": [
+      ""
+    ],
+    "MGT609-WS": [
+      "Spring 2024"
+    ],
+    "ME514WS/MT514WS": [
+      "Summer 2024"
+    ],
+    "MIS 710": [
+      "Fall 2024"
+    ],
+    "BIA-686": [
+      "Fall 2024"
+    ],
+    "CPE593": [
+      "Spring 2024"
+    ],
+    "MGT 612": [
+      "Summer 2024"
+    ],
+    "AAI/CPE/EE 551": [
+      "Spring 2023",
+      "Spring 2024"
+    ],
+    "BIA 500": [
+      "Summer 2023"
+    ],
+    "BIA 610": [
+      "Spring 2023",
+      ""
+    ],
+    "BIA 650": [
+      "",
+      "Fall 2024"
+    ],
+    "BIA 652": [
+      ""
+    ],
+    "BIA660": [
+      ""
+    ],
+    "BIA 668": [
+      "Fall 2023",
+      "Summer 2023"
+    ],
+    "BIA672": [
+      "Summer 2023"
+    ],
+    "BIA-674": [
+      ""
+    ],
+    "BIA 678": [
+      ""
+    ],
+    "BIA686": [
+      ""
+    ],
+    "BIA 500 WS": [
+      "Fall 2024"
+    ],
+    "BIA-652": [
+      "Fall 2024"
+    ],
+    "BIA656": [
+      "Fall 2022"
+    ],
+    "BIA 658-WS": [
+      "Fall 2024"
+    ],
+    "BIA 672-WS": [
+      "Fall 2024"
+    ],
+    "CM 510": [
+      "Summer 2019"
+    ],
+    "CM-581": [
+      "Fall 2024"
+    ],
+    "CM-529-WS": [
+      "Fall 2024"
+    ],
+    "CM/CE 541-WS & WS1": [
+      "Spring 2024"
+    ],
+    "FE 620 A/WS": [
+      "Fall 2022"
+    ],
+    "FE 520": [
+      "SUMMER 2024"
+    ],
+    "ME 635-WS": [
+      "Summer 2024"
+    ],
+    "FIN 629 WS": [
+      "Spring 2024"
+    ],
+    "CPE/EE 517-WS": [
+      "Spring 2024"
+    ],
+    "CPE 679WS": [
+      "Spring 2024"
+    ],
+    "CPE 695": [
+      ""
+    ],
+    "CPE 521-WS": [
+      "Fall 2024"
+    ],
+    "CpE 646": [
+      "Summer 2024"
+    ],
+    "CS 501": [
+      ""
+    ],
+    "CS 520": [
+      ""
+    ],
+    "CS 525-WN": [
+      ""
+    ],
+    "CS 545": [
+      ""
+    ],
+    "CS 546": [
+      ""
+    ],
+    "CS 549": [
+      "Summer 2022"
+    ],
+    "CS 550": [
+      ""
+    ],
+    "CS 555": [
+      "",
+      "",
+      ""
+    ],
+    "CS 561": [
+      ""
+    ],
+    "CS 570": [
+      ""
+    ],
+    "CS 583": [
+      ""
+    ],
+    "CS 584": [
+      ""
+    ],
+    "CS 590": [
+      ""
+    ],
+    "CS-546": [
+      "Fall 2024"
+    ],
+    "CS 522": [
+      "Fall 2024"
+    ],
+    "CS 559": [
+      "Fall 2024"
+    ],
+    "CS 559 WS": [
+      "Fall 2024"
+    ],
+    "MIS 637 WS": [
+      "Fall 2024"
+    ],
+    "EE/CpE548": [
+      ""
+    ],
+    "EE/CpE 548": [
+      ""
+    ],
+    "EE/NIS-583": [
+      ""
+    ],
+    "EE 602": [
+      "Fall 2024"
+    ],
+    "EE 605 / CS 505": [
+      "Spring 2024"
+    ],
+    "EE 608WS": [
+      "",
+      ""
+    ],
+    "EE-CPE552-WS": [
+      "Spring 2024"
+    ],
+    "EE553WS": [
+      "Spring 2024"
+    ],
+    "EE603WS": [
+      "Fall 2024",
+      "Spring 2024"
+    ],
+    "EE627WS": [
+      "Fall 2024",
+      "Spring 2024"
+    ],
+    "EE628WS": [
+      "Fall 2023",
+      "Spring 2024"
+    ],
+    "EM 600": [
+      "",
+      "Summer 2023"
+    ],
+    "EM 605": [
+      "",
+      "Fall 2024"
+    ],
+    "EM 612": [
+      "Spring 2024",
+      ""
+    ],
+    "EM 612WN": [
+      "Fall 2024"
+    ],
+    "EM 622": [
+      "Summer 2023",
+      "Fall 2024"
+    ],
+    "EM 623": [
+      "Spring 2023"
+    ],
+    "EM 624": [
+      "",
+      ""
+    ],
+    "EM 680 WS": [
+      "Spring 2022"
+    ],
+    "EM 800": [
+      ""
+    ],
+    "EM 612-WS1": [
+      "Fall 2024"
+    ],
+    "EM 665": [
+      "Spring 2024"
+    ],
+    "EMT 696": [
+      "Fall 2022"
+    ],
+    "EN/CM545WS": [
+      "Fall 2024"
+    ],
+    "CM501": [
+      "Fall 2024"
+    ],
+    "CM512WS": [
+      "Fall 2024"
+    ],
+    "FA631": [
+      "Spring 2023"
+    ],
+    "FA691": [
+      "Spring 2024"
+    ],
+    "FA692": [
+      "Spring 2024"
+    ],
+    "FE 517": [
+      "Spring 2013"
+    ],
+    "FE-511A/WS": [
+      "Spring 2024"
+    ],
+    "FE-515": [
+      "Fall 2023"
+    ],
+    "FE 621": [
+      "Spring 2024"
+    ],
+    "FIN-500": [
+      "Fall 2024",
+      "Spring 2024"
+    ],
+    "FIN 510/ACC 510-WS": [
+      "Spring 2024"
+    ],
+    "FIN 530": [
+      "Fall 2024"
+    ],
+    "FIN 627": [
+      "Spring 2024"
+    ],
+    "FIN 628": [
+      "Fall 2024"
+    ],
+    "FIN 638A": [
+      "Spring 2024"
+    ],
+    "FIN 658": [
+      "Fall 2021"
+    ],
+    "FIN 688": [
+      "Fall 2023"
+    ],
+    "FIN620": [
+      "Spring 2024"
+    ],
+    "MA 540": [
+      ""
+    ],
+    "MA 544": [
+      ""
+    ],
+    "MA 574": [
+      "Fall 2024"
+    ],
+    "MA 576": [
+      "Spring 2022"
+    ],
+    "MA 641": [
+      ""
+    ],
+    "ME-511WS": [
+      "Fall 2024"
+    ],
+    "ME-519WS/MT-528WS": [
+      "Fall 2024"
+    ],
+    "ME510WS": [
+      "Fall 2024"
+    ],
+    "ME 513WS": [
+      "Spring 2024"
+    ],
+    "ME554": [
+      "Fall 2024"
+    ],
+    "ME564": [
+      "Summer 2024"
+    ],
+    "ME 598": [
+      "Fall 2024"
+    ],
+    "ME-655 (BME-656)": [
+      "Fall 2024"
+    ],
+    "ME-656": [
+      "Spring 2024"
+    ],
+    "MGT 612-WN": [
+      "Summer 2024"
+    ],
+    "MGT 635-WN": [
+      "Summer 2024"
+    ],
+    "MGT 641": [
+      "WN"
+    ],
+    "MGT 641WS": [
+      "Spring 2024"
+    ],
+    "MGT 663": [
+      "Summer 2023"
+    ],
+    "MGT 675": [
+      "Fall 2024"
+    ],
+    "MGT699": [
+      "Fall 2024"
+    ],
+    "MGT 700": [
+      "Fall 2024"
+    ],
+    "EMT506": [
+      "Summer 2024",
+      "Summer 2024"
+    ],
+    "Management 619": [
+      "Spring 2024"
+    ],
+    "MGT 613": [
+      "Fall 2024"
+    ],
+    "MIS 636": [
+      "Fall 2023",
+      "Spring 2023"
+    ],
+    "MIS 730": [
+      "Fall 2024"
+    ],
+    "MIS-637": [
+      "Summer 2024"
+    ],
+    "MIS 699A": [
+      "Fall 2024"
+    ],
+    "MIS 760": [
+      "Fall 2024"
+    ],
+    "ME/MT-518WS": [
+      "Spring 2024"
+    ],
+    "FIN 515 WS/WS1": [
+      "Fall 2024"
+    ],
+    "FIN 615 WS": [
+      "Fall 2021"
+    ],
+    "MGT 657": [
+      "Summer 2024",
+      "Spring 2024"
+    ],
+    "PME 542": [
+      "Summer 2024"
+    ],
+    "PME 560": [
+      "Fall 2023"
+    ],
+    "PME 628": [
+      "Fall 2021"
+    ],
+    "CM592A-WS": [
+      "Spring 2024"
+    ],
+    "SSW 564 A": [
+      "Fall 2022"
+    ],
+    "MGT 663-WS": [
+      "Fall 2024"
+    ],
+    "CPE555WS": [
+      "Fall 2023"
+    ],
+    "FE 610": [
+      "Spring 2024"
+    ],
+    "SSW565": [
+      "Spring 2024",
+      "Fall 2024"
+    ],
+    "AAI/CPE/EE 695-WS": [
+      "Spring 2024"
+    ],
+    "BIA 678 WS": [
+      "Spring 2024"
+    ],
+    "CPE/EE/AAI 695WS": [
+      "Summer 2023",
+      "Summer 2024"
+    ],
+    "FE535": [
+      "Fall 2023"
+    ],
+    "PME 530": [
+      "Fall 2023"
+    ],
+    "SSW 567": [
+      "Fall 2023",
+      "Fall 2024"
+    ],
+    "FA550": [
+      "Fall 2022"
+    ],
+    "MIS 714": [
+      "Spring 2023"
+    ],
+    "FIN 523 WZ": [
+      "Summer 2024"
+    ],
+    "EM/SYS 623": [
+      "Fall 2024"
+    ],
+    "FIN 550-WS": [
+      "Fall 2024"
+    ],
+    "MGT 635": [
+      "Fall 2023"
+    ],
+    "EE 575": [
+      "Spring 2024"
+    ],
+    "FE 590": [
+      "Spring 2024"
+    ],
+    "ME 621-WS": [
+      "Spring 2024"
+    ],
+    "MGT 676": [
+      "Fall 2024"
+    ],
+    "MGT 611": [
+      ""
+    ],
+    "MIS631": [
+      "Fall 2023"
+    ],
+    "MIS 632": [
+      "Fall 2024"
+    ],
+    "PME 535WS": [
+      "Fall 2021"
+    ],
+    "PME540WS1": [
+      "Spring 2023"
+    ],
+    "PME602WS": [
+      "Spring 2024"
+    ],
+    "PME-626WS": [
+      "Summer 2022"
+    ],
+    "SYS 625": [
+      "Spring 2024",
+      "Spring 2024"
+    ],
+    "SYS 684": [
+      ""
+    ],
+    "EE-582": [
+      ""
+    ],
+    "FE543": [
+      "Fall 2023"
+    ],
+    "FE630": [
+      "Fall 2023"
+    ],
+    "FA 800": [
+      "Fall 2023"
+    ],
+    "FE 540": [
+      "Fall 2023"
+    ],
+    "FE 541": [
+      "Fall 2024"
+    ],
+    "FA 636-A": [
+      "Spring 2024"
+    ],
+    "FA-542": [
+      "Fall 2024"
+    ],
+    "FA-582": [
+      "Fall 2023"
+    ],
+    "FE 513 - A/WS": [
+      "Fall 2023"
+    ],
+    "FE-680": [
+      "Summer 2024"
+    ],
+    "FE 800": [
+      ""
+    ],
+    "FIN 648": [
+      "Spring 2024"
+    ],
+    "MA 541": [
+      "FALL 2024"
+    ],
+    "Mgt 699": [
+      "Summer 2024"
+    ],
+    "MGT610-WZ": [
+      "Fall 2024"
+    ],
+    "SYS640": [
+      "",
+      "2023-2024"
+    ],
+    "SYS 501": [
+      ""
+    ],
+    "SYS605WS": [
+      "Spring 2024"
+    ],
+    "SYS 611": [
+      "Spring 2024",
+      "Spring",
+      "Summer 2024"
+    ],
+    "SYS 632": [
+      "Fall 2023"
+    ],
+    "SYS 635": [
+      "Spring 2023"
+    ],
+    "645": [
+      "",
+      ""
+    ],
+    "SYS 650": [
+      "Summer 2023/2024"
+    ],
+    "SYS 660": [
+      "Fall 2024",
+      "Spring 2024",
+      ""
+    ],
+    "SYS 670": [
+      "Summer 2024"
+    ],
+    "SYS-650": [
+      "Spring 2024"
+    ],
+    "SYS670": [
+      "2022"
+    ],
+    "SYS 637": [
+      "Spring 2024"
+    ],
+    "BIA 662": [
+      "",
+      ""
+    ]
+  },
+  "embedding_info": {
+    "model_used": "text-embedding-3-small",
+    "embedding_dimension": 1536,
+    "categories": [
+      "metadata",
+      "topics",
+      "combined"
+    ]
+  }
+}

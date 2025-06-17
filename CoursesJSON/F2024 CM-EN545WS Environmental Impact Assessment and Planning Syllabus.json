@@ -1,0 +1,140 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction: Getting to know each other"],
+      "readings": [],
+      "assignments": ["Assignment 1 due via Canvas"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Human Impact on the Environment", "Population Growth, Natural Resources, Climate Change", "United Nations Sustainability Goals, Need for Sustainable Planning", "Air Pollution, Water Pollution and Treatment", "Impact of Buildings"],
+      "readings": [],
+      "assignments": ["Assignment 2 due via Canvas"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Environmental Policy Acts", "The National Environmental Policy Act (NEPA)", "The Clean Air and Clean Water Acts"],
+      "readings": [],
+      "assignments": ["Assignment 3 due via Canvas"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Environmental Impact Assessments", "Environmental Impact Statements (EISs)", "Environmental Impact Reports (EIRs)", "Environmental Justice"],
+      "readings": [],
+      "assignments": ["Assignment 4 due via Canvas"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Environmental Cost-Benefit Analysis", "Cost-Benefit Analysis", "Key Challenges", "Case Study: Crossing the Hudson River"],
+      "readings": [],
+      "assignments": ["Assignment 5 due via Canvas", "Midterm via Zoom"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Environmental Risk Assessment and Decision Making", "Risk Assessment", "Risk Perception", "The Role of the Public", "Case Study: Keystone XL Pipeline HBS 9-713-039", "Humboldt Game Simulation Role Play (Harvard Law School Program on Negotiation)"],
+      "readings": [],
+      "assignments": ["Assignment 6 due via Canvas"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Sustainable Infrastructure Design", "Introduction to Sustainable Design", "Challenges in defining and reporting", "Sustainability Rating Systems", "Vertical Infrastructure Rating Systems: Introduction to LEED", "Case Study: Steven’s Institute New Gateway Academic Center", "Horizontal Infrastructure Rating Systems: Envision (Harvard Graduate School of Design)", "Case Studies: Selected Infrastructure Systems in North, Central and South America"],
+      "readings": [],
+      "assignments": ["Assignment 7 due via Canvas", "Final Presentation via Zoom"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "15%",
+      "projects": "35%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 89.00 – 92.00, A-: 85.00 – 88.00, B+: 81.00 – 84.00, B: 77.00 – 80.00, B-: 74.00 – 76.00, C+: 71.00 – 73.00, C: 69.00– 70.00, F: 00.00 – 65.00",
+    "policies": "20% of the total points will be deducted for assignments received 1-3 days late; assignments received more than 4 days late will receive 0 points."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "20%",
+    "late_work": "20% of the total points will be deducted for assignments received 1-3 days late; assignments received more than 4 days late will receive 0 points.",
+    "academic_integrity": "Collaboration among students is strongly encouraged but with exception of group assignments, the work should be individual.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, recording, editing, and uploading video via Kaltura. Required equipment includes a current Mac or PC with high-speed internet, a webcam, and a microphone. Required software includes Microsoft Word, Excel, and PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:14:31.822900",
+    "pdf_source": "../StevensCourses\\F2024 CM-EN545WS Environmental Impact Assessment and Planning Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 23111,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Environmental Impact Assessment and Planning",
+      "code": "EN/CM545WS",
+      "credits": "3",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Karim S. Karam",
+        "email": "kkaram@stevens.edu",
+        "office_hours": "Before synchronous sessions or schedule via email",
+        "contact_info": "551 228 5081 by text please"
+      }
+    },
+    "course_description": "The built environment, while necessary for economic growth, and improving quality of life impacts our physical, cultural and socioeconomic environment, as well as the natural environment. The first part of the course is concerned with environmental planning techniques and strategies. Topics include the management of sustainability, environmental governance and the changing role of civil society, through integrated assessments combining environmental impact assessments (EIA) with cost benefit and risk assessments. The second part of the course is concerned with planning and designing sustainable infrastructure systems. Topics include sustainability rating systems for vertical and horizontal infrastructure, and sustainable project financing. The course includes case studies from around the world.",
+    "learning_outcomes": [
+      "Understand the potential impact of development on environmental quality, social well-being and the regional economy",
+      "Utilize and explain environmental assessment methods used to quantify and analyze these impacts, by developing Environmental Impact Statements",
+      "Perform systematic socio-economic and environmental cost benefit analyses, and risk assessment, and understand the challenges involved.",
+      "Plan and design sustainable infrastructure systems by understanding and making use of sustainability rating systems"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": ["Senior or graduate status or permission from the instructor"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

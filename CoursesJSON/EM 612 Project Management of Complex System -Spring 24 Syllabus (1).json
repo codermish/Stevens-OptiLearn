@@ -1,0 +1,233 @@
+{
+  "textbooks": [
+    {
+      "title": "Reinventing Project Management: The Diamond Approach to Successful Growth and Innovation",
+      "author": "Shenhar and Dvir",
+      "edition": "",
+      "ISBN": "978-1-59139-800-4"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overview of Project Management", "Why Project Fail?"],
+      "readings": [
+        "Why Your Business Success Depends on Projects, Shenhar and Dvir, Reinventing Project Management, pg 3-19",
+        "Hobday, Rush, Tidd (2000) Innovation in complex products and system. Research Policy 29:793-804 (optional)",
+        "Denver International Airport (DIA), PM case studies, Kerzner, pg 517"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["System Engineering and Bounding Project Scope"],
+      "readings": [
+        "What Makes a Project Successful? Shenhar and Dvir, Reinventing Project Management, pg 21-36",
+        "The Diamond Approach, Shenhar and Dvir, Reinventing Project Management, 37-59",
+        "Carr (2000) Requirements engineering and management: the key to designing quality complex systems. The TQM Magazine 12(6):400-407 (optional)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Work Breakdown Structure"],
+      "readings": [
+        "Technology - Shenhar and Dvir Reinventing Project Management pg 79-100"
+      ],
+      "assignments": ["Part 1 DIA- WBS"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Organizing for PM", "Organizational Structures"],
+      "readings": [
+        "Hobday (2000) The project-based organization: an idea form for managing complex products and systems? Research Policy 29:871-893 (optional)"
+      ],
+      "assignments": ["DIA Part 1 Due"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Project Planning Complexity"],
+      "readings": [
+        "Shenhar and Dvir, Reinventing Project Management pg 101-121",
+        "Pace - Shenhar and Dvir, Reinventing Project Management pg 123-135",
+        "Jolivet and Navarre (1996) Large-scale projects, self-organizing and meta-rules: towards new forms of management. International Journal of Project Management (optional)",
+        "Ivory and Alderman Can Project Management Learn Anything from Studies of Failure in Complex Systems? Project Management Journal 14(5):265-271 (optional)"
+      ],
+      "assignments": ["Part 2 DIA Logic Diagram and Gantt"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Estimating and Budgeting"],
+      "readings": [
+        "Managing Projects for Business Innovation Shenhar and Dvir, Reinventing Project Management, pg 139-160",
+        "Floricel And Miller(2001) Strategizing for anticipated risk and turbulence in large-scale engineering projects. International Journal of Project Management 19:445-455 (optional)"
+      ],
+      "assignments": ["Part 3 DIA- Effort and Time Cost", "DIA Part 2 Due"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Decisions Framework"],
+      "readings": [],
+      "assignments": ["DIA Part 3 Due"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Risk and Opportunity Management"],
+      "readings": [
+        "Appendix 4,5A & 5B of Shenhar and Dvir, Reinventing Project Management",
+        "Miller and Lessard (2001) Understanding and managing risk in large engineering projects. International Journal of Project Management 19:437-443 (optional)"
+      ],
+      "assignments": ["Part 4 DIA Risk Management", "Review Appendix 4 & 5"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Contracting and Sub-contracting"],
+      "readings": [
+        "Reinventing Project Management for your organization - Shenhar and Dvir, Reinventing Project Management pg 205-213",
+        "Eriksson and Lillieskold (2002) Project Management Competence Requirements when procuring Complex Systems IEEE. (optional)"
+      ],
+      "assignments": ["DIA Part 4 Due"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Project Assessment and Control"],
+      "readings": [
+        "Managing Projects Within the Existing Organization, Shenhar and Dvir, Reinventing Project Management 161-187",
+        "Glass (1996) Chaos, Non-Linear System and Day to Day Management European Management Journal 14(1):98-106"
+      ],
+      "assignments": ["Shea Stadium Project Due"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Leading and managing the Project Team"],
+      "readings": [
+        "Novelty Shenhar and Dvir, Reinventing Project Management, pg 63-78",
+        "Davies and Brady (2000) Organizational capabilities and learning in complex product systems: towards repeatable solutions Research Policy 29:931-53 (optional)"
+      ],
+      "assignments": ["Earned Value Homework Due"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Project Quality Management"],
+      "readings": [
+        "How Markets and Industries Affect Project Management, Shenhar and Dvir, Reinventing Project Management 189-203",
+        "Hobday (1998) Product complexity, innovation and industrial organization. Research Policy 26:689-710 (optional)",
+        "Review How Markets and Industries Affect Project Management, Shenhar and Dvir, Reinventing Project Management, pg 189-203"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Evaluating and closing out a Project"],
+      "readings": [
+        "Appendix 6A,6B & 7, Shenhar and Dvir, Reinventing Project Management",
+        "Williams (1999) The need for New paradigms for complex projects International Journal of Project Management 17(5):269-273 (optional)",
+        "Review Appendix 6 & 7"
+      ],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "35%",
+      "exams": "",
+      "projects": "45%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "20% of the total points will be deducted for late assignments."
+  },
+  "assignments": [
+    {
+      "description": "Part 1 DIA- WBS",
+      "due_date": ""
+    },
+    {
+      "description": "DIA Part 1 Due",
+      "due_date": ""
+    },
+    {
+      "description": "Part 2 DIA Logic Diagram and Gantt",
+      "due_date": ""
+    },
+    {
+      "description": "Part 3 DIA- Effort and Time Cost",
+      "due_date": ""
+    },
+    {
+      "description": "DIA Part 2 Due",
+      "due_date": ""
+    },
+    {
+      "description": "DIA Part 3 Due",
+      "due_date": ""
+    },
+    {
+      "description": "Part 4 DIA Risk Management",
+      "due_date": ""
+    },
+    {
+      "description": "DIA Part 4 Due",
+      "due_date": ""
+    },
+    {
+      "description": "Shea Stadium Project Due",
+      "due_date": ""
+    },
+    {
+      "description": "Earned Value Homework Due",
+      "due_date": ""
+    },
+    {
+      "description": "Final NCTP Project Due",
+      "due_date": ""
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for late assignments.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, Live web conferencing using Zoom.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:07:30.213687",
+    "pdf_source": "../StevensCourses\\EM 612 Project Management of Complex System -Spring 24 Syllabus (1).pdf",
+    "source_type": "file",
+    "text_length": 21136,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Project Management of Complex Systems",
+      "code": "EM 612",
+      "credits": "3",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "John Mikruk",
+        "email": "jmikruk@stevens.edu",
+        "office_hours": "Thursday afternoons from 5:00-6:00 pm EST",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Project Management of Complex Systems is a project-based course that exposes students to tools and methodologies useful for the effective management of systems engineering and engineering management projects.",
+    "learning_outcomes": [
+      "Evaluate guidelines, principles, and tools of project management.",
+      "Analyze factors in creating a project organization, culture, and team.",
+      "Adapt quantitative techniques to project planning, risk, performance, and monitoring, including stakeholder management.",
+      "Differentiate between waterfall and agile development benefits and costs in specific environments involving both software and hardware development as well as top-down versus distributed management hierarchical control structures.",
+      "Examine interdependencies in the project management of complex systems versus those in obvious, complicated, and chaotic systems using an analytical framework."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

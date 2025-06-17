@@ -1,0 +1,163 @@
+{
+  "textbooks": [
+    {
+      "title": "Multinational Financial Management",
+      "author": "Alan C Shapiro",
+      "edition": "10th",
+      "year": "2013",
+      "publisher": "Wiley"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Syllabus & Intro"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["The International Financial Environment: Introduction", "The Determination of Exchange Rate: World Trade"],
+      "readings": ["Ch. 1", "Ch. 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["The Determination of Exchange Rate: The Equilibrium Approach", "Case Study and Discussions"],
+      "readings": ["Ch. 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["The International Monetary System"],
+      "readings": ["Ch. 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Case Study and Discussions", "Quiz 1"],
+      "readings": ["Ch. 3"],
+      "assignments": [],
+      "due_dates": ["Feb 21"]
+    },
+    "week6": {
+      "topics": ["Parity Conditions in International Finance and Currency Forecasting"],
+      "readings": ["Ch. 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Balance of Payments and Economic Linkage"],
+      "readings": ["Ch. 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["No class", "Spring Recess"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["The Foreign Exchange Market"],
+      "readings": ["Ch. 7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Quiz 2", "Currency Futures and Option Markets"],
+      "readings": ["Ch. 4", "Ch. 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Swaps and Interest Rate Derivatives in the International Finance Markets"],
+      "readings": ["Ch. 9"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Country Risk Analysis", "International Financing and National Capital Market"],
+      "readings": ["Ch. 6", "Ch. 12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Group Presentation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Apr 29"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "30%",
+      "assignments": "",
+      "exams": "",
+      "projects": "40%",
+      "quizzes": "30%",
+      "final": ""
+    },
+    "scale": "A: 100 to 93, A-: < 93 to 90, B+: < 90 to 87, B: < 87 to 83, B-: < 83 to 80, C+: < 80 to 77, C: < 77 to 73, C-: < 73 to 70, D+: < 70 to 67, D: < 67 to 60, F: < 60 to 0",
+    "policies": "No rounding on grades; late submissions lose 10% for each day late."
+  },
+  "assignments": [
+    {
+      "description": "Case Study due on May 2nd, 2024. Group project involving building a case from scratch."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance will be taken into consideration in grading.",
+    "late_work": "Late submissions lose 10% for each day late.",
+    "academic_integrity": "All students must adhere to the Honor System.",
+    "accommodations": "Students with special testing needs or disabilities are encouraged to contact the instructor."
+  },
+  "important_dates": [
+    "Jan 22: First Day of Class",
+    "Feb 21: Quiz 1",
+    "May 2: Case Study Due",
+    "Apr 29: Group Presentation"
+  ],
+  "additional_info": {
+    "course_format": "Interactive and collaborative learning environment.",
+    "technology_requirements": "Access to Canvas for course materials.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) for mental health support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:15:24.786090",
+    "pdf_source": "../StevensCourses/Syllabus_FIN 648_YW_S24_Jan 25.pdf",
+    "source_type": "file",
+    "text_length": 37718,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "International Finance",
+      "code": "FIN 648",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Ying Wu",
+        "email": "FIN648stevens@gmail.com",
+        "office_hours": "Friday 2:15 PM - 3:15 PM or by Appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The course covers important topics in international financial management, including foreign exchange management.",
+    "learning_outcomes": [
+      "Describe the principle of comparative advantage and absolute advantage.",
+      "Describe the international monetary system and a variety of exchange rate systems in the world.",
+      "Describe relationships between exchange rates and economic variables.",
+      "Identify best practices for measuring and managing exchange rate risk.",
+      "Synthesize and evaluate financing options for multinational corporation management.",
+      "Gain a practical understanding of factors contributing to foreign exchange rate risks."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "FIN 510 Financial Statement Analysis",
+      "FIN 616 Managerial Economics",
+      "FIN 638 Corporate Finance"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

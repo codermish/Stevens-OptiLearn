@@ -1,0 +1,189 @@
+{
+  "textbooks": [
+    {
+      "title": "Learning Python",
+      "author": "Mark Lutz",
+      "edition": "5th Edition",
+      "ISBN": "978-1-449-35573-9"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to the Python Programming Language"],
+      "readings": [],
+      "assignments": ["Download: Python, IDLE, PyCharm, Jupyter Notebook (Anaconda)", "Access to GitHub Classroom and Assignment Zero", "Submission of Assignment to GitHub"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introducing Python Object Types", "Numeric Types", "The Dynamic Typing Interlude", "String Fundamentals", "Lists and Dictionaries", "Tuples"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Assignments", "Expressions", "if Statements", "while and for loops", "iterations and comprehensions"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Function Basics", "Scopes", "Arguments", "Advanced Function Topics"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Comprehensions and Generations", "The Benchmarking Interlude"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Modules: The Big Picture", "Module Coding Basics", "Module Packages"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["OOP: The Big Picture", "Class Coding Basics"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm Exam (and perhaps a short lecture)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["OOP: A More Realistic Example", "Class Coding Details"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Operator Overloading", "Designing with Classes"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Exception Basics", "Exception Coding Details", "Exception Objects"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Data Structures: Linked List"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Data Structures: Stacks and Queues"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Popular Python libraries: Numpy, pandas"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "40%",
+      "exams": "20%",
+      "projects": "20%",
+      "quizzes": "",
+      "final": "20%"
+    },
+    "scale": "A: 93 and above, A-: 90 to 92.9, B+: 87 to 89.9, B: 83 to 86.9, B-: 80 to 82.9, C+: 75 to 79.9, C: 70 to 74.9, F: Below 70",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "An individual Python programming project."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is optional for our weekly Zoom lectures. However, you are required to view the Zoom recording of our weekly recorded lectures before the following week’s lecture.",
+    "late_work": "50% penalty for an assignment submitted late. No assignments will be accepted after the first day of class past the assignment due date.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "date": "1/18",
+      "event": "Course Start"
+    },
+    {
+      "date": "2/22",
+      "event": "No lecture: University is following a Monday academic schedule"
+    },
+    {
+      "date": "3/8",
+      "event": "No Class on Wed. March 15th SPRING RECESS"
+    },
+    {
+      "date": "3/22",
+      "event": "Midterm Exam"
+    },
+    {
+      "date": "5/10",
+      "event": "Final Exam"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is offered online with weekly Zoom lectures.",
+    "technology_requirements": "",
+    "support_resources": "For more information about course access or support, please contact Client Support Services at support@stevens.edu or 201-380-6599."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:26:38.160599",
+    "pdf_source": "../StevensCourses\\AAI_CPE_EE 551 Course Syllabus; Section WS and WS2; Spring 2023; v2.pdf",
+    "source_type": "file",
+    "text_length": 14134,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Engineering Programming: Python",
+      "code": "AAI/CPE/EE 551",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2023",
+      "instructor": {
+        "name": "Dr. Kevin Ryan",
+        "email": "kryan@stevens.edu",
+        "office_hours": "3:00 PM – 5:00 PM Thursday",
+        "contact_info": "Babbio Center 415"
+      }
+    },
+    "course_description": "This course presents tools, techniques, algorithms, and programming techniques using the Python programming language for data intensive applications and decision making.",
+    "learning_outcomes": [
+      "learn how to design and program python applications.",
+      "learn how to use lists, tuples, and dictionaries in python programs.",
+      "learn how to write loops and decision statements in python.",
+      "learn how to read and write files in python.",
+      "extract and analyze data in python.",
+      "learn how to use indexing and slicing to access data in python programs.",
+      "prepare for their future career in Technology related fields."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [
+      "Basic knowledge of programming"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

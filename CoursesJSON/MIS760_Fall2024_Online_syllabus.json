@@ -1,0 +1,232 @@
+{
+  "textbooks": [
+    {
+      "title": "IT STRATEGY & INNOVATION",
+      "author": "James McKeen and Heather Smith",
+      "edition": "5.0",
+      "ISBN": "978-1-943153-94-7",
+      "student_price": "$48.60",
+      "publisher": "Prospect Press",
+      "copyright": "2022"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction and overview of course", "Business Strategy"],
+      "readings": ["Syllabus"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["IT as a service", "Alignment strategies"],
+      "readings": [
+        "The five competitive forces that shape strategy (only on Canvas)",
+        "Can Big Tech be disrupted?",
+        "POADCAST: Listen to podcast U.S. v Google (The Daily)",
+        "Can IKEA Save the Mall?"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Role of the CIO"],
+      "readings": [
+        "The rise of the revenue generating CIO",
+        "Delegation: Biggest test for transformational CIOs",
+        "Evolution of the CIO and IT Function: How Storytelling has Helped IT Become More Effective, Influential, and Strategic",
+        "The CIOs fatal flaw: Too much leadership not enough management"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Business Models"],
+      "readings": [
+        "Business Model transformation: The next stage of Industry 4.0 (only on Canvas)",
+        "The 7 most successful business models of the digital era",
+        "5 key metrics for IT success",
+        "POADCAST: Listen to the podcast “Alexa is in Millions of Homes and Amazon is Losing Billions”"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Discussion of the IT topic/issue"],
+      "readings": [],
+      "assignments": ["Team Presentations due on IT topic/issue"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["From technology to value", "Developing IT strategy for business value"],
+      "readings": [
+        "McKeen & Smith Chapters 1, 2, 3",
+        "Tech at the edge",
+        "Ethics in IT: The CIO’s new business imperative",
+        "Theranos Whistleblower shook the company-and his family",
+        "Using Technology to Create a Better Customer Experience"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Creating and evolving a Digital Strategy"],
+      "readings": [
+        "McKeen & Smith Chapters 4, 5",
+        "The future of cloud computing: 5 trends you must know about",
+        "How The Platform Business Model Is Transforming Real Estate",
+        "6 Ways AI Could Disrupt Your Business",
+        "9 cloud strategy questions every IT leader must answer"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Business Improvement and Competitive Advantage"],
+      "readings": [
+        "McKeen & Smith Chapters 6, 7, 8",
+        "Innovation And Board Of Directors",
+        "OpenAI’s Unusual Board: Should It Change Its Structure to Govern Effectively?",
+        "Corporate Boards Tackle Oversight of Technology, Innovation",
+        "Governance at Novo Nordisk"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Business Improvement and Competitive Advantage"],
+      "readings": [
+        "McKeen & Smith Chapters 9, 10",
+        "Lead with data transparency to create personalized customer journeys",
+        "Being a manager does not make you a leader. Here’s how you can be both",
+        "Communication Is at the Heart of Positive Employee Relationships",
+        "His Job Was to Make Instagram Safe for Teens. His 14-Year-Old Showed Him What the App Was Really Like."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Innovation with IT Developing thought leaders in IT"],
+      "readings": [
+        "Leading Change: Why Transformation Efforts Fail",
+        "10 companies with successful digital transformation [examples]",
+        "The Top 20 Business Transformations of the Last Decade",
+        "The Secret Behind Successful Corporate Transformations"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Business Intelligence Moving to an API economy"],
+      "readings": [
+        "McKeen & Smith Chapters 11, 12, 13, 14",
+        "Apple’s innovation strategy",
+        "What is Innovation"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Business Intelligence Preparing for Artificial intelligence"],
+      "readings": [
+        "McKeen & Smith Chapters 15, 16",
+        "AI generated art is already transforming creative work",
+        "The Impact of Generative AI on Hollywood and Entertainment",
+        "Why Adopting GenAI Is So Difficult"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Managing emerging technologies"],
+      "readings": [
+        "McKeen & Smith Chapters 17, 18, 19, 20, 21",
+        "Cyber AI: the real defense",
+        "The Race to Save Our Secrets From the Computers of the Future",
+        "POADCAST: Listen to the podcast “cybersecurity US HealthSystem”"
+      ],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "60%",
+      "exams": "",
+      "projects": "40%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 93-100, A-: 90-92, B+: 87-89, B: 83-86, B-: 80-82, C+: 77-79, C: 73-76, C-: 70-72, F: <70",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Individual Case Study: One case study will be graded. Analysis will include critical review of the management decisions presented in the respective case, followed by the student’s recommendations to management. Each question should be addressed separately. Case study write-ups should be 3-5 pages in length.",
+      "percentage": "10%"
+    },
+    {
+      "description": "IT Topic presentation: This is a team assignment. One of the current IT topics will be chosen from a list that will be provided. The team is to do a thorough analysis, using as many of the tools and techniques discussed in class. You will prepare a presentation and give in class.",
+      "percentage": "30%"
+    },
+    {
+      "description": "Current 2-article presentation: This is a team assignment. Your team will find 2 current articles (must be within the last 6 months) that are relevant to this course. You will be assigned a week in which you will discuss the articles you have found. Your team will lead a discussion in class on the articles.",
+      "percentage": "10%"
+    },
+    {
+      "description": "IT Strategy presentation: This is a team assignment. Students will develop an IT Strategy for the firm they work for or a selected firm of their choosing in a 45-minute presentation, using the note field for providing details. The presentation will be given in class.",
+      "percentage": "40%"
+    },
+    {
+      "description": "Participation: Class participation and sharing of real life experiences are part of the learning process in this class. Attendance is a part of class participation, but it is not sufficient to get participation points.",
+      "percentage": "10%"
+    }
+  ],
+  "policies": {
+    "attendance": "Students are expected to attend all classes and be active in lecture discussions.",
+    "late_work": "",
+    "academic_integrity": "Any plagiarism or other form of cheating will be dealt with under relevant Stevens policies.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The course will employ lectures, case studies, class discussions, individual assignments, and team projects.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:46:07.575037",
+    "pdf_source": "../StevensCourses/MIS760_Fall2024_Online_syllabus.pdf",
+    "source_type": "file",
+    "text_length": 32963,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "IT Strategy",
+      "code": "MIS 760",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Katia Meggiorin",
+        "email": "kmeggior@stevens.edu",
+        "office_hours": "Monday 12:45-2:45 pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course addresses the strategic responsibilities and roles of the CIO and IT managers.",
+    "learning_outcomes": [
+      "Develop an IT strategy that aligns with the business",
+      "Understand the current issues facing the IT organization and have tools to address them",
+      "Apply how IT can deliver value",
+      "Explain the changing role of the CIO",
+      "Understand how IT can develop a partnership with the business",
+      "Discuss some of the ways technology is being used to transform organizations",
+      "Understand how IT can drive business improvement and a competitive advantage"
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

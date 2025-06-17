@@ -1,0 +1,207 @@
+{
+  "textbooks": [
+    {
+      "title": "Storytelling with Data",
+      "author": "Cole Knaflic",
+      "ISBN": "978-1119002253"
+    },
+    {
+      "title": "Learning Tableau 2022",
+      "author": "Joshua N. Milligan, Blair Hutchinson, Mark Tossell, Roberto Andreoli",
+      "ISBN": "9781800561649"
+    },
+    {
+      "title": "R Data Visualization Recipes",
+      "author": "Vitor Bianchi Lanzetta",
+      "ISBN": "9781801072328"
+    },
+    {
+      "title": "GGPlot2 Essentials: Great Data Visualization in R",
+      "author": "",
+      "ISBN": ""
+    },
+    {
+      "title": "R for Data Science",
+      "author": "Hadley Wickham",
+      "ISBN": "9781491910399"
+    },
+    {
+      "title": "Mastering Gephi Network Visualization",
+      "author": "Ken Chevren",
+      "ISBN": "9781783987344"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Data Visualization"],
+      "readings": ["Knaflic, Introduction and Ch. 1"],
+      "assignments": ["Review Syllabus", "Install R, Tableau, Gephi; Sign up for Datawrapper"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to ggplot2"],
+      "readings": ["Knaflic, Ch. 2"],
+      "assignments": ["ggplot2 overview and exercises", "Understand the Context exercise"],
+      "due_dates": ["ggplot2 assignment due via Canvas on 9/21"]
+    },
+    "week3": {
+      "topics": ["Introduction to summarizing with dplyr"],
+      "readings": ["Knaflic, Ch. 3"],
+      "assignments": ["additional ggplot2 content", "dplyr overview and usage", "Choosing an Effective Visual exercise", "Presentation of select homework submissions"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["General visualization principles using R"],
+      "readings": ["Knaflic, Ch. 4", "Learning Tableau 2022, Ch. 16"],
+      "assignments": ["Additional R visualization methods", "Identify and Eliminate Clutter exercise"],
+      "due_dates": ["Assembling an R visualization presentation assignment due via Canvas on 10/5"]
+    },
+    "week5": {
+      "topics": ["Introduction to Tableau Prep Builder"],
+      "readings": ["Knaflic, Ch. 5", "Learning Tableau 2022: Ch. 1 (Recommended)"],
+      "assignments": ["Introduction to Tableau Prep Builder for data preparation", "Focus attention exercise", "Presentation of select homework submissions"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Introduction to Creating Charts and Dashboards Using Tableau"],
+      "readings": ["Learning Tableau 2022: Ch. 12"],
+      "assignments": ["Introduction to Tableau 2022.1", "Focus attention exercise", "Presentation of select homework submissions"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Introduction to Mapping in Tableau"],
+      "readings": ["Knaflic, Ch. 6", "Learning Tableau 2022, Ch. 10"],
+      "assignments": ["Introduction to Mapping in Tableau 2022.3", "Think like a designer exercise"],
+      "due_dates": ["Tableau charts, dashboards, and mapping assignment due via Canvas on 10/19"]
+    },
+    "week8": {
+      "topics": ["(More) Advanced Topics in Tableau"],
+      "readings": ["Knaflic, Ch. 7"],
+      "assignments": ["Introduction to (more) Advanced topics in Tableau 2022.3", "Tell a story exercise"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Introduction to Datawrapper and Online Visualization Tools"],
+      "readings": ["Knaflic, Ch. 8", "Learning Tableau, Ch. 13"],
+      "assignments": ["Review of online data visualization tools", "Storytelling with data process exercise"],
+      "due_dates": ["Using online visualization tools assignment due via Canvas on 11/2"]
+    },
+    "week10": {
+      "topics": ["Using R and Tableau as Complementary Tools"],
+      "readings": ["Knaflic, Ch. 9"],
+      "assignments": ["Working with R and Tableau together", "Developing a story exercise", "Presentation of select homework submissions"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Introduction to Network Visualization"],
+      "readings": ["Knaflic, Ch. 10"],
+      "assignments": ["Introduction to network visualization tool options", "Real-world scenarios exercise"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Visualization Applications: Data Governance"],
+      "readings": [],
+      "assignments": ["Additional topics in data visualization mapping"],
+      "due_dates": ["Final project proposal due via Canvas on 11/16"]
+    },
+    "week13": {
+      "topics": ["Visualization Applications: Additional Presentation Methods"],
+      "readings": [],
+      "assignments": ["Additional topics in data visualization: Data Governance"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Project Review"],
+      "readings": [],
+      "assignments": ["Presentations by cohort 2 of draft project"],
+      "due_dates": ["Final project submission due via Canvas on 12/18"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "40%",
+      "exams": "0%",
+      "projects": "50%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "All late submissions are subject to a grade deduction of not less than 20%. Assignment submissions received more than five days late will receive a grade of 0 points."
+  },
+  "assignments": [
+    {
+      "description": "ggplot2 assignment",
+      "due_date": "9/21"
+    },
+    {
+      "description": "Assembling an R visualization presentation assignment",
+      "due_date": "10/5"
+    },
+    {
+      "description": "Tableau charts, dashboards, and mapping assignment",
+      "due_date": "10/19"
+    },
+    {
+      "description": "Using online visualization tools assignment",
+      "due_date": "11/2"
+    },
+    {
+      "description": "Final project proposal",
+      "due_date": "11/16"
+    },
+    {
+      "description": "Final project submission",
+      "due_date": "12/18"
+    }
+  ],
+  "policies": {
+    "attendance": "Where possible, it is expected that you will attend this course live, via Zoom. If you are not able to attend this course live, it is expected that you will review the course recordings each week.",
+    "late_work": "All late submissions are subject to a grade deduction of not less than 20%. Assignment submissions received more than five days late will receive a grade of 0 points.",
+    "academic_integrity": "Undergraduate Honor System applies to all undergraduate students in coursework and Honor Board proceedings.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Final project submission due on 12/18",
+    "Mid-Term Survey Questionnaire due on 11/9",
+    "Project Proposal due on 11/16"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Current Mac (OS X) or PC (Windows 7+) with high-speed internet connection, webcam, microphone, and required software.",
+    "support_resources": "For more information about course access or support, contact the TRAC by calling 201-380-6599 or 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:59:56.111502",
+    "pdf_source": "../StevensCourses/Syllabus for 2022F FA 550-WS1.pdf",
+    "source_type": "file",
+    "text_length": 30359,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Visualization Applications",
+      "code": "FA550",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2022",
+      "instructor": {
+        "name": "Brian Moriarty",
+        "email": "brian.moriarty@stevens.edu",
+        "office_hours": "By appointment",
+        "contact_info": "Phone: 917-548-6650"
+      }
+    },
+    "course_description": "Effective visualization of complex data allows for useful insights, more effective communication, and making decisions. This course investigates methods for visualizing datasets from a variety of perspectives in order to best identify the best solution for a given task.",
+    "learning_outcomes": [
+      "Develop knowledge of tools for visualizing datasets",
+      "Develop a programmatic understanding of translating data into useful visual forms",
+      "Develop a critical vocabulary to engage and discuss information visualization",
+      "Develop an understanding of data visualization theory",
+      "Understanding of ethical considerations for data visualization"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

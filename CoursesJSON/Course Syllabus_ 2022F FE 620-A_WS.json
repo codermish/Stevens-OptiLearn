@@ -1,0 +1,96 @@
+{
+  "textbooks": [
+    {
+      "title": "Options, Futures and Other Derivatives",
+      "author": "John Hull",
+      "edition": "10th Edition",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "35%",
+      "exams": "30%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Homework will be given once every two weeks, and will be due on Fridays as indicated."
+    },
+    {
+      "description": "There is a course project which is due at the end of the semester."
+    },
+    {
+      "description": "There is a Final Exam."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance will be taken for the on-campus course.",
+    "late_work": "Allowance will be made for late submissions with good justification and prior approval. Late submissions without previous approval will not be accepted.",
+    "academic_integrity": "Students must write and sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is on-campus.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom. Required equipment includes a current Mac or PC with high-speed internet, a webcam, and a microphone.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:40:48.685769",
+    "pdf_source": "../StevensCourses\\Course Syllabus_ 2022F FE 620-A_WS.pdf",
+    "source_type": "file",
+    "text_length": 14948,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Pricing and Hedging",
+      "code": "FE 620 A/WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2022",
+      "instructor": {
+        "name": "Dan Pirjol",
+        "email": "dpirjol@stevens.edu",
+        "office_hours": "Wed 2:00-3:00pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The course will give an introduction to the financial markets for equity, FX, interest rates, commodities and credit, and their derivatives.",
+    "learning_outcomes": [
+      "Be familiar with the main concepts of the fixed income markets: interest rates, yield curves, currency exchange rates, and with the main derivative contracts linked to these markets.",
+      "Understand the risk-neutral approach to pricing derivatives, and be able to apply it to pricing forward contracts, futures and options.",
+      "Be familiar with European and American options and their Greeks.",
+      "Understand how to hedge the main risks of a financial derivative and of a portfolio of derivatives."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "Basic concepts of probability and statistics",
+      "Calculus",
+      "Knowledge of a programming language (R or Excel are preferred)"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

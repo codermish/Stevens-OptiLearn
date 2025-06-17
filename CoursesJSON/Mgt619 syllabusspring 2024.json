@@ -1,0 +1,209 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation and Course Overview"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Authentic Leadership: Self-awareness, Your Values and Ethical Conduct"],
+      "readings": [
+        "Trevino, L., Hartman, L.P. & Brown, M. (2000). Moral person and moral manager: how executives develop a reputation for ethical leadership, California Management Review, 42(4), 128-142.",
+        "May, D., Hodges, T., Chan, A., Avolio, B. (2003). Developing the moral component of authentic leadership. Organizational Dynamics, 32(3), 247-260.",
+        "Hougard, R., Carter, J., Afton, M. (2018). Self-awareness can help leaders more than an MBA can. Harvard Business Review, January. (Recommended)",
+        "Dominick, P., Iordanoglou, D., Prastacos, G., Reilly, R. (2020). Espoused values of the “Fortune 100 Best Companies to Work For”: Essential themes and implementation practices. Journal of Business Ethics. (pages 1-10, 14-15 and 21)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Adaptive Leadership"],
+      "readings": [
+        "Heifetz, R.A., Grashow, A., Linksy, M. (2009). Leadership in a (permanent) crisis. Harvard Business Review, 87, 62-67.",
+        "Leadership Simulation: Patient Zero - https://hbsp.harvard.edu/import/1130578",
+        "Fuchs, F., et. al. (2023). It’s time to define your company’s principles. Harvard Business Review, Nov/Dec. 122-131. (Recommended)",
+        "Nohria, N. (2024). Leaders must react. Harvard Business Review, Jan/Feb. 51-55. (Recommended)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Decision making and Program Failures"],
+      "readings": [
+        "Bohmer, R.M., Edmondson, A.C., & Roberto, M.A. (2012). Columbia’s Final Mission.",
+        "Vaughan, D. (1997). The trickle-down effect: Policy decisions, risky work, and the Challenger tragedy. California Management Review, 39(2), 80-102. (Recommended)",
+        "Roberto, M.A. (2002). Lessons from everest: The interaction of cognitive bias, psychological safety and system complexity. California Management Review, 45(1), 136-158, CMR245. (Recommended)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Learning From Failure"],
+      "readings": [
+        "Ashford, S.J., Sytch, M. Greer, L.L. (2020) 6 ways a crisis can help you cultivate a growth mindset. Harvard Business Review, August.",
+        "Edmondson, A. (2011). Strategies for learning from failure. Harvard Business Review, pp. 48-55. April.",
+        "Hopkins, Andrew (2011). Management walk-arounds: Lessons from the Gulf of Mexico oil well blowout. Working Paper 79, Australian National University (February)."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Leadership & Improvisation"],
+      "readings": [
+        "Kelly, K. (2012). Leadership Agility: Using Improv to Build Critical Skills. UNC:Keen-Flaggler School.",
+        "Crossan, M, Lane. H.W., White, R.E., Klus, L (1996). The improvising organization. Organizational Dynamics, spring.( pp. 20-35)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Recognizing and applying principles of influence"],
+      "readings": [
+        "Cialdini, R.. (2001). Harnessing The Science of Persuasion, Harvard Business Review October (pp.72-79).",
+        "Griskevicius, V. Cialdini, R.B., Goldstein, N.J. (2008). Applying (and resisting) peer influence. MIT Sloan Management Review. 49(2), 84-88. (Recommended)",
+        "Trompenaars, F. & Wooliams, P. (2011). Lost in translation. Harvard Business Review (web exclusive), April."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Storytelling and Story Gathering"],
+      "readings": [
+        "McKee, R. & Fryer, B. (2003). Storytelling that moves people Harvard Business Review, June R0306B-PDF-ENG.",
+        "Callahan, S. The Vital Role of Business Storytelling (whitepaper).",
+        "Hutchens, D. (2015). The 4 Core Stories (Chapter 1 of The Circle of the 9 Muses).AMACON.",
+        "Valcour, M. & McNulty, J. (2018). To make a change at work, tell yourself a different story. Harvard Business Review, August."
+      ],
+      "assignments": [],
+      "due_dates": ["Submit Reflection Journal #1 (Reflections for weeks 1-7 by end of 3/10)"]
+    },
+    "week9": {
+      "topics": ["Coaching Dynamics & Personal Development Planning"],
+      "readings": [
+        "Peterson, D. B. (2006). People are complex and the world is messy: A behavior-based approach to executive coaching. In D.R. Stober & A.M. Grant (Eds.), Evidence-based coaching handbook: Putting best practices to work with your clients. Hoboken, NJ: Wiley.",
+        "Milner, J & Milner, T. (2018). Most managers don’t know how to coach people. But they can learn. Harvard Business Review, August.",
+        "Gawande, A. (2011). Coaching a surgeon, The New Yorker, Oct, 3."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Selecting talent"],
+      "readings": [
+        "Moore, D. A. (2017) How to Improve the accuracy and reduce the cost of personnel selection. California Management Review 60(1) 8-17.",
+        "Janz, T. (1982). Initial comparisons of patterned behavior description interviews versus unstructured interviews. Journal of Applied Psychology, 67, 577-580.",
+        "Campion, M. Palmer, D. & Campion, J. (1997). A Review of Structure in the Selection Interview. Personnel Psychology, 50, 655-703. (Recommended)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Leading within and across teams"],
+      "readings": [
+        "Ernst. C. & Chrobot-Mason, D. (2011). Flat world hard boundaries: how to lead across them. Sloan Management Review, pp. 1-8. Spring.",
+        "Phillips, K.W., Dumas, T.L., Rothbard, N. (2018). Diversity & authenticity. Harvard Business Review, March-April.",
+        "Bourke, J. & Espedido, A. (2019).Why inclusive leaders are good for organizations and how to become one. Harvard Business Review. March, 19.",
+        "Dugan, K. Bhatnager, V. (2018).Virtually alone: Real ways to connect remote teams. June."
+      ],
+      "assignments": [],
+      "due_dates": ["Submit Coaching Pipeline Assignment by 4/7"]
+    },
+    "week12": {
+      "topics": ["Shaping program and organizational culture"],
+      "readings": [
+        "Katzenbach, Jon & Heath, Ashley. (2012). Stop Blaming Your Culture. http://www.strategy-business.com/article/11108?gko=f4e8d",
+        "Harder, J. Primer on Organizational Culture Darden Business School Publishing (UV0122)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Leading change"],
+      "readings": [
+        "Kotter, J.P. (2007). Leading change: Why transformation efforts fail. Harvard Business Review, January.",
+        "Heath, C. & Heath, D. (2010). Switch: How to Change Things When Change is Hard. Chapter 1 Broadway Books.",
+        "Frei, F. & Moriss, A. (2023). Storytelling that drives bold change. Harvard Business Review, Nov./Dec., 65-71."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Overall Course Wrap –up"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Submit Reflection Journal #2 - Weeks 8-13"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "25 percent",
+      "assignments": "50 percent - two submissions, 25 percent each",
+      "exams": "",
+      "projects": "Coaching Pipeline Plan (25 percent)",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 93-100, A-: 90-92, B+: 87-89, B: 83-86, B-: 80-82, C+: 76-79, C: 77-79, C-: 70-72, D+: 67-69, D: 63-66, D-: 60-62, F: <60",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "title": "Personal Reflection Journals",
+      "description": "You will prepare and submit self-reflective journals that document what you are learning and experiencing in the course. The journals should integrate the theoretical concepts that you have derived from the reading, your class experience and the application of these concepts to your personal and professional life. Journal 1 due after week 7 and Journal 2 due after week 14."
+    },
+    {
+      "title": "Coaching Pipeline Plan",
+      "description": "You will select a leadership skill or topic covered from this course and use the coaching pipeline model to analyze your effectiveness and establish a plan for further developing or applying the skill. Due after Week 11."
+    }
+  ],
+  "policies": {
+    "attendance": "Regular attendance and participation is a critical course requirement.",
+    "late_work": "",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral. Consequences of academic impropriety are severe.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Purchase access to simulation by 1/26",
+    "Submit Reflection Journal #1 by end of 3/10",
+    "Submit Coaching Pipeline Assignment by 4/7",
+    "Submit Reflection Journal #2 by 4/25"
+  ],
+  "additional_info": {
+    "course_format": "Online Class meetings via Zoom once a week (Thursdays) starting at 6:30PM.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:39:38.734074",
+    "pdf_source": "../StevensCourses/Mgt619 syllabusspring 2024.pdf",
+    "source_type": "file",
+    "text_length": 19989,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Leading Across Projects",
+      "code": "Management 619",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Pete Dominick, Ph.D.",
+        "email": "peter.dominick@stevens.edu",
+        "office_hours": "Weds. 5-6PM or by appointment",
+        "contact_info": "(201) 787-6509 (cell -preferred), 216-8071 (office)"
+      }
+    },
+    "course_description": "This course explores executive leadership skills required in complex organizations.",
+    "learning_outcomes": [
+      "Making executive-level decisions in complex environments",
+      "Shaping the environment and driving change",
+      "Identifying and developing talent among team leaders and members"
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": ["Mgt. 612: Leader Development"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

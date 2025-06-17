@@ -1,0 +1,146 @@
+{
+  "textbooks": [
+    {
+      "title": "Powerplant Technology",
+      "author": "M.M. El-Wakil",
+      "edition": "1984 (Copyright 2002)",
+      "ISBN": "0-07-287102-4"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": ["Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Vapor Power Cycles"],
+      "readings": ["Chapters 2, 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Gas-Turbine Cycles"],
+      "readings": ["Chapters 4, 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Combined Cycles and Cogeneration"],
+      "readings": ["Chapters 2, 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Power Plant Design"],
+      "readings": ["Notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Mid-term Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Fossil Fuel Steam Generators"],
+      "readings": ["Chapter 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Fuels and Combustion"],
+      "readings": ["Chapter 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Principles of Nuclear Energy and Nuclear Power Plants"],
+      "readings": ["Chapters 9, 10"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Renewable Power: Geothermal, Solar, Wind & Ocean Thermal"],
+      "readings": ["Chapters 13, 14, 15"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Environmental Aspects of Power Generation"],
+      "readings": ["Chapter 17"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Project Final Reports due"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "35%",
+      "exams": "30%",
+      "projects": "35%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late submission will be accepted.",
+    "academic_integrity": "Students must adhere to the Stevens Honor System.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:28:56.279273",
+    "pdf_source": "../StevensCourses\\ME510WS_Syllabus_Fall2024.pdf",
+    "source_type": "file",
+    "text_length": 5630,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "POWER PLANT ENGINEERING",
+      "code": "ME510WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "H. Hadim",
+        "email": "ahadim@stevens.edu",
+        "office_hours": "by appointment",
+        "contact_info": "(201)216-5569"
+      }
+    },
+    "course_description": "",
+    "learning_outcomes": [
+      "Demonstrate understanding of the energy resources and energy conversion methods available for the production of electric power.",
+      "Analyze the performance of steam power plants, including superheat, reheat, regeneration, and irreversibilities.",
+      "Analyze the performance of gas turbines with reheat and regeneration, and the performance of combined cycle and cogeneration power plants.",
+      "Demonstrate understanding of the principles of steam generators.",
+      "Analyze fuels and combustion systems.",
+      "Explain the basic principles of thermal-fission and fast-breeder nuclear power plants, such as pressurized-water, boiling-water, and heavy-water reactors.",
+      "Demonstrate understanding of power generation from renewable sources: solar, wind, geothermal, ocean thermal.",
+      "Demonstrate understanding of the principles and potential of direct-electric power conversion systems, such as fuel-cell and solar photovoltaic units.",
+      "Demonstrate understanding of the environmental impact of electric power production on air quality, climate change, water, and land."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

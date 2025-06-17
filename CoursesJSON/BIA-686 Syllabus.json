@@ -1,0 +1,180 @@
+{
+  "textbooks": [
+    {
+      "title": "Analytics in a Big Data World: The Essential Guide to Data Science and its Applications",
+      "author": "Bart Baesens",
+      "edition": "2014",
+      "ISBN": "978-1-118-39270-1"
+    },
+    {
+      "title": "Data Science for Business",
+      "author": "Foster Provost & Tom Fawcett",
+      "edition": "2013",
+      "ISBN": "978-1-449-36132-7"
+    },
+    {
+      "title": "Ace the Data Science Interview: 201 Real Interview Questions Asked by FAANG, Tech Startups, & Wall Street",
+      "author": "Kevin Huo and Nick Singh",
+      "edition": "2021",
+      "ISBN": "978-05-789-7383-8"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Applied Analytics Practicum: Course Introduction and Overview"],
+      "readings": ["BB, Chapter 1", "FPTF, Chapters 1"],
+      "assignments": ["Self-Assessment BI&A Topic Quiz"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["BI&A Framework"],
+      "readings": ["BB, Chapter 2", "FPTF, Chapter 2"],
+      "assignments": ["Critique the Ted Talk on the Beauty of Visualization"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Text Analytics"],
+      "readings": ["FPTF, Chapter 10"],
+      "assignments": ["Outline your approach to solving Case"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Case 1 Overview and Critique"],
+      "readings": [],
+      "assignments": ["Critique of the Case"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Descriptive Analytics"],
+      "readings": ["BB, Chapter 4"],
+      "assignments": ["Data Analysis Assignment (individual)"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Case 2 Overview and Critique"],
+      "readings": [],
+      "assignments": ["Start working as a team for project abstract and proposal"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Predictive Analytics"],
+      "readings": ["BB, Chapter 3", "TFPF, Chapters 7-9"],
+      "assignments": ["Project Abstract"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Case 3 Overview and Critique"],
+      "readings": [],
+      "assignments": ["Work on project"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Prescriptive Analytics"],
+      "readings": ["TFPF, Chapter 4"],
+      "assignments": ["Project Proposal"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Case 4 Overview and Critique"],
+      "readings": [],
+      "assignments": ["Quiz: interview type questions"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Ethics and Privacy"],
+      "readings": ["BB, Chapter 7", "BB, Chapter 8"],
+      "assignments": ["Critique of TedTalk [Marie Wallace] The Ethics of Collecting Data"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Final Project: Results and Conclusions"],
+      "readings": [],
+      "assignments": ["Critique your own work"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Final Project Presentations"],
+      "readings": [],
+      "assignments": ["Submit all components of final project"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "25%",
+      "exams": "20%",
+      "projects": "50%",
+      "quizzes": "20%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    "Self-Assessment BI&A Topic Quiz",
+    "Critique the Ted Talk on the Beauty of Visualization",
+    "Outline your approach to solving Case",
+    "Critique of the Case",
+    "Data Analysis Assignment (individual)",
+    "Start working as a team for project abstract and proposal",
+    "Project Abstract",
+    "Work on project",
+    "Project Proposal",
+    "Quiz: interview type questions",
+    "Critique of TedTalk [Marie Wallace] The Ethics of Collecting Data",
+    "Critique your own work",
+    "Submit all components of final project"
+  ],
+  "policies": {
+    "attendance": "Attendance at live sessions counts as 10% of your grade.",
+    "late_work": "All assignments should be submitted as assigned.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "The technology requirements for this course correspond to those needed for the five prerequisite courses.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:35:04.536091",
+    "pdf_source": "../StevensCourses\\BIA-686 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 19537,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Applied Analytics Practicum",
+      "code": "BIA686",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Christopher Asakiewicz, PhD.",
+        "email": "casakiew@stevens.edu",
+        "office_hours": "Available by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Business intelligence and analytics is key to enabling successful competition in today’s world of 'big data'. This course focuses on helping students to not only understand how best to leverage business intelligence and analytics to become more effective decision makers.",
+    "learning_outcomes": [
+      "Analyze the impact of BI&A on the organization",
+      "Apply BI&A methods and techniques in addressing strategic business problems",
+      "Leverage business intelligence and analytics to help organizations make better evidence-based decisions",
+      "Conduct an in-depth analysis of a strategic business problem",
+      "Communicate the results of an in-depth analysis to both a technical and management audience"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "MIS636",
+      "BIA500",
+      "BIA650",
+      "BIA652",
+      "BIA658"
+    ],
+    "prerequisites_count": 5,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

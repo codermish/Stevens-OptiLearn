@@ -1,0 +1,355 @@
+{
+  "textbooks": [
+    {
+      "title": "Data Analysis with Python and PySpark",
+      "author": "Jonathan Rioux"
+    },
+    {
+      "title": "Learning Spark",
+      "author": "Jules S. Damji, Brooke Wenig, Tathagata Das, Denny Lee"
+    },
+    {
+      "title": "Stream Processing with Apache Spark",
+      "author": "Gerard Maas & Francois Garillot"
+    },
+    {
+      "title": "Scaling Machine Learning with Spark",
+      "author": "Adi Polak"
+    },
+    {
+      "title": "Advanced Analytics with PySpark",
+      "author": "Akash Tandon, Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills"
+    },
+    {
+      "title": "Foundations of Scalable Systems",
+      "author": "Ian Gorton"
+    },
+    {
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann"
+    },
+    {
+      "title": "System Design Series",
+      "author": "ByteByteGo, Alex Xu"
+    },
+    {
+      "title": "Data Analytics with Spark Using Python",
+      "author": "Jeffrey Aven"
+    },
+    {
+      "title": "Spark: The Definitive Guide",
+      "author": "Bill Chambers & Matei Zaharia"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Course overview",
+        "Introduction to Big Data"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Distributed Programming – MapReduce",
+        "Spark Architecture Concepts"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Spark DataFrame API Applications",
+        "Row & column operations; Aggregations – Part I"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Spark DataFrame API Applications",
+        "Row & column operations; Aggregations – Part II",
+        "Combining data – Joins & Unions; I/O",
+        "Spark UI"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Quiz in class",
+        "Spark DataFrame API Applications",
+        "Partitioning; Python UDFs",
+        "Spark SQL"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Quiz in class",
+        "Pandas API; Pandas UDF & Pandas Function API",
+        "Spark Architecture Applications",
+        "Clusters; Storage",
+        "Partitioning; Structures; Broadcasting – Part I"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Quiz in class",
+        "Spark Architecture Applications",
+        "Catalyst Optimizer",
+        "AQE",
+        "Partitioning; Structures; Broadcasting – Part II"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Quiz in class",
+        "In class presentation of final project proposal",
+        "Spark Architecture Applications",
+        "Memory",
+        "Defaults"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Mid-term in class"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Quiz in class",
+        "Spark Structured Streaming"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Quiz in class",
+        "Scaling ML Models",
+        "Distributed ML; Modeling API",
+        "Distributed Linear Regression",
+        "Model Optimization, Evaluation & Selection"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Quiz in class",
+        "Scaling ML Models",
+        "Distributed Decision Trees",
+        "Distributed Ensembling Methods"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Quiz in class",
+        "Scaling ML Models",
+        "Distributed Matrix Factorization",
+        "Building Bespoke Spark ML Models",
+        "Part I – Bespoke Transformer"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": [
+        "Quiz in class",
+        "Building Bespoke Spark ML Models",
+        "Part II – Bespoke Estimator",
+        "Bringing it together for a fully functional model"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": [
+        "Quiz in class",
+        "Real-world, modern Big Data Architectures",
+        "Data governance; Security, compliance & privacy",
+        "Reliability; Regulatory influence on architectures",
+        "Large Language Models in Big Data context"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week16": {
+      "topics": [
+        "Finals presentation"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week17": {
+      "topics": [
+        "Finals submission due"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "20%",
+      "exams": "40%",
+      "projects": "30%",
+      "quizzes": "20%",
+      "final": ""
+    },
+    "scale": "A: 100% to 94.0%, A-: < 94.0% to 90.0%, B+: < 90.0% to 87.0%, B: < 87.0% to 84.0%, B-: < 84.0% to 80.0%, C+: < 80.0% to 77.0%, C: < 77.0% to 70.0%, F: < 70.0% to 0.0%",
+    "policies": "Requests for rounding up or increasing points will not be entertained."
+  },
+  "assignments": [
+    {
+      "name": "In-class Quiz",
+      "type": "Individual",
+      "weight": "20%",
+      "total_points": "20"
+    },
+    {
+      "name": "Mid-term In-class Quiz",
+      "type": "Individual",
+      "weight": "40%",
+      "total_points": "40"
+    },
+    {
+      "name": "Finals Proposal",
+      "type": "Team",
+      "weight": "5%",
+      "total_points": "5"
+    },
+    {
+      "name": "Finals Presentation & Report",
+      "type": "Individual",
+      "weight": "10%",
+      "total_points": "10"
+    },
+    {
+      "name": "Finals Presentation & Report",
+      "type": "Team",
+      "weight": "20%",
+      "total_points": "20"
+    },
+    {
+      "name": "Attendance & Participation",
+      "type": "Individual",
+      "weight": "5%",
+      "total_points": "5"
+    },
+    {
+      "name": "Databricks Spark Dev. Cert.",
+      "type": "Individual",
+      "weight": "10%",
+      "total_points": "10"
+    },
+    {
+      "name": "BI&A Poster Presentation",
+      "type": "Team",
+      "weight": "10%",
+      "total_points": "10"
+    }
+  ],
+  "policies": {
+    "attendance": "Students are required to attend all lectures and be present in no less than 13 lectures, beginning week 2.",
+    "late_work": "Students missing a quiz will have one opportunity to make up. This is limited to only one quiz per semester.",
+    "academic_integrity": "All students enrolled in this class agree to the Graduate Honor Code.",
+    "accommodations": "With prior approval from instructor, attendance exceptions will be given for reasons such as religious observances, professional and career development engagements."
+  },
+  "important_dates": [
+    {
+      "event": "Final project proposal due",
+      "date": "Thu 3/14"
+    },
+    {
+      "event": "Mid-term in class",
+      "date": "Thu 3/21"
+    },
+    {
+      "event": "Last day of classes",
+      "date": "Thu 5/2"
+    },
+    {
+      "event": "Finals presentation",
+      "date": "Thu 5/9"
+    },
+    {
+      "event": "Finals submission due",
+      "date": "Sun 5/12"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Online via Zoom",
+    "technology_requirements": "Students are required to have a computing device, such as a Laptop.",
+    "support_resources": "Students will have free access to a suite of industry-leading Big Data toolkits."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:56:56.637024",
+    "pdf_source": "../StevensCourses/Syllabus - BIA 678 - Spring 2024.pdf",
+    "source_type": "file",
+    "text_length": 15714,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Big Data Technologies",
+      "code": "BIA 678 WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Prof. Venu Guntupalli",
+        "email": "vguntup1@stevens.edu",
+        "office_hours": "Thursday 9 PM – 9:30 PM and also other days of the week, including weekends, with prior coordination and confirmation",
+        "contact_info": "(717) 744-8368"
+      }
+    },
+    "course_description": "",
+    "learning_outcomes": [
+      "Understand what Big Data is, and how it differs from traditional approaches to BI&A",
+      "Understand tools associated with Big Data in creating scalable systems to take advantage of big data",
+      "Gain hands-on experience using popular tools, frameworks and technology stacks associated with Big Data",
+      "Extract knowledge and intelligence from datasets which exhibit high volume, velocity, and/or variety",
+      "Understand and execute analyses oriented to batch & streaming data using classic and latest modeling approaches",
+      "Plan and execute a project that includes the use of at least one Big Data dataset on distributed compute and storage on cloud",
+      "Understand and discuss the meta issues around Big Data, such as governance, security, and privacy"
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [
+      "Familiarity and experience in areas such as Multivariate statistics, Data mining, Databases, and Programming",
+      "Familiarity and hands-on experience with Python and SQL"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

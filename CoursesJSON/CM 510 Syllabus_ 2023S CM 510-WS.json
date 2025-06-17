@@ -1,0 +1,148 @@
+{
+  "textbooks": [
+    {
+      "title": "Construction Management Fundamentals",
+      "author": "Knutson, Kraig, and Clifford Schexnayder",
+      "edition": "2nd",
+      "publisher": "McGraw-Hill",
+      "year": "2008"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overview of The Construction Industry"],
+      "readings": ["Chapter 1 and 2 (pp 1-60)"],
+      "assignments": ["Construction Industry Timeline"],
+      "due_dates": ["Timeline Discussion"]
+    },
+    "week2": {
+      "topics": ["Construction Management Functions"],
+      "readings": ["Chapter 3 (pp 61-94)"],
+      "assignments": [],
+      "due_dates": ["Day in the Life Discussion"]
+    },
+    "week3": {
+      "topics": ["Scheduling Techniques for Construction Projects"],
+      "readings": ["Chapter 4 (pp 95-131)"],
+      "assignments": ["Scheduling exercise"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Construction Cost Estimates"],
+      "readings": ["Chapter 5 (pp 132-161)"],
+      "assignments": [],
+      "due_dates": ["Cost Estimating Discussion"]
+    },
+    "week5": {
+      "topics": ["Estimating Heavy/Civil Projects"],
+      "readings": ["Chapter 6 (pp 162-203)"],
+      "assignments": ["Cost Exercise"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Construction Contracts Administration"],
+      "readings": ["Chapter 8 (pp 260-330)"],
+      "assignments": [],
+      "due_dates": ["Contract Administration Discussion"]
+    },
+    "week7": {
+      "topics": ["Project Delivery Methods"],
+      "readings": ["Chapter 14 (pp 475-504)"],
+      "assignments": ["Pdf: 'Choosing a Delivery Method'"],
+      "due_dates": ["Traditional Delivery Methods Discussion"]
+    },
+    "week8": {
+      "topics": ["Safety"],
+      "readings": ["Chapter 16 (pp 506-520)"],
+      "assignments": ["Site Visit"],
+      "due_dates": ["Visiting Site Discussion"]
+    },
+    "week9": {
+      "topics": ["Integrated Project Delivery"],
+      "readings": ["Handout from AIA"],
+      "assignments": [],
+      "due_dates": ["IPD Discussion"]
+    },
+    "week10": {
+      "topics": ["Building Information Modeling"],
+      "readings": ["Chapter 17"],
+      "assignments": [],
+      "due_dates": ["BIM Discussion"]
+    },
+    "week11": {
+      "topics": ["Bidding for work"],
+      "readings": ["Common Sense Construction Law Chapter 4"],
+      "assignments": ["Bid exercise"],
+      "due_dates": ["Scenario"]
+    },
+    "week12": {
+      "topics": ["Negotiating for Work"],
+      "readings": ["Common Sense Construction Law Chapter 21"],
+      "assignments": ["Negotiating exercise"],
+      "due_dates": ["Project"]
+    },
+    "week13": {
+      "topics": ["Settling Claims"],
+      "readings": ["Common Sense Construction Law Chapter 22"],
+      "assignments": ["Mock trial"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "200 points",
+      "assignments": "450 points",
+      "exams": "350 points",
+      "projects": "",
+      "quizzes": "",
+      "final": "200 points"
+    },
+    "scale": "A: 100% to 93%, A-: < 93% to 90%, B+: < 90% to 87%, B: < 87% to 83%, B-: < 83% to 80%, C+: < 80% to 77%, C: < 77% to 73%, C-: < 73% to 70%, F: < 70% to 0%",
+    "policies": "Late assignments will be penalized by one letter grade."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late assignments will be penalized by one letter grade.",
+    "academic_integrity": "Students must write and sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "13 Learning Modules within an online learning environment",
+    "technology_requirements": "Video Camera is required for Module 13 Assignment",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:38:51.353469",
+    "pdf_source": "../StevensCourses\\CM 510 Syllabus_ 2023S CM 510-WS.pdf",
+    "source_type": "file",
+    "text_length": 13751,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Construction Fundamentals",
+      "code": "CM 510",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2019",
+      "instructor": {
+        "name": "Professor Dia Hunter",
+        "email": "dhunter1@stevens.edu",
+        "office_hours": "NA",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course introduces the student to the construction industry, built environment history, development and current theories.",
+    "learning_outcomes": [
+      "Articulate significant challenges involved in the construction industry.",
+      "Elucidate the leading edges and explore the current limits of construction management theory, knowledge and practice.",
+      "Articulate how construction management practice has developed over time.",
+      "Calculate a construction cost estimate and simple construction schedule."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

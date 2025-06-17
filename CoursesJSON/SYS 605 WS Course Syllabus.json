@@ -1,0 +1,166 @@
+{
+  "textbooks": [
+    {
+      "title": "The Engineering Design of Systems: Models and Methods",
+      "author": "Dennis M. Buede and William D. Miller",
+      "edition": "3rd",
+      "year": "2016",
+      "publisher": "John Wiley & Sons"
+    },
+    {
+      "title": "Applied Space Systems Engineering",
+      "author": "Larson, Kirkpatrick, Sellers, Thomas and Verma",
+      "year": "2009"
+    },
+    {
+      "title": "Model-based integration and testing of complex high-tech systems",
+      "author": "Jan Tretmans (Editor)",
+      "year": "2007"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "30%",
+      "exams": "",
+      "projects": "35%",
+      "quizzes": "",
+      "final": "20%"
+    },
+    "scale": "",
+    "policies": "Late submissions must be discussed with the instructor."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "Contact the instructor to discuss late submissions.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course combines recorded lectures, readings, case studies, discussion questions, and exercises.",
+    "technology_requirements": "Basic computer skills, navigating Canvas, live web conferencing using Zoom, and specific software.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for course access support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:17:57.887849",
+    "pdf_source": "../StevensCourses\\SYS 605 WS Course Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 17840,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Systems Integration",
+      "code": "SYS605WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Walter Lucchesi",
+        "email": "walter.lucchesi@stevens.edu",
+        "office_hours": "Tuesdays 7:30 PM - 9:00 PM (EST)",
+        "contact_info": "Mobile 1.908.489.7444"
+      }
+    },
+    "course_description": "This course provides an understanding of systems integration, approaches to architect, design, implement, verify, and validate integrated systems.",
+    "learning_outcomes": [
+      "Understand the relationship between system architecture and system integration.",
+      "Understand the relationship between system requirements and verification testing.",
+      "Understand the relationship between stakeholder needs and system validation.",
+      "Develop plans for systematically integrating a complex system.",
+      "Represent needs of integration, verification and validation needs early in the system lifecycle.",
+      "Design effective verification and validation systems.",
+      "Design verification tests to ensure that system specifications are met.",
+      "Design validation tests to demonstrate that customer and stakeholder needs are fully met.",
+      "Utilize a wide range of testing methods and tools."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": [
+      "SYS625",
+      "SYS650"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

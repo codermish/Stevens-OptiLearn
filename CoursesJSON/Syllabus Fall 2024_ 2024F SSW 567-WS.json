@@ -1,0 +1,121 @@
+{
+  "textbooks": [
+    {
+      "title": "Software Testing: A Craftsman’s Approach",
+      "author": "Jorgensen",
+      "edition": "4th"
+    },
+    {
+      "title": "A Practitioner’s Guide to Software Test Design",
+      "author": "Copeland",
+      "publisher": "Artech House"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "30%",
+      "exams": "30%",
+      "projects": "35%",
+      "quizzes": "30%",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "Late assignments may be assessed a penalty for each day that the assignment is late – 10% will be deducted for each day your work is late, up to 3 days. No work will be accepted after 3 days beyond the due date."
+  },
+  "assignments": [
+    {
+      "description": "Weekly reading assignments"
+    },
+    {
+      "description": "Weekly recorded video lectures accompanied by lecture materials"
+    },
+    {
+      "description": "Weekly online submissions of individual homework assignments. Some programming will be required for the homework assignments."
+    },
+    {
+      "description": "Weekly online quizzes"
+    },
+    {
+      "description": "Periodic writings (once every 3 weeks) posted to an online shared discussion board - the Tech Blog"
+    },
+    {
+      "description": "Occasional online live meetings or live discussion groups with the professor"
+    },
+    {
+      "description": "Final exam"
+    },
+    {
+      "description": "Final project for the course that develops a research project related to software engineering."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted. Assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "All students must abide by the Stevens Honor System. Plagiarism or other forms of cheating will be dealt with under relevant Stevens policies.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is on-campus.",
+    "technology_requirements": "Live web conferencing using Zoom, recording a slide presentation with audio narration, recording, editing, and uploading video via Panopto. Required equipment includes a current Mac or PC with high-speed internet connection, webcam, and microphone. Required software includes Microsoft Word, Excel, and PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-380-6599."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:59:33.424920",
+    "pdf_source": "../StevensCourses/Syllabus Fall 2024_ 2024F SSW 567-WS.pdf",
+    "source_type": "file",
+    "text_length": 19855,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Software Testing, Quality, and Maintenance",
+      "code": "SSW 567",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Eman AlOmar",
+        "email": "ealomar@stevens.edu",
+        "office_hours": "Mondays (9 am to 10 am)",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is an in-depth study of software testing and quality throughout the development process.",
+    "learning_outcomes": [
+      "Develop effective test plans and test strategies throughout the system lifecycle",
+      "Select best fit test case design methodologies",
+      "Prevent system defects and failures through appropriate early defect removal techniques such requirements reviews, code reviews and integration test",
+      "Design and implement tests and measure the results",
+      "Measure the progress of the testing process",
+      "Manage configurations and trouble reports",
+      "Project the expected reliability and quality of a release",
+      "Understand and test for limited security vulnerabilities",
+      "Understand and use (limited) automated testing tools",
+      "Demonstrate critical thinking by reviewing and critiquing current topics in the field",
+      "Understand how software testing fits into the continuous integration and continuous delivery pipeline",
+      "Practice learning through lab exercises & team work"
+    ],
+    "learning_outcomes_count": 11,
+    "prerequisites": [
+      "Good working knowledge of Python"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

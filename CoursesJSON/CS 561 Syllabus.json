@@ -1,0 +1,261 @@
+{
+  "textbooks": [
+    {
+      "title": "Database System Concepts",
+      "author": "Silberschatz, Korth & Sudarshan",
+      "edition": "5th Edition",
+      "ISBN": "0072958863"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Introduction to Database Management Systems",
+        "View of Objects and Corresponding Data",
+        "Different (Database) Data Models",
+        "Database Design"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 1 [PP. 1-18]"
+      ],
+      "assignments": [
+        "Module 1 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Overview of Database Design Process",
+        "Data Modeling",
+        "Entity-Relationship (E-R) Model"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 6 [PP. 201-220]"
+      ],
+      "assignments": [
+        "Module 2 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "E-R Data Model for a Banking Enterprise"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 6 [PP. 236-240]"
+      ],
+      "assignments": [
+        "Module 3 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Overview of Relational Databases",
+        "Structure of Relational Databases",
+        "Language of Relational Model (terms)",
+        "Introduction to Basic Relational Operators (SELECT, PROJECT, UNION, SET DIFFERENCE, CARTESIAN PRODUCT, RENAME)"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 2 [PP. 37-54]"
+      ],
+      "assignments": [
+        "Module 4 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Overview of Relational Model - Algebra Operations",
+        "Introduction to Additional Relational Operators (SET INTERSECTION, NATURAL JOIN, DIVISION, ASSIGNMENT, AGGREGATE, OUTER JOIN, DELETE, INSERT, UPDATE)"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 2 [PP. 55-69]"
+      ],
+      "assignments": [
+        "Module 5 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Overview of SQL",
+        "Introduction to Relational Database Model",
+        "Basic Query Structure (SELECT FROM WHERE)",
+        "Introduction to SQL Operations (AS, STRING OPERATORS, ORDER BY, SET OPERATIONS)"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 2 [PP. 75-89]"
+      ],
+      "assignments": [
+        "Homework #1"
+      ],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Midterm Exam"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "SQL - Aggregate Functions, Nested Subqueries",
+        "Aggregate Functions",
+        "NULL values",
+        "Nested Subqueries"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 3 [PP. 89-97]"
+      ],
+      "assignments": [
+        "Module 8 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Overview of SQL - Derived Relations, WITH, Views, Modifications, Joins, Data Types and DDL",
+        "Derived Relations, WITH, Views",
+        "Introduction to SQL Operations (DELETE, INSERT, UPDATE, JOINs)",
+        "Data types in SQL, BLOB and CLOB",
+        "Integrity Constraints"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 3 & 4 [PP. 97-114; 121-132]"
+      ],
+      "assignments": [
+        "Module 9 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Relational DB Design",
+        "Features of Good Relations/Tables",
+        "First Normal Form"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 7 [PP. 263-270]"
+      ],
+      "assignments": [
+        "Module 10 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Overview of Relational DB Design - Functional Dependencies, BCNF & 3NF",
+        "Functional Dependencies & Closure of Functional Dependencies",
+        "Boyce-Codd Normal Form (BCNF) & Third Normal Form (3NF)"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 7 [PP. 270-278]"
+      ],
+      "assignments": [
+        "Homework #2",
+        "Module 11 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Overview of Relational DB Design - Normalization",
+        "Functional-Dependency Theory",
+        "Closure of Functional Dependencies",
+        "Closure of Attribute Sets (CAS)",
+        "Lossless-Join Decomposition",
+        "Dependency Preservation",
+        "BCNF vs. 3NF"
+      ],
+      "readings": [
+        "Database System Concepts (5th Edition). Ch. 7 [PP. 278-282; 285-293]"
+      ],
+      "assignments": [
+        "Module 13 Knowledge Check"
+      ],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Final Exam"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "25%",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": "No late assignments will be accepted. Both midterm and final exams must be taken on the assigned dates."
+  },
+  "assignments": [
+    {
+      "name": "Homework #1",
+      "description": "SQL programming assignment due in Module 6."
+    },
+    {
+      "name": "Homework #2",
+      "description": "SQL programming assignment due in Module 11."
+    }
+  ],
+  "policies": {
+    "attendance": "Class participation is strongly encouraged, especially in synchronous sessions.",
+    "late_work": "No late assignments will be accepted.",
+    "academic_integrity": "Students are bound by the Honor System.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Hybrid",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:53:20.217376",
+    "pdf_source": "../StevensCourses\\CS 561 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 21471,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Database Management Systems I",
+      "code": "CS 561",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Samuel Kim",
+        "email": "skim2@stevens.edu",
+        "office_hours": "By appointment",
+        "contact_info": "908-392-1391"
+      }
+    },
+    "course_description": "In this course, students will become acquainted with the fundamental concepts of database management systems during class.",
+    "learning_outcomes": [
+      "Summarize the purpose of database systems",
+      "Represent and manipulate objects in database systems",
+      "Compare and contrast different types of data models and the associated languages, including E-R model, relational model and relational database model",
+      "Apply the basic design process and the purpose of E-R model",
+      "Apply the relational model and its language, relational algebra",
+      "Apply the relational database model and its language, SQL",
+      "Build databases using design process and normalization"
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [
+      "CS590 (Introduction to Data Structures and Algorithms) or the equivalent"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

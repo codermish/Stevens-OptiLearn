@@ -1,0 +1,181 @@
+{
+  "textbooks": [
+    {
+      "title": "Applied Space Systems Engineering",
+      "author": "Larson, et al.",
+      "edition": "",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction and Course Overview"],
+      "readings": ["Syllabus"],
+      "assignments": ["Student Introduction"],
+      "due_dates": ["5/21"]
+    },
+    "week2": {
+      "topics": ["What to Build"],
+      "readings": ["Textbook Ch. 1"],
+      "assignments": [],
+      "due_dates": ["5/28"]
+    },
+    "week3": {
+      "topics": ["What to Build"],
+      "readings": ["Textbook Ch. 1"],
+      "assignments": [],
+      "due_dates": ["6/4"]
+    },
+    "week4": {
+      "topics": ["Why Build it this way"],
+      "readings": ["Textbook Ch. 2"],
+      "assignments": ["Individual Projects Identified"],
+      "due_dates": ["6/11"]
+    },
+    "week5": {
+      "topics": ["Why Build it this way"],
+      "readings": ["Textbook Ch. 2"],
+      "assignments": [],
+      "due_dates": ["6/18"]
+    },
+    "week6": {
+      "topics": ["Intro to GENSYS"],
+      "readings": ["Textbook Ch. 3"],
+      "assignments": [],
+      "due_dates": ["6/25"]
+    },
+    "week7": {
+      "topics": ["Overview of System Architecture"],
+      "readings": ["Textbook Ch. 4"],
+      "assignments": [],
+      "due_dates": ["7/2"]
+    },
+    "week8": {
+      "topics": ["Overview of System Architecture"],
+      "readings": ["Textbook Ch. 4"],
+      "assignments": ["Individual Projects Submitted"],
+      "due_dates": ["7/9"]
+    },
+    "week9": {
+      "topics": ["Strategic Perspective of Architecture"],
+      "readings": ["Textbook Ch. 5"],
+      "assignments": [],
+      "due_dates": ["7/16"]
+    },
+    "week10": {
+      "topics": ["Functional Decomposition"],
+      "readings": ["Textbook Ch. 6"],
+      "assignments": [],
+      "due_dates": ["7/23"]
+    },
+    "week11": {
+      "topics": ["Team’s Project Presentations in Class"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["7/30"]
+    },
+    "week12": {
+      "topics": ["Functional Decomposition"],
+      "readings": ["Textbook Ch. 6"],
+      "assignments": [],
+      "due_dates": ["8/6"]
+    },
+    "week13": {
+      "topics": ["Functional Flows & Analysis"],
+      "readings": ["Textbook Ch. 7"],
+      "assignments": [],
+      "due_dates": ["8/13"]
+    },
+    "week14": {
+      "topics": ["Physical Architecture"],
+      "readings": ["Textbook Ch. 8"],
+      "assignments": [],
+      "due_dates": ["8/20"]
+    },
+    "week15": {
+      "topics": [],
+      "readings": [],
+      "assignments": ["Team’s Project Papers submitted"],
+      "due_dates": ["8/27"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "20%",
+      "exams": "",
+      "projects": "30%",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "All projects, presentations, or reports are considered late if received after 2400 (12 Midnight East Coast Time) of the day it is due. If late, the professor maintains the right to delete the effort and record a zero (0) for the assignment."
+  },
+  "assignments": [
+    {
+      "description": "Student Introduction",
+      "due_date": "5/21"
+    },
+    {
+      "description": "Individual Projects Identified",
+      "due_date": "6/11"
+    },
+    {
+      "description": "Individual Projects Submitted",
+      "due_date": "7/9"
+    },
+    {
+      "description": "Team’s Project Presentations in Class",
+      "due_date": "7/30"
+    },
+    {
+      "description": "Team’s Project Papers submitted",
+      "due_date": "8/27"
+    }
+  ],
+  "policies": {
+    "attendance": "Class attendance is required to obtain the information necessary to complete the individual and team assignments.",
+    "late_work": "All projects, presentations, or reports are considered late if received after 2400 (12 Midnight East Coast Time) of the day it is due. If late, the professor maintains the right to delete the effort and record a zero (0) for the assignment.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully on-line.",
+    "technology_requirements": "Basic computer and web-browsing skills, Live web conferencing using Zoom, Recording a slide presentation with audio narration.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:22:10.627396",
+    "pdf_source": "../StevensCourses\\SYS 650 Course Stevens Format.pdf",
+    "source_type": "file",
+    "text_length": 16550,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Systems Architecture & Design",
+      "code": "SYS 650",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2023/2024",
+      "instructor": {
+        "name": "Dr. Don Schlomer",
+        "email": "DSchlome@stevens.edu",
+        "office_hours": "Monday’s 1600 - 1700 (4 - 5PM)",
+        "contact_info": "407-731-5009"
+      }
+    },
+    "course_description": "System Architecture and Design describes the fundamentals of system architectures and the architecting process, including practical heuristics for developing good architectures.",
+    "learning_outcomes": [
+      "Understand the link between the functional and physical system architectures and the iterative nature of architecture development.",
+      "Apply a process for flowing down or allocating system level requirements to components level requirements through equivalence, apportionment, synthesis and other methods.",
+      "Apply the experience gained through the use of a systems engineering based tool that supports systems engineering requirements, architecture and modeling processes.",
+      "Develop an architecture applying the methods learned in the course.",
+      "Understand the strategic role of architecting, and the value of functional modeling."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": ["Fundamentals of Systems Engineering (SYS 625)"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

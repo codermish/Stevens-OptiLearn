@@ -1,0 +1,171 @@
+{
+  "textbooks": [
+    {
+      "title": "Dive into Python",
+      "author": "",
+      "edition": "",
+      "ISBN": "",
+      "link": "http://diveintopython3.problemsolving.io/"
+    },
+    {
+      "title": "Python for Data Analysis",
+      "author": "Wes McKinney",
+      "edition": "2012",
+      "ISBN": "",
+      "link": "https://www.oreilly.com/library/view/python-for-data/9781449323592/"
+    },
+    {
+      "title": "Python for Everyone",
+      "author": "",
+      "edition": "",
+      "ISBN": "",
+      "link": "https://www.py4e.com/"
+    },
+    {
+      "title": "Python 3 Object Oriented Programming",
+      "author": "Dusty Phillips",
+      "edition": "2010",
+      "ISBN": "",
+      "link": ""
+    },
+    {
+      "title": "Python for Finance - Analyze Big Financial Data",
+      "author": "Yves Hilpisch",
+      "edition": "2014",
+      "ISBN": "",
+      "link": "https://www.oreilly.com/library/view/python-for-finance/9781491945320/"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Installing Python and IPython Notebook"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Basic Python Syntax and Data Type"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Dictionary, Loop, and Function"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Generator, Local/Global variables, Lambda function"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["String, Create Module, and Exception Handling"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Introduction to Class"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Final Project and Midterm QA"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Numpy Basics"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Getting Started with Pandas"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Pandas II"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Pandas III"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Time Data Handling and Data Visualization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Implementation to Machine Learning"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "50%",
+      "exams": "20%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: [90, 100), A-: [85, 90), B+: [80, 85), B: [75, 80), B-: [70, 75), F: [0, 70)",
+    "policies": "Homework should be finished by yourself, cheating is zero-tolerate misconduct in Stevens. Late submissions are accepted with penalties."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late submissions are accepted but with penalties: 20% off if submitted within 24 hrs, 40% off if submitted between 24 hrs – 48 hrs, 60% off if submitted between 48 hrs – 72 hrs, 80% off if submitted between 72 hrs – 96 hrs. 0 after 96 hrs.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is offered both online (WS) and offline (A & B).",
+    "technology_requirements": "Current Mac (OS X) or PC (Windows 7+) with high-speed internet connection, webcam, microphone, and recommended software including Anaconda 3.",
+    "support_resources": "For more information about course access or support, please contact the instructors or contact the TRAC."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:41:08.994238",
+    "pdf_source": "../StevensCourses\\Course Syllabus_ 2024A FE 520-WS.pdf",
+    "source_type": "file",
+    "text_length": 18650,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Financial Lab: Introduction to Python for Financial Applications",
+      "code": "FE 520",
+      "credits": "",
+      "semester": "SUMMER",
+      "year": "2024",
+      "instructor": {
+        "name": "Zhi Chen",
+        "email": "zchen100@stevens.edu",
+        "office_hours": "TBD",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is designed for those students have no experience or limited experience on Python. This course will cover the basic syntax rules, modules, importing packages (numpy, pandas), data visualization, and Intro for machine learning on Python.",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

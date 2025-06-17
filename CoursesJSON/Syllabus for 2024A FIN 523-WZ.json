@@ -1,0 +1,93 @@
+{
+  "textbooks": [
+    {
+      "title": "Principles of Corporate Finance",
+      "author": "Richard Brealey, Stewart Myers, Franklin Allen, Alex Edmans",
+      "edition": "14th Edition",
+      "ISBN10": "1264080948",
+      "ISBN13": "9781264080946",
+      "publisher": "McGraw Hill",
+      "year": "2023"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "Up to 3 Professor discretion points",
+      "assignments": "30%",
+      "exams": "50%",
+      "projects": "",
+      "quizzes": "20%",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "Regular attendance is essential; excessive absences will result in a failing grade."
+  },
+  "assignments": [
+    {
+      "description": "ManageMentor Assessments, Problem Sets and Case Write-ups"
+    }
+  ],
+  "policies": {
+    "attendance": "Regular Zoom attendance is assumed; excessive absences will result in a failing grade.",
+    "late_work": "Late submissions will lose points at a rate of 1% per hour.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Live classes on Tuesdays 6:00PM-8:30PM EDT with asynchronous videos and exams.",
+    "technology_requirements": "ManageMentor Module, Microsoft Office 365, and a compatible web browser.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) for mental health support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:01:07.267451",
+    "pdf_source": "../StevensCourses/Syllabus for 2024A FIN 523-WZ.pdf",
+    "source_type": "file",
+    "text_length": 10742,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Financial Management",
+      "code": "FIN 523 WZ",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Prof Kal Vadasz, Prof Igor Gavrilov",
+        "email": "Use Canvas Email",
+        "office_hours": "By request",
+        "contact_info": "Use Canvas Email"
+      }
+    },
+    "course_description": "The purpose of this course is to introduce techniques of financial analysis, with emphasis on topics in the corporate finance area.",
+    "learning_outcomes": [
+      "Understand the role of Managerial Finance in the business enterprise",
+      "Apply the concept of time value of money to evaluate equity and fixed income securities.",
+      "Understand the legal and market fundamentals of stocks and bonds.",
+      "Understand the difference between debt and equity capital, common and preferred stock, and approaches to common stock valuation.",
+      "Develop plans to frame long-term investment decisions that include applying free cash flow analysis, capital budgeting techniques, decision metrics (NPV, EVA, breakeven, IRR, etc.), and risk assessment.",
+      "Determine the cost of capital and understand its significance in making long-term investment decisions.",
+      "Calculate leverage and understand optimal firm capital structure theories.",
+      "Have a basic awareness of how derivatives can serve to reduce risk."
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

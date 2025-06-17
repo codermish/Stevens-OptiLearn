@@ -1,0 +1,193 @@
+{
+  "textbooks": [
+    {
+      "title": "Stochastic Calculus for Finance vol I",
+      "author": "Steven E. Shreve",
+      "edition": "2004",
+      "ISBN": "978-0387249681"
+    },
+    {
+      "title": "Stochastic Calculus for Finance vol II",
+      "author": "Steven E. Shreve",
+      "edition": "2004",
+      "ISBN": "978-0387401010"
+    },
+    {
+      "title": "Introduction to Probability Models",
+      "author": "Sheldon M. Ross",
+      "edition": "10th",
+      "ISBN": "978-0123756862"
+    },
+    {
+      "title": "Probability and Random Processes",
+      "author": "Geoffrey Grimmett and David Stirzaker",
+      "edition": "2001",
+      "ISBN": ""
+    },
+    {
+      "title": "Stochastic Differential Equation",
+      "author": "Bernt Oksendal",
+      "edition": "6th",
+      "ISBN": "978-3540047582"
+    },
+    {
+      "title": "Introduction to the Mathematics of Financial Derivatives",
+      "author": "Salih N Neftci",
+      "edition": "2nd",
+      "ISBN": "0125153929"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["One Period BAPM"],
+      "readings": ["Ch. 1 in vol. I"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Multiperiod Model and FPS"],
+      "readings": ["Ch. 1 and 2 in vol. I"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Expectation in BAPM"],
+      "readings": ["Ch. 2 in vol. I"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Martingales and Markov"],
+      "readings": ["Ch. 2 in vol. I"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Stopping Times and Random Walks"],
+      "readings": ["Ch. 4 & 5 in vol. I"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["SSRW and BM"],
+      "readings": ["Ch. 3 in vol. II"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Quadratic Variation and MP"],
+      "readings": ["Ch. 3 in vol. II"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Reflection Prop. and Cont. Passage Times"],
+      "readings": ["Ch. 3 in vol. II"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Stochastic Calculus Integrands"],
+      "readings": ["Ch. 4 in vol. II"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Ito’s Formula"],
+      "readings": ["Ch. 4 in vol. II"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Black-Scholes and Levy"],
+      "readings": ["Ch. 4 in vol. II"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Change of Measure"],
+      "readings": ["Ch. 5 in vol. II"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "20%",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "15%",
+      "final": "35%"
+    },
+    "scale": "",
+    "policies": "Instructor reserves the right to modify the weighting to 'curve' the grades."
+  },
+  "assignments": [
+    {
+      "description": "Around 5 homework assignments throughout the semester."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is mandatory. The class will be interactive.",
+    "late_work": "",
+    "academic_integrity": "Students must uphold the Stevens Honor System.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "Week 8"
+    },
+    {
+      "event": "Final Exam",
+      "date": "TBD"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Hybrid including lectures and Socratic method discussions.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:09:31.862040",
+    "pdf_source": "../StevensCourses/Syllabus-FE543-Fall24.pdf",
+    "source_type": "file",
+    "text_length": 9253,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Stochastic calculus for Finance",
+      "code": "FE543",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Prof Pape Ndiaye",
+        "email": "pndiaye@stevens.edu",
+        "office_hours": "TBD, by appointment",
+        "contact_info": "(201) 216-8047"
+      }
+    },
+    "course_description": "This course is designed for advanced undergraduate students and masters students in Financial Engineering. The goal is to learn the stochastic calculus foundation on which Quantitative Finance is built upon.",
+    "learning_outcomes": [
+      "Understand the concept of Non-arbitrage and its link to Risk-neutral Pricing",
+      "Understand the basic concepts of Binomial Asset Pricing Model and its use for Risk-neutral pricing of derivatives",
+      "Understand the concepts of Martingales and Markov processes",
+      "Understand the basic properties of Random Walks, Brownian Motion, Stochastic Integral",
+      "Develop continuous time models and value basic asset classes such as European options using Black and Scholes"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "Background in Calculus and Probability"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "textbooks": [
+    {
+      "title": "Introduction to Autonomous Mobile Robots",
+      "authors": ["R. Siegwart", "I. Nourbakhsh", "D. Scaramuzza"],
+      "edition": "Second Edition",
+      "ISBN": "0-262-01535-8"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation Week: Course Requirement"],
+      "readings": ["Syllabus"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to Autonomous Mobile Robotic Systems"],
+      "readings": ["Textbook Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Locomotion: Legged Robots"],
+      "readings": ["Textbook Chapter 2: 2.1, 2.2"],
+      "assignments": ["Multimedia Watching"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Locomotion: Wheeled Robots"],
+      "readings": ["Textbook Chapter 2: 2.3, 2.4"],
+      "assignments": ["Quiz #1"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Mobile Robot Kinematics"],
+      "readings": ["Textbook Chapter 3"],
+      "assignments": ["HW#1"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Lab 1: Matlab Simulation for Kinematic Position Control"],
+      "readings": ["Lab 1 Instruction"],
+      "assignments": ["Lab 1 Report"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Sensors for Mobile Robots"],
+      "readings": ["Textbook Chapter 4: 4.1"],
+      "assignments": ["HW#2"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Vision"],
+      "readings": ["Textbook Chapter 4: 4.2-4.8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Oct. 23 (Wed.)"]
+    },
+    "week10": {
+      "topics": ["Mobile Robot Localization 1"],
+      "readings": ["Textbook Chapter 5: 5.1-5.4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Mobile Robot Localization 2"],
+      "readings": ["Textbook Chapter 5: 5.5-5.7"],
+      "assignments": ["Quiz #2"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Simultaneous Localization and Mapping (SLAM)"],
+      "readings": ["Textbook Chapter 5: 5.8"],
+      "assignments": ["Quiz #3"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Lab 2: Robotics Simulation, ROS; Final Project Assignment"],
+      "readings": ["Lab 2 Instruction"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "20%",
+      "exams": "30%",
+      "projects": "25%",
+      "quizzes": "15%",
+      "final": "10%"
+    },
+    "scale": "",
+    "policies": "Late assignment will not be accepted."
+  },
+  "assignments": [
+    {
+      "name": "HW#1",
+      "description": "Homework related to Mobile Robot Kinematics."
+    },
+    {
+      "name": "Lab 1 Report",
+      "description": "Report for Lab 1: Matlab Simulation for Kinematic Position Control."
+    },
+    {
+      "name": "HW#2",
+      "description": "Homework related to Sensors for Mobile Robots."
+    },
+    {
+      "name": "Quiz #1",
+      "description": "Quiz covering Locomotion: Wheeled Robots."
+    },
+    {
+      "name": "Quiz #2",
+      "description": "Quiz covering Mobile Robot Localization 2."
+    },
+    {
+      "name": "Quiz #3",
+      "description": "Quiz covering Simultaneous Localization and Mapping (SLAM)."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late assignment will not be accepted.",
+    "academic_integrity": "Graduate students in 500-level courses are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm Exam on Oct. 23 (Wed.)",
+    "Thanksgiving Recess, No Class from 11/27 to 12/3"
+  ],
+  "additional_info": {
+    "course_format": "This course is an asynchronous online course.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "For more information about course access or support, contact Stevens IT."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:44:44.919588",
+    "pdf_source": "../StevensCourses\\CPE521-WS-Fall2024.pdf",
+    "source_type": "file",
+    "text_length": 17051,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Autonomous Mobile Robotic Systems",
+      "code": "CPE 521-WS",
+      "credits": "3",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Yi Guo",
+        "email": "Please use Canvas email.",
+        "office_hours": "Tuesday 2:00pm-3:00pm, and by appointment",
+        "contact_info": "(201) 216 5658"
+      }
+    },
+    "course_description": "This course will offer the students an overview of the technology of autonomous mobile robotic systems and the mechanisms that allow a mobile robot to move through a real-world environment to perform its tasks.",
+    "learning_outcomes": [
+      "Student will be able to express the kinematic model of a differential drive mobile robot.",
+      "Student will be able to express the relationship between the global reference frame of the plane and the local reference frame of the robot.",
+      "Student will be able to identify common sensors on robots and describe the functionality.",
+      "Student will be able to understand robot localization methods and apply them in indoor environments."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "Working knowledge of calculus",
+      "Discrete math",
+      "Matrix algebra",
+      "Probability",
+      "Ability to program in Matlab, C++, or Python"
+    ],
+    "prerequisites_count": 5,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "textbooks": [
+    {
+      "title": "Software Requirements",
+      "author": "Karl Wiegers and Joy Beatty",
+      "edition": "Third Edition",
+      "ISBN": "Not provided"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "up to 10% of Homework (50%)",
+      "assignments": "50%",
+      "exams": "20%",
+      "projects": "30%",
+      "quizzes": "20%",
+      "final": "30%"
+    },
+    "scale": "A >= 93, A- >= 90, B+ >= 87, B >= 83, B- >= 80, C+ >= 77, C >= 73, C- >= 70, F < 70",
+    "policies": "Late assignments are not accepted unless true and documented emergency is explained."
+  },
+  "assignments": [
+    {
+      "description": "Weekly homework assignments that must be completed by the due date."
+    },
+    {
+      "description": "Closed-book quizzes may be given in class and will be graded."
+    },
+    {
+      "description": "Open book quizzes will also be given occasionally via Canvas."
+    },
+    {
+      "description": "Major project consisting of a mix of individual and group assignments."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance will be taken and counted towards final grade.",
+    "late_work": "Late assignments are not accepted unless true and documented emergency is explained.",
+    "academic_integrity": "Graduate students are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Not provided"
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Not provided",
+    "technology_requirements": "Not provided",
+    "support_resources": "Not provided"
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:53:04.418197",
+    "pdf_source": "../StevensCourses\\SSW 564 A Fall 2022 Syllabus_ 2024F SSW 564-WS.pdf",
+    "source_type": "file",
+    "text_length": 7148,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Software Requirements Analysis and Engineering",
+      "code": "SSW 564 A",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2022",
+      "instructor": {
+        "name": "Prof. Sanjay Macwan",
+        "email": "bitsbytesapps@gmail.com",
+        "office_hours": "By appointment",
+        "contact_info": "+1 908 672 3077"
+      }
+    },
+    "course_description": "Requirements engineering is one of the least understood and hardest phases in the development of software products.",
+    "learning_outcomes": [
+      "Understand appropriate methods to elicit requirements from stakeholders",
+      "Know how to distinguish and describe functional and non-functional requirements in formal and non-formal notations",
+      "Understand how software requirements fit into the software lifecycle and influences other sub-processes.",
+      "Learn how to distinguish good requirements from bad requirements",
+      "Learn how to write and evaluate unambiguous requirements."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "Some familiarity with software development is expected for this course."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

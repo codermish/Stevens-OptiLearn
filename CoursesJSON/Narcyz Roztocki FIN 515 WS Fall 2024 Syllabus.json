@@ -1,0 +1,169 @@
+{
+  "textbooks": [
+    {
+      "title": "Financial and Managerial Accounting",
+      "author": "Jerry J. Weygandt, Paul D. Kimmel, Jill E. Mitchell",
+      "edition": "4th Edition"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Accounting in Action: Basic of Financial Accounting"],
+      "readings": ["CH 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Accounting Cycle: Recording and Adjusting Process"],
+      "readings": ["CH 2, 3, 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Accounting Cycle Continued: Financial Statements and Closing Process"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Accounting for Merchandising Operations"],
+      "readings": ["CH 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Financial Analysis: The Big Picture"],
+      "readings": ["CH 13"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Managerial Accounting"],
+      "readings": ["CH 14"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Job Order Costing"],
+      "readings": ["CH 15"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Cost - Volume - Profit Analysis"],
+      "readings": ["CH 18, 19"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Incremental analysis"],
+      "readings": ["CH 20"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Budgetary Planning and Control"],
+      "readings": ["CH 22, 23"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Time Value of Money and Discounted Cash Flows"],
+      "readings": ["Materials provided by the instructor"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Stock Evaluation"],
+      "readings": ["Optional Reference Reading: Bond Valuation"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "70%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": {
+      "A": "93-100",
+      "A-": "90-92",
+      "B+": "85-89",
+      "B": "80-84",
+      "B-": "75-79",
+      "C+": "70-74",
+      "C": "65-69",
+      "C-": "60-64",
+      "F": "0-59"
+    },
+    "policies": "No late submission is permitted for the assignments (Homework & Online Exams)."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late submission is permitted for the assignments (Homework & Online Exams).",
+    "academic_integrity": "All outside assistance must be acknowledged. Any student who violates this code shall be subject to discipline.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "10/17-10/23"
+    },
+    {
+      "event": "Final Exam",
+      "date": "12/12-12/13"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "To access the course, please visit stevens.edu/canvas.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:47:39.866729",
+    "pdf_source": "../StevensCourses\\Narcyz Roztocki FIN 515 WS Fall 2024 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 12391,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Financial Decision Making",
+      "code": "FIN 515 WS/WS1",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Narcyz Roztocki, Ph.D.",
+        "email": "Narcyz.Roztocki@stevens.edu",
+        "office_hours": "Thursday 4:00 pm – 5:00 pm by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "FIN 515 provides the requisite survey of financial accounting, managerial accounting, and corporate finance topics.",
+    "learning_outcomes": [
+      "Describe and contrast the information needs of external stakeholders and management.",
+      "Apply steps in the financial reporting process and prepare financial statements.",
+      "Gain an understanding of some commonly used financial statement metrics.",
+      "Characterize, calculate, and assign costs with particular emphasis on manufacturing overhead costs.",
+      "Prepare budgets using provided estimates and assumptions, compare actual results to budgeted expectations, and evaluate differences and performance.",
+      "Explain and apply the time value of money concepts.",
+      "Understand the valuation of stocks.",
+      "Evaluate capital investments."
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "textbooks": [
+    {
+      "title": "ISE Introduction to Operations Research",
+      "author": "Hillier, F., & Lieberman, G.",
+      "edition": "11th ed.",
+      "ISBN": "978-1259872990"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Modeling & Optimization", "Decision Variables", "Objective Function", "Constraints"],
+      "readings": ["Chapter 1 - 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Solving Linear Programming Problems", "the Simplex Method"],
+      "readings": ["Chapter 4 - 5"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Duality Theory", "Sensitivity Analysis", "Other LP Algorithms"],
+      "readings": ["Chapter 6 - 7"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Integer", "Binary", "Mixed Integer", "Nonlinear Programming"],
+      "readings": ["Chapter 12 - 13"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Transportation", "Transshipment", "Assignment", "Network"],
+      "readings": ["Chapter 9"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Multi-Goal Programming"],
+      "readings": ["PowerPoint slides"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Metaheuristics"],
+      "readings": ["Chapter 14"],
+      "assignments": ["Everything to date"],
+      "due_dates": ["Midterm Exam"]
+    },
+    "week8": {
+      "topics": ["Dynamic Programming"],
+      "readings": ["Chapter 11"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Game Theory"],
+      "readings": ["Chapter 15"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Decision Analysis"],
+      "readings": ["Chapter 16"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Markov Decision Processes"],
+      "readings": ["Chapter 19"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Queueing Theory"],
+      "readings": ["Chapter 17"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Forecasting"],
+      "readings": ["PowerPoint slides"],
+      "assignments": ["Class exercises"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "25%",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "Late submittals will be allowed only on a case-by-case basis unless on-time submissions are not possible due to utility outages, pandemic issues, or work/family emergencies (which must be documented to the professor)."
+  },
+  "assignments": [
+    {
+      "description": "Homework exercises will be assigned each week, which will involve formulating and solving a small but practically relevant homework problem."
+    },
+    {
+      "description": "Midterm Exam will assess the learning of material from Modules 1-7."
+    },
+    {
+      "description": "Final Exam will assess the learning of material from Modules 1-13, with particular emphasis on Modules 8-13."
+    },
+    {
+      "description": "Live sessions with activities are scheduled throughout the course."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late submittals will be allowed only on a case-by-case basis unless on-time submissions are not possible due to utility outages, pandemic issues, or work/family emergencies (which must be documented to the professor).",
+    "academic_integrity": "Students in graduate courses (600 level) are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "M7"
+    },
+    {
+      "event": "Final Exam",
+      "date": "M13"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, possible recording, editing, and uploading video via Kaltura.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:07:04.950141",
+    "pdf_source": "../StevensCourses\\EM 605 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 17323,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Elements of Operations Research",
+      "code": "EM 605",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "",
+        "email": "",
+        "office_hours": "By Appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course brings a strong modeling approach to the process of obtaining and utilizing resources to produce and deliver useful goods and services to not only meet the goals of an organization but to optimize the use of resources in meeting those goals.",
+    "learning_outcomes": [
+      "Develop appropriate operations research models based on theoretical standards.",
+      "Judge the suitability of models based on the assessment of performance and applicability.",
+      "Utilize appropriate software analysis tools for various analyses and situations.",
+      "Propose relevant solutions to various levels of managerial staff."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "Knowledge of probability and statistics"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

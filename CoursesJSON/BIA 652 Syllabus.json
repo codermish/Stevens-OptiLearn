@@ -1,0 +1,191 @@
+{
+  "textbooks": [
+    {
+      "title": "Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python",
+      "authors": "Peter Bruce, Andrew Bruce, Peter Gedeck",
+      "edition": "2nd Edition",
+      "ISBN": "149207294X"
+    },
+    {
+      "title": "An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)",
+      "authors": "Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",
+      "edition": "1st ed. 2013, Corr. 7th printing 2017 Edition",
+      "ISBN": "1461471370"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Review of Random Variables"],
+      "readings": ["Textbook (Bruce et al.), pp. 1-30, pp. 69-86"],
+      "assignments": ["Quiz"],
+      "due_dates": ["Sunday at 11:59 p.m."]
+    },
+    "week2": {
+      "topics": ["Exploratory Analysis of Multivariate Data Sets"],
+      "readings": ["Textbook (Bruce et al.), pp. 30-68"],
+      "assignments": ["Programming Assignment #1 assigned"],
+      "due_dates": ["Sunday at 11:59 p.m. (the end of Mod 3)"]
+    },
+    "week3": {
+      "topics": ["Joint Distributions"],
+      "readings": ["Readings provided in Canvas"],
+      "assignments": ["Quiz"],
+      "due_dates": ["Sunday at 11:59 p.m."]
+    },
+    "week4": {
+      "topics": ["Multiple Regression (Part 1)"],
+      "readings": ["Textbook, pp. 141-163"],
+      "assignments": ["Quiz"],
+      "due_dates": ["Sunday at 11:59 p.m."]
+    },
+    "week5": {
+      "topics": ["Multiple Regression (Part 2)"],
+      "readings": ["Textbook, pp. 164-194"],
+      "assignments": ["Programming Assignment #2 assigned"],
+      "due_dates": ["Sunday at 11:59 p.m. (the end of Mod 6)"]
+    },
+    "week6": {
+      "topics": ["Regularization and Prediction"],
+      "readings": ["Readings provided in Canvas"],
+      "assignments": ["Quiz"],
+      "due_dates": ["Sunday at 11:59 p.m."]
+    },
+    "week7": {
+      "topics": ["Classification"],
+      "readings": ["Textbook, pp. 195-219"],
+      "assignments": ["Quiz"],
+      "due_dates": ["Sunday at 11:59 p.m."]
+    },
+    "week8": {
+      "topics": ["Evaluating Classification Models"],
+      "readings": ["Textbook, pp. 221-236"],
+      "assignments": ["Programming Assignment #3 assigned"],
+      "due_dates": ["Sunday at 11:59 p.m. (the end of Mod 9)"]
+    },
+    "week9": {
+      "topics": ["Other Generalized Linear Models"],
+      "readings": ["Readings provided in Canvas"],
+      "assignments": ["Quiz"],
+      "due_dates": ["Sunday at 11:59 p.m."]
+    },
+    "week10": {
+      "topics": ["Dimension Reduction"],
+      "readings": ["Textbook, pp. 283-294"],
+      "assignments": ["(Group) Final Project Proposal"],
+      "due_dates": ["Sunday at 11:59 p.m."]
+    },
+    "week11": {
+      "topics": ["Clustering"],
+      "readings": ["Textbook, pp. 294-318"],
+      "assignments": ["Programming Assignment #4 assigned"],
+      "due_dates": ["Sunday at 11:59 p.m. (the end of Mod 12)"]
+    },
+    "week12": {
+      "topics": ["Text as Data"],
+      "readings": ["Readings provided in Canvas"],
+      "assignments": ["Quiz"],
+      "due_dates": ["Sunday at 11:59 p.m."]
+    },
+    "week13": {
+      "topics": ["Project Presentation"],
+      "readings": ["Readings provided in Canvas"],
+      "assignments": ["(Group) Final Project"],
+      "due_dates": ["Sunday at 11:59 p.m. of the Semester End/last day to submit assignments"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "50%",
+      "exams": "",
+      "projects": "30%",
+      "quizzes": "20%",
+      "final": "20%"
+    },
+    "scale": "",
+    "policies": "Assignments submitted late will not be accepted."
+  },
+  "assignments": [
+    {
+      "name": "Weekly Reading Quiz",
+      "description": "Covers concepts introduced in the module.",
+      "due_date": "Every Module"
+    },
+    {
+      "name": "Programming Assignment 1: Dataframe Basics",
+      "description": "",
+      "due_date": "Module 3"
+    },
+    {
+      "name": "Programming Assignment 2: Regression",
+      "description": "",
+      "due_date": "Module 6"
+    },
+    {
+      "name": "Programming Assignment 3: Classification",
+      "description": "",
+      "due_date": "Module 9"
+    },
+    {
+      "name": "Programming Assignment 4: Dimension Reduction",
+      "description": "",
+      "due_date": "Module 12"
+    },
+    {
+      "name": "Final Project Proposal",
+      "description": "",
+      "due_date": "Module 10"
+    },
+    {
+      "name": "Final Project Report",
+      "description": "",
+      "due_date": "End of Semester"
+    }
+  ],
+  "policies": {
+    "attendance": "Regular attendance and participation are expected.",
+    "late_work": "Assignments submitted late will not be accepted.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities may receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, live web conferencing using Zoom, basic programming skills.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:30:25.321727",
+    "pdf_source": "../StevensCourses\\BIA 652 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 13696,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Multivariate Data Analytics",
+      "code": "BIA 652",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Dr. Feng Mai",
+        "email": "fmai@stevens.edu",
+        "office_hours": "By appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course focuses on understanding the basic methods underlying multivariate analysis through computer applications using R.",
+    "learning_outcomes": [
+      "Understand the probabilistic perspective of multivariate data analytics to interpret the uncertainty in inference.",
+      "Apply the essential techniques for analyzing multivariate data.",
+      "Use the programming language R to analyze multivariate data."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [
+      "Calculus (e.g., derivative and integration)",
+      "Linear Algebra (e.g., vector and matrix operation)"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "textbooks": [
+    {
+      "title": "Blink",
+      "author": "Malcolm Gladwell",
+      "edition": "2005 (reprinted 2007)",
+      "ISBN": "978-0316010665"
+    },
+    {
+      "title": "Making Hard Decisions",
+      "author": "Clemen and Reilly",
+      "edition": "3rd Edition (2014)",
+      "ISBN": "978-0538797573"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overall course content and requirements"],
+      "readings": ["Read the syllabus", "Become familiar with Canvas Shell and Zoom"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to course"],
+      "readings": ["Ch 1-2 Clemen"],
+      "assignments": ["Homework 1"],
+      "due_dates": ["Jan 29"]
+    },
+    "week3": {
+      "topics": ["Review of probability", "Statistics Refresher", "Monte Carlo Simulation", "Decision Trees"],
+      "readings": ["Ch 7 Clemen", "Ch 11 Clemen", "Ch 3 Clemen"],
+      "assignments": ["Homework 2", "Homework 3"],
+      "due_dates": ["Feb 5", "Feb 5"]
+    },
+    "week4": {
+      "topics": ["Bayes Law", "Classification of mistakes", "Framing a decision"],
+      "readings": ["Ch 7 Clemen", "Ch 1 & 3 Clemen"],
+      "assignments": ["Homework 4"],
+      "due_dates": ["Feb 12"]
+    },
+    "week5": {
+      "topics": ["Identifying Alternatives"],
+      "readings": ["Ch 4 Clemen up to risk profiles"],
+      "assignments": ["Homework 5", "Homework 6"],
+      "due_dates": ["Feb 19", "Feb 19"]
+    },
+    "week6": {
+      "topics": ["Utility Theory", "Criteria", "Multi-attribute evaluation", "AHP", "Pair-wise comparison weighting"],
+      "readings": ["Ch 14 Clemen"],
+      "assignments": ["Homework 7"],
+      "due_dates": ["Feb 26"]
+    },
+    "week7": {
+      "topics": ["Pair-wise with eigenvectors", "Cognitive Biases", "Risk and Opportunity Intro"],
+      "readings": ["DOD Risk Mgmt Guide"],
+      "assignments": ["Homework 8", "Outline Assignment"],
+      "due_dates": ["Mar 4", "Mar 4"]
+    },
+    "week8": {
+      "topics": ["Risk Planning", "Risk Identification"],
+      "readings": ["Blink Book Report"],
+      "assignments": ["Homework 9"],
+      "due_dates": ["Mar 18"]
+    },
+    "week9": {
+      "topics": ["Analyzing Risks"],
+      "readings": [],
+      "assignments": ["Homework 10"],
+      "due_dates": ["Mar 25"]
+    },
+    "week10": {
+      "topics": ["Risk Handling"],
+      "readings": [],
+      "assignments": ["Homework 11", "Homework 12"],
+      "due_dates": ["Apr 1", "Apr 1"]
+    },
+    "week11": {
+      "topics": ["Risk Monitoring", "Pugh Process"],
+      "readings": [],
+      "assignments": ["Term Paper"],
+      "due_dates": ["Apr 8"]
+    },
+    "week12": {
+      "topics": ["Choosing alternatives", "Engineering Trade Studies", "Decision Dominance", "Even Swap"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Sensitivity Analysis", "Implementing the decision"],
+      "readings": ["Ch 5 Clemen"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Game Theory"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Virtual Office Hour"],
+      "readings": [],
+      "assignments": ["Course Project"],
+      "due_dates": ["May 1"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "13%",
+      "exams": "",
+      "projects": "47%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "All assignments need to be turned in by the assigned due dates if the student wishes to earn the full credit for the submission."
+  },
+  "assignments": [
+    {
+      "name": "Weekly Homework",
+      "description": "Weekly homework (12 assignments) due the day before the next week's online session."
+    },
+    {
+      "name": "Outline Assignment",
+      "description": "See Appendix for details."
+    },
+    {
+      "name": "Blink Book Report",
+      "description": "Read the book and submit a short paper (approximately 5-6 pages)."
+    },
+    {
+      "name": "Term Paper",
+      "description": "Examines a real life decision that has been made in the past."
+    },
+    {
+      "name": "Course Project",
+      "description": "An engineering trade study that incorporates the majority of the concepts learned in the course."
+    }
+  ],
+  "policies": {
+    "attendance": "Not graded.",
+    "late_work": "Assignments turned in late will receive a reduced grade.",
+    "academic_integrity": "All Stevens’ graduate students promise to be fully truthful and avoid dishonesty.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Course starts: January 23, 2024",
+    "First Lecture: January 23, 2024",
+    "Homework 1 due: January 29, 2024",
+    "Homework 2 due: February 5, 2024",
+    "Homework 3 due: February 5, 2024",
+    "Homework 4 due: February 12, 2024",
+    "Homework 5 due: February 19, 2024",
+    "Homework 6 due: February 19, 2024",
+    "Homework 7 due: February 26, 2024",
+    "Homework 8 due: March 4, 2024",
+    "Outline Assignment due: March 4, 2024",
+    "Homework 9 due: March 18, 2024",
+    "Homework 10 due: March 25, 2024",
+    "Homework 11 due: April 1, 2024",
+    "Homework 12 due: April 1, 2024",
+    "Term Paper due: April 8, 2024",
+    "Course Project due: May 1, 2024"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:23:13.843977",
+    "pdf_source": "../StevensCourses\\SYS 660 Syllabus for Online Courses_SPRING 2024.pdf",
+    "source_type": "file",
+    "text_length": 32727,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Decision and Risk Analysis for Complex Systems",
+      "code": "SYS 660",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Earl Sprague",
+        "email": "esprague@stevens.edu",
+        "office_hours": "Virtual office hours via Zoom twice a week on Monday and Thursday.",
+        "contact_info": "303-912-1166"
+      }
+    },
+    "course_description": "The ability to structure and analyze an effective trade study under conditions of uncertainty and risk is a core systems engineering skill.",
+    "learning_outcomes": [
+      "Define a decision",
+      "Explain the basics of probability theory important to decision making",
+      "Recognize factors contributing to successful and unsuccessful decisions",
+      "Apply a simple model for decision making",
+      "Discern the difference between a well-framed problem and a poorly-framed one",
+      "Utilize at least two techniques for generating alternatives",
+      "Apply at least three techniques for deciding a course of action",
+      "Define risk and opportunity",
+      "Set up a risk/opportunity management plan",
+      "Define the difference between risk and issues",
+      "Structure and solve decision problems using an engineering trade study approach"
+    ],
+    "learning_outcomes_count": 11,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

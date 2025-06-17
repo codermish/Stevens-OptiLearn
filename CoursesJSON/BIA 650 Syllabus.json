@@ -1,0 +1,185 @@
+{
+  "textbooks": [
+    {
+      "title": "Practical Management Science",
+      "author": "Wayne L. Winston and S. Christian Albright",
+      "edition": "6th",
+      "year": "2018"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Optimization"],
+      "readings": ["Required textbook reading: Chapter 1"],
+      "assignments": ["Module 1 Quiz", "HW #1 Assigned"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Linear Optimization"],
+      "readings": ["Required textbook reading: Chapter 3"],
+      "assignments": ["Module 2 Quiz"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Linear Optimization Models: Examples and Excel Solver"],
+      "readings": ["Required textbook reading: Chapter 4"],
+      "assignments": ["Module 3 Quiz", "HW #1 due by the end of Module 3"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Network Optimization"],
+      "readings": ["Required textbook reading: Chapter 5"],
+      "assignments": ["Module 4 Quiz", "HW #2 Assigned"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Integer Optimization"],
+      "readings": ["Required textbook reading: Chapter 6"],
+      "assignments": ["Module 5 Quiz", "HW #2 due by the end of Module 5"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Nonlinear Optimization"],
+      "readings": ["Required textbook reading: Chapter 7"],
+      "assignments": ["Module 6 Quiz", "HW #3 Assigned"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Heuristic Algorithms"],
+      "readings": ["Required textbook reading: Chapter 8"],
+      "assignments": ["Module 7 Quiz", "HW #3 due by the end of Module 7"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Multi-Objective Optimization"],
+      "readings": ["Required textbook reading: Chapter 16"],
+      "assignments": ["Module 8 Quiz", "HW #4 Assigned"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Optimization Under Uncertainty"],
+      "readings": ["Required textbook reading: Chapter 9"],
+      "assignments": ["Module 9 Quiz", "HW #4 due by the end of Module 9"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Optimization Via Simulation"],
+      "readings": ["Required textbook reading: Chapters 10 & 11"],
+      "assignments": ["HW #5 Assigned and due by the end of Module 10"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Optimization in Data Analysis"],
+      "readings": ["Readings noted in Canvas."],
+      "assignments": ["Individual Proposal Assignment due by the end of Module 11"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Case Studies"],
+      "readings": ["Readings noted in Canvas."],
+      "assignments": ["Case Studies assignment due by the end of Module 12"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Student Final Project Presentations"],
+      "readings": ["No new readings this week."],
+      "assignments": ["Final Project Presentation due before the Module 13 Live Session", "Final Project Report due at the end of Module 13"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "25%",
+      "exams": "20%",
+      "projects": "15%",
+      "quizzes": "20%",
+      "final": "10%"
+    },
+    "scale": "",
+    "policies": "15% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "HW #1",
+      "description": "Assigned in Module 1, due by the end of Module 3."
+    },
+    {
+      "name": "HW #2",
+      "description": "Assigned in Module 4, due by the end of Module 5."
+    },
+    {
+      "name": "HW #3",
+      "description": "Assigned in Module 6, due by the end of Module 7."
+    },
+    {
+      "name": "HW #4",
+      "description": "Assigned in Module 8, due by the end of Module 9."
+    },
+    {
+      "name": "HW #5",
+      "description": "Assigned in Module 10, due by the end of Module 10."
+    },
+    {
+      "name": "Individual Proposal Assignment",
+      "description": "Due by the end of Module 11."
+    },
+    {
+      "name": "Case Studies assignment",
+      "description": "Due by the end of Module 12."
+    },
+    {
+      "name": "Final Project Presentation",
+      "description": "Due before the Module 13 Live Session."
+    },
+    {
+      "name": "Final Project Report",
+      "description": "Due at the end of Module 13."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "15% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using BlackBoard Collaborate, recording a slide presentation with audio narration.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:29:49.711302",
+    "pdf_source": "../StevensCourses\\BIA 650 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 17434,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Optimization and Process Analytics",
+      "code": "BIA 650",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Alkis Vazacopoulos",
+        "email": "avazacop@stevens.edu, alkiviadis@gmail.com",
+        "office_hours": "Monday 5:00 - 7:00 pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course covers basic concepts in optimization and heuristic search with an emphasis on process improvement and optimization.",
+    "learning_outcomes": [
+      "Develop and solve optimization models in a number of domains such as supply chain modeling, marketing, production, asset management, capital budgeting, and financial portfolio analysis.",
+      "Analyze optimization models arising in data analysis.",
+      "Develop simulation models and design simulation experiments.",
+      "Perform process mining on workflow logs.",
+      "Comprehend optimization models that arise in machine learning and deploy appropriate optimization methods."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

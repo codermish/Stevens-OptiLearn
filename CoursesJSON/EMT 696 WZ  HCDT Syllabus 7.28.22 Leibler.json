@@ -1,0 +1,193 @@
+{
+  "textbooks": [
+    {
+      "title": "The design thinking playbook: Mindful digital transformation of teams, products, services, businesses, and ecosystems",
+      "author": "Lewrick, M., Link, P., and Leifer, L.",
+      "edition": "2018",
+      "ISBN": "978-1119467470"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction", "Course Overview"],
+      "readings": [
+        "Design Thinking Playbook Reading: 1.2 Pages 36-49 Process Awareness",
+        "Design Thinking Playbook Reading: 2.2 Pages 144-157 Interdisciplinary Teams"
+      ],
+      "assignments": ["I-1 Basadur Profile"],
+      "due_dates": ["September 7th, 9pm"]
+    },
+    "week2": {
+      "topics": ["Problem Formation"],
+      "readings": [
+        "Playbook Reading: 2.3 Pages 158-167 How to Visualize Your Ideas",
+        "Playbook Reading: 1.3 Pages 50-57 How to Get a Good Problem Statement"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Empathy and Insight (1)"],
+      "readings": [
+        "Case Study: IDEO: Human-Centered Service Design (2016)",
+        "Playbook Reading: 1.4 Pages 58-71 How to Discover User Needs"
+      ],
+      "assignments": ["Project I- The Problem Statement"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Empathy and Insight (2)"],
+      "readings": [
+        "Inside the Google Empathy Lab",
+        "I-2 Thinking About Design"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Synthesize and Define (1)"],
+      "readings": [
+        "Playbook Reading: 1.1 Pages 26-35 Create a Persona",
+        "Playbook Reading: 1.5 Pages 72-79 How to Build Empathy with a User"
+      ],
+      "assignments": ["Project II- Revised Problem Statement + 3 Empathy Maps"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Synthesize and Define (2)"],
+      "readings": [
+        "1-3 Google Glass Case I-3 Prep for discussion",
+        "Playbook Reading: 1.6 Pages 80-89 How to Find the Right Focus (POV)"
+      ],
+      "assignments": ["Project III – POV + 3 Personas"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Ideation"],
+      "readings": [
+        "Playbook Reading: 1.7 Pages 90-97 How to Generate Ideas",
+        "Playbook Reading: 1.8 Pages 98-107 How to Structure and Select Ideas"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Prototyping"],
+      "readings": [
+        "Playbook Reading: 1.9 Pages 108-117 How to Create a Good Prototype",
+        "Playbook Reading: 1.10 pages 118-129 How to Test Efficiently"
+      ],
+      "assignments": ["Project IV - Solution + sketch(es)"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Prototyping and Testing (1)"],
+      "readings": ["Empathy on the Edge at IDEO"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Prototyping and Testing (2)"],
+      "readings": [
+        "Seeman, J. (2012). Hybrid Insights: Where the Quantitative Meets the Qualitative."
+      ],
+      "assignments": ["Project V – MVP"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Storytelling"],
+      "readings": [
+        "Playbook Reading: 2.4 Pages 168-179 How to Design a Good Story",
+        "Intro to Storyboarding"
+      ],
+      "assignments": ["Project VI – Higher Fidelity Prototype and turn in Project Summary"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Project Team Story and Lessons Learned"],
+      "readings": [],
+      "assignments": ["Project VII Presentation", "I-4 Individual Lessons Learned"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15 points",
+      "assignments": "40 points",
+      "exams": "",
+      "projects": "45 points",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "name": "I-1 Basadur Profile",
+      "description": "Self-awareness inventory to be uploaded to Canvas."
+    },
+    {
+      "name": "I-2 Thinking About Design",
+      "description": "Reflect on interactions with artifacts and derive design principles."
+    },
+    {
+      "name": "I-3 Google Glass Case Study",
+      "description": "Case analysis focused on problem statements and customer segments."
+    },
+    {
+      "name": "I-4 Individual Lessons Learned",
+      "description": "Presentation highlighting lessons learned throughout the course."
+    }
+  ],
+  "policies": {
+    "attendance": "Class Attendance and Participation is worth 15 points.",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Remote Version",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:14:00.356225",
+    "pdf_source": "../StevensCourses\\EMT 696 WZ  HCDT Syllabus 7.28.22 Leibler.pdf",
+    "source_type": "file",
+    "text_length": 24251,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Human Centered Design Thinking",
+      "code": "EMT 696",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2022",
+      "instructor": {
+        "name": "Renée Leibler",
+        "email": "rleibler@stevens.edu",
+        "office_hours": "",
+        "contact_info": "+1 914.319.3779"
+      }
+    },
+    "course_description": "This course is focused on the theory and methods for approaching a human design problem.",
+    "learning_outcomes": [
+      "Critically discuss potential design methodologies for a given problem.",
+      "Obtain information about users and activities through observation and systematic inquiry.",
+      "Employ various design methods (i.e. ideation techniques, storyboarding, sketching, etc.) to identify a solution.",
+      "Gather user data through prototyping of your proposed solution."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

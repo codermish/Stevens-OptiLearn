@@ -1,0 +1,166 @@
+{
+  "textbooks": [
+    {
+      "title": "Business Analytics",
+      "author": "James R. Evans",
+      "edition": "3rd Edition recommended, 2nd Edition OK"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Business Analytics & Basic Excel Skills"],
+      "readings": ["Evans Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Database Analytics"],
+      "readings": ["Evans Chapter 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Data Visualization"],
+      "readings": ["Evans Chapter 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Descriptive Statistics"],
+      "readings": ["Evans Chapter 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Probability Distributions and Data Modeling"],
+      "readings": ["Evans Chapter 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Sampling and Estimation"],
+      "readings": ["Evans Chapter 6"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Monday Class Schedule: No Class"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Statistical Inference I"],
+      "readings": ["Evans Chapter 7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Statistical Inference II"],
+      "readings": ["Evans Chapter 7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Regression Analysis"],
+      "readings": ["Evans Chapter 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Forecasting Techniques"],
+      "readings": ["Evans Chapter 9"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Introduction to Data Mining"],
+      "readings": ["Evans Chapter 10"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Simulation and Risk Analysis"],
+      "readings": ["Evans Chapter 12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Linear Optimization"],
+      "readings": ["Evans Chapter 13"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final Presentation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "60%",
+      "exams": "",
+      "projects": "35%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: >= 94%, A-: >= 90.0% < 94.0%, B+: >= 87.0% < 90.0%, B: >= 84.0% < 87.0%, B-: >= 80.0% < 84.0%, C+: >= 77.0% < 80.0%, C: >= 70.0% < 77.0%, F: < 70%",
+    "policies": "Graduate students need a grade of C or above to pass the course."
+  },
+  "assignments": [
+    {
+      "name": "Homework",
+      "description": "Exercises for methods/topics discussed each week. To be submitted online through Canvas. Name it Firstname_Lastname_Homework_X. Due before the next class begins. Late penalty: 20% per day. No homework will be accepted 3 days after the due date."
+    },
+    {
+      "name": "Final Project Report and Presentation",
+      "description": "Students work in groups of 4 to identify a real-world business problem, collect and analyze data, and propose a solution. Includes an oral in-class presentation for 10-15 minutes (10%) and an 8-10 page written report in word format (25%)."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance and participation in in-class exercises and discussions. Attendance without participation in class will only receive a passing grade (3%).",
+    "late_work": "Late penalty: 20% per day. No homework will be accepted 3 days after the due date.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "In-person class on Tuesdays from 6:30-9:00PM EST.",
+    "technology_requirements": "Please bring your laptop to class and install Excel, Tableau and RapidMiner on your laptop.",
+    "support_resources": "Microsoft Office for Stevens Students: https://sit.teamdynamix.com/TDClient/1865/Portal/KB/ArticleDet?ID=28586; Tableau student license: https://www.tableau.com/academic/students; RapidMiner student license: https://rapidminer.com/educational-program/"
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:35:33.344930",
+    "pdf_source": "../StevensCourses\\BIA500 600_Syllabus_2024Fall.pdf",
+    "source_type": "file",
+    "text_length": 8087,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Business Analytics: Data, Models, and Decisions",
+      "code": "BIA 500 WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Bei Yan",
+        "email": "bei.yan@stevens.edu",
+        "office_hours": "Tuesday 11:00am – 12:00 pm, Wednesday 7:30 pm – 8:30 pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course introduces fundamental concepts, techniques, and tools of data analysis for business management and decision-making.",
+    "learning_outcomes": [
+      "Understand concepts and roles of data analysis in business applications",
+      "Acquire techniques for describing, analyzing and interpreting data for business decision making",
+      "Learn how to apply software for data analysis, including Excel, Tableau and RapidMiner"
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

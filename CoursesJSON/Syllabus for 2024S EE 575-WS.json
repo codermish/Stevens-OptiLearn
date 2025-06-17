@@ -1,0 +1,171 @@
+{
+  "textbooks": [
+    {
+      "title": "Feedback Control of Dynamic Systems",
+      "authors": "G. F. Franklin, J. D. Powell and A. Emami-Naeini",
+      "edition": "Eighth Edition",
+      "year": "2019",
+      "ISBN_13": "978-0-13-468571-7",
+      "ISBN_10": "0-13-468571-7"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Feedback Control & Dynamic Models"],
+      "readings": ["Chapters 1 & 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Dynamic Response"],
+      "readings": ["Chapters 3.3 to 3.6"],
+      "assignments": ["Homework 1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["A First Analysis of Feedback"],
+      "readings": ["Chapters 4.1 to 4.3"],
+      "assignments": ["Homework 2"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Root Locus"],
+      "readings": ["Chapters 5.1 to 5.3"],
+      "assignments": ["Homework 3"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Frequency Response"],
+      "readings": ["Chapters 6.1, 6.4, 6.6"],
+      "assignments": ["Homework 4"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["State Space Design"],
+      "readings": ["Chapters 7.1 to 7.3"],
+      "assignments": ["Homework 5"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["State Equations & Full-State feedback"],
+      "readings": ["Chapters 7.4 to 7.5"],
+      "assignments": ["Homework 6"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Estimator Design"],
+      "readings": ["Chapter 7.7"],
+      "assignments": ["Homework 7"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Compensation"],
+      "readings": ["Chapters 6.7.1-6.7.5"],
+      "assignments": ["Homework 8"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Estimator Design - More Examples"],
+      "readings": ["Chapters 7.9, 7.10.1"],
+      "assignments": ["Homework 9"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Non-linear Systems"],
+      "readings": ["Chapter 9.2"],
+      "assignments": ["Homework 10"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["The Lyapunov Function"],
+      "readings": ["Chapter 9.30"],
+      "assignments": ["Homework 11"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Control System Design & Frequency-Based Design"],
+      "readings": ["Chapter 10.1"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "20%",
+      "exams": "80%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": "Late homework will get 50% of the points. Points for incomplete homework will be prorated accordingly."
+  },
+  "assignments": [
+    "Homework 1",
+    "Homework 2",
+    "Homework 3",
+    "Homework 4",
+    "Homework 5",
+    "Homework 6",
+    "Homework 7",
+    "Homework 8",
+    "Homework 9",
+    "Homework 10",
+    "Homework 11"
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late homework will get 50% of the points. Points for incomplete homework will be prorated accordingly.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "Fri Mar 8, 7-9 pm EST"
+    },
+    {
+      "event": "Spring Recess",
+      "date": "Mar 10"
+    },
+    {
+      "event": "Final Exam",
+      "date": "Fri May 3, 7-9 pm"
+    }
+  ],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "MATLAB needs to be used in some of the homework assignments.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:03:13.482645",
+    "pdf_source": "../StevensCourses/Syllabus for 2024S EE 575-WS.pdf",
+    "source_type": "file",
+    "text_length": 9943,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Control Theory",
+      "code": "EE 575",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Goran Djuknic, PhD",
+        "email": "gdjuknic@hotmail.com",
+        "office_hours": "Friday 7-9 pm (by appointment)",
+        "contact_info": "917-699-2464"
+      }
+    },
+    "course_description": "An introduction to the classic and modern control theories with emphasis on state space modeling and feedback control.",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": [
+      "EE 348 System Theory or equivalent"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

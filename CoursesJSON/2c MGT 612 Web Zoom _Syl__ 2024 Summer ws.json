@@ -1,0 +1,172 @@
+{
+  "textbooks": [
+    {
+      "title": "Developing Management Skills",
+      "author": "Whetten & Cameron",
+      "edition": "9th",
+      "ISBN": "013 5229847"
+    },
+    {
+      "title": "Project Leadership: From Theory to Practice",
+      "author": "Pinto, J.K., Thoms, P., Trailer, J., Palmer, T., Govekar, M.",
+      "edition": "1998",
+      "ISBN": "1-880410-10-9"
+    },
+    {
+      "title": "Leadership in Organizations",
+      "author": "Yukl, G.",
+      "edition": "8th",
+      "ISBN": "0-13-032312-8"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Overview and Introduction"],
+      "readings": ["Virtual Mentor (MSQ)", "SSS Software in-basket assigned"],
+      "assignments": [],
+      "due_dates": ["Due in three weeks - Week 4 of class"]
+    },
+    "week2": {
+      "topics": ["Behavioral and Trait perspectives on managerial work"],
+      "readings": ["Whetten & Cameron (pp. 1-23)", "Pinto (Chapter 1)", "Zaleznik A., (1992). Managers and leaders: Are they different? HBR", "Kotter, J.P. (1990) What leaders really do. HB Review"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["No class (Stevens’ Calendar)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Self Awareness and Managerial Effectiveness"],
+      "readings": ["Whetten & Cameron (Chapter 1)", "Pinto (Chapter 7)", "Assessment website: https://stevens.virtualmentor.co/login"],
+      "assignments": ["MSQ and SSS Software in-basket due"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Communication and Coaching: A Foundation for Influencing"],
+      "readings": ["Whetten & Cameron (Chapter 4)", "Pinto (Chapter 3)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Influencing (with or without formal authority)"],
+      "readings": ["Pinto (Chapter 9)", "Whetten & Cameron (Chapter 5)", "Recommended - Yukl (Chapter 6)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Conflict Management and Negotiation Skills"],
+      "readings": ["Whetten & Cameron (Chapter 7)"],
+      "assignments": ["U Inc. paper due"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["No Class (July 4th holiday)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Building Effective Teams"],
+      "readings": ["Whetten & Cameron (Chapter 9)", "Pinto (Chapter 6)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Decision-making and Creative Problem-solving"],
+      "readings": ["Whetten & Cameron (Chapter 3)", "Pinto (Chapter 8)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Coping with Stress"],
+      "readings": ["Whetten & Cameron (Chapter 2)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Charismatic and Transformational Leadership"],
+      "readings": ["Pinto (Chapters 4-5, 10)", "Recommended - Yukl (Chapters 9, 15)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Leadership: Overview of theoretical perspectives"],
+      "readings": ["Pinto (Chapter 2)", "Recommended - Yukl (Chapter 8)"],
+      "assignments": ["Work on the Skills Development paper and complete submission of the development Plan Paper"],
+      "due_dates": ["Upload to Canvas"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "100 points",
+      "assignments": "150 points (Skills Analysis Paper)", 
+      "exams": "",
+      "projects": "150 points (Skills Development Paper)",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "title": "Skills Analysis Paper (U Inc.)",
+      "points": 150,
+      "description": "An assessment of your strengths and development opportunities in relation to the skill areas discussed in class."
+    },
+    {
+      "title": "Skills Development Paper",
+      "points": 150,
+      "description": "A detailed plan outlining the steps and actions you will take to capitalize on your strengths and improve on a skill you identified in your Skill Analysis Paper."
+    }
+  ],
+  "policies": {
+    "attendance": "Regular online participation is a critical course requirement.",
+    "late_work": "Please give advanced notice if additional time is needed.",
+    "academic_integrity": "Cheating and plagiarism are strictly prohibited and will result in severe consequences.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    "July 4th holiday - No Class",
+    "U Inc. paper due - Week 7"
+  ],
+  "additional_info": {
+    "course_format": "Web-based course with flexibility.",
+    "technology_requirements": "Access to Canvas and Virtual Mentor.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:26:07.878737",
+    "pdf_source": "../StevensCourses\\2c MGT 612 Web Zoom _Syl__ 2024 Summer ws.pdf",
+    "source_type": "file",
+    "text_length": 38288,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Leader Development",
+      "code": "MGT 612",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Zvi Aronson",
+        "email": "zvi.aronson@stevens.edu",
+        "office_hours": "Available via Zoom and after classes.",
+        "contact_info": "(201) 216-5032"
+      }
+    },
+    "course_description": "This course explores the human side of project management, focusing on interpersonal competencies and skills required for leading and motivating groups/teams.",
+    "learning_outcomes": [
+      "Introduce and describe key skills and competencies associated with leading others in a project management environment.",
+      "Provide opportunities to learn about your own strengths and development needs associated with these skills.",
+      "Familiarize with key theories and principles relating to the study of leadership and the human side of project management."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

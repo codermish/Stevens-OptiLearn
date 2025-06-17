@@ -1,0 +1,317 @@
+{
+  "textbooks": [
+    {
+      "title": "Information Systems: A Manager's Guide to Harnessing Technology",
+      "author": "John Gallager",
+      "edition": "10th Rev 1 Edition",
+      "published": "May 2024",
+      "ISBN": ""
+    },
+    {
+      "title": "The Back of the Napkin (Expanded Edition): Solving Problems and Selling Ideas with Pictures",
+      "author": "Dan Roam",
+      "ISBN": "978-1591842699"
+    },
+    {
+      "title": "Why Not?: How to Use Everyday Ingenuity to Solve Problems Big And Small",
+      "author": "Barry Nalebuff and Ian Ayres",
+      "ISBN": "978-1422104347"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Introduction",
+        "Overview history of change and disruptive technologies"
+      ],
+      "readings": [
+        "\"The Victorian Internet\""
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "\"Objects you View Through Your Windshield May Appear Further than they Actual Are\"",
+        "How do I spot emerging Trends?",
+        "When is the right time to invest in new technology?",
+        "What is your appetite for taking risks?",
+        "Which firms/products should I examine?"
+      ],
+      "readings": [
+        "\"The Victorian Internet\"",
+        "Gartner Hype Cycle",
+        "Forrester Wave",
+        "Frost & Sullivan Emerging Technology Survey",
+        "Gartner Magic Quadrant",
+        "Moore's Crossing the Chasm adoption model.",
+        "How do I Spot Emerging Technologies?",
+        "When is the right to utilize this technology"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "\"Crossing the Chasm\"",
+        "Who & Which organizations are willing to try new technologies?",
+        "Breakthrough thinking - applied science versus the 'aha' moment?",
+        "Can you formalize the innovation process and effective use of new technologies/ways of doing business?",
+        "How much money? How much risk?",
+        "Should you cross the Chasm?"
+      ],
+      "readings": [
+        "Textbook Ch. 1",
+        "Textbook Ch. 2 and the Zara case",
+        "\"The Innovator's Dilemma\""
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Standards",
+        "Standards wars - who sets the standards?",
+        "How are standards set? – What is the process?",
+        "“DeJure” (Formal) vs DeFacto Standards?",
+        "Historical/Current Standards Wars (AC/DC, Bar Code, Monolithic (control all) systems vs Heterogeneous (linked) systems)",
+        "Examination of standards behind some key emerging technologies"
+      ],
+      "readings": [
+        "Textbook Ch. 5-6",
+        "\"Why Not?\" (Chapter 3)",
+        "Excerpt from AC/DC: The Savage Tale of the First Standards War"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "\"It’s a Generational thing\"",
+        "What is the organization of the future going to look like?",
+        "How will that effect how new technologies are brought into the organization?",
+        "The psyche of the generations (ex. Millennials vs others)",
+        "Handling change"
+      ],
+      "readings": [
+        "Textbook Ch. 7-8",
+        "\"Why Not?\" (Chapter 4)",
+        "Pew Research Pew Internet and American Life Project"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "\"Dave, I’m afraid I can’t do that\"",
+        "The introduction of automated technology?",
+        "Reliability and “Trust” in automation technology?",
+        "The age of Semantic Technologies and Thinking machines",
+        "Autonomous transportation (Airtrain, Google cars)",
+        "Robots/Drones",
+        "IBM Watson"
+      ],
+      "readings": [
+        "Textbook Ch. 9-10",
+        "\"Why Not?\" (Chapter 4)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "If it doesn’t work, is there a Plan B? or Plan C?",
+        "Planning for the unexpected?",
+        "Scenario Planning",
+        "Big bang versus incremental strategy",
+        "Social Networks and Network Data",
+        "Micro-blogging and its application"
+      ],
+      "readings": [
+        "Textbook Ch. 11-12",
+        "\"Why Not?\" (Chapter 5)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "\"The whole is greater than the sum of its parts\"",
+        "How do Information Systems support Business Processes?",
+        "CRM, SCM, and PLM Processes",
+        "Workflow Systems",
+        "Structured Data / Unstructured Data & Big Data",
+        "Case examples – Amazon, Otis Elevator, Zipcar"
+      ],
+      "readings": [
+        "Textbook Ch. 13-14",
+        "\"Why Not?\" (Chapter 6)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "\"Everything makes SENSE!!!\"",
+        "Sensory systems – measuring the world around us.",
+        "Sight, sound, motion, heat, touch, taste, smell",
+        "Our multi-instrumented devices – our phones",
+        "Wearable Technology"
+      ],
+      "readings": [
+        "Textbook Ch. 15-16",
+        "\"Why Not?\" (Chapter 7)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "\"Opinions DO count!\"",
+        "Or \"I Know What You Did Last Summer.\"",
+        "How have Information Systems been used in political campaigns?",
+        "Data Mining",
+        "E-mail marketing",
+        "Micro-targeting",
+        "Social networking/media",
+        "Business Analytics"
+      ],
+      "readings": [
+        "Textbook Ch. 17-18",
+        "\"Why Not?\" (Chapter 10)"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "\"Look Ma, no hands.\"",
+        "The mobile worker/consumer? Wireless technologies impact systems.",
+        "Mobile systems and infrastructure",
+        "The BYOD challenges.",
+        "Software development models",
+        "Requirements Engineering",
+        "Software re-use"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "\"I’ll have my phone give your PC a call and make all the arrangements\"",
+        "- and - \"Now you see it – now you don’t!\"",
+        "How did the Age of Machines and machine to machine communications change the world?",
+        "The Internet of Things",
+        "Scada Systems & RFID and NFC",
+        "GPS / Micro GPS",
+        "Automobile technology",
+        "Authentication Technologies",
+        "How will a virtual world change our understanding of value – opportunities out of Thin Air.",
+        "Artificial Currencies (Bitcoin)",
+        "Avatars",
+        "Compressed design, prototyping and production cycle.",
+        "3D Printing",
+        "Virtualization of Servers and Desktops"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "10%",
+      "projects": "60%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 90-100%, A-: 90-94%, B+: 85-89%, B: 80-84%, B-: 75-79%, C+: 70-74%, C: 65-69%, C-: 60-64%, D: 50-59%, F: 0-49%",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Weekly Submission of a “Heard it on the Grapevine” article",
+      "due": "Throughout the Course"
+    },
+    {
+      "description": "Assignments will be set up to ensure students are completing reading assignments",
+      "due": "Throughout the Course"
+    },
+    {
+      "description": "Individual Emerging Technology Presentation",
+      "due": "Presentations Throughout the Course"
+    },
+    {
+      "description": "Midterm (online during lecture time)",
+      "due": "About Week 8"
+    },
+    {
+      "description": "Final Project – Group Project – Developing a new product or service using one or more expansive emerging technology",
+      "due": "Week 14,15"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is required. Final Group Presentations require attendance.",
+    "late_work": "In fairness to others, late work will be penalized 10% per day overdue.",
+    "academic_integrity": "Enrollment into the undergraduate class of Stevens signifies a student’s commitment to the Honor System.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Final Presentations",
+      "date": "December 10, 2024"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Lectures, case studies, individual student presentations, and a final group project.",
+    "technology_requirements": "Microsoft Office: Excel, PowerPoint, Word; Firefox or Chrome Web Browser.",
+    "support_resources": "Current event articles will be presented by the professor or introduced by the students."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:44:09.927128",
+    "pdf_source": "../StevensCourses/MIS-699 WS -Fall-2024-Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 21075,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Digital Innovation",
+      "code": "MIS 699A",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Cherif Amirat",
+        "email": "camirat@stevens.edu",
+        "office_hours": "By appointment on Zoom, Wednesday: 10:00 AM – 12:00 PM, Wednesday 6:00 PM – 7:00 PM",
+        "contact_info": "+1.201.216.8322"
+      }
+    },
+    "course_description": "This course focuses on how organizations can effectively and efficiently assess trends and emerging technologies in data and knowledge management, information networks, and analyzing and developing application systems.",
+    "learning_outcomes": [
+      "Students will learn and, in teams, research and create presentations on emerging technologies, new business models and methodologies.",
+      "Students will be able to separate the “hype” of new technology from the underlying business opportunities and technical challenges.",
+      "Students will be assigned a current emerging technology to research and provide a “technology briefing” presentation for the class.",
+      "Students will be able to identify the requirements for a specific information system and express these requirements in a form usable by Information Technology professionals.",
+      "Students will be able to apply the concepts learned during the lectures and cases in their final project.",
+      "Students will be able to determine the advantages and disadvantages of different technologies, information systems and business structures for a specific application."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "MIS710",
+      "MIS630",
+      "FIN615"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

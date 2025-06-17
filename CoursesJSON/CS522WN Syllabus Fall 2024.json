@@ -1,0 +1,205 @@
+{
+  "textbooks": [
+    {
+      "title": "Mobile Communications",
+      "author": "Jochen Schiller",
+      "edition": "2nd ed",
+      "ISBN": "0-321-12381-6"
+    },
+    {
+      "title": "Ubiquitous Computing Fundamentals",
+      "author": "John Krumm",
+      "edition": "2010",
+      "ISBN": "978-1-4200-9360-5"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction: Mobile and cloud computing", "Android: Activities and resources"],
+      "readings": ["Krumm 1", "Schiller 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Android: Applications and UI"],
+      "readings": [],
+      "assignments": ["A1: First app"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Android: Storage and content providers"],
+      "readings": [],
+      "assignments": ["A2: UI"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Application Architecture", "Room ORM", "Viewmodels and Livestates"],
+      "readings": [],
+      "assignments": ["A3: Content Provider"],
+      "due_dates": ["Quiz 1"]
+    },
+    "week5": {
+      "topics": ["User interface design for mobile devices", "User experience (UX) engineering: personas and scenarios"],
+      "readings": ["Krumm 7"],
+      "assignments": ["A4: App Architecture I"],
+      "due_dates": ["Quiz 2"]
+    },
+    "week6": {
+      "topics": ["UI design patterns", "Material Design"],
+      "readings": ["Krumm 2, 3, 8"],
+      "assignments": ["A5: App Architecture II"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Android: Services and background processing"],
+      "readings": [],
+      "assignments": ["A6: UX"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Wireless networks: Basics and Medium Access Control (MAC)"],
+      "readings": ["Schiller 2-4, 7"],
+      "assignments": ["A7: Fragments"],
+      "due_dates": ["Quiz 3"]
+    },
+    "week9": {
+      "topics": ["Software architectures for mobile Web services"],
+      "readings": [],
+      "assignments": ["A8: Services"],
+      "due_dates": ["Quiz 4"]
+    },
+    "week10": {
+      "topics": ["Mobile data management: Knowledge protocols", "Conflict detection and resolution", "Partial replication"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Quiz 5"]
+    },
+    "week11": {
+      "topics": ["Location awareness: Satellites and GPS, infrared and ultrasonic", "Location privacy", "Android location APIs"],
+      "readings": [],
+      "assignments": ["A9: REST"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Mobile security platforms", "Jailbreaking", "Android security"],
+      "readings": ["Schiller 8"],
+      "assignments": ["A10: gRPC"],
+      "due_dates": ["Quiz 7"]
+    },
+    "week13": {
+      "topics": ["Reactive Programming"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Quiz 8"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "50%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "40%",
+      "final": ""
+    },
+    "scale": "A: 93-100%, A-: 90-92%, B+: 87-89%, B: 83-86%, B-: 80-82%, C+: 77-79%, C: 70-76%, F: Less than 70%",
+    "policies": "Assignments may be submitted late with penalties; no late submissions for mini-exams."
+  },
+  "assignments": [
+    {
+      "name": "A1",
+      "description": "First app"
+    },
+    {
+      "name": "A2",
+      "description": "UI"
+    },
+    {
+      "name": "A3",
+      "description": "Content Provider"
+    },
+    {
+      "name": "A4",
+      "description": "App Architecture I"
+    },
+    {
+      "name": "A5",
+      "description": "App Architecture II"
+    },
+    {
+      "name": "A6",
+      "description": "UX"
+    },
+    {
+      "name": "A7",
+      "description": "Fragments"
+    },
+    {
+      "name": "A8",
+      "description": "Services"
+    },
+    {
+      "name": "A9",
+      "description": "REST"
+    },
+    {
+      "name": "A10",
+      "description": "gRPC"
+    }
+  ],
+  "policies": {
+    "attendance": "Participation in live sessions counts as part of your grade.",
+    "late_work": "Assignments may be submitted late with penalties; no late submissions for mini-exams.",
+    "academic_integrity": "Violations reported to Honor Board; penalties for cheating include zero on assignment or quiz, grade drop, or failing course.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [
+    {
+      "event": "Thanksgiving Break",
+      "date": "11/25"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Course meets once a week with materials provided online via Canvas.",
+    "technology_requirements": "Desktop or laptop with Java Runtime Environment and Android Studio IDE; at least 8G of RAM recommended.",
+    "support_resources": "Technology Resource and Assistance Center (TRAC) available for help."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:56:55.031579",
+    "pdf_source": "../StevensCourses\\CS522WN Syllabus Fall 2024.pdf",
+    "source_type": "file",
+    "text_length": 29405,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Mobile Systems and Applications",
+      "code": "CS 522",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dominic Duggan",
+        "email": "Canvas Email1 or Slack",
+        "office_hours": "Monday 5:30-6:30pm, Friday 9-10am",
+        "contact_info": "Canvas Email1 or Slack"
+      }
+    },
+    "course_description": "Personal computing is now mobile and cloud-based. Disconnected mobile computing challenges many of the assumptions underlying much of today's distributed systems.",
+    "learning_outcomes": [
+      "Implement and run applications on a mobile computing platform.",
+      "Explain algorithms and strategies for data management and power management.",
+      "Describe wireless communication protocols, including cell phone and LAN protocols, and network protocols for mobile applications.",
+      "Describe threats and countermeasures for securing mobile devices.",
+      "Explain the use of context scenarios and personas in user experience (UX) engineering for mobile applications.",
+      "Apply design patterns and software architectures to manage the complexity of mobile applications, including cloud-based apps."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "CS 385 (Undergraduate)",
+      "CS 590 (Graduate)",
+      "Programming Maturity and Experience with Java or C#"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

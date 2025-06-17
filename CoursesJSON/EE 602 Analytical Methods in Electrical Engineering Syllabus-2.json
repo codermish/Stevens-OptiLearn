@@ -1,0 +1,214 @@
+{
+  "textbooks": [
+    {
+      "title": "The Theory of Matrices: With Applications",
+      "author": "Peter Lancaster and Miron Tismenetsky",
+      "edition": "2nd Edition"
+    },
+    {
+      "title": "Introduction to Linear Algebra",
+      "author": "Gilbert Strang",
+      "edition": "6th Edition"
+    },
+    {
+      "title": "Linear Algebra and Its Applications",
+      "author": "Gilbert Strang",
+      "edition": "4th Edition"
+    },
+    {
+      "title": "A Linear Systems Primer",
+      "author": "Panos J. Antsaklis and Anthony N. Michel",
+      "edition": "2007"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["No Classes (Labor Day!)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introductions", "Fundamental concepts", "Determinant theorems"],
+      "readings": [],
+      "assignments": ["HW #1 Assigned"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Systems of linear equations", "Elementary operations", "Gaussian elimination", "LU decomposition", "Consistency tests", "Solutions"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Vector spaces", "Linear independence", "Basis", "Rank", "Spanning sets", "Linear systems", "Congruent transformations"],
+      "readings": [],
+      "assignments": ["HW #2 Assigned"],
+      "due_dates": ["HW #1 Due"]
+    },
+    "week5": {
+      "topics": ["Change of basis", "Similarity transformations", "Eigenvalues", "Eigenvectors", "Hamilton-Cayley Theorem", "Diagonalization", "Jordan canonical form"],
+      "readings": [],
+      "assignments": ["HW #3 Assigned"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Fundamental subspaces", "Moore-Penrose Pseudoinverse", "Inner Products", "Riesz Representation Theorem"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["HW #2 Due"]
+    },
+    "week7": {
+      "topics": ["Special applications", "Examples", "Review for the midterm exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["HW #3 Due"]
+    },
+    "week8": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Gram-Schmidt Orthogonalization", "Karhunen-Loewe Transform", "Orthogonal Projection Theorem", "Oblique Projectors and Symmetries", "Least-Squares"],
+      "readings": [],
+      "assignments": ["HW #4 Assigned"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Bilinear functionals", "Quadratic forms", "Data fitting", "Symmetric matrices", "Convexity", "Singular values and Subspaces", "Clustering", "Optimal linear estimation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Linear differential equations", "State space representations", "Solutions", "Linear operators"],
+      "readings": [],
+      "assignments": ["HW #5 Assigned"],
+      "due_dates": ["HW #4 Due"]
+    },
+    "week12": {
+      "topics": ["Matrix exponential", "Functions of matrices", "Quadratic forms", "Positive definiteness"],
+      "readings": [],
+      "assignments": ["HW #6 Assigned"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Controllability", "Observability", "Linear control", "Linear estimation", "Separation principle"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["HW #5 Due"]
+    },
+    "week14": {
+      "topics": ["Optimal control", "Optimal estimation", "Networked Systems", "Decentralization of Analysis and Synthesis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["HW #6 Due"]
+    },
+    "week15": {
+      "topics": ["Final exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week16": {
+      "topics": ["Final Exam Week (Free!)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "Assignments received late up to a week will have 10% of the total points deducted for each late day. Assignments received more than one week late will receive no points."
+  },
+  "assignments": [
+    {
+      "name": "HW #1",
+      "description": "Assigned in Week 2"
+    },
+    {
+      "name": "HW #2",
+      "description": "Assigned in Week 4"
+    },
+    {
+      "name": "HW #3",
+      "description": "Assigned in Week 5"
+    },
+    {
+      "name": "HW #4",
+      "description": "Assigned in Week 9"
+    },
+    {
+      "name": "HW #5",
+      "description": "Assigned in Week 11"
+    },
+    {
+      "name": "HW #6",
+      "description": "Assigned in Week 12"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance counts 4% of the total score. Attendance will be recorded through Canvas (using attendance codes) and/or sign-off sheets. Excused absences must be accompanied by proper documentation.",
+    "late_work": "Assignments received late up to a week will have 10% of the total points deducted for each late day. Assignments received more than one week late will receive no points.",
+    "academic_integrity": "Any plagiarism or other form of cheating will be dealt with under relevant Stevens policies.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm Exam: Oct 21 - Oct 27",
+    "Final Exam: Dec 9 - Dec 15"
+  ],
+  "additional_info": {
+    "course_format": "This course is comprised of weekly on-campus lectures, periodic homework, a midterm and a final exam.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:00:22.396436",
+    "pdf_source": "../StevensCourses\\EE 602 Analytical Methods in Electrical Engineering Syllabus-2.pdf",
+    "source_type": "file",
+    "text_length": 22588,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Analytical Methods in Electrical Engineering",
+      "code": "EE 602",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Shirantha Welikala",
+        "email": "swelikal@stevens.edu",
+        "office_hours": "Monday 2:00 PM – 5:00 PM",
+        "contact_info": "+1 (346) 715 8339"
+      }
+    },
+    "course_description": "This course focuses on introducing fundamental concepts and techniques in linear algebra together with their applications to state space analysis.",
+    "learning_outcomes": [
+      "Decompose a matrix into its LU decomposition using elementary operations.",
+      "Solve linear algebraic equations using elementary operation and the reduced row-echelon form.",
+      "Collaborate effectively in teams to solve complex theoretical problems in linear algebra.",
+      "Carry out matrix operations including matrix multiplication and matrix inverse, and to calculate matrix determinant using different approaches.",
+      "Represent a linear time-invariant system into its state space form and calculate the solution to the state space equation.",
+      "Use linear algebraic techniques to analyze electrical/mechanical systems and predict their behavior.",
+      "Diagonalize square matrices and find similarity transformations by means of eigenvalues and eigenvectors.",
+      "Use MATLAB and least squares techniques to analyze data taken from an electrical/mechanical system.",
+      "Recognize and achieve high levels of professionalism in work and understand subject-related ethical concerns and obligations."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": [
+      "Freshman Year Calculus"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

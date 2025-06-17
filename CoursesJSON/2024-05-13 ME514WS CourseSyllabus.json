@@ -1,0 +1,172 @@
+{
+  "textbooks": [
+    {
+      "title": "Energy Systems Engineering, Evaluation & Implementation",
+      "author": "Frances M. Vanek and Louis D. Albright",
+      "edition": "3rd Ed.",
+      "ISBN": "978-1259585098"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": ["1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Systems Tools for Energy Systems"],
+      "readings": ["2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Economic Tools, Climate Change Models"],
+      "readings": ["3, 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Fossil Fuel Resources"],
+      "readings": ["5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Combustion"],
+      "readings": ["6"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Carbon Sequestration"],
+      "readings": ["7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Nuclear Energy"],
+      "readings": ["8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Mid-Term Exam"],
+      "readings": ["10, 11"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Solar Energy"],
+      "readings": ["9, 10, 11, 12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Wind Energy"],
+      "readings": ["13"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Bioenergy and Transportation Energy"],
+      "readings": ["14, 15, 16"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Creating 21st Century Energy System"],
+      "readings": ["17"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Term Project Due"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "35%",
+      "exams": "30%",
+      "projects": "35%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Homework will be assigned weekly. No late submission will be accepted."
+    },
+    {
+      "description": "Project Statement due on June 9."
+    },
+    {
+      "description": "Progress Reports due on July 21."
+    },
+    {
+      "description": "Final Report due on August 21."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late submission will be accepted.",
+    "academic_integrity": "Students must abide by the Stevens Honor System.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Project Statement Due",
+      "date": "June 9"
+    },
+    {
+      "event": "Progress Reports Due",
+      "date": "July 21"
+    },
+    {
+      "event": "Final Report Due",
+      "date": "August 21"
+    }
+  ],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:23:51.842239",
+    "pdf_source": "../StevensCourses\\2024-05-13 ME514WS CourseSyllabus.pdf",
+    "source_type": "file",
+    "text_length": 7352,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Sustainable Energy",
+      "code": "ME514WS/MT514WS",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "H. Hadim",
+        "email": "ahadim@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Topics in this course include current and potential future energy systems, fuel resources, conversion of resources, and end-use, with emphasis on meeting local and global energy needs in the 21st century in a sustainable manner.",
+    "learning_outcomes": [
+      "Students will be able to assess the performance and basic design of various energy conversion systems including traditional (combustion and nuclear) and alternative (solar, wind, hydrogen, etc.) approaches.",
+      "Students will become familiar with environmental issues related to the greenhouse effect and global climate change.",
+      "Students will perform comparative analysis of various energy conversion systems. The main criteria used for comparison include economic, social acceptability and environmental consequences."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "textbooks": [
+    {
+      "title": "Data Mining: Concepts and Techniques",
+      "author": "Han, J., Kamber, M.",
+      "edition": "2006",
+      "ISBN": "94104-3205"
+    },
+    {
+      "title": "Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management",
+      "author": "Linoff, G. S., & Berry, M. J.",
+      "edition": "2011",
+      "ISBN": ""
+    },
+    {
+      "title": "Discovering knowledge in data: an introduction to data mining",
+      "author": "Larose, D. T., & Larose, C. D.",
+      "edition": "2014",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation and Introductions", "Data Science, Data Mining, and Machine Learning"],
+      "readings": [
+        "A complete guide to data mining and how to use it",
+        "Data Mining: Concepts and Techniques Ebook - Chapter 1",
+        "Machine Learning, Explained",
+        "Data Analytics vs. Data Science vs. Machine Learning: What’s the Difference?",
+        "CRISP-DM: Towards a standard process model for data mining.",
+        "KNIME Getting Started Guide"
+      ],
+      "assignments": ["HW: Concepts of data mining, data science, and machine learning", "Discussion Board"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Recap of Statistical Methods as a Foundation"],
+      "readings": [
+        "Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management - Chapter 5"
+      ],
+      "assignments": ["HW Data Structures"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Data Preparation"],
+      "readings": [
+        "What’s the Difference Between Structured, Semi-Structured, and Unstructured data?",
+        "Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management - Chapter 2"
+      ],
+      "assignments": ["HW: Data Preparation", "Discussion Board"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Learning from Data"],
+      "readings": [
+        "Supervised, Unsupervised, and Reinforcement",
+        "Supervised vs, Unsupervised Learning: What’s the Difference? Source: IBM",
+        "Reinforcement Learning 101"
+      ],
+      "assignments": ["Quiz", "Discussion Board"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Regression Analysis"],
+      "readings": [
+        "Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management - Chapter 5 Page 139",
+        "Discovering Knowledge in Data - Chapter 6",
+        "Different Types of Regression Models"
+      ],
+      "assignments": ["HW: Regression Analysis"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Classification Analysis"],
+      "readings": [
+        "A Comprehensive Survey of Clustering Algorithms",
+        "Discovering Knowledge in Data - Chapter 9",
+        "Chapter 9: K-Nearest Neighbors (KNN) algorithm",
+        "Chapter 10: Tree models",
+        "Review Midterm Project Instructions"
+      ],
+      "assignments": ["HW: Classification"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Clustering Analysis"],
+      "readings": [
+        "Review Midterm Project Instructions",
+        "Discovering Knowledge in Data - Chapter 8 Page 153-161",
+        "Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management - Chapter 8 Page 383-387",
+        "The 5 Clustering Algorithms Data Scientists Need to Know"
+      ],
+      "assignments": ["Midterm Project"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Association Analysis"],
+      "readings": [
+        "Discovering Knowledge in Data - Chapter 10 Page [180 - 197]",
+        "Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management - Chapter 9",
+        "The A Priori Algorithm"
+      ],
+      "assignments": ["HW: Clustering and Association"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Dimensionality Reduction Analysis"],
+      "readings": [
+        "A beginner’s guide to dimensionality reduction in Machine Learning",
+        "Seven Techniques for Dimensionality Reduction",
+        "Dimensionality Reduction Techniques in Machine Learning",
+        "A review of dimensionality reduction techniques for efficient computation"
+      ],
+      "assignments": ["Quiz", "Discussion Board"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Reinforcement Learning"],
+      "readings": [
+        "An Introduction to Reinforcement Learning",
+        "Reinforcement Learning vs Genetic Algorithm - AI for Simulations"
+      ],
+      "assignments": ["HW: Dimensionality Reduction and Learning"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Neural Networks"],
+      "readings": [
+        "Review Final Project Instructions",
+        "Discovering Knowledge in Data - Chapter 7",
+        "Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management - Chapter 7",
+        "Classification Using Neural Networks"
+      ],
+      "assignments": ["Quiz", "Discussion Board"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Network Analysis"],
+      "readings": [
+        "Review Final Project Instructions",
+        "Network Metrics Explained",
+        "How to Get Started with Social Network Analysis"
+      ],
+      "assignments": ["HW: Network Analysis"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Text Mining"],
+      "readings": [
+        "Review Final Project Instructions",
+        "Text analytics 101: The C-Suite guide to mining the voice of the customer Source: Forbes",
+        "Natural Language Processing (NLP)",
+        "A Guide to Knowledge Graphs"
+      ],
+      "assignments": ["Final Project"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "25%",
+      "exams": "",
+      "projects": "45%",
+      "quizzes": "10%",
+      "final": "25%"
+    },
+    "scale": "",
+    "policies": "25% of the total points will be deducted for late assignments."
+  },
+  "assignments": [
+    {
+      "name": "HW: Concepts of data mining, data science, and machine learning",
+      "description": ""
+    },
+    {
+      "name": "HW Data Structures",
+      "description": ""
+    },
+    {
+      "name": "HW: Data Preparation",
+      "description": ""
+    },
+    {
+      "name": "HW: Regression Analysis",
+      "description": ""
+    },
+    {
+      "name": "HW: Classification",
+      "description": ""
+    },
+    {
+      "name": "Midterm Project",
+      "description": "A project requiring the application of skills from Module 1–7."
+    },
+    {
+      "name": "HW: Clustering and Association",
+      "description": ""
+    },
+    {
+      "name": "HW: Dimensionality Reduction and Learning",
+      "description": ""
+    },
+    {
+      "name": "HW: Network Analysis",
+      "description": ""
+    },
+    {
+      "name": "Final Project",
+      "description": "A comprehensive hands-on exercise with a dataset of interest."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "25% of the total points will be deducted for late assignments.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:09:47.006040",
+    "pdf_source": "../StevensCourses\\EM 623_Syllabus_Spring 23.pdf",
+    "source_type": "file",
+    "text_length": 24313,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Science and Knowledge Discovery in Engineering Management",
+      "code": "EM 623",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2023",
+      "instructor": {
+        "name": "Sergio Luna PhD",
+        "email": "sluna@stevens.edu",
+        "office_hours": "Thursday 8:00pm – 10:00pm or By Appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will examine methods that have emerged from both fields and proven to be of value in recognizing patterns and making predictions from an applications perspective.",
+    "learning_outcomes": [
+      "Analyze problems of interest through the lens of critical thinking and contextualizing the 'so-what?'",
+      "Identify proper analytical strategies to extract actionable information from data",
+      "Formulate solutions that considers structured and unstructured data attributes",
+      "Generate data-driven insights by implementing machine learning algorithms",
+      "Incorporate some of the most popular tools for data analysis, text mining, and network analysis",
+      "Formulate a data analytics manuscript and project presentation that explores data life cycles"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

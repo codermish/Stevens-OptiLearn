@@ -1,0 +1,148 @@
+{
+  "textbooks": [
+    {
+      "title": "Decisions Over Decimals",
+      "author": "Not specified",
+      "edition": "Not specified",
+      "ISBN": "Not specified"
+    },
+    {
+      "title": "Bazerman",
+      "author": "Not specified",
+      "edition": "Not specified",
+      "ISBN": "Not specified"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation & Overview", "Intro and Course Structure", "Conceptual Decision-Making"],
+      "readings": ["M1.B1 Selection of Resources for In-Class Briefings"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Cognition and Decision Making", "System 1 vs. System 2 Thinking", "Biases, bounded awareness, and decision blinders"],
+      "readings": ["M2.A1-A2", "Bazerman, Ch 1, 3, 4", "Optional Reading: Leaders as decision architects. Harvard Business Review, May, 52-62, Beshears, J. and; Gino, F. (2015)", "Bazerman, Ch 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Decision Making Under Uncertainty", "Become a fierce data interrogator...without going to math camp"],
+      "readings": ["Decisions Over Decimals, Ch 4-5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Bounded Ethicality of DM", "Assess the role of ethics in decision-making"],
+      "readings": ["M4.A1-A3", "Bazerman Ch 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Problem Definition and Framing", "I Wish I Knew (IWIK) technique"],
+      "readings": ["M5. A1-2", "Decisions Over Decimals Ch 2", "Bazerman, Ch 5", "Optional Reading: M5.A3. Decision Lab “Why do our decisions depend on how they are presented to us”"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Motivational and Emotional Impact", "Role emotions play in decisions"],
+      "readings": ["M6. A1 - A2", "Bazerman, Ch 6,7"],
+      "assignments": ["Teams 3 and 7 present"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Group Decision Making", "Optimize team decision-making"],
+      "readings": ["(opt): M7.A1 Article Roberto, M.A. Lessons from Everest"],
+      "assignments": ["M7.B1 Prepare for Everest Simulation", "Teams 4 and 8 present"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Asynchronous Week", "Work on your individual papers", "Review lessons to date"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Crisis Decision Making / Everest", "Strategies to manage anxiety in the decision moment"],
+      "readings": ["M9: A1-A5", "Decisions Over Decimals Ch 7"],
+      "assignments": ["Individual papers due this session"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Negotiation", "Mastering the art and science of negotiation in DM"],
+      "readings": ["M10: A1 A3", "Bazerman Ch 10, 11"],
+      "assignments": ["Teams 2 and 5 present"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Improving Decision Making", "WRAP Model to improve decision making"],
+      "readings": ["M11: A1 - A3", "Bazerman Ch 12"],
+      "assignments": ["Teams 1 and 6 present"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Leading Through Uncertainty", "VUCA concept (volatility, uncertainty, complexity, ambiguity)"],
+      "readings": ["M12. A1 - A4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Decision Forum", "Final team case study presentations (part 1)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:02:49.772906",
+    "pdf_source": "../StevensCourses/Syllabus for 2024F MGT 635-WS.pdf",
+    "source_type": "file",
+    "text_length": 3215,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "",
+      "code": "MGT 635",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Professors Frank & Magnone",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

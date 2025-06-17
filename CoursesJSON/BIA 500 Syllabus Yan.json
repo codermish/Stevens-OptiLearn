@@ -1,0 +1,205 @@
+{
+  "textbooks": [
+    {
+      "title": "Business analytics: Methods, models, and decisions",
+      "author": "Evans, J.",
+      "edition": "2020",
+      "ISBN": "9780135231678"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Business Analytics"],
+      "readings": ["Chapter 1"],
+      "assignments": ["Quiz 1", "Homework 1"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week2": {
+      "topics": ["Database Analytics"],
+      "readings": ["Chapter 2"],
+      "assignments": ["Quiz 2", "Homework 2"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week3": {
+      "topics": ["Visualization Analytics"],
+      "readings": ["Chapter 3"],
+      "assignments": ["Quiz 3", "Homework 3"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week4": {
+      "topics": ["Descriptive Statistics"],
+      "readings": ["Chapter 4"],
+      "assignments": ["Quiz 4", "Homework 4"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week5": {
+      "topics": ["Probability and Distributions"],
+      "readings": ["Chapter 5"],
+      "assignments": ["Quiz 5", "Homework 5", "Midterm Exam"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week6": {
+      "topics": ["Sampling"],
+      "readings": ["Chapter 6"],
+      "assignments": ["Quiz 6", "Homework 6"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week7": {
+      "topics": ["Inference"],
+      "readings": ["Chapter 7"],
+      "assignments": ["Quiz 7", "Homework 7"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week8": {
+      "topics": ["Trendlines and Regression"],
+      "readings": ["Chapter 8"],
+      "assignments": ["Quiz 8", "Homework 8"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week9": {
+      "topics": ["Forecasting"],
+      "readings": ["Chapter 9", "Selected articles"],
+      "assignments": ["Quiz 9", "Homework 9"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week10": {
+      "topics": ["Data Mining"],
+      "readings": ["Chapter 10", "Selected articles"],
+      "assignments": ["Quiz 10", "Homework 10"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week11": {
+      "topics": ["Spreadsheet Modeling"],
+      "readings": ["Chapter 11", "Selected articles"],
+      "assignments": ["Quiz 11", "Homework 11"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week12": {
+      "topics": ["Linear Optimization"],
+      "readings": ["Chapter 13", "Selected articles"],
+      "assignments": ["Quiz 12", "Homework 12", "Final Exam"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    },
+    "week13": {
+      "topics": ["Monte Carlo | Decision Analysis"],
+      "readings": ["Chapter 16", "Selected articles"],
+      "assignments": ["Quiz 13", "Homework 13", "Final Project"],
+      "due_dates": ["Sunday, 11:59 pm ET"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "40%",
+      "projects": "20%",
+      "quizzes": "10%",
+      "final": ""
+    },
+    "scale": "A >92; A- 92~90; B+ 89~85; B 84~80; B- 79~75; C+ 74~70; C 69~65; C- 64~60; F<60",
+    "policies": "Late homework submissions or final project submissions will be subject to a 20% deduction."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 2",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 3",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 4",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 5",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 6",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 7",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 8",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 9",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 10",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 11",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 12",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework 13",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Final Project",
+      "description": "Read a case study and answer the questions using the principles learned throughout the course."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% deduction for late homework submissions or final project submissions.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, recording, editing, and uploading video via Kaltura or Quicktime.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:27:45.384053",
+    "pdf_source": "../StevensCourses\\BIA 500 Syllabus Yan.pdf",
+    "source_type": "file",
+    "text_length": 17259,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Business Analytics: Data, Models and Decisions",
+      "code": "BIA 500",
+      "credits": "3",
+      "semester": "Summer",
+      "year": "2023",
+      "instructor": {
+        "name": "Bei Yan",
+        "email": "byan7@stevens.edu",
+        "office_hours": "See course homepage for dates & times",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course explores data-driven methods that are used to analyze and solve complex business problems.",
+    "learning_outcomes": [
+      "Utilize the appropriate data-centric software tools and techniques.",
+      "Develop and apply data-driven methods to analyze and solve complex business problems.",
+      "Interpret the output of tools and techniques and run simulation sensitivity analyses to improve business decisions.",
+      "Assess opportunities for creating value using data-driven decision-making.",
+      "Develop actionable business decisions through combined methodologies and developed systems."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "textbooks": [
+    {
+      "title": "Patterns of Entrepreneurship Management",
+      "author": "Jack M. Kaplan; Jack McGourty",
+      "edition": "6th Edition",
+      "ISBN": "N/A"
+    },
+    {
+      "title": "Value Proposition Design: How to Create Products and Services Customers Want",
+      "author": "Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith, Trish Papadakos",
+      "edition": "N/A",
+      "ISBN": "N/A"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Introduction to Entrepreneurship",
+        "Invention vs. Innovation",
+        "Defining Entrepreneurship",
+        "Entrepreneurship and its economic importance",
+        "Entrepreneurship in the light of economic theory"
+      ],
+      "readings": [
+        "Kaplan, McGourty 1"
+      ],
+      "assignments": [
+        "Weekly Discussion"
+      ],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Entrepreneurial Opportunity Components",
+        "Technology, Market, Business Model Innovations",
+        "Uncertainty",
+        "Entrepreneurial Profit"
+      ],
+      "readings": [
+        "Kaplan, McGourty 2"
+      ],
+      "assignments": [
+        "Weekly Discussion"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Customer Discovery & Value Proposition",
+        "Components",
+        "Design Process"
+      ],
+      "readings": [
+        "McGourty 2",
+        "Osterwalder et al. 2014"
+      ],
+      "assignments": [
+        "Weekly Discussion"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Sources of Entrepreneurial Opportunity",
+        "Sources of business opportunities"
+      ],
+      "readings": [
+        "Drucker, I.2 – I.11"
+      ],
+      "assignments": [
+        "Weekly Discussion"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Competition Analysis & Entrepreneurial Opportunity Evaluation",
+        "Porter’s 5 Forces Model",
+        "Evaluation criteria for entrepreneurial opportunities",
+        "Opportunity Checklist"
+      ],
+      "readings": [
+        "Kaplan, McGourty 2, 4"
+      ],
+      "assignments": [
+        "Weekly Discussion"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Business Model Canvas & Patterns",
+        "Components",
+        "Business Model Patterns"
+      ],
+      "readings": [
+        "Kaplan, McGourty 3",
+        "Osterwalder et al. 2014"
+      ],
+      "assignments": [
+        "Weekly Discussion",
+        "Venture Idea Analysis",
+        "Venture Team formation"
+      ],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Lean Startup Methodology",
+        "Customer verification, pricing",
+        "Integrating the Value Proposition into the Business Model Canvas"
+      ],
+      "readings": [
+        "Kaplan, McGourty 4",
+        "Osterwalder et al. 2014"
+      ],
+      "assignments": [
+        "Weekly Discussion",
+        "Midterm Exam"
+      ],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "The Role of the Entrepreneur & IP",
+        "Building the Entrepreneurial Team",
+        "Analyzing the specific situations of entrepreneurs",
+        "Different forms of IP"
+      ],
+      "readings": [
+        "Kaplan, McGourty 1, 7"
+      ],
+      "assignments": [
+        "Weekly Discussion",
+        "Venture idea draft"
+      ],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Startup Financials",
+        "Sources of finance",
+        "Cash flow & NPV projections",
+        "Financial Analysis"
+      ],
+      "readings": [
+        "Kaplan, McGourty 8, 9, 10"
+      ],
+      "assignments": [
+        "Weekly Discussion"
+      ],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Venture Growth Strategies",
+        "Market activities",
+        "Technological innovation activities",
+        "Management activities",
+        "Exit strategies"
+      ],
+      "readings": [
+        "Koeller, Lechler",
+        "Kaplan, McGourty 9"
+      ],
+      "assignments": [
+        "Weekly Discussion",
+        "Venture Idea Pitch"
+      ],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Business Plan Analysis & Business Idea Pitch",
+        "Business plan components",
+        "Business plan evaluation",
+        "Pitch Essentials",
+        "Pitch Checklist"
+      ],
+      "readings": [
+        "Kaplan, McGourty 11"
+      ],
+      "assignments": [
+        "Weekly Discussion",
+        "Business plan draft"
+      ],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Social Entrepreneurship",
+        "Two conflicting logics",
+        "Cases of social ventures"
+      ],
+      "readings": [
+        "Polychroni, Lechler",
+        "Bygrave 15"
+      ],
+      "assignments": [
+        "Weekly Discussion",
+        "Pitch draft"
+      ],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Venture Idea Pitch",
+        "Presentation & Discussion of Business plan issues"
+      ],
+      "readings": [],
+      "assignments": [
+        "Weekly Discussion",
+        "Venture Business Idea Pitch",
+        "Lean Business plan due"
+      ],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "20%",
+      "projects": "35%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 90-100%, A-: 86-89%, B+: 83-86%, B: 80-83%, B-: 76-80%, C+: 73-76%, C: 70-73%, C-: 69-70%, F: 0-69%",
+    "policies": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Class Attendance",
+      "description": "Recorded for every lecture",
+      "weight": "10%"
+    },
+    {
+      "name": "Class Participation",
+      "description": "Participation in weekly class discussions via online discussion boards on Canvas. Each student will submit at least two postings per week.",
+      "weight": "15%"
+    },
+    {
+      "name": "Venture Business Idea Analysis",
+      "description": "Analyze a venture business idea with the Value Proposition Canvas. Individual assignment.",
+      "weight": "20%"
+    },
+    {
+      "name": "Lean Business Plan",
+      "description": "Team effort to deliver a lean business plan. Team consists of max. three students.",
+      "weight": "20%"
+    },
+    {
+      "name": "Elevator Pitch",
+      "description": "Presentation of the business idea must be no longer than a 3 minutes pre-recorded presentation.",
+      "weight": "15%"
+    },
+    {
+      "name": "Midterm Exam",
+      "description": "Online midterm exam covering the first 7 weeks of the course.",
+      "weight": "20%"
+    }
+  ],
+  "policies": {
+    "attendance": "Class attendance is recorded for every lecture.",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is offered fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, recording, editing, and uploading video via Panopto.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:35:27.341198",
+    "pdf_source": "../StevensCourses/MGT 663 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 23911,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Entrepreneurship",
+      "code": "MGT 663",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2023",
+      "instructor": {
+        "name": "Frank Gallucci",
+        "email": "fgallucc@stevens.edu",
+        "office_hours": "By appointment, Virtual Office Hours are held Wednesday from 4:30 – 6:30 pm ET.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is offered for students who seek to understand the process of creating and developing business opportunities within organizations or who want to initiate and create their own venture.",
+    "learning_outcomes": [
+      "Contrast small business ideas from entrepreneurial business ideas by applying basic economic principles.",
+      "Assess entrepreneurial business opportunities with a set of comprehensive evaluation criteria entirely and differentiate between attractive and non-attractive business opportunities.",
+      "Apply frameworks to transform an entrepreneurial business idea into a complete and viable venture idea.",
+      "Communicate entrepreneurial business ideas by applying basic principles of business pitch development."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

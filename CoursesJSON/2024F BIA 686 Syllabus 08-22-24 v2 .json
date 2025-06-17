@@ -1,0 +1,126 @@
+{
+  "textbooks": [
+    {
+      "title": "Data Science for Business",
+      "author": "Foster Provost & Tom Fawcett",
+      "edition": "2013",
+      "ISBN": "978-1-449-36132-7"
+    },
+    {
+      "title": "Analytics in a Big Data World: The Essential Guide to Data Science and its Applications",
+      "author": "Bart Baesens",
+      "edition": "2014",
+      "ISBN": "978-1-118-39270-1"
+    },
+    {
+      "title": "Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Startups, & Wall Street",
+      "author": "Kevin Huo & Nick Singh",
+      "edition": "2022",
+      "ISBN": "978-0-578-97383-8"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "33%",
+      "exams": "20%",
+      "projects": "47%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Analysis of a Dataset",
+      "points": 7
+    },
+    {
+      "description": "Alternative approaches to Cases 1 - 4",
+      "points": 16
+    },
+    {
+      "description": "Final Project Exploratory Data Analysis",
+      "points": 20
+    },
+    {
+      "description": "Technical Interview Questions",
+      "points": 20
+    },
+    {
+      "description": "Abstract of research question(s) to be answered, along with data to be used, and references to previous work. Proposal describing the problem background, results from an exploratory analysis, as well as the proposed data mining and analysis methodology.",
+      "points": 7
+    },
+    {
+      "description": "Presentation of Final Project results and demonstration of your model",
+      "points": 20
+    },
+    {
+      "description": "1 page project brief describing the business problem addressed and the business value of your results, and a poster highlighting your work on the project",
+      "points": 10
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral. Consequences of academic impropriety are severe, ranging from receiving an 'F' in a course to expulsion.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Hands-on perspective of how analytics is applied in business questions.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:24:57.652611",
+    "pdf_source": "../StevensCourses\\2024F BIA 686 Syllabus 08-22-24 v2 .pdf",
+    "source_type": "file",
+    "text_length": 8636,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Applied Analytics Practicum",
+      "code": "BIA-686",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Patricia Saporito",
+        "email": "psapori1@stevens.edu; pat.saporito@gmail.com",
+        "office_hours": "Virtual Office Hours are Fridays 12 – 2",
+        "contact_info": "(201) 681-9671"
+      }
+    },
+    "course_description": "Business intelligence and analytics is key to enabling successful competition in today’s world of 'big data'. This course focuses on helping students to not only understand how best to leverage business intelligence and analytics to become more effective decision makers.",
+    "learning_outcomes": [
+      "Analyze the impact of BI&A on the organization",
+      "Understand how best to apply BI&A methods and techniques in addressing strategic business problems",
+      "Understand the role of BI&A in helping organizations make better decisions",
+      "Conduct an in-depth analysis of a strategic business problem",
+      "Communicate the results of an in-depth analysis to both a technical and management audience"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "Students should complete at least 5 courses in the BI&A curriculum before taking this course."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

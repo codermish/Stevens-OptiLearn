@@ -1,0 +1,173 @@
+{
+  "textbooks": [
+    {
+      "title": "Fixed Income Mathematics",
+      "author": "Frank J. Fabozzi",
+      "edition": "4E",
+      "ISBN": "Not provided"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Overview and Introduction to Fixed Income Securities"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to Fixed Income Securities"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Fixed Income Bond Valuation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Bond Valuation and Risk Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Bond Volatility / Convexity and Intro to Term Structure of Interest Rates"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Term Structure of Interest Rates and Yield Curve Construction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Mid Term"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Break"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Guest Lecture"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Stress Testing and Value at Risk"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Bond Futures / Options / Swaps Asset Liability Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Asset Liability Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Credit Risk and Capital Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "15%",
+      "exams": "50%",
+      "projects": "20%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Assignments received 1-5 days late will have 25% of the total points deducted; assignments received more than 5 days late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "description": "5 homework assignments, graded with equal weight, account for 15% of the final grade."
+    },
+    {
+      "description": "Final project, worth 20% of the final grade, due one day before the final exam date."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance and class participation account for 15% of the final grade.",
+    "late_work": "Assignments received 1-5 days late will have 25% of the total points deducted; assignments received more than 5 days late will receive 0 points.",
+    "academic_integrity": "",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Mid Term Exam",
+      "date": "Week 7"
+    },
+    {
+      "event": "Final Exam",
+      "date": "Week 15"
+    },
+    {
+      "event": "Final Project Due",
+      "date": "One day before Final Exam"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Weeks run from Monday to Sunday. Information for the upcoming week posted by Sunday evening.",
+    "technology_requirements": "Zoom link provided for virtual sessions.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:41:56.376613",
+    "pdf_source": "../StevensCourses\\Course Syllabus_ 2024S FIN 629-WS.pdf",
+    "source_type": "file",
+    "text_length": 13167,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Fixed Income Securities",
+      "code": "FIN 629 WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Shobhit S Thapar",
+        "email": "sthapar1@stevens.edu",
+        "office_hours": "Available via email, responds generally within 24 hours.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course covers introduction and understanding of various Fixed Income Securities, their valuation, measurement and management of associated risk.",
+    "learning_outcomes": [
+      "Understanding Fixed Income Securities Markets",
+      "Valuation of Fixed Income Bonds",
+      "Risk Management of Fixed Income Securities",
+      "Understanding, measuring and mitigating Bond Convexity",
+      "Understanding the term Structure of Interest Rates, Yield Curve Construction and analyzing interest rate risk",
+      "Understanding of Credit Spreads and analyzing credit spread risk",
+      "Introduction to Securitized Products with detailed review of Mortgage Backed Securities",
+      "Understanding of foreign exchange spot rates and forward rates to calculate Covered Interest Parity",
+      "Understand interest rate futures, forwards, and options and their payoffs",
+      "Determine alternate methods of enhancing 'investors’ wealth' in fixed income markets"
+    ],
+    "learning_outcomes_count": 10,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

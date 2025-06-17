@@ -1,0 +1,196 @@
+{
+  "textbooks": [
+    {
+      "title": "Speech and Language Processing",
+      "author": "Jurafsky and Martin",
+      "edition": "3rd edition draft",
+      "year": "2022"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Natural Language Processing"],
+      "readings": [],
+      "assignments": ["Python Knowledge Check (quiz)", "Python Coding #1 Due"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Machine Learning Basics"],
+      "readings": [],
+      "assignments": ["Python Coding #2 Due"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["NLP Language Representation"],
+      "readings": ["Required: SLP Ch. 2"],
+      "assignments": ["Begin Project 1", "Python Coding #3 Due"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Language Models and Sentiment Classification"],
+      "readings": ["Required: SLP Ch. 3 and 4"],
+      "assignments": ["Python Coding #4 Due"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Regression and Vector Semantics"],
+      "readings": ["Required: SLP Ch. 5 and 6"],
+      "assignments": ["Project 1 Due"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Neural Networks and Sequence Labeling"],
+      "readings": ["Required: SLP Ch. 7 and 8"],
+      "assignments": ["Begin Project 2", "Python Coding #5 Due"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Deep Learning Architectures"],
+      "readings": ["Required: SLP Ch. 9"],
+      "assignments": ["Work on Project 2"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Machine Translation"],
+      "readings": ["Required: SLP Ch. 10"],
+      "assignments": ["Project 2 Due"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Transfer Learning and Constituency Grammars"],
+      "readings": ["Required: SLP Ch. 11 and 12"],
+      "assignments": ["Begin Project 3", "Python Coding #6 Due"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Constituency and Dependency Parsing"],
+      "readings": ["Required: SLP Ch. 13 and 14"],
+      "assignments": ["Work on Project 3"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Question Answering and Visualization Paths"],
+      "readings": ["Required: SLP Ch. 23"],
+      "assignments": ["Project 3 Due"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Chatbots and Dialogue Systems"],
+      "readings": ["Required: SLP Ch. 24"],
+      "assignments": ["Begin Project 4"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Automatic Speech Recognition"],
+      "readings": ["Required: SLP Ch. 26"],
+      "assignments": ["Project 4 Due"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "",
+      "projects": "60%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 100% to 94%, A-: < 94% to 90%, B+: < 90% to 87%, B: < 87% to 84%, B-: < 84% to 80%, C+: < 80% to 77%, C: < 77% to 70%, F: < 70% to 0%",
+    "policies": "20% of the total points will be deducted for assignments received 1 - 2 days late; assignments received more than 2 days late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Python Knowledge Check",
+      "description": "Quiz to assess Python knowledge."
+    },
+    {
+      "name": "Python Coding #1",
+      "description": "First coding assignment in Python."
+    },
+    {
+      "name": "Python Coding #2",
+      "description": "Second coding assignment in Python."
+    },
+    {
+      "name": "Python Coding #3",
+      "description": "Third coding assignment in Python."
+    },
+    {
+      "name": "Python Coding #4",
+      "description": "Fourth coding assignment in Python."
+    },
+    {
+      "name": "Project 1",
+      "description": "First project related to NLP."
+    },
+    {
+      "name": "Python Coding #5",
+      "description": "Fifth coding assignment in Python."
+    },
+    {
+      "name": "Project 2",
+      "description": "Second project related to NLP."
+    },
+    {
+      "name": "Python Coding #6",
+      "description": "Sixth coding assignment in Python."
+    },
+    {
+      "name": "Project 3",
+      "description": "Third project related to NLP."
+    },
+    {
+      "name": "Project 4",
+      "description": "Fourth project related to NLP."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1 - 2 days late; assignments received more than 2 days late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, Python programming.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:55:38.990925",
+    "pdf_source": "../StevensCourses\\CS 584 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 15839,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Natural Language Processing",
+      "code": "CS 584",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Justo Karell",
+        "email": "jkarell@stevens.edu",
+        "office_hours": "Virtual Office Hours via weekly synchronous Zoom sessions.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Natural language processing (NLP) is one of the most important technologies referring to automatic computational processing of human languages.",
+    "learning_outcomes": [
+      "Implement gradient descent (GD) and stochastic gradient descent (SGD) techniques for learning problems",
+      "Apply word2vec models in real-world text corpora for business applications",
+      "Implement neural network models and backpropagation optimization in platforms such as TensorFlow",
+      "Apply dependency parsing, recurrent neural networks, and convolutional neural networks in NLP",
+      "Apply sequence to sequence models and attention in NLP deep neural networks"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "Undergraduate: MA 222 or MA 232",
+      "Graduate: permission of instructor"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

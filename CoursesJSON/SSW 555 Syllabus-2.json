@@ -1,0 +1,155 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction", "Agile Manifesto"],
+      "readings": [],
+      "assignments": ["Create GEDCOM file"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["User Stories"],
+      "readings": [],
+      "assignments": ["write program to read GEDCOM file"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Scrum"],
+      "readings": [],
+      "assignments": ["modify program to store data"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Testing"],
+      "readings": [],
+      "assignments": ["Sprint 1"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Pair Programming"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Refactoring"],
+      "readings": [],
+      "assignments": ["Sprint 2"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Lean"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["DSDM"],
+      "readings": [],
+      "assignments": ["Sprint 3"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Feature Driven Development (FDD)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Crystal"],
+      "readings": [],
+      "assignments": ["Sprint 4"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Scaled Agile Framework"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Spotify"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["DevOps"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "25%",
+      "exams": "35%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": "20%"
+    },
+    "scale": "",
+    "policies": "Late assignments will be assessed a 5% penalty for EACH 24 hour period that the assignment is late."
+  },
+  "assignments": [
+    "Create GEDCOM file",
+    "write program to read GEDCOM file",
+    "modify program to store data",
+    "Sprint 1",
+    "Sprint 2",
+    "Sprint 3",
+    "Sprint 4"
+  ],
+  "policies": {
+    "attendance": "Attendance at weekly live sessions are required.",
+    "late_work": "Late assignments will be assessed a 5% penalty for EACH 24 hour period that the assignment is late.",
+    "academic_integrity": "Students must abide by the Stevens Honor System.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm exam during week 8",
+    "Final exam covers all content for the entire semester."
+  ],
+  "additional_info": {
+    "course_format": "In-person course held Thursday 6:30-8pm.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, programming experience in an object-oriented language, preferably Java or Python.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:52:41.045647",
+    "pdf_source": "../StevensCourses\\SSW 555 Syllabus-2.pdf",
+    "source_type": "file",
+    "text_length": 17568,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "CS 555 Agile Methods for Software Development",
+      "code": "CS 555",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Dr. Richard Ens",
+        "email": "rens@stevens.edu",
+        "office_hours": "By appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course examines agile methods, including Extreme Programming (XP), Scrum, Lean, Crystal, Dynamic Systems Development Method and Feature-Driven Development to understand how rapid realization of software occurs most effectively.",
+    "learning_outcomes": [
+      "Compare and contrast several agile methods for software development.",
+      "Compare and contrast the origins and motivations of the Agile Manifesto vs. historical methodologies.",
+      "Refactor code and tests to meet changing needs.",
+      "Develop and monitor project backlogs.",
+      "Measure and monitor velocity of development.",
+      "Compare and contrast plan-driven versus agile methods."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "Programming experience in an object-oriented language, preferably Java or Python"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

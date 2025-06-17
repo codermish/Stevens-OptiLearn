@@ -1,0 +1,191 @@
+{
+  "textbooks": [
+    {
+      "title": "Introductory Econometrics: A modern approach",
+      "author": "Jeffrey M. Wooldridge",
+      "edition": "7th"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Foundations of Econometrics and Introduction to Linear Regression"],
+      "readings": ["Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Basics of Data Visualization in Econometrics"],
+      "readings": [],
+      "assignments": ["Submission 0"],
+      "due_dates": ["11-Sep"]
+    },
+    "week3": {
+      "topics": ["Understanding Simple Linear Regression"],
+      "readings": ["Chapter 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Exploring Multiple Linear Regression: Part 1"],
+      "readings": ["Chapter 3"],
+      "assignments": ["Submission 1"],
+      "due_dates": ["25-Sep"]
+    },
+    "week5": {
+      "topics": ["Exploring Multiple Linear Regression: Part 2"],
+      "readings": ["Chapter 3"],
+      "assignments": [],
+      "due_dates": ["2-Oct"]
+    },
+    "week6": {
+      "topics": ["OLS Methodology: Hypothesis Testing and Restrictions"],
+      "readings": ["Chapter 3"],
+      "assignments": [],
+      "due_dates": ["9-Oct"]
+    },
+    "week7": {
+      "topics": ["Advanced Inference Techniques using OLS"],
+      "readings": ["Chapter 3"],
+      "assignments": [],
+      "due_dates": ["16-Oct"]
+    },
+    "week8": {
+      "topics": ["Challenges in Regression: Dealing with Heteroskedasticity and Autocorrelation"],
+      "readings": ["Chapters 4, 6"],
+      "assignments": [],
+      "due_dates": ["23-Oct"]
+    },
+    "week9": {
+      "topics": ["First Presentation Session"],
+      "readings": [],
+      "assignments": ["Presentation 1 and submission 2"],
+      "due_dates": ["30-Oct"]
+    },
+    "week10": {
+      "topics": ["Midterm Examination"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["6-Nov"]
+    },
+    "week11": {
+      "topics": ["Introduction to Binary Outcome Models"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["13-Nov"]
+    },
+    "week12": {
+      "topics": ["Panel Data Analysis: Fixed and Random Effects Models"],
+      "readings": ["Chapter 14"],
+      "assignments": [],
+      "due_dates": ["20-Nov"]
+    },
+    "week13": {
+      "topics": ["Advanced Topics in Panel Data: Instrumental Variables"],
+      "readings": ["Chapter 15"],
+      "assignments": [],
+      "due_dates": ["4-Dec"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "30%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": {
+      "A+": "92-100",
+      "A-": "86-91",
+      "B+": "79-85",
+      "B": "74-78",
+      "B-": "70-73",
+      "C+": "63-69",
+      "C": "59-63",
+      "C-": "55-58",
+      "D+": "50-54",
+      "D": "45-49",
+      "F": "below 45"
+    },
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Submission 0",
+      "due_date": "11-Sep"
+    },
+    {
+      "description": "Submission 1",
+      "due_date": "25-Sep"
+    },
+    {
+      "description": "Presentation 1 and submission 2",
+      "due_date": "30-Oct"
+    }
+  ],
+  "policies": {
+    "attendance": "Participation is highly encouraged in class. I will try to rotate questions across all students so that everyone gets a chance to participate.",
+    "late_work": "",
+    "academic_integrity": "Students in graduate courses (600 level) are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Examination",
+      "date": "6-Nov"
+    },
+    {
+      "event": "Thanksgiving Break (No class)",
+      "date": "27-Nov"
+    },
+    {
+      "event": "Final Project Presentations",
+      "date": "11-Dec"
+    }
+  ],
+  "additional_info": {
+    "course_format": "The course employs lectures, class discussions, in-class software practice, problem sets, exams, and a final project and presentation.",
+    "technology_requirements": "Computer: current Mac (OS X) or PC (Windows 7+) with a high-speed internet connection; Webcam: built-in or external webcam, fully installed; Microphone: built-in laptop or tablet mic or external microphone.",
+    "support_resources": "The Office of Counseling and Psychological Services (CAPS) offers free and confidential services to all enrolled students."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:37:48.366213",
+    "pdf_source": "../StevensCourses/MGT 700 Course Syllabus_ 2024F MGT 700-A.pdf",
+    "source_type": "file",
+    "text_length": 12044,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Econometrics",
+      "code": "MGT 700",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Pallavi Pal",
+        "email": "ppal2@stevens.edu",
+        "office_hours": "Tuesday: 9.30-11 at Babbio 413",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Econometrics, literally “economic measurement,” is a branch of economics that attempts to quantify theoretical relationships.",
+    "learning_outcomes": [
+      "Understand the difference between an economic model and an econometric model",
+      "Define the linear regression model based on the classical linear regression",
+      "Perform ordinary least squares (OLS) estimation.",
+      "Use hypothesis testing and confidence interval construction for the population parameters based on the finite sample properties of OLS estimators.",
+      "Understand extensions to the linear regression model including heteroskedasticity and autocorrelation.",
+      "Employ time-series regression.",
+      "Understand the basic panel data methods.",
+      "Be proficient in the empirical estimation of a model using statistical software."
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [
+      "BT221 Statistics",
+      "QF200 or Equivalent"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "textbooks": [
+    {
+      "title": "Critical Chain",
+      "author": "Eliyahu M. Goldratt",
+      "edition": "Second Edition",
+      "year": 1997
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation Week"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["The Core Conflict of Classic and Value Project Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["The Impact of Project Risks and Project Uncertainties"],
+      "readings": [],
+      "assignments": ["Module02-Quiz"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Project Manager's Value Mindset", "Definition of Project Value Proposition"],
+      "readings": [],
+      "assignments": ["Module03-Quiz"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Definition of Project Value Scorecard"],
+      "readings": [],
+      "assignments": ["Module04-Quiz", "Homework 1"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Relations between Project Variation and Project Value"],
+      "readings": [],
+      "assignments": ["Module05-Quiz"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Client Perspective: Stakeholder Analysis and Evaluation"],
+      "readings": [],
+      "assignments": ["Online exam, 75 minutes closed book", "Midterm Exam"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Client Perspective: Identifying Needs"],
+      "readings": [],
+      "assignments": ["Module07-Quiz"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Client Perspective: Prioritizing Needs"],
+      "readings": [],
+      "assignments": ["Homework 2", "Module08-Quiz"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Resource Perspective: Critical Chain Single Project Level"],
+      "readings": [],
+      "assignments": ["Module09-Quiz"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Resource Perspective: Critical Chain Multi Project Level"],
+      "readings": [],
+      "assignments": ["Final Project: Outline", "Module10-Quiz"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Resource Perspective: Critical Chain Risk Management"],
+      "readings": [],
+      "assignments": ["Module11-Quiz"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Project Perspective: Project Value Statement"],
+      "readings": [],
+      "assignments": ["Final Project: Discussion Presentation Slides"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Final Presentations"],
+      "readings": [],
+      "assignments": ["Online exam, 90 minutes", "Final Project"],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final Case Due"],
+      "readings": [],
+      "assignments": ["Final Project"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "20%",
+      "exams": "20%",
+      "projects": "20%",
+      "quizzes": "10%",
+      "final": "10%"
+    },
+    "scale": "A: 94-100%, A-: 90-93.9%, B+: 87-89.9%, B: 83-86.9%, B-: 80-82.9%, C+: 77-79.9%, C: 73-76.9%, C-: 70-72.9%, F: 0-69.9%",
+    "policies": "The instructor reserves discretion to grade down for poor writing, poor team participation, and delayed submission."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "Team assignment related to course content."
+    },
+    {
+      "name": "Homework 2",
+      "description": "Team assignment related to course content."
+    },
+    {
+      "name": "Final Project",
+      "description": "Development of a project value statement."
+    },
+    {
+      "name": "Midterm Exam",
+      "description": "Timed exam covering course materials."
+    },
+    {
+      "name": "Final Exam",
+      "description": "Timed exam covering course materials."
+    }
+  ],
+  "policies": {
+    "attendance": "Class attendance is recorded for every lecture. Absences beyond the first 2 will result in 10 points per subsequent absence deducted from the participation grade. Students who miss more than four classes have to retake the course.",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "All assignments may be submitted to www.turnitin.com for originality evaluation. Students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology provides accommodations for students with documented disabilities through the Office of Disability Services."
+  },
+  "important_dates": [
+    "08/27/24: Orientation Week",
+    "09/03/24: Class begins",
+    "10/15/24: Monday Schedule – No Class",
+    "12/10/24: Final Presentations",
+    "12/12/24: Final Case Due"
+  ],
+  "additional_info": {
+    "course_format": "This course is an online-class course. All materials and many actions are online.",
+    "technology_requirements": "Basic computer and web-browsing skills, live web conferencing using Zoom, recording and uploading video via Panopto.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:16:47.977351",
+    "pdf_source": "../StevensCourses/Syllabus_MGT610-WS_Fall_2024.pdf",
+    "source_type": "file",
+    "text_length": 29112,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Strategic Perspectives on Project Management",
+      "code": "MGT610-WZ",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Thomas Lechler, Ph.D.",
+        "email": "thomas.lechler@stevens.edu",
+        "office_hours": "Wednesday 10am -12pm or by individual appointment",
+        "contact_info": "Tel: 201-216-8174"
+      }
+    },
+    "course_description": "This course will introduce students to the Stevens’ concept of Project Value Management.",
+    "learning_outcomes": [
+      "Understand and apply innovative frameworks, concepts and tools to strategically managing projects in organizations.",
+      "Assess the value of Project Value Management by understanding the limitations of classic approaches to project management.",
+      "Use the project value paradigm to manage projects strategically at the levels of planning, execution, and control towards achieving value.",
+      "Develop a project strategy to maximize the project’s value for key shareholders and stakeholders.",
+      "Select the appropriate set of tools to manage projects strategically.",
+      "Understand and differentiate between project risks and project uncertainties."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "MGT -609",
+      "EM -612",
+      "SYS -612",
+      "SDOE-612",
+      "PME -609",
+      "IPD -612",
+      "ME -636"
+    ],
+    "prerequisites_count": 7,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "textbooks": [
+    {
+      "title": "Analysis of Financial Time Series",
+      "author": "Ruey S. Tsay",
+      "edition": "3rd Edition",
+      "publisher": "Wiley"
+    },
+    {
+      "title": "Introductory Statistics with R",
+      "author": "Peter Daalgard",
+      "edition": "3rd Printing Edition",
+      "publisher": "Springer"
+    },
+    {
+      "title": "An Introduction to Analysis of Financial Data with R",
+      "author": "Ruey S. Tsay",
+      "edition": "Not specified",
+      "publisher": "Wiley"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Review of probability and statistics"],
+      "readings": ["Lecture Notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Characteristics of discrete time financial data"],
+      "readings": ["Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Correlations, dependence, autocorrelation"],
+      "readings": ["Chapter 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Linear time series analysis"],
+      "readings": ["Chapter 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Linear time series analysis continued"],
+      "readings": ["Chapter 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Volatility modeling via conditional heteroscedastic models"],
+      "readings": ["Chapter 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Volatility modeling via conditional heteroscedastic models continued"],
+      "readings": ["Chapter 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Nonlinear models and applications"],
+      "readings": ["Chapter 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Nonlinear models and applications continued"],
+      "readings": ["Chapter 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Multivariate time series models"],
+      "readings": ["Chapter 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Multivariate time series models continued"],
+      "readings": ["Chapter 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Thanksgiving Recess. No Class."],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "40%",
+      "exams": "55%",
+      "projects": "",
+      "quizzes": "",
+      "final": "35%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late assignments, without prior approval, will be accepted.",
+    "academic_integrity": "Copying solutions from other students is strictly forbidden and considered academic dishonesty.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "Week 7"
+    },
+    {
+      "event": "Thanksgiving Recess",
+      "date": "Week 13"
+    }
+  ],
+  "additional_info": {
+    "course_format": "In-person and online options available.",
+    "technology_requirements": "Knowledge of R programming is recommended.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) for mental health support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:13:05.546680",
+    "pdf_source": "../StevensCourses/Syllabus_FA542_F24.pdf",
+    "source_type": "file",
+    "text_length": 10827,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Time Series with Applications to Finance",
+      "code": "FA-542",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dragos Bozdog",
+        "email": "dbozdog@stevens.edu",
+        "office_hours": "Tuesday (5:30pm-6:30pm), Thursday (5:30pm-6:30pm)",
+        "contact_info": "(201) 216-3527"
+      }
+    },
+    "course_description": "This course is designed for Master and Ph.D. graduate students and advanced undergraduates. The purpose is to learn applied statistical methodologies pertaining to time series.",
+    "learning_outcomes": [
+      "The ability to approach and analyze any discrete time signal from a time series perspective.",
+      "The ability to differentiate between various time series models.",
+      "The ability to forecast future observations of the time series."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [
+      "FE 540 or MA 540",
+      "FE 541 or MA 331 or MA 541 or MA 612"
+    ],
+    "prerequisites_count": 4,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

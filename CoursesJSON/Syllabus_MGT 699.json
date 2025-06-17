@@ -1,0 +1,270 @@
+{
+  "textbooks": [
+    {
+      "title": "Strategy and the Business Landscape",
+      "author": "Pankaj Ghemawat",
+      "edition": "2006",
+      "ISBN": "0131430351"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Module 0 – Introduction to Course",
+        "Overview of Strategic Management",
+        "What is strategy?",
+        "Origins of business strategy."
+      ],
+      "readings": [
+        "Michael Porter, 'What is Strategy?' Harvard Business Review, Nov.-Dec. 1996, pp. 61-78."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Develop Mission & Vision, Business Case Analysis",
+        "Evaluating and Formulating Strategies",
+        "Case Analysis and Financial/Operational Benchmarking"
+      ],
+      "readings": [
+        "Collis, 'Can You Say What Your Strategy Is?' Harvard Business Review, 2008.",
+        "Govindarajan, V., 'The Timeless Value of Unrealistic Goals,' HBR.org, October 2012."
+      ],
+      "assignments": [
+        "Select Company for Strategy Business Case Project"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "External Analysis",
+        "Analysis of the business landscape, the industry, its life cycle stage, the competitive environment, the strategic groups within an industry, competitor analysis, Porter’s Five Forces, and PEST analysis."
+      ],
+      "readings": [
+        "Kahneman, D., Lovallo D., and Sibony O., 'Before You Make That Big Decision,' Harvard Business Review, June 2011.",
+        "F. Suarez and G. Lanzolla, 'Half Truth of First Mover Advantage,' Harvard Business Review, April 2005, Pgs. 121-127.",
+        "G. Gavetti and J. Rivkin, 'How Strategists Really Think,' Harvard Business Review, April 2005, Pgs. 54-63."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "External Analysis - 2"
+      ],
+      "readings": [
+        "Moore, Geoffrey, 'Crossing the Chasm' (book summary)."
+      ],
+      "assignments": [
+        "Cola Wars Case (Team)"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Perform Internal Analysis and SWOT",
+        "Benchmarking",
+        "Analysis of the company’s opportunities for growth and increased profit and threats to existing businesses."
+      ],
+      "readings": [
+        "David J. Collis and Cynthia A. Montgomery, 'Competing on Resources,' Harvard Business Review, July-August 2008.",
+        "Prahalad, C.K. and Hamel, G., 'The Core Competence of the Corporation,' Harvard Business Review, July-August 1990."
+      ],
+      "assignments": [
+        "Intel Case (Team)"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Functional Level Strategy",
+        "Efficiency, Innovation, Quality, and Customer Responsiveness"
+      ],
+      "readings": [
+        "Sawnhey M. and Khosla S., 'Where To Look For Insight,' Harvard Business Review, November 2014.",
+        "Clayton Christensen, (Stephen Wunker and George Pohle) 'Built for Innovation,' Forbes Magazine, November 12, 2007."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Business Level Strategy",
+        "Differentiation and Cost Leadership",
+        "The Delta Model"
+      ],
+      "readings": [
+        "Kathleen Eisenhardt and Donald Sull, 'Strategy as Simple Rules', Harvard Business Review, January 2001.",
+        "Kim, W., et al., 'Blue Ocean Strategy,' Harvard Business Review, October 2004.",
+        "Thomas Eisenmann et al., 'Strategies for Two-Sided Markets,' Harvard Business Review, October 2006."
+      ],
+      "assignments": [
+        "Apple Case (Team)"
+      ],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Evaluating Competitors Moves",
+        "Analyzing competitors.",
+        "Anticipating competitors’ counter moves."
+      ],
+      "readings": [
+        "Marshall W. Van Alstyne et al., 'Pipelines, Platforms and the New Rules of Strategy,' Harvard Business Review, April 2016.",
+        "Reeves, Martin, et al., 'Your Strategy Needs A Strategy,' HBR, September 2012.",
+        "Kim, W., et.al., 'The Benefits of Innovation That Isn’t Disruptive', Harvard Business Review, March 11, 2024."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Corporate Level Strategy",
+        "What strategies are employed in multi-business companies?"
+      ],
+      "readings": [
+        "Porter, 'From Competitive Advantage to Corporate Strategy,' Harvard Business Review, May-June 1987.",
+        "Cullinan, LeRoux, and Weddigen, 'When to Walk Away From A Deal,' Harvard Business Review, April 2004."
+      ],
+      "assignments": [
+        "Disney Case (Team)"
+      ],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Industry Transformation",
+        "What happens when industries change because of new technology, regulations, industry ecosystem or changes in customers’ tastes and needs?"
+      ],
+      "readings": [
+        "Clayton Christensen, 'What is Disruptive Innovation?' Harvard Business Review, December 2015.",
+        "Charles Gilbert, 'Disruptive Change: When Trying Harder is Part of the Problem,' Harvard Business Review, May 2002.",
+        "Donald Sull, 'What Makes Good Companies Go Bad?' Harvard Business Review.",
+        "Avoiding Innovation’s Terrible Toll, WSJ, January 7, 2012."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Organizational Structure and Strategy",
+        "Strategy implementation.",
+        "How does organizational structure affect strategy?"
+      ],
+      "readings": [
+        "Norton and Kaplan, 'Putting the Balanced Scorecard to Work,' Harvard Business Review, Sept.-Oct. 1993.",
+        "'How the Mighty Fall,' WSJ Book Summary, Jim Collins."
+      ],
+      "assignments": [
+        "Kodak Case (Team)"
+      ],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Global Strategy"
+      ],
+      "readings": [
+        "Ghemawat, Pankaj, 'Managing Differences: The Central Challenge of Global Strategy,' Harvard Business Review, March 2007."
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Final Presentations"
+      ],
+      "readings": [],
+      "assignments": [
+        "Business Case, Final Presentation"
+      ],
+      "due_dates": [
+        "Final Presentations Due Monday, August 14"
+      ]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "35%",
+      "exams": "35%",
+      "projects": "45%",
+      "quizzes": "",
+      "final": "35%"
+    },
+    "scale": {
+      "A": "93",
+      "A-": "90",
+      "B+": "88",
+      "B": "84",
+      "B-": "80",
+      "C+": "78",
+      "C": "74",
+      "F": "0"
+    },
+    "policies": "Grades will be based on the following: Individual Assignments, Final Exam, Class Participation, Team Assignments (HBS Cases, Strategy Business Case)."
+  },
+  "assignments": [
+    {
+      "description": "Journal Article Reviews - Summarize key points of assigned journal articles and post the review on Canvas."
+    },
+    {
+      "description": "HBS Cases - Teams will prepare case analyses of 5 Harvard Business Cases."
+    },
+    {
+      "description": "Strategy Business Case - Project defining a change in strategic direction and accompanying strategic initiatives for a selected company."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance at online sessions is recommended but not mandatory. Students unable to attend should view the recording.",
+    "late_work": "Late assignments will be accepted only if discussed with the instructor in advance. Point deductions will be assessed for late submissions.",
+    "academic_integrity": "All Stevens graduate students promise to be truthful and avoid dishonesty, fraud, misrepresentation, and deceit concerning their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "May 6 – Orientation starts",
+    "May 20 – Start of Semester, First ZOOM Session",
+    "May 27 (Monday) – Memorial Day (no classes)",
+    "July 4 (Thursday) – Independence Day (no classes)",
+    "August 21 – End of semester"
+  ],
+  "additional_info": {
+    "course_format": "Each week begins with an online ZOOM session on Monday at 6:30 PM EST.",
+    "technology_requirements": "Students should submit assignments to the Assignment Section of Canvas.",
+    "support_resources": "Students may wish to subscribe to strategy-related websites for periodic articles."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:16:11.330216",
+    "pdf_source": "../StevensCourses/Syllabus_MGT 699.pdf",
+    "source_type": "file",
+    "text_length": 21770,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Strategic Management",
+      "code": "Mgt 699",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "David Stahl, Ph.D., MBA",
+        "email": "dstahl@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course presents models and ideas that can be used to improve decision-making in strategic management.",
+    "learning_outcomes": [
+      "Acquire conceptual models and tools to dissect a firm.",
+      "Diagnose problems and evaluate a firm’s long-term prospects.",
+      "Propose changes in strategic direction.",
+      "Identify viable initiatives that enhance a firm’s economic value.",
+      "Refined ability to present evidence and conclusions."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

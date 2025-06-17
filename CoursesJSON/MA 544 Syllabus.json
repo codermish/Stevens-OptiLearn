@@ -1,0 +1,213 @@
+{
+  "textbooks": [
+    {
+      "title": "Matrix methods in data mining and pattern recognition",
+      "author": "Elden, L.",
+      "edition": "2nd ed.",
+      "ISBN": ""
+    },
+    {
+      "title": "Singular value decomposition in data-driven science and engineering: Machine learning, dynamical systems, and control",
+      "author": "Brunton, S. & Kutz, J.",
+      "edition": "",
+      "ISBN": "doi:10.1017/9781108380690"
+    },
+    {
+      "title": "Introduction to linear algebra",
+      "author": "Strang, G.",
+      "edition": "4th ed.",
+      "ISBN": ""
+    },
+    {
+      "title": "Matrix computations",
+      "author": "Golub, G. H. & Van Loan, C. H.",
+      "edition": "3rd ed.",
+      "ISBN": ""
+    },
+    {
+      "title": "Linear Algebra Review Slides from CS229-Stanford University",
+      "author": "",
+      "edition": "",
+      "ISBN": "http://cs229.stanford.edu/summer2020/slides_linear_algebra_fereshte.pdf"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Review of Basic Concepts - I"],
+      "readings": ["Section 1.2 and Chapter 2 (Elden); additional materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week2": {
+      "topics": ["Review of Basic Concepts - II"],
+      "readings": ["Sections 1.5, 2.3-2.4, 4.1 (Elden); additional materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment", "Read and Discuss"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week3": {
+      "topics": ["Matrix Calculus"],
+      "readings": ["Materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment", "Quiz"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week4": {
+      "topics": ["Linear Systems and Iterative Methods"],
+      "readings": ["Chapter 1 (Strang); additional materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week5": {
+      "topics": ["Singular Value Decomposition (SVD)"],
+      "readings": ["Sections 1.1-1.3 (Brunton & Kutz); Sections 6.1-6.3 (Elden); additional materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment", "Read and Discuss"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week6": {
+      "topics": ["Principal Component Analysis (PCA)"],
+      "readings": ["Sections 1.5-1.7 (Brunton & Kutz); additional materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment", "Read and Discuss"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week7": {
+      "topics": ["Least Square Problems (LSP)"],
+      "readings": ["Sections 3.6, 4.1-4.2, Chapter 5 (Elden); Section 5.3 (Golub & Van Loan); additional materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment", "Project Proposal Discussion", "Quiz"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week8": {
+      "topics": ["Nonnegative matrix factorization (NMF)"],
+      "readings": ["Section 9.2 (Elden); additional materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment", "Read and Discuss"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week9": {
+      "topics": ["Regression Analysis"],
+      "readings": ["Materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment", "Quiz"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week10": {
+      "topics": ["Graphs and Networks"],
+      "readings": ["Chapter 10 (Elden); additional materials provided in the online classroom"],
+      "assignments": ["Programming Assignment", "Read and Discuss"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week11": {
+      "topics": ["Sparse Matrices"],
+      "readings": ["Sections 16.1, 17.7 (Elden); additional materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Programming Assignment", "Quiz"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week12": {
+      "topics": ["Randomized Numerical Linear Algebra - Part 1"],
+      "readings": ["Materials provided in the online classroom"],
+      "assignments": ["Mathematical Assignment", "Read and Discuss"],
+      "due_dates": ["Sunday at 11:59 PM Eastern Time"]
+    },
+    "week13": {
+      "topics": ["Randomized Numerical Linear Algebra - Part 2"],
+      "readings": ["Materials provided in the online classroom"],
+      "assignments": ["Final Exam", "Group Project", "Peer Review of Group Project"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "15% (Mathematical Assignments), 15% (Programming Assignments), 10% (Readings & Discussions), 10% (Quizzes), 10% (Live Session), 5% (Peer Review), 20% (Final Project), 15% (Final Exam)",
+      "exams": "15%",
+      "projects": "20%",
+      "quizzes": "10%",
+      "final": "15%"
+    },
+    "scale": "",
+    "policies": "10% of the total points (per day) will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Mathematical Assignment",
+      "description": "Solve mathematical problems manually, proving simple mathematical results individually."
+    },
+    {
+      "name": "Programming Assignment",
+      "description": "Use Python (Python, SciPy, ScikitLearn, etc.) to manipulate data, implement algorithms, and analyze performance of certain machine learning methods and linear algebra routines."
+    },
+    {
+      "name": "Read and Discuss",
+      "description": "Participate in Canvas discussions forums in the form of comments and critiques geared toward answering a given set of questions on the topic."
+    },
+    {
+      "name": "Quiz",
+      "description": "Canvas-based quizzes to motivate self-study and revision of topics."
+    },
+    {
+      "name": "Live Session",
+      "description": "Participate in activities during Live Sessions (quizzes, breakout groups, and chat/discussion)."
+    },
+    {
+      "name": "Peer Review",
+      "description": "Peer review provided after each week’s live session. Students review each other’s responses to questions on the worksheets completed prior to the live session."
+    },
+    {
+      "name": "Final Project",
+      "description": "The culmination of the course, where the students work on real-world problems on some moderately sized dataset in a group of two or three. Project proposals will be due by Module 7."
+    },
+    {
+      "name": "Final Exam",
+      "description": "The final exam will be a cumulative exam on the mathematical concepts learned in the course."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "10% of the total points (per day) will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "Undergraduate Honor System applies to all undergraduate students in coursework and Honor Board proceedings.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, convert handwritten work to pdf, live web conferencing using Zoom, recording a slide presentation with audio narration.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:25:18.066818",
+    "pdf_source": "../StevensCourses\\MA 544 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 22528,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Numerical Linear Algebra for Big Data",
+      "code": "MA 544",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Upendra Prasad, PhD",
+        "email": "uprasad@stevens.edu",
+        "office_hours": "See course Homepage for details",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will introduce foundational ideas as well as advanced techniques in linear algebra that are employed in the computational science of Big Data.",
+    "learning_outcomes": [
+      "Apply foundational linear algebra concepts and understand several advanced linear algebra topics that are useful in handling high-dimensional data.",
+      "Employ matrix/tensor representation of real-life data such as images, documents, and signals.",
+      "Implement numerical linear algebra techniques for linear systems of equations, for solutions using various methods including matrix decomposition and iterative methods.",
+      "Analyze various aspects of numerical approximation algorithms, including efficiency, accuracy, and stability.",
+      "Apply matrix calculus and optimization for developing and implementing machine learning algorithms based on gradient descent and other methods.",
+      "Evaluate and compare different algorithms in terms of complexity, cost of computation, and accuracy.",
+      "Efficiently implement algorithms in Python.",
+      "Apply advanced numerical linear algebra techniques for dimension reduction.",
+      "Create matrix representations of graphs and networks.",
+      "Create popularity ranking methods such as page ranking and social media standing based on network analysis.",
+      "Perform clustering on data based on different metrics including similarity and associativity.",
+      "Perform efficient transformation of data for various applications.",
+      "Exploit sparseness in data and their matrix representation for economic and efficient operations."
+    ],
+    "learning_outcomes_count": 12,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

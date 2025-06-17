@@ -1,0 +1,158 @@
+{
+  "textbooks": [
+    {
+      "title": "Good Design Practices For GMP Pharmaceutical Facilities",
+      "author": "T.Jacobs, A.Signore",
+      "edition": "2nd",
+      "ISBN": "978-1482258905"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to the Course and Overview of cGMP"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Process Engineering"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Architectural Design Concepts"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Design of the API and Biotech Manufacturing Facilities"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Design of the OSD and other Non-Sterile Manufacturing Facilities"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Design of Facilities for Sterile Products Manufacturing"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["HVAC Design for Pharma Facilities"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Industrial Health & Safety"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Design of Process Utilities"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Design of the Automation and Control Systems"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Facility Design, Construction and Qualification"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Design of the Warehousing and Packaging Facilities"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Term papers due"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "240 points",
+      "assignments": "120 points",
+      "exams": "120 points",
+      "projects": "80 points",
+      "quizzes": "120 points",
+      "final": "120 points"
+    },
+    "scale": "A: 90% and above, B: 80% and above, C: 70% and above, F: Below 70%",
+    "policies": "Grades for late submissions will be reduced unless you ask for an extension in advance with a good reason."
+  },
+  "assignments": [
+    {
+      "description": "Weekly homework assignments due on Thursday of each week; participation in online discussion by commenting on at least one posting by classmates due by Sunday."
+    },
+    {
+      "description": "Term paper/project details to be posted during the course."
+    }
+  ],
+  "policies": {
+    "attendance": "Not applicable",
+    "late_work": "Grades for late submissions will be reduced unless you ask for an extension in advance with a good reason.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm exam: week 7",
+    "Final exam: week 14",
+    "Term papers due: week 13"
+  ],
+  "additional_info": {
+    "course_format": "Online, with weekly lectures, readings, quizzes, and discussions.",
+    "technology_requirements": "Zoom web-conferencing system for virtual office hours.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) for mental health support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:06:50.327595",
+    "pdf_source": "../StevensCourses/Syllabus PME535WS Fall 21.pdf",
+    "source_type": "file",
+    "text_length": 12903,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Good Manufacturing Practice in Pharmaceutical Facilities Design",
+      "code": "PME 535WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2021",
+      "instructor": {
+        "name": "Leonid Shnayder",
+        "email": "lshnayde@stevens.edu",
+        "office_hours": "Virtual office hours - by appointment",
+        "contact_info": "Tel. 201-216-8510"
+      }
+    },
+    "course_description": "Become familiar with current Good Manufacturing Practice (GMP) compliance in the design of pharmaceutical and biopharmaceutical facilities.",
+    "learning_outcomes": [
+      "Describe the special requirements related to manufacturing of drugs and how they must affect the architectural, mechanical and process design of manufacturing facilities.",
+      "Assess process, mechanical and architectural design of pharmaceutical manufacturing facilities and evaluate their compliance with Good Manufacturing Practices.",
+      "Select and recommend process equipment and components, architectural finishes, environmental parameters and other design features appropriate for manufacturing of pharmaceuticals.",
+      "Effectively communicate results of their assignments and research about pharmaceutical manufacturing in oral presentations and in written reports."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

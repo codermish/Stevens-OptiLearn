@@ -1,0 +1,144 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Uncertainties in Construction Projects", "Sources of uncertainties", "Quantifying uncertainties"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Risk in Construction Projects", "Propagation of uncertainties", "Risk assessment", "Risk mitigation and management", "Risk perception and communication"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Decision Analysis applied to Construction Projects", "Rational decision making (Economic theory)", "Behavioral decision making"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Project Learning, Auditing and Engineering Best Practice", "Lessons learnt, and engineering best practice"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Seminars"],
+      "readings": ["Kerman Mixed-Use Complex, Kerman, Iran. K.S.Karam", "Musandam Gas Plant, Oman. C. Abou Samra", "Accidents in the Construction of the Porto Metro, Portugal. R.L.Sousa", "The Big Dig Boston, USA. K.S.Karam", "Construction of the Delhi Metro, India. S. Dhoppad", "Construction of an Aquarium in Florida, USA. B. Minutoli", "Construction of the Metlife Stadium, New Jersey, USA. A. Kashian"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "50%",
+      "assignments": "25%",
+      "exams": "0%",
+      "projects": "25%",
+      "quizzes": "0%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "You will have a grace period of up to one week to submit late assignments with a valid excuse."
+  },
+  "assignments": [
+    {
+      "description": "Semester long group project on a topic of your choice. You will present your research at the end of the semester to the class."
+    }
+  ],
+  "policies": {
+    "attendance": "Active participation is critical in this seminar-format course.",
+    "late_work": "You will have a grace period of up to one week to submit late assignments with a valid excuse.",
+    "academic_integrity": "Collaboration among students is strongly encouraged but with exception of eventual group assignments, the work should be individual.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Hybrid, synchronous sessions on Wednesdays from 6:30pm to 9:00pm.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, recording, editing, and uploading video via Panopto.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:15:30.421710",
+    "pdf_source": "../StevensCourses\\F2024 CM512WS Problems In Heavy Construction Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 20255,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Problems in Heavy Construction",
+      "code": "CM512WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Karim S. Karam",
+        "email": "kkaram@stevens.edu",
+        "office_hours": "To be arranged individually with students",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Infrastructure systems are critical for the functioning of society and economic growth. Engineers and managers are often faced with problems during the development and delivery of most infrastructure systems, particularly larger projects that are typically more complex.",
+    "learning_outcomes": [
+      "Identify major sources of uncertainties in construction projects.",
+      "Understand the sources of risks in infrastructure development and delivery.",
+      "Develop and update a construction risk register, and mitigation measures where necessary.",
+      "Understand and apply engineering best practice drawn from the project learning of past experience."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

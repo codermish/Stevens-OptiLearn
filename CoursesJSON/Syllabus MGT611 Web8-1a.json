@@ -1,0 +1,154 @@
+{
+  "textbooks": [
+    {
+      "title": "Practical Management Science",
+      "author": "Winston, W.L., Albright, S.C.",
+      "edition": "5th",
+      "ISBN": "1305250907"
+    },
+    {
+      "title": "The Basic Practice of Statistics",
+      "author": "David S. Moore",
+      "edition": "",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Review of basic concepts"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Class Work 1 - Project Analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Class Work 2 - Project Analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Class Work 3 - Project Analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Class Work 4 - Project Optimization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Class Work 5 - Project Optimization – Project Selection"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Class Work 6 - Project Optimization – Resource Allocation; Project Financing"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Mid-Term"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Probability Theory Review"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Class Work 7 - Decision-Making in Project Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Class Work 8 – Decision Tools"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Class Work 9 – Optimal Strategies and Risk"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Class Work 9 – Decision Trees"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "A: 95-100, A-: 90-94, B+: 85-89, B: 80-84, B-: 70-79, C+: 60-69, C: 50-59, F: 0-49",
+    "policies": "Late assignments will be downgraded by 10 points per day."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late assignments will be downgraded by 10 points per day.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The course will employ lectures, class discussion, individual assignments, and a final exam.",
+    "technology_requirements": "DecisionTools Suite software is recommended for creating decision trees.",
+    "support_resources": "Lecture notes and assignments can be found at https://sit.instructure.com/"
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:05:39.457512",
+    "pdf_source": "../StevensCourses/Syllabus MGT611 Web8-1a.pdf",
+    "source_type": "file",
+    "text_length": 11051,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Project Analytics",
+      "code": "MGT 611",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Tal Ben-Zvi",
+        "email": "tbenzvi@stevens.edu",
+        "office_hours": "online, by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is designed to deepen the student’s ability to use various project management tools for planning, controlling and monitoring a project.",
+    "learning_outcomes": [
+      "Build project portfolio selection models.",
+      "Identify and analyze project risks and develop contingency plans for those risks.",
+      "Analyze the impact of variability in project tasks and plans.",
+      "Choose the most appropriate resources to maintain the schedule and budget of a project.",
+      "Apply quantitative measures of project progress."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

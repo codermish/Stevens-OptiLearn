@@ -1,0 +1,208 @@
+{
+  "textbooks": [
+    {
+      "title": "Java Illuminated “Active Learning Approach”",
+      "author": "Julie Anderson"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Java", "Fundamentals of Java Programming"],
+      "readings": [],
+      "assignments": ["HW 1 released"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Data types, variables, and statements", "Java control structures and functions"],
+      "readings": [],
+      "assignments": ["HW 1 due", "HW 2 released"],
+      "due_dates": ["Jan 29"]
+    },
+    "week3": {
+      "topics": ["Recursive function, Arrays (1-Dim & 2-Dim), and Introduction to memory management"],
+      "readings": [],
+      "assignments": ["HW 2 due", "HW 3 released"],
+      "due_dates": ["Feb 05"]
+    },
+    "week4": {
+      "topics": ["Introduction to Java object oriented concepts & classes instantiation"],
+      "readings": [],
+      "assignments": ["HW 3 due", "HW 4 released", "Quiz1 (Weeks 1-3)"],
+      "due_dates": ["Feb 12"]
+    },
+    "week5": {
+      "topics": ["Objects/classes & Operators in Java"],
+      "readings": [],
+      "assignments": ["HW 4 due", "HW 5 released"],
+      "due_dates": ["Feb 19"]
+    },
+    "week6": {
+      "topics": ["Access specifiers & static members"],
+      "readings": [],
+      "assignments": ["HW 5 due", "HW 6 released"],
+      "due_dates": ["Feb 26"]
+    },
+    "week7": {
+      "topics": ["Data Structure - Abstract"],
+      "readings": [],
+      "assignments": ["HW 6 due", "Review HWs (starting with #6)"],
+      "due_dates": ["Mar 04"]
+    },
+    "week8": {
+      "topics": ["Mid-term exam (Weeks 1-7)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Data Structure (Array List) and ENIM"],
+      "readings": [],
+      "assignments": ["HW 7 released"],
+      "due_dates": ["Mar 25"]
+    },
+    "week10": {
+      "topics": ["File handling part I in Java"],
+      "readings": [],
+      "assignments": ["HW 7 due", "HW 8 released"],
+      "due_dates": ["Apr 01"]
+    },
+    "week11": {
+      "topics": ["File handling part II in Java"],
+      "readings": [],
+      "assignments": ["HW 8 due", "HW 9 released"],
+      "due_dates": ["Apr 08"]
+    },
+    "week12": {
+      "topics": ["Multi-threading"],
+      "readings": [],
+      "assignments": ["HW 9 due", "Quiz2 (Cumulative up to Week 11)", "HW 10 released"],
+      "due_dates": ["Apr 15"]
+    },
+    "week13": {
+      "topics": ["Exception handling & Bitwise Operations"],
+      "readings": [],
+      "assignments": ["HW 10 Due"],
+      "due_dates": ["Apr 22"]
+    },
+    "week14": {
+      "topics": ["Multi-threads & Input/Output"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["JDBC & Regular Expressions"],
+      "readings": [],
+      "assignments": ["Quiz3", "Final Review"],
+      "due_dates": ["May 06"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "20%",
+      "exams": "30%",
+      "projects": "30%",
+      "quizzes": "20%",
+      "final": ""
+    },
+    "scale": "A: 100% to 94.0%, A-: 94.0% to 90.0%, B+: 90.0% to 87.0%, B: 87.0% to 84.0%, B-: 84.0% to 80.0%, C+: 80.0% to 77.0%, C: 77.0% to 74.0%, C-: 74.0% to 60.0%, F: 60.0% to 0.0%",
+    "policies": "Assignments received more than one week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "HW 1",
+      "description": "Released in Week 1"
+    },
+    {
+      "name": "HW 2",
+      "description": "Released in Week 2, due in Week 3"
+    },
+    {
+      "name": "HW 3",
+      "description": "Released in Week 3, due in Week 4"
+    },
+    {
+      "name": "HW 4",
+      "description": "Released in Week 4, due in Week 5"
+    },
+    {
+      "name": "HW 5",
+      "description": "Released in Week 5, due in Week 6"
+    },
+    {
+      "name": "HW 6",
+      "description": "Released in Week 6, due in Week 7"
+    },
+    {
+      "name": "HW 7",
+      "description": "Released in Week 9, due in Week 10"
+    },
+    {
+      "name": "HW 8",
+      "description": "Released in Week 10, due in Week 11"
+    },
+    {
+      "name": "HW 9",
+      "description": "Released in Week 11, due in Week 12"
+    },
+    {
+      "name": "HW 10",
+      "description": "Due in Week 12"
+    },
+    {
+      "name": "Project",
+      "description": "Individual/team project with milestones: proposal, mid-stage report, final report & presentation."
+    }
+  ],
+  "policies": {
+    "attendance": "Students are required to attend all lectures. Random attendance signoffs will be performed. Each student is permitted one absence per semester without penalty.",
+    "late_work": "50% points will be deduced for the submission week after the due date. The homework will not be accepted after one week of the due date.",
+    "academic_integrity": "Students must write and sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Mid-term exam: Mar 18",
+    "Final Exam: May 06"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online. Weekly materials will be released via Canvas on Sunday.",
+    "technology_requirements": "Basic computer and web-browsing skills, live web conferencing using Zoom, Github tool.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:02:21.403843",
+    "pdf_source": "../StevensCourses\\EE-552_Syllabus_Spring2024.pdf",
+    "source_type": "file",
+    "text_length": 26982,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Java",
+      "code": "EE-CPE552-WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Yousef Abdelmalek",
+        "email": "yabdelma@stevens.edu",
+        "office_hours": "Saturday from 9AM to 12noon",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is a hands-on intensive introduction to solving engineering problem using Java.",
+    "learning_outcomes": [
+      "Recognize the basic concepts of the programing languages Java",
+      "Construct various Java statements, datatypes, such as integer, float, arrays, strings, and pointers",
+      "Isolate and correct common errors and bugs in Java programs using debugging tools (e.g. IntelliJ, Eclipse, NetBeans)",
+      "Understand class object and instantiation of classes.",
+      "Apply object-oriented concepts that encapsulate internal details to solve real problems in Java",
+      "Analyze Java programs based on end-user and developer requirements",
+      "Understand and apply knowledge dealing with input and output scenarios"
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

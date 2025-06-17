@@ -1,0 +1,193 @@
+{
+  "textbooks": [
+    {
+      "title": "Interest Rate Models - Theory and Practice: With Smile, Inflation and Credit",
+      "author": "Damiano Brigo",
+      "edition": "",
+      "ISBN": "978-3662517437"
+    },
+    {
+      "title": "Modelling Single-name and Multi-name Credit Derivatives",
+      "author": "Dominic O'Kane",
+      "edition": "",
+      "ISBN": "978-0-470-51928-8"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Static curves: Construction of discount factors, zero coupon rates, forward rates.",
+        "Pricing bonds and interest rates swaps.",
+        "Bond price sensitivity to interest rates moves (duration, DV01, convexity).",
+        "Bootstrapping Yield Curve."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Interpolation Methods (Linear, Exponential, Cubic Spline, Nelson-Siegel Model).",
+        "Interest Rate Derivatives (Bond Options)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Interest Rate Derivatives (Caps and Floors, Swaptions).",
+        "Convexity, Timing, Quanto Adjustment.",
+        "Non-Standard Swaps (Compounding Swaps, Currency Swaps, CMS and SMT swaps, Differential Swaps)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Interest Rate Derivatives: Models of the Short Rate.",
+        "Equilibrium Models (Vasicek, CIR).",
+        "No-Arbitrage Models (Ho-Lee, Hull-White One-Factor Model, Black-Derman-Toy Model, Black-Karasinski Model)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Interest Rate Derivatives: Models of the Short Rate (Hull-White: Two-stage procedure for constructing trinomial trees, Vasicek Model: Recombining binomial tree procedure)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Interest Rate Derivatives: (Hull-White Two-Factor Model, HJM Model, and BGM Model)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Credit Risk: Default event and survival probabilities.",
+        "Risk neutral and realized default probabilities.",
+        "Forward default intensity curve.",
+        "Estimating Default Probabilities using Bond Prices and Historical Data.",
+        "Meton’s Model."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "CDS (CDS and Bond Yields, Valuation of Credit Default Swaps)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Implied Hazard Rates from CDS spreads.",
+        "Implied default curves."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "CDO (Cash and Synthetic CDO, Waterfall Mechanism, STCDO, Valuation of Tranches)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Gaussian Latent Variable Model (CDO and Correlation, Multi-Name Latent Variable Model, Asset Correlation and Dependency, Conditional Hazard Rates, Portfolio Loss Distribution, Simulating Multi-Name Defaults)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Modelling Default Times using Copulas (Default Times Dependencies, Measure of Dependency, Default and Survival Copula Functions: Gaussian, Student-t, Marshall-Olkin, Archimedean Copulas)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Statistical Inference for Copulas (MLE, IFM, CML, Empirical)."
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "60%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "A: 100% to 94%, A-: < 94% to 90%, B+: < 90% to 87%, B: < 87% to 84%, B-: < 84% to 80%, C+: < 80% to 77%, C: < 77% to 70%, F: < 70% to 0%",
+    "policies": "This grading scheme is subject to change based on student performance. It may be curved more leniently, but it will not be made more difficult."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "All Stevens, graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Online (Zoom)",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:14:37.015230",
+    "pdf_source": "../StevensCourses/Syllabus_FE680_A24.pdf",
+    "source_type": "file",
+    "text_length": 10937,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Advanced Derivatives",
+      "code": "FE-680",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Dragos Bozdog",
+        "email": "dbozdog@stevens.edu",
+        "office_hours": "Zoom (By Appointment)",
+        "contact_info": "(201) 216-3527"
+      }
+    },
+    "course_description": "This course will address the practical and theoretical issues for interest rate models, credit models, and hybrid instruments.",
+    "learning_outcomes": [
+      "understanding and implementation of advanced interest rate derivatives models.",
+      "ability to model single name credit derivatives.",
+      "ability to model multi-name credit derivatives."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [
+      "FE 620 – Pricing and Hedging"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

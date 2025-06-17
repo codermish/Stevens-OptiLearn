@@ -1,0 +1,168 @@
+{
+  "textbooks": [
+    {
+      "title": "Judgement in Managerial Decision Making",
+      "author": "M. H. Bazerman and D. A. Moore",
+      "edition": "Required"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction and Course Overview"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Overview of Decision Making"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Bounded Awareness in Decision Making"],
+      "readings": ["Ch. 1 & 4, Ch 3 (EXCLUDING Representativeness Heuristic)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Decision Making in Uncertainty"],
+      "readings": ["Chapter 2 and 3 (Representativeness Heuristic only)"],
+      "assignments": ["Speed Ventures (see Harvard Business pack)"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Columbia Case & Bounded Ethicality: Part 1"],
+      "readings": ["Chapter 8, p 133 – 144, and Bohmer, R.M., Edmondson, A.C., & Roberto, M.A. (2012). Columbia’s Final Mission. Harvard Business School"],
+      "assignments": ["Assign Case Analysis Paper on Columbia and Tenerife disasters (due week 6)"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Problem Definition and Framing Effects"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Case Study Analysis Paper: Columbia & Tenerife due"]
+    },
+    "week7": {
+      "topics": ["Motivational and Emotional Impacts on Decisions – Bounded Ethicality: Part 2"],
+      "readings": ["Chapter 5 and 8, pp. 144 - 158"],
+      "assignments": ["Implicit Association Test"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Group Decision Making: Everest"],
+      "readings": ["Roberto, M.A. (2002). Lessons from everest: The interaction of cognitive bias, psychological safety and system complexity. California Management Review, 45(1), 136-158, CMR245."],
+      "assignments": ["Everest Simulation (see Harvard Business pack)"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Leading Through Uncertainty"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Crisis Decision Making"],
+      "readings": ["Chapter 7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Negotiating Decisions"],
+      "readings": ["Chapters 10 & 11"],
+      "assignments": ["Negotiation Preparation"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Improvement in Decision Making"],
+      "readings": ["Chapters 12"],
+      "assignments": ["Decision Forum Presentation"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Decision Forum – Part 2"],
+      "readings": [],
+      "assignments": ["Decision Forum Presentation, Individual Reflection"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "20%",
+      "exams": "",
+      "projects": "20%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "title": "Case Study Analysis Paper: Columbia & Tenerife",
+      "description": "Prepare a report that summarizes the events leading up to the Columbia and Tenerife disasters, with a brief compare-and-contrast analysis."
+    },
+    {
+      "title": "Presentations on Assigned Readings",
+      "description": "Prepare a brief power point presentation (5 – 7 slides max.) to be presented to and distributed to the rest of the class."
+    },
+    {
+      "title": "Decision Forum Presentation",
+      "description": "Work in small teams to identify, address, and improve a major decision that is upcoming or was faced in the past."
+    },
+    {
+      "title": "Individual Reflection: YOUR Decision-Making",
+      "description": "Consider your past decisions, approaches and practices along with the materials presented throughout the semester."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is expected at ALL Live sessions as many of the sessions will involve active discussion and participation.",
+    "late_work": "Late submissions will be considered in some, and not all cases. It is your responsibility to talk to your instructor about your situation in advance.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Case Study Analysis Paper due approx. week 6",
+    "Decision Forum Presentation due weeks 12, 13",
+    "Individual Reflection Paper due last week"
+  ],
+  "additional_info": {
+    "course_format": "This course spans thirteen weeks with a different learning module covered each week.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services to all enrolled students."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:33:36.878173",
+    "pdf_source": "../StevensCourses/MGT 635-WN Syllabus_Summer24.pdf",
+    "source_type": "file",
+    "text_length": 17882,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Managerial Judgment and Decision Making",
+      "code": "MGT 635-WN",
+      "credits": "3",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Michele Lewski",
+        "email": "mlewski@verizon.net",
+        "office_hours": "Available by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The objective of this course is to help students understand how decisions are made, why they are often less than optimal, and how decision-making can be improved.",
+    "learning_outcomes": [
+      "Evaluate past decisions and explore why decision-making can be challenging",
+      "Assess decision-making from a psychological, statistical, and rational model perspective",
+      "Analyze the limits of rational thinking – biases, emotions, and uncertainty and how to overcome them",
+      "Apply strategies to enable better decision making",
+      "Apply principles of negotiation"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

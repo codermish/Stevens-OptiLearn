@@ -1,0 +1,264 @@
+{
+  "textbooks": [
+    {
+      "title": "Modern Portfolio Theory",
+      "author": "Francis and Kim",
+      "edition": "2013",
+      "ISBN": "111837052X"
+    },
+    {
+      "title": "Active Portfolio Management",
+      "author": "Grinold and Kahn",
+      "edition": "2e",
+      "ISBN": "0070248826"
+    },
+    {
+      "title": "Essential mathematics for Market Risk Management",
+      "author": "Hubert",
+      "edition": "2e",
+      "ISBN": "9781119979524"
+    },
+    {
+      "title": "Portfolio Optimization and Performance Analysis",
+      "author": "Prigent",
+      "ISBN": "1-58488-578-5"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Orientation & One Period Utility",
+        "Course Introduction",
+        "Course Overview",
+        "Student Introduction and Initial Assessment",
+        "First Motivating Examples",
+        "One-Period Utility Analysis",
+        "Absolute and Relative Risk Aversion",
+        "Certainty Equivalent and Risk Premium"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Orientation & One Period Utility",
+        "Course Introduction",
+        "Course Overview",
+        "Student Introduction and Initial Assessment",
+        "First Motivating Examples",
+        "One-Period Utility Analysis",
+        "Absolute and Relative Risk Aversion",
+        "Certainty Equivalent and Risk Premium"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Computational Tools, Algebra & Optimization for Portfolio",
+        "Portfolio expected return and risk",
+        "Portfolio weights",
+        "Attainable regions of risk-return space",
+        "Risk reduction and diversification",
+        "Review of algebra for Portfolio and matrix calculus",
+        "Convex and Nonlinear optimization basics",
+        "Equality and Inequality Constraints",
+        "KKT conditions and closed-form solution to Markowitz Allocation"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Computational Tools, Algebra & Optimization for Portfolio",
+        "Portfolio expected return and risk",
+        "Portfolio weights",
+        "Attainable regions of risk-return space",
+        "Risk reduction and diversification",
+        "Review of algebra for Portfolio and matrix calculus",
+        "Convex and Nonlinear optimization basics",
+        "Equality and Inequality Constraints",
+        "KKT conditions and closed-form solution to Markowitz Allocation"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "The opportunity Set",
+        "Mean-Variance Eﬃcient Frontiers",
+        "CAPM, APT",
+        "Multi-Factor Models",
+        "Mean-variance Frontier Portfolios",
+        "The Markowitz Eﬃcient Frontiers with and without Risk-free security",
+        "One and two-fund theorems",
+        "Market Price of Risk and Security Market Line",
+        "CAPM, APT, Single index and Multi-Index models",
+        "Pricing and Arbitrage opportunities"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "The opportunity Set",
+        "Mean-Variance Eﬃcient Frontiers",
+        "CAPM, APT",
+        "Multi-Factor Models",
+        "Mean-variance Frontier Portfolios",
+        "The Markowitz Eﬃcient Frontiers with and without Risk-free security",
+        "One and two-fund theorems",
+        "Market Price of Risk and Security Market Line",
+        "CAPM, APT, Single index and Multi-Index models",
+        "Pricing and Arbitrage opportunities"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Mid-semester Review"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Midterm Project"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Sensitivity to Inputs & Robust Allocation",
+        "Models of uncertainties of Expected Returns and Risk Matrices",
+        "Models of Robust Allocation",
+        "Worst Case Optimization",
+        "Matrix Calibration",
+        "Black Litterman Allocation"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Portfolio Characteristics & Applications",
+        "Portfolio Characteristics",
+        "Active and Passive Portfolios Management",
+        "Performance attribution",
+        "Asset Versus Risk Allocation",
+        "Portfolio construction to mitigate interest rate risk sensitivity"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Dynamic Portfolio Allocation",
+        "Risk Sensitive Asset Allocation",
+        "Maximum Principle",
+        "HJB Equation",
+        "Feedback using Riccati Equation"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Final review",
+        "Course evaluation",
+        "Presentation of Final Projects"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "20%",
+      "projects": "35%",
+      "quizzes": "15%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Four to six homework assignments in which students will do theoretical analysis and write programs for portfolio management in both Matlab, R or Python."
+    },
+    {
+      "description": "Students will form groups of three or less, and each group will be required to design, implement, backtest and run a comparative analysis of quantitative investment strategies according to modern portfolio management principles."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is mandatory. The class will be interactive. Students are required to participate and answer questions on the reading assignments.",
+    "late_work": "",
+    "academic_integrity": "Students must write and sign the pledge: 'I pledge my honor that I have abided by the Stevens Honor System.'",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Hybrid including lectures and Socratic method discussions.",
+    "technology_requirements": "Familiarity with Matlab and R, and/or Python.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:09:59.456936",
+    "pdf_source": "../StevensCourses/Syllabus-FE630-Fall24.pdf",
+    "source_type": "file",
+    "text_length": 9760,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Portfolio Theory and Applications",
+      "code": "FE630",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Prof Pape Ndiaye",
+        "email": "pndiaye@stevens.edu",
+        "office_hours": "TBD, by appointment",
+        "contact_info": "(201) 216-8047"
+      }
+    },
+    "course_description": "This course is an introduction to quantitative portfolio theory, practice, optimization, and management. It addresses investor choice, market opportunities, and optimal portfolio selection. It examines security covariance and return models, performance analysis, and return attribution. It provides also an introduction to some basic methods for robust portfolio construction. The course will also include a computational component in which students will construct optimal portfolios, track their behavior, and analyze their performance.",
+    "learning_outcomes": [
+      "Compute Absolute Risk Aversion (ARA), Certainty Equivalent of Risky (CER) of risky gamble and Risk-premiums",
+      "Solve Optimal Decision Problems arising in Modern Portfolio Theory and implement the solution using a high level language such as R, Matlab or Python",
+      "Design Markowitz efficient portfolios and use the One-fund Theorem and the Two-fund theorem to build efficient Portfolios with Target Return or Target Risk",
+      "Use CAPM, APT and Factor Model to compute security Expected Returns and Risk and Covariance",
+      "Apply Markowitz Allocation to design, implement and backtest Optimal Portfolios using historical price time series, analyze the sensitivity to various inputs, and manage Fixed Income portfolios"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "Background in Algebra, Optimization, Stochastic Calculus",
+      "Comfortable with the material presented in FE 543 or FE610 (Stochastic Calculus for Financial Engineering) and FE620 (Pricing and Hedging)",
+      "Some familiarity with Matlab and R, (and / or Python)"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "textbooks": [
+    {
+      "title": "Artificial Intelligence in Practice: How 50 Successful Companies Used AI and Machine Learning to Solve Problems",
+      "author": "Marr, B. & Ward, M.",
+      "edition": "1st Edition"
+    },
+    {
+      "title": "Applied Artificial Intelligence: A Handbook for Business Leaders",
+      "author": "Yao, M., Zhou, A., and Jia, M.",
+      "edition": "2018"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": ["AAI Chapters 1–2", "AIP 1–3"],
+      "assignments": ["Introductory survey"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Face recognition: history and foundations"],
+      "readings": ["AAI Chapter 3–4", "AIP 4-6"],
+      "assignments": ["PS #1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Face recognition: deploying, managing, and monitoring modern systems"],
+      "readings": ["AAI Chapter 5–6", "AIP 7–9"],
+      "assignments": ["Project #1"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Face recognition: assessing fairness, accountability, transparency, ethics, and the law"],
+      "readings": ["AAI Chapter 7", "AIP 10–12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Autonomous transportation: history and foundations"],
+      "readings": ["AAI Chapter 8", "AIP 13–16"],
+      "assignments": ["PS #2"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Autonomous transportation: deploying, managing, and monitoring modern systems"],
+      "readings": ["AAI Chapter 9-10", "AIP 17-18"],
+      "assignments": ["Project #2"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Autonomous transportation: assessing fairness, accountability, transparency, ethics, and the law"],
+      "readings": ["AAI Chapter 11-12", "AIP 19-21"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Machine translation: history and foundations"],
+      "readings": ["AAI Chapter 13-15", "AIP 22-25"],
+      "assignments": ["PS #3"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Machine translation: deploying, managing, and monitoring modern systems"],
+      "readings": ["AAI Chapter 16", "AIP 26-30"],
+      "assignments": ["Project #3"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Machine translation: assessing fairness, accountability, transparency, ethics, and the law"],
+      "readings": ["AAI Chapter 17", "AIP 31-33"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Fraud detection: history and foundations"],
+      "readings": ["AAI Chapter 18", "AIP 34-37"],
+      "assignments": ["PS #4"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Fraud detection: deploying, managing, and monitoring modern systems"],
+      "readings": ["AAI Chapter 19", "AIP 38-40"],
+      "assignments": ["Project #4"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Fraud detection: assessing fairness, accountability, transparency, ethics, and the law"],
+      "readings": ["AAI Chapter 20", "AIP 41-45"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Scheduling meetings"],
+      "readings": ["AIP 46–50"],
+      "assignments": ["PS #5"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15 points (1 point each)",
+      "assignments": "45 points (9 points each)",
+      "exams": "0 points",
+      "projects": "40 points (10 points each)",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 94, A-: 90, B+: 87, B: 84, B-: 80, C+: 77, C: 74, C-: 70, D+: 67, D: 64, F: 0",
+    "policies": "Late problem sets and projects will not be accepted unless excused in writing by the instructor."
+  },
+  "assignments": [
+    {
+      "title": "Introductory survey",
+      "description": "Overview of course format and structure."
+    },
+    {
+      "title": "PS #1",
+      "description": "Problem set related to face recognition."
+    },
+    {
+      "title": "Project #1",
+      "description": "Hands-on project related to face recognition."
+    },
+    {
+      "title": "PS #2",
+      "description": "Problem set related to autonomous transportation."
+    },
+    {
+      "title": "Project #2",
+      "description": "Hands-on project related to autonomous transportation."
+    },
+    {
+      "title": "PS #3",
+      "description": "Problem set related to machine translation."
+    },
+    {
+      "title": "Project #3",
+      "description": "Hands-on project related to machine translation."
+    },
+    {
+      "title": "PS #4",
+      "description": "Problem set related to fraud detection."
+    },
+    {
+      "title": "Project #4",
+      "description": "Hands-on project related to fraud detection."
+    },
+    {
+      "title": "PS #5",
+      "description": "Problem set related to scheduling meetings."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is required and is worth 1 point per class.",
+    "late_work": "Late problem sets and projects will not be accepted unless excused in writing by the instructor.",
+    "academic_integrity": "Students must uphold the ideals set forth in the Honor System Constitution.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The course meets 14 times, divided into four 3-week units and one 2-week unit.",
+    "technology_requirements": "You will need a computer that can run Python 3.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:31:47.734526",
+    "pdf_source": "../StevensCourses\\BIA 668 syllabus0.5.pdf",
+    "source_type": "file",
+    "text_length": 17414,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Management of A.I. Technologies",
+      "code": "BIA 668",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Jordan W. Suchow",
+        "email": "jws@stevens.edu",
+        "office_hours": "TBD",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course surveys applications of artificial intelligence to business and technology in the digital era.",
+    "learning_outcomes": [
+      "Manage the performance of an AI system and monitor its ongoing effectiveness",
+      "Distinguish between hype and rapid advances in AI methods.",
+      "Assess AI systems along dimensions of fairness, accountability, transparency, ethics, and the law.",
+      "Manage AI/ML projects.",
+      "Develop strategy for deployment of AI solutions within an organization."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "One advanced ML course (e.g., BIA 667 Deep Learning)"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

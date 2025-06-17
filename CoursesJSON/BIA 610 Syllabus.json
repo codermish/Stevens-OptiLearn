@@ -1,0 +1,397 @@
+{
+  "textbooks": [
+    {
+      "title": "Data Smart: Using Data Science to Transform Information into Insight",
+      "author": "John W. Foreman",
+      "edition": "1st Edition",
+      "ISBN": "978-1118661468"
+    },
+    {
+      "title": "Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support",
+      "author": "Ramesh Sharda, Dursun Delen, Efraim Turban",
+      "edition": "11th Edition",
+      "ISBN": "978-0135192016"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Introductions",
+        "Overview of Business Intelligence, Analytics, Data Science, and Artificial Intelligence",
+        "Managerial Decision Making",
+        "Business Intelligence Analytics Applications",
+        "Rapid Miner Intro",
+        "Tableau Intro"
+      ],
+      "readings": [
+        "Chapter 1 from Sharda, R., Delen, D., & Turban, E. (2021)."
+      ],
+      "assignments": [
+        "Quiz #1",
+        "Homework #1",
+        "Interactive Video Quiz #1",
+        "Collaborative Assignment #1",
+        "Live Session #1"
+      ],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Artificial Intelligence Concepts, Drivers, Major Technologies, and Business Applications",
+        "Intro to Artificial Intelligence",
+        "AI & Decision Making",
+        "Practice in Tableau",
+        "Practice in Rapid Miner"
+      ],
+      "readings": [
+        "Chapter 2 from Sharda, R., Delen, D., & Turban, E. (2021)."
+      ],
+      "assignments": [
+        "Quiz #2",
+        "Homework #2",
+        "Interactive Video Quiz #2",
+        "Collaborative Assignment #2",
+        "Live Session #2"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Nature of Data, Statistical Modeling, and Visualization",
+        "Business Analytics Preparation of Data",
+        "Statistical Modeling",
+        "Visualization with Tableau",
+        "Dashboards in Tableau"
+      ],
+      "readings": [
+        "Chapter 3 from Sharda, R., Delen, D., & Turban, E. (2021)."
+      ],
+      "assignments": [
+        "Quiz #3",
+        "Homework #3",
+        "Interactive Video Quiz #3",
+        "Collaborative Assignment #3",
+        "Live Session #3"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Data Mining Process, Methods, and Algorithms",
+        "Data Mining",
+        "Crisp Methodology",
+        "Applications of Data Mining",
+        "Rapid Miner and Classification Problems",
+        "Rapid Miner and Regression"
+      ],
+      "readings": [
+        "Chapter 4 from Sharda, R., Delen, D., & Turban, E. (2021).",
+        "Optional: Chapter 5 of The Kaggle Book."
+      ],
+      "assignments": [
+        "Quiz #4",
+        "Homework #4",
+        "Interactive Video Quiz #4",
+        "Collaborative Assignment #4",
+        "Live Session #4"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Machine-Learning Techniques for Predictive Analytics",
+        "What is ANN?",
+        "Clustering for Unsupervised data",
+        "Rapid Miner and Clustering",
+        "Rapid Miner and Automodel"
+      ],
+      "readings": [
+        "Chapter 5 from Sharda, R., Delen, D., & Turban, E. (2021).",
+        "Optional: Chapter 2 of Data Smart."
+      ],
+      "assignments": [
+        "Quiz #5",
+        "Homework #5",
+        "Interactive Video Quiz #5",
+        "Collaborative Assignment #5",
+        "Live Session #5"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Deep Learning and Cognitive Computing",
+        "Deep Learning",
+        "Rapid Miner and Deep Learning",
+        "Application of Deep Learning"
+      ],
+      "readings": [
+        "Chapter 6 from Sharda, R., Delen, D., & Turban, E. (2021).",
+        "Optional: Chapter 6 of The Kaggle Book."
+      ],
+      "assignments": [
+        "Quiz #6",
+        "Homework #6",
+        "Interactive Video Quiz #6",
+        "Collaborative Assignment #6",
+        "Live Session #6"
+      ],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Text Mining, Sentiment Analysis, and Social Analytics",
+        "Text Mining",
+        "Text Analytics",
+        "Sentiment Analysis",
+        "Rapid Miner and Sentiment analysis Examples",
+        "Gephi and Social Analytics"
+      ],
+      "readings": [
+        "Chapter 7 from Sharda, R., Delen, D., & Turban, E. (2021).",
+        "Optional: Chapter 5 of Data Smart."
+      ],
+      "assignments": [
+        "Quiz #7",
+        "Homework #7",
+        "Interactive Video Quiz #7",
+        "Collaborative Assignment #7",
+        "Live Session #7"
+      ],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Prescriptive Analytics: Optimization and Simulation",
+        "Prescriptive analytics",
+        "Simulation",
+        "Applications of Optimization and simulation",
+        "Excel solver"
+      ],
+      "readings": [
+        "Chapter 8 from Sharda, R., Delen, D., & Turban, E. (2021)."
+      ],
+      "assignments": [
+        "Quiz #8",
+        "Homework #8",
+        "Interactive Video Quiz #8",
+        "Collaborative Assignment #8",
+        "Live Session #8"
+      ],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Big Data, Cloud Computing, and Location Analytics: Concepts and Tools",
+        "Big Data",
+        "Hadoop Sparc",
+        "Rapid Miner and Big Data Analytics"
+      ],
+      "readings": [
+        "Chapter 9 from Sharda, R., Delen, D., & Turban, E. (2021)."
+      ],
+      "assignments": [
+        "Quiz #9",
+        "Homework #9",
+        "Interactive Video Quiz #9",
+        "Collaborative Assignment #9",
+        "Live Session #9"
+      ],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Robotics: Industrial and Consumer Applications",
+        "Robotic applications",
+        "Chatbots",
+        "Rapid Miner and AI robotic applications"
+      ],
+      "readings": [
+        "Chapter 10 from Sharda, R., Delen, D., & Turban, E. (2021)."
+      ],
+      "assignments": [
+        "Quiz #10",
+        "Homework #10",
+        "Interactive Video Quiz #10",
+        "Collaborative Assignment #10",
+        "Live Session #10"
+      ],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Group Decision Making, Collaborative Systems, and AI Support",
+        "applications of robots",
+        "Group Decision-Making",
+        "Collaboration in AI applications",
+        "Using Tableau and Rapid Miner collaboratively"
+      ],
+      "readings": [
+        "Chapter 11 from Sharda, R., Delen, D., & Turban, E. (2021)."
+      ],
+      "assignments": [
+        "Quiz #11",
+        "Homework #11",
+        "Interactive Video Quiz #11",
+        "Collaborative Assignment #11",
+        "Live Session #11"
+      ],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Knowledge Systems: Expert Systems, Recommenders, Chatbots, Virtual Personal Assistants, and Robo Advisors",
+        "Recommendation Systems",
+        "Chatbots",
+        "Rapid Miner and Recommendation systems"
+      ],
+      "readings": [
+        "Chapter 12 from Sharda, R., Delen, D., & Turban, E. (2021)."
+      ],
+      "assignments": [
+        "Quiz #12",
+        "Homework #12",
+        "Interactive Video Quiz #12",
+        "Collaborative Assignment #12",
+        "Live Session #12"
+      ],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "The Internet of Things as a Platform for Intelligent Applications",
+        "Internet of things",
+        "Iot applications",
+        "Ethical Issues of AI"
+      ],
+      "readings": [
+        "Chapters 13 and 14 from Sharda, R., Delen, D., & Turban, E. (2021)."
+      ],
+      "assignments": [
+        "Homework #13",
+        "Interactive Video Quiz #13",
+        "Collaborative Assignment #13",
+        "Live Session #13",
+        "Final Project (Individual)"
+      ],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "30%",
+      "projects": "20%",
+      "quizzes": "10%",
+      "final": "15%"
+    },
+    "scale": "A >92; A- 92~90; B+ 89~85; B 84~80; B- 79~75; C+ 74~70; C 69~65; C- 64~60; F<60",
+    "policies": "Late homework submissions or final project submissions will be subject to a 20% deduction."
+  },
+  "assignments": [
+    {
+      "name": "Homework #1",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #2",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #3",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #4",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #5",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #6",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #7",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #8",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #9",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #10",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #11",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #12",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Homework #13",
+      "description": "Formulating and solving a small but practically relevant homework problem from the textbook."
+    },
+    {
+      "name": "Final Project (Individual)",
+      "description": "Read a case study and answer the questions using the principles learned throughout the course."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is online with some synchronous components, like the weekly live sessions.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:28:51.043319",
+    "pdf_source": "../StevensCourses\\BIA 610 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 26936,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Applied Analytics",
+      "code": "BIA 610",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Elizabeth Gomez",
+        "email": "egomez2@stevens.edu",
+        "office_hours": "See Course Homepage",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is intended to integrate all previously taken courses in the program by presenting a set of increasingly complex business problems.",
+    "learning_outcomes": [
+      "Cultivate a fundamental understanding of the descriptive, predictive, prescriptive and artificial intelligence techniques",
+      "Combine descriptive, prescriptive prescriptive and artificial intelligence methodologies using software tools",
+      "Create useful insights from structured and unstructured datasets of any size",
+      "Compare the performance of different descriptive, predictive, prescriptive and artificial intelligence techniques",
+      "Design business analytics projects focused on obtaining actionable insights from complex data",
+      "Integrate the decisions using the insights into a policy recommendation",
+      "Combine knowledge and skills to continue learning"
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "textbooks": [
+    {
+      "title": "Economics",
+      "authors": ["Paul Krugman", "Robin Wells"],
+      "edition": "6th Edition",
+      "publisher": "MacMillan Publishing"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Demand and Supply", "Consumer and producer surplus"],
+      "readings": ["Textbook Chapters 3, 4"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Price and quantity controls"],
+      "readings": ["Textbook Chapter 5"],
+      "assignments": ["End of chapter problems from the textbook"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Elasticity", "Taxes"],
+      "readings": ["Textbook Chapter 6-7"],
+      "assignments": ["End of chapter problems from the textbook"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Producer choice", "Costs of production."],
+      "readings": ["Textbook Chapter 11"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Supply in perfect competition"],
+      "readings": ["Textbook Chapter 12"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Price and quantity decisions in Monopoly"],
+      "readings": ["Textbook Chapter 13"],
+      "assignments": ["End of chapter problems from the textbook"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Oligopoly and Monopolistic Competition", "Game theory"],
+      "readings": ["Textbook Chapter 14-15"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Introduction to Macroeconomics", "GDP"],
+      "readings": ["Textbook Chapters 21-22"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Inflation", "Unemployment"],
+      "readings": ["Textbook Chapters 23"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Growth and the Loanable Funds Market"],
+      "readings": ["Textbook Chapters 24-25"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Aggregate Demand and Aggregate Supply"],
+      "readings": ["Textbook Chapter 27"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Fiscal Policies"],
+      "readings": ["Textbook Chapter 28"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["The Money Market", "The FED"],
+      "readings": ["Textbook Chapter 29"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Monetary policies", "The Phillips curve"],
+      "readings": ["Textbook Chapters 30, 31"],
+      "assignments": ["End of chapter problems from the textbook."],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "60%",
+      "projects": "",
+      "quizzes": "10%",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": "Late homework submissions will be assessed a 10% penalty."
+  },
+  "assignments": [
+    {
+      "description": "End of chapter problems from the textbook.",
+      "due_date": "6:00PM the next class meeting"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance will not be taken, but students are expected to attend weekly and turn on their camera.",
+    "late_work": "Late homework submissions will be assessed a 10% penalty.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "July 1, 9:30pm through July 8, 11pm"
+    },
+    {
+      "event": "Final Exam",
+      "date": "August 19, 9pm until August 26, 11pm"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:38:24.446880",
+    "pdf_source": "../StevensCourses/MGT506WS syllabus Summer 2024-4 (1).pdf",
+    "source_type": "file",
+    "text_length": 20478,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Economics for Managers",
+      "code": "EMT506",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Joelle Saad-Lessler",
+        "email": "jsaadles@stevens.edu",
+        "office_hours": "Wednesdays 2:00PM-4:00PM, Fridays 2:00PM-4:00PM EST",
+        "contact_info": "201-216-3345"
+      }
+    },
+    "course_description": "This course introduces managers to the essence of business economics – the theories, concepts and ideas that form the economist’s tool kit encompassing both the microeconomic and macroeconomic environments.",
+    "learning_outcomes": [
+      "Use supply and demand to explain various economic phenomena and principles.",
+      "Explain the measurement and importance of GDP, inflation, unemployment, money, and trade. Explain the economic meaning of price, elasticity, and production costs. Describe the cause and effect of changes in all of these variables.",
+      "Draw and analyze cost and revenue curves that maximize profit. Discuss differences and critically analyze the pros and cons of different market structures, including competitive, monopolistic and oligopolistic markets.",
+      "Read and explain the content of economic materials from a secondary source (such as the Wall Street Journal, New York Times, etc.) Relate economic concepts to these real-world events and critically evaluate the impact of economic policy."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

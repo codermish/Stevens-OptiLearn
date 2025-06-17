@@ -1,0 +1,185 @@
+{
+  "textbooks": [
+    {
+      "title": "Pharmaceutical Statistics: Practical and Clinical Applications",
+      "authors": "Sanford Bolton & Charles Bon",
+      "edition": "Fifth Edition",
+      "ISBN-13": "978-1420074222",
+      "ISBN-10": "1420074229"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation week"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to statistical methods."],
+      "readings": ["Ch. 1 and 2"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Probability and Probability Distributions."],
+      "readings": ["Ch. 3"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Sampling distributions. Estimation of Population Parameters."],
+      "readings": ["Ch. 4, 5"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Tests of Hypothesis for A Single Sample"],
+      "readings": ["Ch. 5"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Tests of Hypothesis for Two Samples"],
+      "readings": ["Ch. 5, 6"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Correlation and Regression."],
+      "readings": ["Ch. 7"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm exam."],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Analysis of Variances – ANOVA"],
+      "readings": ["Ch. 8"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Design of experiments Part 1"],
+      "readings": ["Ch. 9"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Design of experiments Part 2"],
+      "readings": ["Ch. 16"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Statistical Process Control and Process Capability."],
+      "readings": ["Ch. 12"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Lot Acceptance Sampling"],
+      "readings": ["Ch. 12"],
+      "assignments": ["Problem set"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Statistical Methods in Process Validation."],
+      "readings": ["Ch. 13.1"],
+      "assignments": ["Term papers due."],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "120 points",
+      "assignments": "240 points",
+      "exams": "240 points",
+      "projects": "120 points",
+      "quizzes": "",
+      "final": "120 points"
+    },
+    "scale": "A: 90% and above, B: 80% and above, C: 70% and above, F: Below 70%",
+    "policies": "Grades for late submissions will be reduced unless you ask for an extension in advance with a good reason."
+  },
+  "assignments": [
+    {
+      "description": "Weekly problem sets due on Sunday of the corresponding week."
+    },
+    {
+      "description": "Initial discussion submission due on Thursday of each week; participation by commenting on at least one post by Sunday."
+    },
+    {
+      "description": "Term paper/project details will be posted during the course."
+    }
+  ],
+  "policies": {
+    "attendance": "Not applicable",
+    "late_work": "Grades for late submissions will be reduced unless you ask for an extension in advance with a good reason.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm exam",
+      "date": "on or about week 7"
+    },
+    {
+      "event": "Final exam",
+      "date": "week 14"
+    },
+    {
+      "event": "Term papers due",
+      "date": "week 14"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Online lectures, weekly readings, homework submissions, and discussions.",
+    "technology_requirements": "Minitab Statistical Software rental costs $35.99 for 6 months and $57.99 for 12 months.",
+    "support_resources": "Office of Disability Services for accommodations, CAPS for mental health support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:07:31.594083",
+    "pdf_source": "../StevensCourses/Syllabus PME602WS Spring 24.pdf",
+    "source_type": "file",
+    "text_length": 13798,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Statistical Methods in Life Science Industries",
+      "code": "PME602WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Leonid Shnayder",
+        "email": "lshnayde@stevens.edu",
+        "office_hours": "Virtual office hours – TBD",
+        "contact_info": "Tel. 201-216-8510"
+      }
+    },
+    "course_description": "This course is focused on the application of statistics and statistical reasoning in pharmaceutical and life science manufacturing.",
+    "learning_outcomes": [
+      "demonstrate familiarity with common statistical concepts",
+      "analyze life science manufacturing processes using the above mentioned concepts and statistical software",
+      "assess laboratory and in-process measurement methods and determine their precision and accuracy",
+      "develop and evaluate sampling plans for process validation and quality control",
+      "implement statistical process control methods in life science manufacturing",
+      "utilize design of experiments in process development and validation"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

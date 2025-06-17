@@ -1,0 +1,177 @@
+{
+  "textbooks": [
+    {
+      "title": "Digital Signal Processing: A Computer Based Approach",
+      "author": "Sanjit K. Mitra",
+      "edition": "4th",
+      "ISBN": "007736676X"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["DT signals"],
+      "readings": ["Textbook Sections 2.1, 2.2, 2.3.3, 2.4"],
+      "assignments": ["HW1/part 1"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["DT systems", "convolution"],
+      "readings": ["Textbook Sections 2.5, 4.1 to 4.7"],
+      "assignments": ["HW1/part 2", "Project 1/part 1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["DTFT"],
+      "readings": ["Textbook Sections 3.1 to 3.7, 4.8, 4.9"],
+      "assignments": ["HW2/part 1", "Project 1/part 2"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Sampling", "DT processing of CT signals"],
+      "readings": ["Textbook Sections 3.8 to 3.9"],
+      "assignments": ["HW2/part 2", "Project 2/part 1"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["DFT"],
+      "readings": ["Textbook Sections 5.1 to 5.3, 2.3.1 and 2.3.2, 5.4 to 5.10"],
+      "assignments": ["HW2/part 3", "Project 2/part 2"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Z-transform"],
+      "readings": ["Textbook Sections 6.1 to 6.7"],
+      "assignments": ["HW3/part 1"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Linear-phase systems"],
+      "readings": ["Textbook Sections 7.1.1, 7.2.1, 7.2.2, and 7.3"],
+      "assignments": ["HW3/part 2", "Project 3/part 1"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Mini-phase", "allpass", "DT system analysis"],
+      "readings": ["Textbook Sections 7.1.2, 7.1.3, 7.2.3, 7.4, and 7.6"],
+      "assignments": ["HW4/part 1", "Project 3/part 2"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Digital filter structures"],
+      "readings": ["Textbook Sections 8.1 to 8.5"],
+      "assignments": ["HW4/part 2", "Project 3/part 3"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["IIR filter design"],
+      "readings": ["Textbook Appendix A.1 to A.4, A.6, Section 9.1 to 9.3"],
+      "assignments": ["HW4/part 3"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["FIR filter design"],
+      "readings": ["Textbook Sections 9.4 to 9.6, 10.1 and 10.2"],
+      "assignments": ["HW5"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Computer-based design"],
+      "readings": ["Textbook Sections 10.3, 10.5.1, 10.5.2, 10.5.4"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "10%",
+      "exams": "80%",
+      "projects": "10%",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": "No late work will be accepted without prior approval."
+  },
+  "assignments": [
+    "HW1/part 1",
+    "HW1/part 2",
+    "Project 1/part 1",
+    "HW2/part 1",
+    "Project 1/part 2",
+    "HW2/part 2",
+    "Project 2/part 1",
+    "HW2/part 3",
+    "Project 2/part 2",
+    "HW3/part 1",
+    "HW3/part 2",
+    "Project 3/part 1",
+    "HW4/part 1",
+    "Project 3/part 2",
+    "HW4/part 2",
+    "Project 3/part 3",
+    "HW4/part 3",
+    "HW5"
+  ],
+  "policies": {
+    "attendance": "Students should attend all lectures and be responsible for all announcements made in class.",
+    "late_work": "No late work will be accepted without prior approval.",
+    "academic_integrity": "Graduate students in 500-level courses are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm exam",
+      "date": "Week 8"
+    },
+    {
+      "event": "Final exam",
+      "date": "Final exam period of the semester"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is on-campus.",
+    "technology_requirements": "Basic computer and web-browsing skills; Live web conferencing using Zoom; Required Software: Matlab for computer projects, Microsoft Word for project report.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:59:02.326997",
+    "pdf_source": "../StevensCourses\\EE 548 syllabus.pdf",
+    "source_type": "file",
+    "text_length": 14901,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Digital Signal Processing",
+      "code": "EE/CpE 548",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Hongbin Li",
+        "email": "Canvas email",
+        "office_hours": "Wednesday 2-3pm, and by appointment",
+        "contact_info": "Canvas email"
+      }
+    },
+    "course_description": "Review of mathematics of signals and systems including sampling theorem, Fourier transform, z-transform, Hilbert transform; algorithms for fast computation: DFT, DCT computation, convolution; filter design techniques: FIR and IIR filter design, time and frequency domain methods, window method and other approximation theory based methods; structures for realization of discrete time systems: direct form, parallel form, lattice structure and other state-space canonical forms (e.g., orthogonal filters and related structures); roundoff and quantization effects in digital filters: analysis of sensitivity to coefficient quantization, limit cycle in IIR filters, scaling to prevent overflow, role of special structures.",
+    "learning_outcomes": [
+      "Apply mathematical knowledge including Fourier transform and z-transform to solve digital signal processing problems.",
+      "Use convolution, filtering, sampling and other related engineering principles to analyze digital signals and digital systems.",
+      "Apply filter design techniques to design digital finite-duration impulse response (FIR) and infinite-duration impulse response (IIR) filters.",
+      "Use DSP software (e.g., Matalb) to simulate digital signals and systems, perform filtering, and design digital filters."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "An undergraduate-level course on Linear System Theory, or Signals and Systems, or equivalent"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "textbooks": [
+    {
+      "title": "The Standard for Portfolio Management",
+      "author": "Project Management Institute",
+      "edition": "4th ed",
+      "ISBN": "9781628251975"
+    },
+    {
+      "title": "Organizational Project Portfolio Management: a Practitioner’s Guide",
+      "author": "Prasad Kodukula",
+      "edition": "",
+      "ISBN": "13:978-1-932159-42-4"
+    },
+    {
+      "title": "Case Studies for Project, Program, and Organizational Project Management",
+      "author": "Dragan Z. Milosevic, Peerasit Patanakul, and Sabin Srivannaboon",
+      "edition": "",
+      "ISBN": "978-0-470-18388-5"
+    },
+    {
+      "title": "The Program Management Office: Establishing, managing, and growing the value of a PMO",
+      "author": "Craig J. Letavec",
+      "edition": "",
+      "ISBN": "1-932159-59-2"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["ORIENTATION WEEK", "Introduction to PPM and the PMO"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Fundamentals of PPM"],
+      "readings": ["PMI: Ch. 1, 2", "PK: Ch. 1,2,3", "Establishing a project portfolio management office (PPMO)", "A Cookbook for Jump-Starting Project Portfolio Management", "Are We Ready for Portfolio Management, DPS p. 493"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Project evaluation and prioritization", "Maximizing Value"],
+      "readings": ["PMI: Ch. 3", "PK: Ch. 4,12", "Management of Value as PPM Driver", "Where are all the breakthrough new products?", "Our portfolio stinks, DPS p. 387"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Portfolio risks and balancing"],
+      "readings": ["PMI: Ch. 8", "PK: Ch. 5,13", "Portfolio risk management aligning projects with business objectives...", "Ten ways to make better portfolio and project selection decisions", "Who owns this portfolio? DPS p. 385"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["The link to Strategy", "Strategic Alignment"],
+      "readings": ["PMI: Ch. 4", "PK: Ch. 6,7", "Portfolio Risk Management and Its Contribution to Project Portfolio Success..", "LorryMer Information Technology, DPS p. 377"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["PPM Framework"],
+      "readings": ["PMI: Ch 5", "PK: Ch. 8,9", "What is Effectiveness in Project Portfolio Management?", "We do not need standard methodology, DPS p. 400"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Monitoring and Controlling the PPM framework"],
+      "readings": ["PMI: Ch. 6", "PK: Ch. 10", "I have only three minutes a month, DPS, p. 315"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["PPM Implementation"],
+      "readings": ["PMI: Ch. 7", "PK: Ch.11", "Journey to Project Portfolio Management: A Case Study (on Canvas)"],
+      "assignments": [],
+      "due_dates": ["MIDTERM EXAM - DUE BY FRIDAY 10/18 – 5 PM"]
+    },
+    "week9": {
+      "topics": ["Fundamentals of the PMO"],
+      "readings": ["Letavec: Ch. 1, 2", "PK: 16", "Four steps to a stronger PMO", "The Program Management Office, DPS p. 417"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Functions of PMO 1: Consulting, knowledge, or standard center"],
+      "readings": ["Letavec: Ch. 6, 7", "PMO as a change agent", "Progress—One Step At a Time, DPS p. 425."],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Functions of PMO 2: Business integration and governance, and resource and career center"],
+      "readings": ["Letavec: Ch. 8", "PMO Capability- A New Look at How High-Performing PMOs Deliver Value", "Forester: PMOs play vital role", "They are Business Leader at Spotlight Corporation, DPS p. 409."],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Implementation of PPM and the PMO"],
+      "readings": ["CEK: Ch. 11", "Letavec: Ch. 3, 4, 5", "The PMO - something of value"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Review of Current Research, Course Conclusions"],
+      "readings": ["Beringer 2012 PPM Stakeholder Interactions", "Constantino DiGravio Nonino 2015 Neural Network Proj Selection", "Kornfeld Kara 2011 PP Selection for Cont Improvement", "Leonard Swanepoel 2009 PPM Pitfalls"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["FINAL TEAM PROJECT DUE – 12/6 BY 5 PM"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "20%",
+      "assignments": "",
+      "exams": "40%",
+      "projects": "40%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Weekly assignments are team-based presentations of class exercises. Those assignments are not graded but feedbacks are provided for continuously developing and integrating the assignments into the midterm and final presentations and reports."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral. Consequences of academic impropriety are severe, ranging from receiving an 'F' in a course to expulsion.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    "MIDTERM EXAM - DUE BY FRIDAY 10/18 – 5 PM",
+    "FINAL TEAM PROJECT DUE – 12/6 BY 5 PM"
+  ],
+  "additional_info": {
+    "course_format": "Team-based class exercises and case studies",
+    "technology_requirements": "",
+    "support_resources": "All lecture notes and assignments can be found at www.stevens.edu/canvas"
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:40:35.269403",
+    "pdf_source": "../StevensCourses/MGT_613 Fall 2024  Syllabus Schedule.pdf",
+    "source_type": "file",
+    "text_length": 7747,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Project Portfolio Management and the Program Management Office",
+      "code": "MGT 613",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Alan C. Maltz, P.E.",
+        "email": "alan.maltz@stevens.edu",
+        "office_hours": "",
+        "contact_info": "+1(561) 632-4848"
+      }
+    },
+    "course_description": "MGT 613 covers the concepts of Project Portfolio Management (PPM) and the Program Management Office (PMO). The course discusses a framework of PPM, including portfolio planning, monitoring and control. Tools and techniques of PPM are discussed. The course also addresses different types of PMO including their functions. Steps for implementing PPM and PMO in an organization are also covered. Case studies are used throughout the course to help students gain a better understanding of the material.",
+    "learning_outcomes": [
+      "Introduce a strategic, system perspective of organizational project management.",
+      "Discuss a framework of project portfolio management.",
+      "Practice applying tools and techniques used in project portfolio management.",
+      "Discuss different types and functions of program management offices."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "MGT 609",
+      "MGT 610"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

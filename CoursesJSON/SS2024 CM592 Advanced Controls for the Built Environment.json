@@ -1,0 +1,145 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Project Evaluation", "Stakeholder analysis and multi-attribute analysis", "Financial Analysis", "Socio-Economic Analysis", "Environmental Analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Project Financing", "Public, Private, and Public-Private Partnerships"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Case Study: Bauer-Nimr Water Treatment Plant, Oman"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Project Organizational Structures"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Project Delivery Methods (Public-Private Partnerships)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Construction Scheduling", "Bar Charts", "Network Diagrams", "Gantt Charts", "Network Planning Techniques", "Forward and Backward Pass", "Critical Path Method"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Construction Scheduling", "Work Breakdown Structures (WBS)", "Organization Breakdown Structure (OBS)", "Cost Breakdown Structure (CBS)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Basics of Cost and Schedule Monitoring"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Basics of Project Control", "Resource consumption", "Cost and time", "Progress monitoring", "Earned Value Analysis (EVA) and Management (EVM)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Case Study: Turner Construction Company: Project Management Control Systems HBS 9-190-128"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "50%",
+      "assignments": "25%",
+      "exams": "0%",
+      "projects": "25%",
+      "quizzes": "0%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Semester long group project on a topic of your choice, presented at the end of the semester."
+    }
+  ],
+  "policies": {
+    "attendance": "Active participation is critical; attendance is required for class discussions and in-class assignments.",
+    "late_work": "Grace period of up to one week to submit late assignments with a valid excuse.",
+    "academic_integrity": "Collaboration is encouraged, but individual work should be submitted unless specified otherwise.",
+    "accommodations": "Stevens is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Hybrid, synchronous sessions on Tuesdays from 6:30pm to 9:00pm.",
+    "technology_requirements": "Basic computer and web-browsing skills, live web conferencing using Zoom, required software includes Microsoft Word, Excel, and PowerPoint.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:52:19.027515",
+    "pdf_source": "../StevensCourses\\SS2024 CM592 Advanced Controls for the Built Environment.pdf",
+    "source_type": "file",
+    "text_length": 20399,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Advanced Project Controls for the Built Environment",
+      "code": "CM592A-WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Karim S. Karam",
+        "email": "kkaram@stevens.edu",
+        "office_hours": "To be arranged individually with students",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is aimed at providing students with theory, methods and quantitative tools to effectively plan, and construct infrastructure projects.",
+    "learning_outcomes": [
+      "Understand the construction project life-cycle",
+      "Evaluate projects",
+      "Understand project organizational structures, and project delivery methods",
+      "Produce a Construction Management Plan",
+      "Define project controls, and establish project monitoring systems"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

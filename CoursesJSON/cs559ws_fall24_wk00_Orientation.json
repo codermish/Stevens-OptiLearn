@@ -1,0 +1,191 @@
+{
+  "textbooks": [
+    {
+      "title": "Pattern Recognition and Machine Learning",
+      "author": "Christopher M. Bishop",
+      "year": 2006
+    },
+    {
+      "title": "Deep Learning",
+      "author": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville",
+      "year": 2016
+    },
+    {
+      "title": "The Elements of Statistical Learning",
+      "author": "T. Hastie, R. Tibshirani, and J. Friedman",
+      "year": 2016
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Linear Regression"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Logistic Regression"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Support Vector Machines"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Decision Trees"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Neural Networks"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["10/15 - 10/21"]
+    },
+    "week7": {
+      "topics": ["Ensemble Methods"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Unsupervised Learning"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Group Project Assigned"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Group Project Topic Announced"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Deep Learning"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Final Exam Review"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Final Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["12/10 - 12/17"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "35%",
+      "projects": "25%",
+      "quizzes": "10%",
+      "final": "20%"
+    },
+    "scale": "A: 90-100%, B: 80-89%, C: 70-79%, D: 60-69%, F: below 60%",
+    "policies": "All assignments must be submitted for passing consideration."
+  },
+  "assignments": [
+    {
+      "title": "Weekly Quizzes",
+      "description": "Nine weekly quizzes via LockDown Browser, each taking about 10-15 minutes.",
+      "due_dates": ["Every Saturday by 11:59 PM"]
+    },
+    {
+      "title": "Bi-weekly Assignments",
+      "description": "Five assignments published on Tuesday, each with up to 4 or 5 questions.",
+      "due_dates": []
+    },
+    {
+      "title": "Group Project",
+      "description": "A class competition requiring a video presentation and a written report.",
+      "due_dates": []
+    },
+    {
+      "title": "Midterm Exam",
+      "description": "Online closed exam covering weeks 1 to 5.",
+      "due_dates": ["10/15 - 10/21"]
+    },
+    {
+      "title": "Final Exam",
+      "description": "Cumulative closed exam.",
+      "due_dates": ["12/10 - 12/17"]
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "10% deduction for every 24 hours late.",
+    "academic_integrity": "No sharing of solutions or codes; violations will result in zero credit.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    "Midterm Exam: 10/15 - 10/21",
+    "Final Exam: 12/10 - 12/17",
+    "Group Project Assigned: Week 9",
+    "Group Project Topic Announced: Week 10"
+  ],
+  "additional_info": {
+    "course_format": "Synchronous online course.",
+    "technology_requirements": "Python (higher than 2.7), Jupyter Notebook via Anaconda.",
+    "support_resources": "Discussion forums and office hours for additional help."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:57:26.847293",
+    "pdf_source": "../StevensCourses/cs559ws_fall24_wk00_Orientation.pdf",
+    "source_type": "file",
+    "text_length": 6400,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Machine Learning: Fundamentals and Applications",
+      "code": "CS 559",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "In Suk Jang",
+        "email": "ijang@stevens.edu",
+        "office_hours": "Friday 11 AM-12 PM",
+        "contact_info": ""
+      }
+    },
+    "course_description": "",
+    "learning_outcomes": [
+      "Be more proficient in math and programming.",
+      "Be able to implement general ML techniques for a variety of problem types.",
+      "Be able to recognize when and how a new problem can be solved with an existing technique."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [
+      "MA 222 Probability Theory",
+      "Programming - Python",
+      "Linear Algebra",
+      "Probability and Optimization"
+    ],
+    "prerequisites_count": 4,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

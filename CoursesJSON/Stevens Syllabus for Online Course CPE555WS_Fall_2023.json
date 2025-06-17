@@ -1,0 +1,248 @@
+{
+  "textbooks": [
+    {
+      "title": "Embedded Systems: A Contemporary Design Tool",
+      "author": "James K. Peckol",
+      "edition": "Second",
+      "ISBN": "978-1-119-45750-3"
+    },
+    {
+      "title": "Computer Organization and Design, The Hardware Software Interface: ARM Edition",
+      "author": "David Patterson and John L. Hennessy",
+      "ISBN": "9780128017333"
+    },
+    {
+      "title": "Modern Embedded Computing",
+      "author": "Peter Barry and Patrick Crowley",
+      "ISBN": "9780123914903"
+    },
+    {
+      "title": "Hard Real-Time Computing Systems: Predictable Scheduling Algorithms and Applications",
+      "author": "George Buttazzo",
+      "ISBN": "9781461406754"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation"],
+      "readings": ["Orientation video"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to Real-Time and Embedded Systems"],
+      "readings": ["Peckol Forward"],
+      "assignments": ["Set up FreeRTOS simulation environment"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Embedded Processor Architecture"],
+      "readings": ["Peckol Ch. 1"],
+      "assignments": ["Homework # 1"],
+      "due_dates": ["Sept. 14"]
+    },
+    "week4": {
+      "topics": ["Memory and Caching"],
+      "readings": ["Peckol Ch. 4"],
+      "assignments": ["Homework # 2"],
+      "due_dates": ["Sept. 21"]
+    },
+    "week5": {
+      "topics": ["C Programming for Embedded Systems"],
+      "readings": ["Peckol Ch. 6, 7.1-7.5"],
+      "assignments": ["Homework # 3"],
+      "due_dates": ["Sept. 28"]
+    },
+    "week6": {
+      "topics": ["Interrupts & Timers"],
+      "readings": ["Peckol Ch. 7.6"],
+      "assignments": ["Homework # 4"],
+      "due_dates": ["Oct. 5"]
+    },
+    "week7": {
+      "topics": ["Communication Busses & I/O"],
+      "readings": ["Peckol Ch. 16, 17, 18"],
+      "assignments": ["Homework # 5"],
+      "due_dates": ["Oct. 12"]
+    },
+    "week8": {
+      "topics": ["Hardware/Software Partitioning"],
+      "readings": ["Peckol Ch. 14, 19"],
+      "assignments": ["Homework # 6"],
+      "due_dates": ["Oct. 19"]
+    },
+    "week9": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Oct. 26"]
+    },
+    "week10": {
+      "topics": ["Real-Time Operating Systems"],
+      "readings": ["Peckol Ch. 11"],
+      "assignments": ["Homework # 7"],
+      "due_dates": ["Nov. 2"]
+    },
+    "week11": {
+      "topics": ["Multitasking"],
+      "readings": ["Peckol Ch. 12, 13"],
+      "assignments": ["Homework # 8"],
+      "due_dates": ["Nov. 9"]
+    },
+    "week12": {
+      "topics": ["RTOS Programming"],
+      "readings": [],
+      "assignments": ["Homework # 9"],
+      "due_dates": ["Nov. 16"]
+    },
+    "week13": {
+      "topics": ["Aperiodic Scheduling"],
+      "readings": [],
+      "assignments": ["Homework # 10"],
+      "due_dates": ["Nov. 30"]
+    },
+    "week14": {
+      "topics": ["Periodic Scheduling"],
+      "readings": [],
+      "assignments": ["Homework # 11"],
+      "due_dates": ["Dec. 7"]
+    },
+    "week15": {
+      "topics": ["Presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Dec. 14"]
+    },
+    "week16": {
+      "topics": ["Final Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Dec. 21"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "40%",
+      "projects": "20%",
+      "quizzes": "",
+      "final": "20%"
+    },
+    "scale": "",
+    "policies": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Homework # 1",
+      "description": "Embedded Processor Architecture",
+      "due_date": "Sept. 14"
+    },
+    {
+      "name": "Homework # 2",
+      "description": "Memory and Caching",
+      "due_date": "Sept. 21"
+    },
+    {
+      "name": "Homework # 3",
+      "description": "C Programming for Embedded Systems",
+      "due_date": "Sept. 28"
+    },
+    {
+      "name": "Homework # 4",
+      "description": "Interrupts & Timers",
+      "due_date": "Oct. 5"
+    },
+    {
+      "name": "Homework # 5",
+      "description": "Communication Busses & I/O",
+      "due_date": "Oct. 12"
+    },
+    {
+      "name": "Homework # 6",
+      "description": "Hardware/Software Partitioning",
+      "due_date": "Oct. 19"
+    },
+    {
+      "name": "Homework # 7",
+      "description": "Real-Time Operating Systems",
+      "due_date": "Nov. 2"
+    },
+    {
+      "name": "Homework # 8",
+      "description": "Multitasking",
+      "due_date": "Nov. 9"
+    },
+    {
+      "name": "Homework # 9",
+      "description": "RTOS Programming",
+      "due_date": "Nov. 16"
+    },
+    {
+      "name": "Homework # 10",
+      "description": "Aperiodic Scheduling",
+      "due_date": "Nov. 30"
+    },
+    {
+      "name": "Homework # 11",
+      "description": "Periodic Scheduling",
+      "due_date": "Dec. 7"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is required for all online discussions and activities.",
+    "late_work": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "All students are expected to do their own work individually; collaboration must be disclosed.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm Exam: Oct. 26",
+    "Final Exam: Dec. 21"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills; Live web conferencing using Zoom or Blackboard Collaborate.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:54:18.456093",
+    "pdf_source": "../StevensCourses\\Stevens Syllabus for Online Course CPE555WS_Fall_2023.pdf",
+    "source_type": "file",
+    "text_length": 23055,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Real-Time and Embedded Systems",
+      "code": "CPE555WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Dr. Jack Winters",
+        "email": "jwinter1@stevens.edu",
+        "office_hours": "Thursday 6-9pm",
+        "contact_info": "732 208-5568"
+      }
+    },
+    "course_description": "This course is a survey of many topics of interest to designers of real-time and embedded systems.",
+    "learning_outcomes": [
+      "Define what real-time embedded systems are, and give examples of each",
+      "Describe the difference between hard- and soft-real-time systems",
+      "Describe the size, weight, and power requirements that constrain embedded systems",
+      "Describe the differences between Harvard and Von Neumann machines and their benefits",
+      "Describe how pipelining is used to improve processor performance",
+      "List the types of memory devices used in embedded systems, and explain the benefits and drawbacks of each",
+      "Describe the principles behind caching and the associated performance improvements",
+      "Describe what purposes interrupts and timers serve in embedded system designs",
+      "Determine what hardware interfaces should be used for different devices commonly used in modern embedded systems",
+      "Describe common issues related to concurrent/multi-threaded programming and how to resolve them",
+      "Develop simple multi-threaded applications in C",
+      "Use common features of real-time embedded operating systems and develop simple applications in FreeRTOS",
+      "Describe various scheduling algorithms used in real-time systems and analyze the feasibility of different schedules"
+    ],
+    "learning_outcomes_count": 13,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Modeling and Simulation"],
+      "readings": ["Project Guidance", "Studying Complex Systems", "Epidemic, Endemic, and Eradication Simulations", "US Airways Flight 1549 HD Animation - Hudson Landing"],
+      "assignments": ["Introduction Discussion Board", "Simple Excel model/computation"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Overview of Model Types and Application"],
+      "readings": ["From System Dynamics and Discrete Event to Practical Agent-Based Modeling: Reasons, Techniques, Tools", "SEBOK Representing Systems with Models"],
+      "assignments": ["Discussion Forum: Tacoma Narrows Bridge", "Reflection Paper: Modeling and Simulation use in current profession", "Project Topic"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["The Systems Modeling Approach"],
+      "readings": ["Systems Thinking. Applied Primer", "Quick Guide to Effective Problem Definition"],
+      "assignments": ["Modeling and Simulation Article Review Assignment", "Project Homework: Problem Statement and Background", "Project Homework: System Description"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Probability and its Role in Modeling"],
+      "readings": ["Probability and Statistics Summary", "Regression to the Mean: An Introduction with Examples", "The Madden Curse: Real Phenomenon or Statistical Fallacy?"],
+      "assignments": ["Project Homework: Process Generators"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Creating Models and Simulations"],
+      "readings": ["Introduction to Modeling and Simulation Experiments in Models"],
+      "assignments": ["Discussion: Making Toast and Conceptual Models", "Project Homework: Conceptual Model", "Project Homework: Research Flow and Experiment Table"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Modeling Production, Process, and Technology Systems"],
+      "readings": ["Introduction to Monte Carlo Simulations", "Optimal Boarding Method for Airline Passengers"],
+      "assignments": ["Discussion: Examples of Production, Process, and Technical Systems and Related Models.", "Widget Production Systems Dynamics Model", "Introduction to Monte Carlo Simulation in Excel"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Modeling People and Organizations"],
+      "readings": ["Agent-based modeling: Methods and techniques for simulating human systems"],
+      "assignments": ["Discussion: Simple Rules", "Building an Agent Based Model in NetLogo - A Simple Grazing Model", "Modeling and Simulation Article Review Assignment: Topic and Article Citation Due"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Modeling Queues"],
+      "readings": ["Queuing System Overview"],
+      "assignments": ["Queuing Models", "Load Leveling in an Emergency Department", "Queuing Model Exercise: Dan’s Car Wash"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Model Verification and Validation"],
+      "readings": ["Verification and Validation of Simulation Models"],
+      "assignments": ["Project Homework: Verification and Validation Approach"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Modeling and Simulation in Socio-Technical Systems"],
+      "readings": ["Journal Article Review"],
+      "assignments": ["Prepare the M&S case study.", "Prepare a presentation presenting the case study", "Discussion: Praise-Questions--Polish Feedback on Student Presentations", "Modeling and Simulation Article Review"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Multi-Modeling Approach"],
+      "readings": ["Why “Many-Model Thinkers” Make Better Decisions", "Five types of thinking for a high performing data scientist"],
+      "assignments": ["Many Model Approach Discussion Board"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Advanced Modeling Approaches and Application"],
+      "readings": ["Digital Engineering of Large Scale System of Systems", "What are Serious Games"],
+      "assignments": ["Demystifying Digital Acquisitions: Model-Based Systems Engineering (MBSE)"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Final Project Presentation"],
+      "readings": [],
+      "assignments": ["Prepare the report of the final project.", "Prepare a presentation presenting the final project", "Final Project"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "",
+      "projects": "20%",
+      "quizzes": "",
+      "final": "20%"
+    },
+    "scale": "",
+    "policies": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points."
+  },
+  "assignments": [
+    "Introduction Discussion Board",
+    "Simple Excel model/computation",
+    "Discussion Forum: Tacoma Narrows Bridge",
+    "Reflection Paper: Modeling and Simulation use in current profession",
+    "Project Topic",
+    "Modeling and Simulation Article Review Assignment",
+    "Project Homework: Problem Statement and Background",
+    "Project Homework: System Description",
+    "Project Homework: Process Generators",
+    "Discussion: Making Toast and Conceptual Models",
+    "Project Homework: Conceptual Model",
+    "Project Homework: Research Flow and Experiment Table",
+    "Discussion: Examples of Production, Process, and Technical Systems and Related Models.",
+    "Widget Production Systems Dynamics Model",
+    "Introduction to Monte Carlo Simulation in Excel",
+    "Discussion: Simple Rules",
+    "Building an Agent Based Model in NetLogo - A Simple Grazing Model",
+    "Modeling and Simulation Article Review Assignment: Topic and Article Citation Due",
+    "Queuing Models",
+    "Load Leveling in an Emergency Department",
+    "Queuing Model Exercise: Dan’s Car Wash",
+    "Project Homework: Verification and Validation Approach",
+    "Prepare the M&S case study.",
+    "Prepare a presentation presenting the case study",
+    "Discussion: Praise-Questions--Polish Feedback on Student Presentations",
+    "Modeling and Simulation Article Review",
+    "Many Model Approach Discussion Board",
+    "Demystifying Digital Acquisitions: Model-Based Systems Engineering (MBSE)",
+    "Prepare the report of the final project.",
+    "Prepare a presentation presenting the final project"
+  ],
+  "policies": {
+    "attendance": "Attendance in live class sessions is expected and represents 10 percent of the final grade.",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "The Graduate Student Code of Academic Integrity binds students in graduate courses (600 level and above).",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online provided in a blended format – individual learning and synchronous engagement.",
+    "technology_requirements": "Baseline technical skills necessary for online courses include basic computer and web-browsing skills and navigating Canvas.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:19:35.119976",
+    "pdf_source": "../StevensCourses\\SYS 611 Syllabus_Summer2024.pdf",
+    "source_type": "file",
+    "text_length": 20883,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Modeling and Simulation",
+      "code": "SYS 611",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Robert Edson",
+        "email": "redson@stevens.edu",
+        "office_hours": "Monday, 12:00-1:00pm; Wednesday, 6:00-6:30pm; and by appointment.",
+        "contact_info": "703-980-9331"
+      }
+    },
+    "course_description": "This course emphasizes the development of modeling and simulation concepts and analysis skills necessary to design, program, implement, and use computers to solve complex systems/product analysis problems.",
+    "learning_outcomes": [
+      "Examine classic and modern (state-of-the-art) modeling and simulation methods and techniques.",
+      "Analyze socio-technical challenges and problems to determine appropriate modeling techniques.",
+      "Apply the methods, processes, and tools needed to perform effective and efficient modeling and simulation on complex projects/programs.",
+      "Conduct analysis of real-world data and complex problems.",
+      "Describe the role of modeling and simulation within the systems engineering and the system development lifecycle."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": ["Graduate Status or approved by an advisor and instructor"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

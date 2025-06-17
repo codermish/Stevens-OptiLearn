@@ -1,0 +1,147 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to AI"],
+      "readings": ["Slides (stanford sep 23)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Machine Learning I"],
+      "readings": ["Slides (stanford sep25-30)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Machine Learning II"],
+      "readings": ["Slides (stanford sep30-oct2)"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Search I"],
+      "readings": ["Slides", "Sklearn tutorial by Moksha Dave", "Lecture 4 demo"],
+      "assignments": ["Assignment 1 (Fundamentals)"],
+      "due_dates": ["Feb 27"]
+    },
+    "week5": {
+      "topics": ["Search II"],
+      "readings": ["Slides", "Lecture 5 Learning demo", "Lecture 5 PathFinding demo"],
+      "assignments": ["Quiz 1 (machine learning)"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Markov Decision Process I"],
+      "readings": ["Slides", "Lecture 6 demo"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["RL I"],
+      "readings": ["Slides"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["in class"]
+    },
+    "week9": {
+      "topics": ["RL II"],
+      "readings": ["Slides", "Lecture 8 demo - Frozenlake", "Lecture 8 demo - Cart Pole using Policy gradient and Actor Critic", "YouTube: actor critic", "PPO paper"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Bayes Networks I", "Logic I"],
+      "readings": ["Slides"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Bayes Networks II", "Logic II"],
+      "readings": ["Slides"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Logic I", "Bayes Networks I"],
+      "readings": ["Slides"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Logic II", "Bayes Networks II"],
+      "readings": ["Slides", "Lecture 12 Demo"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Deep Learning"],
+      "readings": ["Slides"],
+      "assignments": ["Quiz II (everything after midterm)"],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["May 9 7-10"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:47:25.040351",
+    "pdf_source": "../StevensCourses\\CS 541 Course schedule.pdf",
+    "source_type": "file",
+    "text_length": 1068,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "",
+      "code": "",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "",
+        "email": "",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

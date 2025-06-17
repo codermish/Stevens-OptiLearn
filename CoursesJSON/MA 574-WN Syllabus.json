@@ -1,0 +1,157 @@
+{
+  "textbooks": [
+    {
+      "title": "OpenStax Calculus, Volumes 1-3",
+      "authors": "G. Strang and E. Herman",
+      "edition": "N/A",
+      "ISBN": "N/A"
+    },
+    {
+      "title": "Mathematics for Machine Learning",
+      "authors": "M. P. Deisenroth, A. A. Faisal, and C. S. Ong",
+      "edition": "N/A",
+      "ISBN": "N/A"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Matrices", "Linear Systems"],
+      "readings": ["MML: 2.1-2.3"],
+      "assignments": ["Introductory Assignment", "Quiz", "Practice Quizzes", "Homework"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Invertibility and Determinant", "Vector Spaces"],
+      "readings": ["MML: 2.3.3, 2.4-2.6, 4.1"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Inner Product", "Orthogonality", "Linear Maps"],
+      "readings": ["MML: 3.1, 3.2.1, 3.4, 3.6"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Projections", "QR Decomposition", "Least Squares"],
+      "readings": ["MML 3.8.1, 3.8.2, 3.8.3"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Eigen-decomposition"],
+      "readings": ["MML: 4.2, 4.4"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Quiz 1", "Homework"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Quadratic Forms", "Positive Definite Matrices"],
+      "readings": ["MML: 3.2.3, 4.3"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Quiz", "Homework"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["The Singular Value Decomposition and Applications"],
+      "readings": ["MML: 4.5"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Differentiation"],
+      "readings": ["MML: 3.1-3.2, 3.4, 3.6, 3.7-3.8"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework", "Quiz 2"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Integration"],
+      "readings": ["Calculus, Volume I: 5.1, 5.2, 5.3", "Calculus, Volume 2: 1.5, 3.1"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Vectors, Planes, and Multivariable Functions"],
+      "readings": ["Calculus, Volume III: 2.2, 3.1, 3.2, 4.1, 4.3, 4.5"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Introduction to Optimization"],
+      "readings": ["Calculus, Volume I: 4.3", "Calculus, Volume III: 4.6, 4.7", "MML: 7.1"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Matrix Calculus", "Quadratic Form Optimization"],
+      "readings": ["MML: 5.3, 5.7"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework", "Quiz 3"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Matrix Calculus", "Quadratic Form Optimization"],
+      "readings": ["Calculus, Volume III: 4.8", "MML: 7.2"],
+      "assignments": ["Introductory Assignment", "Practice Quizzes", "Homework"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "35%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "30%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late submissions will generally not be accepted."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "You are expected to attend live sessions and participate in discussions.",
+    "late_work": "Late submissions will generally not be accepted. If you are unable to complete an assignment on time, you must contact the instructor well in advance.",
+    "academic_integrity": "All work submitted must be written on your own and should not resemble anyone else's work. Cheating will not be tolerated.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:26:07.442667",
+    "pdf_source": "../StevensCourses\\MA 574-WN Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 20569,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Foundational Mathematics for Data Science",
+      "code": "MA 574",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Upendra Prasad",
+        "email": "uprasad@stevens.edu",
+        "office_hours": "See the course Canvas page for a Zoom link.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course provides students with the essential background in calculus and linear algebra needed to pursue the study of Data Science.",
+    "learning_outcomes": [
+      "Perform algebraic operations on vectors and matrices",
+      "Solve systems of linear equations",
+      "Distinguish vector subspaces and find bases for them",
+      "Calculate projection matrices and least squares estimates",
+      "Find eigenvalues and eigenvectors of square matrices, the eigen decomposition when possible, and the singular value decomposition of arbitrary matrices",
+      "Compute partial derivatives, gradients, and integrals of multivariate functions",
+      "Find Taylor polynomials and Taylor series of single variable and multivariable functions and use them to approximate functions",
+      "Optimize basic single variable and multivariable functions"
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

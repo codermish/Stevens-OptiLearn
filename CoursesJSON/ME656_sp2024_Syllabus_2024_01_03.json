@@ -1,0 +1,189 @@
+{
+  "textbooks": [
+    {
+      "title": "Autonomous Mobile Robots",
+      "author": "Siegwart, Nourbakhsh, Scaramuzza",
+      "edition": "2nd Ed.",
+      "ISBN": "0262015358"
+    },
+    {
+      "title": "Principles of Robot Motion",
+      "author": "Choset, Lynch, Hutchinson, Kantor, Burgard, Kavraki, and Thrun",
+      "edition": "",
+      "ISBN": "0262033275"
+    },
+    {
+      "title": "Probabilistic Robotics",
+      "author": "Sebastian Thrun, Wolfram Burgard, Dieter Fox",
+      "edition": "",
+      "ISBN": "0262201623"
+    },
+    {
+      "title": "Planning Algorithms",
+      "author": "Steven M. LaValle",
+      "edition": "",
+      "ISBN": "0521862051"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Overview", "Challenges of Robust Autonomy"],
+      "readings": [],
+      "assignments": ["Presentation Assignment Release & Discussion"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Control Systems for Mobile Robots"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["State Estimation, Observation, and Kalman Filters"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Simultaneous Localization and Mapping (SLAM) – Part 1"],
+      "readings": [],
+      "assignments": ["SimLab 1 Release & Discussion"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Classic Papers in Mobile Robotics - Student Presentations Part 1"],
+      "readings": [],
+      "assignments": ["Presentations Due for Week 1 Presenters"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Classic Papers in Mobile Robotics - Student Presentations Part 2"],
+      "readings": [],
+      "assignments": ["Presentations Due for Week 2 Presenters"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Simultaneous Localization and Mapping (SLAM) – Part 2"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Motion Planning"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Simulation Lab 2"],
+      "readings": [],
+      "assignments": ["SimLab 2 Release & Discussion", "SimLab 1 Due"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Planning Under Uncertainty"],
+      "readings": [],
+      "assignments": ["Literature Review Assignment Release and Discussion"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Robotics & Machine Learning – Part 1: Overview of M.L.; Robotics Applications"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Office Hours during Lecture time to discuss Sim Lab 2"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Robotics & Machine Learning – Part 2: PhD Student Guest Lecture"],
+      "readings": [],
+      "assignments": ["SimLab 2 Due"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Literature Review Report Turn-In"],
+      "readings": [],
+      "assignments": ["Literature Review Assignment Due"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "",
+      "exams": "",
+      "projects": "25% each for Student Presentation Assignment, Simulation Lab 1, Simulation Lab 2, Literature Review Paper",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Assignments will receive a 10% penalty within the first week that they are submitted late, which will increase by 10% for each week thereafter."
+  },
+  "assignments": [
+    {
+      "name": "Presentation Assignment",
+      "description": "Release & Discussion"
+    },
+    {
+      "name": "SimLab 1",
+      "description": "Release & Discussion"
+    },
+    {
+      "name": "SimLab 2",
+      "description": "Release & Discussion"
+    },
+    {
+      "name": "Literature Review Assignment",
+      "description": "Release and Discussion"
+    }
+  ],
+  "policies": {
+    "attendance": "Student participation in our weekly synchronous Zoom lectures is highly encouraged.",
+    "late_work": "Assignments will receive a 10% penalty within the first week that they are submitted late, which will increase by 10% for each week thereafter.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, Live web conferencing using Zoom, Composing a slide presentation and written report using Microsoft PowerPoint and Word, using MATLAB for programming.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:32:15.552638",
+    "pdf_source": "../StevensCourses\\ME656_sp2024_Syllabus_2024_01_03.pdf",
+    "source_type": "file",
+    "text_length": 16131,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Autonomous Navigation for Mobile Robots",
+      "code": "ME-656",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Prof. Brendan Englot",
+        "email": "benglot@stevens.edu",
+        "office_hours": "Friday, 1:00-3:00pm, via Zoom (tentative)",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Mobile robot geometry, kinematics, and dynamics. Control and estimation for autonomous vehicles. Motion planning, including discrete and continuous methods, and sampling-based planning. Simultaneous localization and mapping, including active SLAM and autonomous exploration with occupancy grids. Markov decision processes and partially observable Markov decision processes with application to mobile robots; planning under uncertainty. Introduction to supervised learning and reinforcement learning, including deep learning. Applications of machine learning to autonomous navigation.",
+    "learning_outcomes": [
+      "Apply the techniques of control system design and state estimation design to mobile robotic systems",
+      "Model the disturbances that contribute uncertainty to mobile robotic systems",
+      "Use computer simulation as a tool for predicting the performance of a mobile robot and parameterizing a suitable navigation solution",
+      "Analyze the robotics research literature to understand contemporary issues of your interest in mobile robot navigation",
+      "Evaluate modeling assumptions and algorithms to solve localization, mapping, and planning problems"
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": ["ME-598, Introduction to Robotics"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Introductions",
+        "Course Overview",
+        "Modeling and Simulation Overview",
+        "Excel as a power modeling tool",
+        "Spreadsheet best practices"
+      ],
+      "readings": [
+        "Project Guidance"
+      ],
+      "assignments": [
+        "Introduction Discussion Board",
+        "Simple EXCEL model/computation"
+      ],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Overview of Model Types",
+        "Modeling in Systems Engineering"
+      ],
+      "readings": [
+        "Borschchev & Filippov 2004",
+        "SEBOK Representing Systems with Models"
+      ],
+      "assignments": [
+        "Project Topic Due",
+        "Discussion Forum: Tacoma Narrows Bridge",
+        "Reflection Paper: Modeling and Simulation use in current profession"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "System Thinking Overview",
+        "The Modeling and Simulation Approach",
+        "Defining the Problem",
+        "Describing the Related System"
+      ],
+      "readings": [
+        "Systems Thinking. Applied Primer",
+        "Quick Guide to Effective Problem Definition"
+      ],
+      "assignments": [
+        "Project Homework: Problem Statement",
+        "Project Homework: System Description"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Probability Distributions",
+        "The need randomness in simulations",
+        "Random Numbers",
+        "Random Variates and Process Generators"
+      ],
+      "readings": [
+        "Probability Summary",
+        "Regression to the Mean",
+        "Madden Curse - Link TBD"
+      ],
+      "assignments": [
+        "Project Homework: Process Generators"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "The Components of a Robust Simulation",
+        "Conceptual Models",
+        "Models and Experiments",
+        "Determining the Appropriate Modeling Approach"
+      ],
+      "readings": [
+        "Simulation Overview",
+        "Experiments in models"
+      ],
+      "assignments": [
+        "Project Homework: Conceptual Model",
+        "Project Homework: Research Flow and Experiment Table"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Overview of Production and Process Systems",
+        "Discrete Event Simulations",
+        "Monte Carlo Simulations",
+        "System Dynamics Modeling"
+      ],
+      "readings": [
+        "Monte Carlo Simulations",
+        "Steffen 2008, Boarding Planes",
+        "System Dynamics Intro"
+      ],
+      "assignments": [
+        "Homework: Widget Production Stock and Flow Diagram",
+        "Homework: Monte Carlo Simulation"
+      ],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Overview of Complex Systems",
+        "Agent Based Models"
+      ],
+      "readings": [
+        "Bonabeau, 2002, Agent-based modeling: Methods and techniques for simulating human systems"
+      ],
+      "assignments": [
+        "Homework: Agent Based Model"
+      ],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Queueing Systems",
+        "Queueing Models"
+      ],
+      "readings": [
+        "Queuing System Overview"
+      ],
+      "assignments": [
+        "Homework: Queuing Mode"
+      ],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Verification vs Validation",
+        "V&V approaches",
+        "V&V across the entire Modeling and Simulation Process"
+      ],
+      "readings": [
+        "V&V Overview"
+      ],
+      "assignments": [
+        "Project Homework: V&V Approach"
+      ],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Modeling and Simulation in Socio-Technical Systems",
+        "Article Review"
+      ],
+      "readings": [],
+      "assignments": [
+        "Modeling and Simulation Article Review based on Journal Article and related information"
+      ],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Multi-Modeling Approach",
+        "Multi-modeling Case Studies"
+      ],
+      "readings": [
+        "Multi-Method Overview"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Advanced Modeling Approaches and Applications",
+        "Domain specific modeling approaches",
+        "Gaming",
+        "Modeling System of Systems"
+      ],
+      "readings": [
+        "Dahlman System of System Digital Engineering and Mission Thread Analysis Paper",
+        "Serious Gaming"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Final Project Presentation Part I"
+      ],
+      "readings": [],
+      "assignments": [
+        "Final Project Presentation"
+      ],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "name": "Discussion Forums",
+      "description": "Students will explore topics through online discussions. Each discussion will be initiated with a framing post and questions. Students will respond to the questions and comment critically on other posts."
+    },
+    {
+      "name": "Individual Homework",
+      "description": "To help reinforce the material covered in the modules, homework assignments will be assigned. The homework will include questions and problems related to the course materials and the development of simple models and simulations."
+    },
+    {
+      "name": "Modeling and Simulation Article Review",
+      "description": "Each student will complete a review of a modeling and simulation journal article highlighting one of the modeling and simulation approaches."
+    },
+    {
+      "name": "Class Project",
+      "description": "The class project will assess the learning from all modules. The student group will address a problem of their choosing."
+    },
+    {
+      "name": "Project Related Homework",
+      "description": "Throughout the course, the student groups will complete parts of the project as homework assignments."
+    },
+    {
+      "name": "Final Project Presentation and Report",
+      "description": "At the conclusion of the project, a report will be prepared by the student groups to summarize their work."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance in live class sessions is beneficial and students should attend if possible.",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will have 50% of the total points deducted.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online provided in a blended format – individual learning and synchronous engagement.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:18:59.876730",
+    "pdf_source": "../StevensCourses\\SYS 611 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 25403,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Modeling and Simulation",
+      "code": "SYS 611",
+      "credits": "",
+      "semester": "Spring",
+      "year": "",
+      "instructor": {
+        "name": "Dr. Robert Edson",
+        "email": "redson@stevens.edu",
+        "office_hours": "Monday 12:00-1:00 PM, Tuesday 5:30-6:00 PM and by appointment.",
+        "contact_info": "703-980-9331"
+      }
+    },
+    "course_description": "This course emphasizes the development of modeling and simulation concepts and analysis skills necessary to design, program, implement, and use computers to solve complex systems/products analysis problems.",
+    "learning_outcomes": [
+      "Examine classic and modern (state-of-the-art) modeling and simulation methods and techniques.",
+      "Analyze socio-technical challenges and problems to determine appropriate modeling techniques.",
+      "Apply the methods, processes, and tools needed to perform effective and efficient modeling and simulation on complex projects/programs.",
+      "Conduct analysis of real-world data and complex problems.",
+      "Describe the role of modeling and simulation within the systems engineering and the system development lifecycle."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "Graduate Status or approved by advisor and instructor"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

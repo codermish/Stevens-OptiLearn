@@ -1,0 +1,186 @@
+{
+  "textbooks": [
+    {
+      "title": "Business Intelligence, Analytics, and Data Science: A Managerial Perspective",
+      "authors": ["Ramesh Sharda", "Dursun Delen", "Efraim Turban"],
+      "edition": "4th Edition"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Chapter One"],
+      "readings": [],
+      "assignments": ["Assignment"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Tableau - Introduction"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Chapter Two"],
+      "readings": [],
+      "assignments": ["Assignment"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Tableau – Connecting to & Preparing Data"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Chapter Three"],
+      "readings": [],
+      "assignments": ["Assignment"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Tableau – Understanding Tableau Concepts"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Chapter Four"],
+      "readings": [],
+      "assignments": ["Assignment"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Spring Recess"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Chapter 5"],
+      "readings": [],
+      "assignments": ["Assignment"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Tableau - Exploring & analyzing data part I"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Tableau - Exploring & analyzing data part II"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Tableau - Sharing Insights"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Tableau - Practice Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Final Exam / Project Submission"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Project Submission"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "30%",
+      "projects": "40%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 93%-100%, A-: 90%-93%, B+: 87%-90%, B: 83%-87%, B-: 80%-83%, C+: 77%-80%, C: 73%-77%, C-: 70%-73%, D+: 67%-70%, D: 65%-67%, F: 0%-65%",
+    "policies": "This grading scheme is subject to change based on student outcomes. It may be curved more leniently. It will not be made more difficult."
+  },
+  "assignments": [
+    {
+      "description": "Assignment (Individual Work)",
+      "weight": "30%"
+    },
+    {
+      "description": "Final Exam",
+      "weight": "30%"
+    },
+    {
+      "description": "Project (Individual Work)",
+      "weight": "40%"
+    }
+  ],
+  "policies": {
+    "attendance": "You are expected to attend all classes. Devices may be used in class for Tableau and note taking. Please contact me in advance if there are circumstances that prevent you from attending class. I reserve the right to reduce your grade through lack of attendance.",
+    "late_work": "No late assignments, without prior approval, will be accepted.",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral. Consequences of academic impropriety are severe, ranging from receiving an 'F' in a course to expulsion.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Final Exam / Project Submission",
+      "date": "Apr 25th"
+    },
+    {
+      "event": "Project Submission",
+      "date": "May 2nd"
+    },
+    {
+      "event": "Spring Recess",
+      "date": "Mar 14th"
+    }
+  ],
+  "additional_info": {
+    "course_format": "The course will employ lectures, individual homework, and a project.",
+    "technology_requirements": "Devices may be used in class for Tableau and note taking.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:28:22.470949",
+    "pdf_source": "../StevensCourses\\BIA 610 SYLLABUS Spring 2023-1.pdf",
+    "source_type": "file",
+    "text_length": 8366,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Applied Analytics",
+      "code": "BIA 610",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2023",
+      "instructor": {
+        "name": "Victor Moya",
+        "email": "vmoya@stevens.edu",
+        "office_hours": "by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Applied Analytics is intended to reinforce the understanding of analysis as a way to build models that can focus attention on parts of the system that can be improved through intervention.",
+    "learning_outcomes": [
+      "Recount a set of appropriate analysis techniques when presented with a business problem",
+      "Understand how particular techniques might be used to make sense of data",
+      "Analyze a situation and traces of past behavior to recommend future actions",
+      "Apply analytic and machine learning techniques to business problems",
+      "Compare the results of different analytic techniques",
+      "Synthesize analysis performed at different levels into a policy recommendation"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

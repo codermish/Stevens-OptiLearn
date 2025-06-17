@@ -1,0 +1,209 @@
+{
+  "textbooks": [
+    {
+      "title": "Computer Organization and Design: The Hardware Software Interface: ARM Edition",
+      "author": "Patterson and Hennessy",
+      "edition": "2016",
+      "ISBN": "978-0128017333"
+    },
+    {
+      "title": "Computer Architecture: A Quantitative Approach",
+      "author": "John L. Hennessy and David A. Patterson",
+      "edition": "6th edition, 2017",
+      "ISBN": ""
+    },
+    {
+      "title": "zyBook",
+      "author": "",
+      "edition": "",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction, Course Syllabus, and Introduction to computer architecture"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Quantitative Approaches"],
+      "readings": [],
+      "assignments": ["Homework 1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Review of Digital System"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Instruction Set"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Instruction Set Architecture (ISA)"],
+      "readings": [],
+      "assignments": ["Homework 2"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Computer Arithmetic & 5-stage pipelining"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Spring Break"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Datapath and 5-stage pipelining"],
+      "readings": ["Lab"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Instruction Level Parallelism (ILP)"],
+      "readings": [],
+      "assignments": ["Homework 3"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Data Level Parallelism (DLP) and Thread Level Parallelism (TLP)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Parallelism/Memory Hierarchy"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Paper Presentation"],
+      "readings": [],
+      "assignments": ["Homework 4"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Memory Hierarchy and advanced topics"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Exam Review"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "35%",
+      "exams": "45%",
+      "projects": "",
+      "quizzes": "",
+      "final": "25%"
+    },
+    "scale": "A: >=95%, A-: 90-94.9%, B+: 85-89.9%, B: 80-84.9%, B-: 75-79.9%, C+: 70-74.9%, C: 65-69.9%, F: <65%",
+    "policies": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "title": "Homework 1",
+      "description": "",
+      "due_date": "1/30"
+    },
+    {
+      "title": "Homework 2",
+      "description": "",
+      "due_date": "2/20"
+    },
+    {
+      "title": "Homework 3",
+      "description": "",
+      "due_date": "3/26"
+    },
+    {
+      "title": "Homework 4",
+      "description": "",
+      "due_date": "4/16"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "Graduate students in 500-level courses are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "3/5"
+    },
+    {
+      "event": "Final Exam",
+      "date": "To be announced a week before the final exam"
+    },
+    {
+      "event": "Spring Break",
+      "date": "3/12"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is asynchronous online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, current Mac (OS X) or PC (Windows 7+) with high-speed internet connection, webcam, microphone, Microsoft Word, Microsoft PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:42:21.548390",
+    "pdf_source": "../StevensCourses\\CPE 517-WS Syllabus (Spring 2024).pdf",
+    "source_type": "file",
+    "text_length": 16894,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Digital & Computer Systems Architecture",
+      "code": "CPE/EE 517-WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Md Abu Sayeed",
+        "email": "msayeed1@stevens.edu",
+        "office_hours": "Thursday 3:00 pm – 5:00 pm",
+        "contact_info": "Burchard 307B, Phone: (409) 998-2301"
+      }
+    },
+    "course_description": "This course introduces students to computer architecture and the design of efficient computing and memory systems.",
+    "learning_outcomes": [
+      "Understand the quantitative approach for computer architecture design and be able to apply metrics to evaluate performance of a computer system.",
+      "Comprehend the fundamentals of digital systems and organization of an ARM processor.",
+      "Understand the basic Instruction Set Architecture (ISA) and able to design a five-stage pipeline.",
+      "Analyze computer memory systems using cache protocols, paging mechanism, and memory access time formula.",
+      "Able to use instruction, thread and data level parallelisms."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "C/C++",
+      "Assembly Programming"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

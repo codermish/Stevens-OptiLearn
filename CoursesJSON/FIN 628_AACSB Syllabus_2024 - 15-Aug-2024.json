@@ -1,0 +1,164 @@
+{
+  "textbooks": [
+    {
+      "title": "Options, Futures and Other Derivatives",
+      "author": "John C. Hull",
+      "edition": "10th Edition",
+      "ISBN": "978-0134472089"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": ["Chapter 1"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Mechanics of Options Markets"],
+      "readings": ["Chapter 10"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Properties of Stock Options"],
+      "readings": ["Chapter 11"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Trading strategies with Options"],
+      "readings": ["Chapter 12"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Option Pricing: Binomial Model"],
+      "readings": ["Chapter 13"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Wiener Processes and Ito’s Lemma"],
+      "readings": ["Chapter 14"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Option Pricing: Black-Scholes-Merton Model"],
+      "readings": ["Chapter 15", "17.3", "17.5"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["The Greek Letters"],
+      "readings": ["Chapter 19"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Forwards and Futures"],
+      "readings": ["Chapter 2"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Hedging with Futures"],
+      "readings": ["Chapter 3"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Interest Rates and Futures"],
+      "readings": ["Chapters 4", "6 (if time permits)"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Forward and Futures prices, and the 2008 Financial Crisis"],
+      "readings": ["Chapters 5", "8 (if time permits)"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Swaps"],
+      "readings": ["Chapter 7"],
+      "assignments": ["Homework"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Final Project Presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "15%",
+      "exams": "30%",
+      "projects": "25%",
+      "quizzes": "15%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral. Consequences of academic impropriety are severe, ranging from receiving an 'F' in a course to expulsion.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Lectures, assigned readings, class and homework problems, quizzes and projects.",
+    "technology_requirements": "Students will apply the concepts learned in the course using data provided in the Hanlon lab.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:21:45.411137",
+    "pdf_source": "../StevensCourses\\FIN 628_AACSB Syllabus_2024 - 15-Aug-2024.pdf",
+    "source_type": "file",
+    "text_length": 5694,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Derivatives",
+      "code": "FIN 628",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Emmanuel D. Hatzakis",
+        "email": "ehatzaki@stevens.edu",
+        "office_hours": "Fridays 11:00 am -12:00 pm, and ~30 minutes after each Thursday evening lecture",
+        "contact_info": "+1 201 216-5557 office"
+      }
+    },
+    "course_description": "This course covers the fundamentals of financial derivatives, including the basic properties and the pricing of futures, options and swaps. It also explores trading and hedging strategies involving financial derivatives.",
+    "learning_outcomes": [
+      "Describe how options, futures and swaps function",
+      "Implement option pricing models, such as Black & Scholes and Binomial Trees",
+      "Estimate implied volatility smiles",
+      "Implement pricing models using binomial trees",
+      "Describe the pros and cons of the use of derivatives for speculative investing",
+      "Design and implement portfolio trading and hedging strategies using derivatives"
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "FIN 523",
+      "Completion of an online course (MOOC) on Financial Management"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

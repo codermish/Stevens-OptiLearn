@@ -1,0 +1,191 @@
+{
+  "textbooks": [
+    {
+      "title": "R for Marketing Research and Analytics",
+      "author": "Chris Chapman, Elea McDonnell Feit",
+      "edition": "2nd Edition",
+      "ISBN": "978-3030143152"
+    },
+    {
+      "title": "Cutting-Edge Marketing Analytics",
+      "author": "Rajkumar Venkatesan, Paul Farris, Ronald Wicox",
+      "edition": "",
+      "ISBN": "978-0133552522"
+    },
+    {
+      "title": "Discovering Knowledge in Data: An Introduction to Data Mining",
+      "author": "",
+      "edition": "2nd Edition",
+      "ISBN": "978-0470908747"
+    },
+    {
+      "title": "Data Mining and Predictive Analytics",
+      "author": "",
+      "edition": "2nd Edition",
+      "ISBN": "978-1118116197"
+    },
+    {
+      "title": "Mining of Massive Datasets",
+      "author": "Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman",
+      "edition": "2nd Edition",
+      "ISBN": "978-1107077232"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introductions (course info)", "Marketing Analytics: An Overview", "Introduction to R"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Marketing Models", "R Continued", "Clustering"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Linear Models"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Conjoint Analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Logistic Regression Model"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Multinomial Choice Analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Count Data Analysis", "Midterm Exam Overview"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["10/24/2024"]
+    },
+    "week9": {
+      "topics": ["PCA and FA"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Time Series Models"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["A/B Testing"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Causality"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Thanksgiving Recess: No Classes"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Introduction to Machine Learning Methods"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final Project Presentation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["12/12/2024"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "30%",
+      "projects": "30%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 93.0-100.0, A-: 90.0-92.9, B+: 87.1-89.9, B: 83.0-87.0, B-: 80.0-82.9, C+: 77.1-79.9, C: 73.0-77.0, C-: 70.0-72.9, D+: 67.1-69.9, D: 63.0-67.0, D-: 60.0-62.9, F: <60.0",
+    "policies": "Attendance will be worth 10% of your final grade. Late Policy: Each student is allowed to submit one Assignment late. There will be a 50% grade penalty for late submissions beyond one."
+  },
+  "assignments": [
+    {
+      "description": "Final project report and presentation",
+      "team_size": "3-4 students"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance will be worth 10% of your final grade.",
+    "late_work": "Each student is allowed to submit one Assignment late. There will be a 50% grade penalty for late submissions beyond one.",
+    "academic_integrity": "By enrollment at Stevens, all graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "10/24/2024: Midterm Exam",
+    "12/12/2024: Final Project Presentation",
+    "11/28: Thanksgiving Recess (no classes)"
+  ],
+  "additional_info": {
+    "course_format": "In-person class on Thursdays from 6:30 PM to 9:00 PM",
+    "technology_requirements": "R will be the programming language used for the course.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:38:14.692901",
+    "pdf_source": "../StevensCourses\\BIA672WS Marketing Analytics Syllabus Fall2024.pdf",
+    "source_type": "file",
+    "text_length": 9486,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Marketing Analytics",
+      "code": "BIA 672-WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Jie Xu",
+        "email": "jxu94@stevens.edu",
+        "office_hours": "Wednesday 8:00 PM - 9:00 PM",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The effectiveness of marketing decisions highly depends on the information obtained through marketing analytics.",
+    "learning_outcomes": [
+      "Understand and apply advanced marketing analytics techniques and how to use and interpret the information it provides to make relevant business recommendations.",
+      "Evaluate different research designs and understand when to apply each in different business situations.",
+      "Improve their ability to work in teams and communicate their findings in presentations and written reports."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

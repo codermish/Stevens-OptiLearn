@@ -1,0 +1,234 @@
+{
+  "textbooks": [
+    {
+      "title": "Managerial Accounting",
+      "authors": [
+        "Karen W. Braun",
+        "Wendy M. Tietz"
+      ],
+      "edition": "Fourth Edition",
+      "ISBN": "9780133428377"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Ch 1: Introduction to Managerial Accounting"],
+      "readings": ["S1-1", "S1-2", "S1-3", "S1-9", "S1-11"],
+      "assignments": ["Homework 1"],
+      "due_dates": ["09/13"]
+    },
+    "week2": {
+      "topics": ["Ch 2: Building Blocks of Managerial Accounting"],
+      "readings": ["S2-3", "S2-6", "S2-10", "S2-11", "S2-12"],
+      "assignments": ["Homework 2"],
+      "due_dates": ["09/20"]
+    },
+    "week3": {
+      "topics": ["Ch 3: Job Costing"],
+      "readings": ["S3-1", "S3-2", "S3-5", "S3-6", "S3-7"],
+      "assignments": ["Homework 3"],
+      "due_dates": ["09/27"]
+    },
+    "week4": {
+      "topics": ["Ch 4: Activity-Based Costing, Lean Operations, and the Costs of Quality"],
+      "readings": ["S4-2", "S4-4", "S4-5", "S4-7", "S4-10", "S4-12"],
+      "assignments": ["Homework 4"],
+      "due_dates": ["10/04"]
+    },
+    "week5": {
+      "topics": ["Ch 5: Process Costing"],
+      "readings": ["S5-14", "S5-15", "S5-16", "S5-17", "S5-18"],
+      "assignments": ["Homework 5"],
+      "due_dates": ["10/11"]
+    },
+    "week6": {
+      "topics": ["Ch 6: Cost Behavior", "Mid-term Exam"],
+      "readings": ["S6-1", "S6-5", "S6-8", "S6-13", "S6-15"],
+      "assignments": ["Homework 6", "Mid-term Exam"],
+      "due_dates": ["10/18"]
+    },
+    "week7": {
+      "topics": ["Ch 7: Cost-Volume-Profit Analysis"],
+      "readings": ["S7-1", "S7-3", "S7-4", "S7-6", "S7-9", "S7-11", "S7-12"],
+      "assignments": ["Homework 7"],
+      "due_dates": ["10/25"]
+    },
+    "week8": {
+      "topics": ["Ch 8: Relevant Costs for Short-Term Decisions"],
+      "readings": ["S8-1", "S8-2", "S8-3", "S8-5", "S8-10", "S8-13"],
+      "assignments": ["Homework 8"],
+      "due_dates": ["11/01"]
+    },
+    "week9": {
+      "topics": ["Ch 9: The Master Budget"],
+      "readings": ["S9-3", "S9-4", "S9-5", "S9-6", "S9-10", "S9-12"],
+      "assignments": ["Homework 9"],
+      "due_dates": ["11/08"]
+    },
+    "week10": {
+      "topics": ["Ch 10: Performance Evaluation"],
+      "readings": ["S10-1", "S10-4", "S10-5", "S10-7", "S10-8", "S10-9", "S10-10", "S10-13"],
+      "assignments": ["Homework 10"],
+      "due_dates": ["11/15"]
+    },
+    "week11": {
+      "topics": ["Ch 11: Standard Costs and Variances"],
+      "readings": ["S11-1", "S11-2", "S11-3", "S11-5", "S11-7", "S11-8"],
+      "assignments": ["Homework 11"],
+      "due_dates": ["11/22"]
+    },
+    "week12": {
+      "topics": ["Ch 12: Capital Investment Decisions and the Time Value of Money"],
+      "readings": ["S12-2", "S12-3", "S12-4", "S12-5", "S12-12", "S12-13"],
+      "assignments": ["Homework 12"],
+      "due_dates": ["11/29"]
+    },
+    "week13": {
+      "topics": ["Ch 13: Statement of Cash Flows"],
+      "readings": ["S13-1", "S13-5", "S13-8", "S13-9", "S13-10"],
+      "assignments": ["Homework 13"],
+      "due_dates": ["12/06"]
+    },
+    "week14": {
+      "topics": ["Ch 14: Financial Statement Analysis", "Ch 15: Sustainability"],
+      "readings": ["S14-1", "S14-2", "S14-3", "S14-4", "S14-5", "S14-6", "S14-7", "S14-8", "S14-9"],
+      "assignments": ["Homework 14", "Homework 15"],
+      "due_dates": ["12/10"]
+    },
+    "week15": {
+      "topics": ["Final Exam"],
+      "readings": [],
+      "assignments": ["Final Exam"],
+      "due_dates": ["12/13"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "30%",
+      "exams": "70%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "A: 93-100%, A-: 90-92%, B+: 85-89%, B: 80-84%, B-: 75-79%, C+: 70-74%, C: 65-69%, C-: 60-64%, F: 0-59%",
+    "policies": "Late submissions will not be allowed."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "Due 09/13 via Canvas"
+    },
+    {
+      "name": "Homework 2",
+      "description": "Due 09/20 via Canvas"
+    },
+    {
+      "name": "Homework 3",
+      "description": "Due 09/27 via Canvas"
+    },
+    {
+      "name": "Homework 4",
+      "description": "Due 10/04 via Canvas"
+    },
+    {
+      "name": "Homework 5",
+      "description": "Due 10/11 via Canvas"
+    },
+    {
+      "name": "Homework 6",
+      "description": "Due 10/18 via Canvas"
+    },
+    {
+      "name": "Homework 7",
+      "description": "Due 10/25 via Canvas"
+    },
+    {
+      "name": "Homework 8",
+      "description": "Due 11/01 via Canvas"
+    },
+    {
+      "name": "Homework 9",
+      "description": "Due 11/08 via Canvas"
+    },
+    {
+      "name": "Homework 10",
+      "description": "Due 11/15 via Canvas"
+    },
+    {
+      "name": "Homework 11",
+      "description": "Due 11/22 via Canvas"
+    },
+    {
+      "name": "Homework 12",
+      "description": "Due 11/29 via Canvas"
+    },
+    {
+      "name": "Homework 13",
+      "description": "Due 12/06 via Canvas"
+    },
+    {
+      "name": "Homework 14",
+      "description": "Due 12/10 via Canvas"
+    },
+    {
+      "name": "Homework 15",
+      "description": "Due 12/10 via Canvas"
+    },
+    {
+      "name": "Mid-term Exam",
+      "description": "Due 10/18 via Canvas"
+    },
+    {
+      "name": "Final Exam",
+      "description": "Due 12/13 via Canvas"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late submissions will not be allowed.",
+    "academic_integrity": "Cheating during in-class tests or take-home examinations or homework is illegal and immoral.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Mid-term Exam due 10/18",
+    "Final Exam due 12/13"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom or Blackboard Collaborate.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:48:09.633300",
+    "pdf_source": "../StevensCourses\\Narcyz Roztocki FIN 615 WS Fall 2021 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 23065,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Financial Decision Making",
+      "code": "FIN 615 WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2021",
+      "instructor": {
+        "name": "Narcyz Roztocki, Ph.D.",
+        "email": "Narcyz.Roztocki@stevens.edu",
+        "office_hours": "Monday 2:00 pm – 3:00 pm by appointment",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course introduces students to the principles of accounting and finance.",
+    "learning_outcomes": [
+      "Apply accounting and financial principles supplemented with financial ratio analysis techniques to analyze the operational results of a firm over time and relative to competitive and market benchmarks.",
+      "Analyze cost behavior and evaluate operational outcomes reported by different costing systems.",
+      "Use accounting information and apply financial principles to make better investment and resource allocation decisions.",
+      "Appreciate how operating efficiency, investment effectiveness and financial structure increase firm value and maximize investment returns to shareholders."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

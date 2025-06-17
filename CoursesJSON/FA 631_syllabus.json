@@ -1,0 +1,158 @@
+{
+  "textbooks": [
+    {
+      "title": "Investments",
+      "author": "Zvie Bodie, Alex Kane and Alan Marcus",
+      "edition": "12th Edition",
+      "publisher": "McGraw-Hill"
+    },
+    {
+      "title": "An Introduction to Statistical Learning with Applications in R",
+      "author": "Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",
+      "edition": "2nd edition, 2021",
+      "publisher": "Springer"
+    },
+    {
+      "title": "Introduction to Information Retrieval",
+      "author": "Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze",
+      "edition": "2008",
+      "publisher": "Cambridge University Press"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to main topics of machine learning"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to credit risk"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Capital Allocation to Risky Assets"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Optimal Risky Portfolios"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Index Models"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["The Capital Asset Pricing Model"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Arbitrage Pricing Theory and Multifactor Models of Risk and Return"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Innovating into Active ETFs"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Momentum Funds"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Empirical asset pricing and machine learning"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Natural language processing: Extracting information and investment signals"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Company valuations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Portfolio Performance Evaluation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "79%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "20%",
+      "final": "1%"
+    },
+    "scale": "A: 100% to 94%, A-: < 94% to 90%, B+: < 90% to 87%, B: < 87% to 84%, B-: < 84% to 80%, C+: < 80% to 77%, C: < 77% to 70%, F: < 70% to 0%",
+    "policies": "Class attendance is mandatory. A point (out of 100) will be deducted for every unjustified missing session after two absences."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "Class attendance is mandatory. A point (out of 100) will be deducted for every unjustified missing session after two absences.",
+    "late_work": "10% of the grade lost for each late day. No assignments accepted after 2 days.",
+    "academic_integrity": "You cannot share ideas in any written form: code, pseudocode or solutions. Assignments may be submitted to www.turnitin.com for originality evaluation.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "The class will combine class presentations, discussions, exercises, and case analysis.",
+    "technology_requirements": "The programming language of this course is Python with the Anaconda distribution.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:15:53.855043",
+    "pdf_source": "../StevensCourses\\FA 631_syllabus.pdf",
+    "source_type": "file",
+    "text_length": 21641,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Investment, Portfolio Construction and Trading Analytics",
+      "code": "FA631",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2023",
+      "instructor": {
+        "name": "Germán Creamer",
+        "email": "gcreamer@stevens.edu",
+        "office_hours": "Mon 11 AM – 12 PM",
+        "contact_info": "Babbio 637"
+      }
+    },
+    "course_description": "This is an applied research course that explores how to apply fundamental machine learning models for financial prediction, algorithmic trading, model calibration, and portfolio optimization.",
+    "learning_outcomes": [
+      "Apply statistical models and analytical methods to the finance domain.",
+      "Recognize the value and limits of statistical learning algorithms to solve financial problems.",
+      "Develop analytical models for financial forecasting, portfolio optimization, and trading."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": ["A Machine learning course or similar training."],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

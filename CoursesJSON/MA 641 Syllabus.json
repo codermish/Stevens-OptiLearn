@@ -1,0 +1,197 @@
+{
+  "textbooks": [
+    {
+      "title": "Time series analysis: with applications in R",
+      "author": "Cryer, J. & Chan",
+      "year": 2008,
+      "publisher": "Springer"
+    },
+    {
+      "title": "Multivariate time series analysis: with R and financial applications",
+      "author": "Tsay, R.",
+      "year": 2013,
+      "publisher": "John Wiley & Sons"
+    },
+    {
+      "title": "Time series analysis and its applications: with R examples",
+      "author": "Shumway, R. & Stoffer, D.",
+      "year": 2017,
+      "publisher": "Springer"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Information"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction and Fundamental Concepts"],
+      "readings": ["[CC] Chapters 1,2"],
+      "assignments": ["M1 Discussion", "Homework 1", "M1 Quiz"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Trends"],
+      "readings": ["[CC] Chapter 3"],
+      "assignments": ["M2 Discussion", "Homework 2", "M2 Quiz"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Models for Stationary Time Series I"],
+      "readings": ["[CC] Chapter 4.1-4.3"],
+      "assignments": ["M3 Discussion", "M3 Quiz"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Models for Stationary Time Series II"],
+      "readings": ["[CC] Chapter 4.4-4.5"],
+      "assignments": ["M4 Discussion", "Homework 3", "M4 Quiz"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Models for Nonstationary Time Series"],
+      "readings": ["[CC] Chapter 5"],
+      "assignments": ["M6 Discussion", "Homework 5", "M6 Quiz"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Model Specification"],
+      "readings": ["[CC] Chapter 6"],
+      "assignments": ["M6 Discussion", "Homework 5", "M6 Quiz"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Parameter Estimation"],
+      "readings": ["[CC] Chapter 7"],
+      "assignments": ["M7 Discussion", "Homework 6", "M7 Quiz"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Model Diagnostics"],
+      "readings": ["[CC] Chapter 8"],
+      "assignments": ["M8 Discussion", "Homework 7", "M8 Quiz"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Forecasting"],
+      "readings": ["[CC] Chapter 9"],
+      "assignments": ["M9 Discussion", "Homework 8", "M9 Quiz"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Seasonal Models"],
+      "readings": ["[CC] Chapter 10"],
+      "assignments": ["M10 Discussion", "Homework 9", "M10 Quiz"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["GARCH Models, Long Memory ARMA, and Fractional Differencing"],
+      "readings": ["[CC] Ch 13", "[CC] Ch 15"],
+      "assignments": ["M11 Discussion", "Homework 10", "Draft Course Project", "M11 Quiz"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Spectral Analysis and Nonlinear Models"],
+      "readings": ["[CC] Chapters 13, 15"],
+      "assignments": ["M12 Discussion", "Homework 11", "Final Course Project", "M12 Quiz"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Multivariate Time Series Analysis"],
+      "readings": ["[T] Chapters 2, 3"],
+      "assignments": ["M13 Discussion", "Homework 12", "M13 Quiz"],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "20%",
+      "projects": "20%",
+      "quizzes": "10%",
+      "final": "20%"
+    },
+    "scale": "A: 85-100 A-: 81-84 B+: 77-80 B: 73-76 B-: 69 -72 C: 60-68 F : 00-59",
+    "policies": "Late submission will not be accepted."
+  },
+  "assignments": [
+    {
+      "name": "Discussion Participation",
+      "description": "Post a video or written response and comment on classmates’ posts."
+    },
+    {
+      "name": "Quizzes",
+      "description": "Graded retention quiz covering concepts introduced in the module."
+    },
+    {
+      "name": "Homework",
+      "description": "Periodic assignments with multiple applied and theoretical problems."
+    },
+    {
+      "name": "Research Project",
+      "description": "Group-based project applying statistical methods to a real-life data set."
+    },
+    {
+      "name": "Final Exam",
+      "description": "Take-home comprehensive final exam."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is expected in all online sessions.",
+    "late_work": "Late submission will not be accepted.",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Students with documented disabilities can receive accommodations through the Office of Disability Services."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:27:17.264613",
+    "pdf_source": "../StevensCourses\\MA 641 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 18823,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Time Series Analysis I",
+      "code": "MA 641",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Hadi Safari Katesari",
+        "email": "hsafarik@stevens.edu",
+        "office_hours": "Tuesday evenings from 8:30-10:30 pm EST.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The course will provide a basic introduction to modern time series analysis from both a theoretical and applied point of view.",
+    "learning_outcomes": [
+      "Summarize and diagram time series data in statistical format.",
+      "Apply stationary (ARMA) and nonstationary (ARIMA) time series models.",
+      "Apply model specification and diagnostic for stationary and nonstationary times series models.",
+      "Compute parameter estimation for time series models via statistical methods such as maximum likelihood.",
+      "Predict the values for time series at future time points and interpret the results.",
+      "Apply statistical techniques into seasonal time series (SARMA) modeling.",
+      "Identify well-known time series models such as ARCH and GARCH.",
+      "Apply spectral analysis, nonlinear models, and threshold models.",
+      "Apply multivariate time series analysis."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

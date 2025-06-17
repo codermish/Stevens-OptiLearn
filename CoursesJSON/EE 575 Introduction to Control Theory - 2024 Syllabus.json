@@ -1,0 +1,230 @@
+{
+  "textbooks": [
+    {
+      "title": "Feedback Control of Dynamic Systems",
+      "authors": ["G. F. Franklin", "J. D. Powell", "A. Emami-Naeini"],
+      "edition": "Eighth Edition",
+      "publisher": "Prentice Hall",
+      "year": 2019,
+      "ISBN_13": "978-0-13-468571-7",
+      "ISBN_10": "0-13-468571-7"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Feedback Control & Dynamic Models"],
+      "readings": ["Chapters 1 & 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Dynamic Response"],
+      "readings": ["Chapters 3.3 to 3.6"],
+      "assignments": ["Homework 1"],
+      "due_dates": ["Jan 27"]
+    },
+    "week3": {
+      "topics": ["A First Analysis of Feedback"],
+      "readings": ["Chapters 4.1 to 4.3"],
+      "assignments": ["Homework 2"],
+      "due_dates": ["Feb 3"]
+    },
+    "week4": {
+      "topics": ["Root Locus"],
+      "readings": ["Chapters 5.1 to 5.3"],
+      "assignments": ["Homework 3"],
+      "due_dates": ["Feb 10"]
+    },
+    "week5": {
+      "topics": ["Frequency Response"],
+      "readings": ["Chapters 6.1, 6.4, 6.6"],
+      "assignments": ["Homework 4"],
+      "due_dates": ["Feb 17"]
+    },
+    "week6": {
+      "topics": ["State Space Design"],
+      "readings": ["Chapters 7.1 to 7.3"],
+      "assignments": ["Homework 5"],
+      "due_dates": ["Feb 24"]
+    },
+    "week7": {
+      "topics": ["State Equations & Full-State feedback"],
+      "readings": ["Chapters 7.4 to 7.5"],
+      "assignments": ["Homework 6"],
+      "due_dates": ["Mar 2"]
+    },
+    "week8": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["Mar 8"]
+    },
+    "week9": {
+      "topics": ["Spring Recess"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Estimator Design"],
+      "readings": ["Chapter 7.7"],
+      "assignments": ["Homework 7"],
+      "due_dates": ["Mar 16"]
+    },
+    "week11": {
+      "topics": ["Compensation"],
+      "readings": ["Chapters 6.7.1-6.7.5"],
+      "assignments": ["Homework 8"],
+      "due_dates": ["Mar 23"]
+    },
+    "week12": {
+      "topics": ["Estimator Design - More Examples"],
+      "readings": ["Chapters 7.9, 7.10.1"],
+      "assignments": ["Homework 9"],
+      "due_dates": ["Mar 30"]
+    },
+    "week13": {
+      "topics": ["Non-linear Systems"],
+      "readings": ["Chapter 9.2"],
+      "assignments": ["Homework 10"],
+      "due_dates": ["Apr 6"]
+    },
+    "week14": {
+      "topics": ["The Lyapunov Function"],
+      "readings": ["Chapter 9.30"],
+      "assignments": ["Homework 11"],
+      "due_dates": ["Apr 13"]
+    },
+    "week15": {
+      "topics": ["Control System Design & Frequency-Based Design"],
+      "readings": ["Chapter 10.1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week16": {
+      "topics": ["Final Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["May 3"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "20%",
+      "exams": "80%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": "Late homework will get 50% of the points. Points for incomplete homework will be prorated accordingly."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "Due Jan 27"
+    },
+    {
+      "name": "Homework 2",
+      "description": "Due Feb 3"
+    },
+    {
+      "name": "Homework 3",
+      "description": "Due Feb 10"
+    },
+    {
+      "name": "Homework 4",
+      "description": "Due Feb 17"
+    },
+    {
+      "name": "Homework 5",
+      "description": "Due Feb 24"
+    },
+    {
+      "name": "Homework 6",
+      "description": "Due Mar 2"
+    },
+    {
+      "name": "Homework 7",
+      "description": "Due Mar 16"
+    },
+    {
+      "name": "Homework 8",
+      "description": "Due Mar 23"
+    },
+    {
+      "name": "Homework 9",
+      "description": "Due Mar 30"
+    },
+    {
+      "name": "Homework 10",
+      "description": "Due Apr 6"
+    },
+    {
+      "name": "Homework 11",
+      "description": "Due Apr 13"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late homework will get 50% of the points. Points for incomplete homework will be prorated accordingly.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "Mar 8"
+    },
+    {
+      "event": "Spring Recess",
+      "date": "Mar 10"
+    },
+    {
+      "event": "Final Exam",
+      "date": "May 3"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Online",
+    "technology_requirements": "MATLAB needs to be used in some of the homework assignments.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:59:34.938423",
+    "pdf_source": "../StevensCourses\\EE 575 Introduction to Control Theory - 2024 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 9929,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to Control Theory",
+      "code": "EE 575",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Goran Djuknic, PhD",
+        "email": "gdjuknic@hotmail.com",
+        "office_hours": "Friday 7-9 pm (by appointment)",
+        "contact_info": "917-699-2464"
+      }
+    },
+    "course_description": "An introduction to the classic and modern control theories with emphasis on state space modeling and feedback control.",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": [
+      {
+        "type": "Required",
+        "course": "EE 348 System Theory or equivalent"
+      },
+      {
+        "type": "Preferred",
+        "course": "EE 478 Control Systems, EE 602 Analytic Methods"
+      }
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

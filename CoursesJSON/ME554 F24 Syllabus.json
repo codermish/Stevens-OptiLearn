@@ -1,0 +1,255 @@
+{
+  "textbooks": [
+    {
+      "title": "Computer Aided Design and Manufacturing",
+      "author": "Zhuming Bi and Xiaoqin Wang",
+      "edition": "2020",
+      "ISBN": ""
+    },
+    {
+      "title": "Designing with Creo Parametric 7.0",
+      "author": "Michael Rider",
+      "edition": "",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to CAD/CAM", "Introduction to Creo", "Parametrics"],
+      "readings": [],
+      "assignments": ["HW #1"],
+      "due_dates": ["9/13"]
+    },
+    "week2": {
+      "topics": ["Computer Aided Geometric Modeling", "Creo Basic Features"],
+      "readings": [],
+      "assignments": ["HW #2"],
+      "due_dates": ["9/20"]
+    },
+    "week3": {
+      "topics": ["Curves, Surface, and Solid", "Creo Feature (Extrusion)"],
+      "readings": [],
+      "assignments": ["HW #3", "Group Project idea"],
+      "due_dates": ["9/27", "9/20"]
+    },
+    "week4": {
+      "topics": ["Feature Based Modeling", "Creo Feature (Revolve)"],
+      "readings": [],
+      "assignments": ["HW #4"],
+      "due_dates": ["10/4"]
+    },
+    "week5": {
+      "topics": ["Knowledge-Based Engineering (Parametric Modeling)", "Creo Engineering Drawings"],
+      "readings": [],
+      "assignments": ["HW #5", "Group Project proposal"],
+      "due_dates": ["10/11", "10/4"]
+    },
+    "week6": {
+      "topics": ["Platform Technologies (standardization, modularization, platforms)", "Creo Assemblies"],
+      "readings": [],
+      "assignments": ["HW #6"],
+      "due_dates": ["10/18"]
+    },
+    "week7": {
+      "topics": ["Computer Aided Reverse Engineering", "Creo Feature (Sweep & Blend)"],
+      "readings": [],
+      "assignments": ["HW #7"],
+      "due_dates": ["11/8"]
+    },
+    "week8": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Computer Aided Machine Design", "Creo Advanced Assembly & Drawing"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Computer Aided Engineering (CAE)", "Creo Feature (Patterns)"],
+      "readings": [],
+      "assignments": ["HW #8"],
+      "due_dates": ["11/15"]
+    },
+    "week11": {
+      "topics": ["Finite Element Modeling and Analysis", "Creo Simulate"],
+      "readings": [],
+      "assignments": ["HW #9", "Individual Project"],
+      "due_dates": ["11/22", "11/15"]
+    },
+    "week12": {
+      "topics": ["Computer Aided Manufacturing (CAM)", "Creo CAM"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Digital Manufacturing", "Creo Generative Design – Topology optimization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Direct and Additive Manufacturing", "Creo Additive Manufacturing"],
+      "readings": [],
+      "assignments": ["Group project final"],
+      "due_dates": ["12/13"]
+    },
+    "week15": {
+      "topics": ["Design for Sustainability", "Creo Relations and Family Tables"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week16": {
+      "topics": ["Review", "Peer review"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "25%",
+      "exams": "20%",
+      "projects": "55%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late homework will not be accepted, except for medical reasons or prior approval by the instructor."
+  },
+  "assignments": [
+    {
+      "name": "HW #1",
+      "description": "Homework assigned in Week 1",
+      "due_date": "9/13"
+    },
+    {
+      "name": "HW #2",
+      "description": "Homework assigned in Week 2",
+      "due_date": "9/20"
+    },
+    {
+      "name": "HW #3",
+      "description": "Homework assigned in Week 3",
+      "due_date": "9/27"
+    },
+    {
+      "name": "Group Project idea",
+      "description": "Idea submission for group project in Week 3",
+      "due_date": "9/20"
+    },
+    {
+      "name": "HW #4",
+      "description": "Homework assigned in Week 4",
+      "due_date": "10/4"
+    },
+    {
+      "name": "HW #5",
+      "description": "Homework assigned in Week 5",
+      "due_date": "10/11"
+    },
+    {
+      "name": "Group Project proposal",
+      "description": "Proposal submission for group project in Week 5",
+      "due_date": "10/4"
+    },
+    {
+      "name": "HW #6",
+      "description": "Homework assigned in Week 6",
+      "due_date": "10/18"
+    },
+    {
+      "name": "HW #7",
+      "description": "Homework assigned in Week 7",
+      "due_date": "11/8"
+    },
+    {
+      "name": "HW #8",
+      "description": "Homework assigned in Week 10",
+      "due_date": "11/15"
+    },
+    {
+      "name": "HW #9",
+      "description": "Homework assigned in Week 11",
+      "due_date": "11/22"
+    },
+    {
+      "name": "Individual Project",
+      "description": "Project due in Week 11",
+      "due_date": "11/15"
+    },
+    {
+      "name": "Group project final",
+      "description": "Final submission for group project in Week 14",
+      "due_date": "12/13"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late homework will not be accepted, except for medical reasons or prior approval by the instructor. No more than 3 excuses are accepted.",
+    "academic_integrity": "Enrollment into the undergraduate class of Stevens Institute of Technology signifies a student's commitment to the Honor System. Accordingly, the provisions of the Stevens Honor System apply to all undergraduate students in coursework and Honor Board proceedings.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm Exam: Week 8",
+    "HW #1 due: 9/13",
+    "HW #2 due: 9/20",
+    "HW #3 due: 9/27",
+    "Group Project idea due: 9/20",
+    "HW #4 due: 10/4",
+    "HW #5 due: 10/11",
+    "Group Project proposal due: 10/4",
+    "HW #6 due: 10/18",
+    "HW #7 due: 11/8",
+    "HW #8 due: 11/15",
+    "HW #9 due: 11/22",
+    "Individual Project due: 11/15",
+    "Group project final due: 12/13"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, recording, editing, and uploading video via Panopto. Required equipment includes a PC (Windows 7+) with high-speed internet connection, webcam, and microphone. Required software includes Creo Parametric 7.0 and Microsoft PowerPoint.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:29:41.177324",
+    "pdf_source": "../StevensCourses\\ME554 F24 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 16925,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to CAD",
+      "code": "ME554",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Chan Yu",
+        "email": "cyu@stevens.edu",
+        "office_hours": "TR 3-5 pm",
+        "contact_info": "201-216-5561"
+      }
+    },
+    "course_description": "Designs of modern products and processes are very complex, and complex designs rely heavily on computer-aided technologies. This course introduces the fundamentals of CAD and its application in design and manufacturing practices.",
+    "learning_outcomes": [
+      "understand the fundamentals of CAD/CAM systems including the principles and practice of computer-aided solid modeling and its applications to manufacturing.",
+      "understand the functionality of computer-aided tools including CAD/CAM/CAE.",
+      "make an appropriate selection of CAD functionality to use as tools in the product design process.",
+      "use parametric modeling techniques to reflect engineering requirements.",
+      "design a part or assembly of parts using Computer-Aided Design software like Creo Parametric.",
+      "sketch and design parts in CAD using features (e.g., extrude, revolve, sweep, blend, etc.)",
+      "run a static finite element analysis and design optimization using CAD Simulation tools."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

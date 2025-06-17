@@ -1,0 +1,191 @@
+{
+  "textbooks": [
+    {
+      "title": "Corporate Finance The Core",
+      "author": "Jonathan Berk & Peter DeMarzo",
+      "edition": "4th Edition"
+    },
+    {
+      "title": "Corporate Finance",
+      "author": "Stephen A. Ross, Randolph W. Westerfield, Jeffrey Jaffe",
+      "edition": "10th Edition"
+    },
+    {
+      "title": "Corporate Finance: Theory and Practice",
+      "author": "Aswath Damodaran",
+      "edition": "2nd Edition"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overview & Financial Statement Analysis 1(Recap)"],
+      "readings": ["BD Chapters 1 & 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Financial Statement Analysis 2 (Recap)"],
+      "readings": ["BD Chapters 2 & 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Cash Flow Valuation 1(Recap)"],
+      "readings": ["BD Chapters 4, 6, 7, 9"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Cash Flow Valuation 2(Recap)"],
+      "readings": ["BD Chapters 4, 6, 7, 9"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Portfolio Theory & Capital Asset Pricing Model(Recap)"],
+      "readings": ["BD Chapters 10 & 11"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Monday Class Schedule"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Stock Valuation"],
+      "readings": ["BD Chapter 8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Fundamentals of Capital Budgeting"],
+      "readings": ["BD Chapter 8/Notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Costs of Capital Estimation"],
+      "readings": ["BD Chapter 12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Basic Capital Structure Theory 1"],
+      "readings": ["BD Chapter 14"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Basic Capital Structure Theory 2"],
+      "readings": ["BD Chapter 14/Notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Equity Financing"],
+      "readings": ["BD Chapter 25"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Fundamental Valuation: Case of Freeport McMoran 1"],
+      "readings": ["Chapter 19/Notes"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Project Presentation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week16": {
+      "topics": ["Final Exam"],
+      "readings": ["Comprehensive"],
+      "assignments": [],
+      "due_dates": ["Midnight 11:59 PM"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15%",
+      "assignments": "10%",
+      "exams": "30%",
+      "projects": "40%",
+      "quizzes": "5%",
+      "final": "15%"
+    },
+    "scale": "A: 90-100%",
+    "policies": "Attendance, interaction, and aptitude (class participation) collectively contribute to 15% of the final grade."
+  },
+  "assignments": [
+    {
+      "description": "Group project involving valuation of a company, due by 5:00 pm on the exam day (May 12 tentatively)."
+    },
+    {
+      "description": "Three to four homework assignments, graded based on perceived effort."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance contributes 5% to the final grade.",
+    "late_work": "Late work policies are not explicitly stated.",
+    "academic_integrity": "Cheating will not be tolerated; anyone involved will receive an 'F' grade.",
+    "accommodations": "Students with disabilities should request accommodations in advance."
+  },
+  "important_dates": [
+    "January 17, 2024 - Course Start",
+    "March 5, 2024 - Midterm Exam",
+    "March 12, 2024 - Spring Recess",
+    "May 1, 2024 - Project Presentation",
+    "May 8, 2024 - Final Exam",
+    "May 12, 2024 - Project Write-up Submission Deadline"
+  ],
+  "additional_info": {
+    "course_format": "Interactive virtual lecture format with homework assignments, midterm, and final exam.",
+    "technology_requirements": "MS Excel for statistical data analysis.",
+    "support_resources": "Wall Street Journal, Financial Times, Bloomberg terminals."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:22:17.994262",
+    "pdf_source": "../StevensCourses\\FIN 638A_Syllabus_Spring_2024.pdf",
+    "source_type": "file",
+    "text_length": 12821,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Corporate Finance",
+      "code": "FIN 638A",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Suman Banerjee",
+        "email": "sbanerj2@stevens.edu",
+        "office_hours": "Tuesday from 1:30 p.m. – 3:30 p.m.",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This introductory graduate-level course provides a market-oriented framework for analyzing the major types of financial decisions made by corporations.",
+    "learning_outcomes": [
+      "Understand an organization's four principal activities: conducting operations, establishing goals and strategies, making investments, and obtaining financing.",
+      "Understand the purpose and content of the three principal financial statements: balance sheet statement, cash flow statement, and income statement.",
+      "Have basic idea about mergers and acquisitions, financial decision-making, debt, and corporate restructuring."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [
+      "Financial and Managerial Accounting (FIN 600)",
+      "Financial Statement Analysis (FIN 510)",
+      "Economics for Managers (MGT 606)"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

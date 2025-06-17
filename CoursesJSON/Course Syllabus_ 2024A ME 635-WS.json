@@ -1,0 +1,146 @@
+{
+  "textbooks": [
+    {
+      "title": "Simulation with ARENA",
+      "author": "Kelton, Sadowski, Sadowski",
+      "edition": "6th",
+      "ISBN": "978-0073401317"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction, Definitions, course outline, software tools etc."],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Data modeling – Linear regression, functions with linear coefficients, numerical integration and differentiation, …"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Static Models – Boundary value problems, Initial value problems, boundary conditions, behavior of the medium, …"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Numerical Solution to Boundary value problems – introduction to FEM."],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Case Studies: Thermal Problem, Flow problem, Linear elasticity, flow, Coupled flow/thermal analysis"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Exam – 1 (Take Home)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Dynamic Models – Transient Solutions – Simple ODES, coupled problems"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Stochastic Models – Basic process models, advanced resource allocations and material flow control"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["EXAM - 2 (Take Home)", "Project Presentations"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "50%",
+      "exams": "30%",
+      "projects": "20%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late Policy: +3 Days – 80% of the grade, +4-7 Days – 50% of the grade, > 7 Days – 0%"
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late Policy: +3 Days – 80% of the grade, +4-7 Days – 50% of the grade, > 7 Days – 0%",
+    "academic_integrity": "Students must sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology provides accommodations for students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "Software Needed: Solidworks Simulation / Flow Works, Matlab/Simulink, Arena.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:41:35.099170",
+    "pdf_source": "../StevensCourses\\Course Syllabus_ 2024A ME 635-WS.pdf",
+    "source_type": "file",
+    "text_length": 13706,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Modeling and Simulation",
+      "code": "ME 635-WS",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Sayed Aziz",
+        "email": "eaziz@stevens.edu",
+        "office_hours": "",
+        "contact_info": "(201) 216-8264"
+      }
+    },
+    "course_description": "Modeling and simulation is a dynamic field that is utilized in a wide range of physical and social sciences, engineering fields, health, business, education, and many other disciplines.",
+    "learning_outcomes": [
+      "Build mathematical and logical modeling of physical systems and processes",
+      "Differentiate between static, dynamic and stochastic models; Apply appropriate approximations for physical problems",
+      "Simulate a variety of problems relevant to engineers"
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

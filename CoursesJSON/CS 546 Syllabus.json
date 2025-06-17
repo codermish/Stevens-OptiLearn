@@ -1,0 +1,380 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Course Information",
+        "Introduction to Node.js",
+        "Intro to JavaScript and Syntax"
+      ],
+      "readings": [
+        "What is Node? YouTube",
+        "What Exactly is Node.js?",
+        "Node Homepage",
+        "How to Install Node on Mac",
+        "How to Install Node on Linux",
+        "How to Install Node on Windows",
+        "JavaScript Basics",
+        "var, let or const?",
+        "JavaScript Objects",
+        "Node.js Tutorial W3Schools",
+        "== vs ===",
+        "Strings - W3Schools",
+        "Booleans - W3Schools",
+        "Numbers - W3Schools",
+        "Functions - W3Schools",
+        "Different Ways of Declaring a Function in JavaScript",
+        "Objects - W3Schools",
+        "Defining Functions YouTube",
+        "Arrow Functions YouTube",
+        "Another Arrow Function YouTube Video",
+        "Functional Scope VS Block",
+        "Destructuring Objects",
+        "Different Types of Functions"
+      ],
+      "assignments": [
+        "Lab 1: An Intro to Node"
+      ],
+      "due_dates": [
+        "Wednesday of Week 2 @ 11:59 PM ET"
+      ]
+    },
+    "week2": {
+      "topics": [
+        "Structure of a Node Application",
+        "Modules",
+        "Error Checking node Module",
+        "Creating a Calculator Module and Application"
+      ],
+      "readings": [
+        "Explained: What Are Node.js Modules?",
+        "Module Exports",
+        "Node.js Modules W3Schools",
+        "npmjs.com (node documentation for packages)",
+        "NPM Prompt",
+        "How to install modules through npm"
+      ],
+      "assignments": [
+        "Lab 2: Initializing a Node.js Package"
+      ],
+      "due_dates": [
+        "Wednesday of Week 3 @ 11:59 PM ET"
+      ]
+    },
+    "week3": {
+      "topics": [
+        "What is Asynchronous Code",
+        "Where Will We Use Asynchronous Code",
+        "Callback Functions",
+        "Promises",
+        "Async & Await"
+      ],
+      "readings": [
+        "JavaScript: What the hell is a callback?",
+        "Understand Javascript Callbacks and Use Them",
+        "Callback Hell",
+        "Callbacks, Promises, Async/Await - YouTube",
+        "Getting to know asynchronous JavaScript: Callbacks, Promises and Async/Await",
+        "Using Async Await in Node.js",
+        "async function -MDN",
+        "await - MDN",
+        "JavaScript ES 2017: Learn Async/Await by Example",
+        "Async Await",
+        "Getting Started with Bluebird",
+        "Bluebird.js Tutorial YouTube",
+        "Understanding JavaScript Promises",
+        "JavaScript: Promises explained with simple real life analogies",
+        "Using Promises (MDN)"
+      ],
+      "assignments": [
+        "Lab 3: Network JSON Data"
+      ],
+      "due_dates": [
+        "Wednesday of Week 4 @ 11:59 PM ET"
+      ]
+    },
+    "week4": {
+      "topics": [
+        "Introduction to MongoDB",
+        "Connecting to MongoDB",
+        "Basic Data Manipulation in MongoDB",
+        "Final Project Groups"
+      ],
+      "readings": [
+        "Mongo Flow.pdf",
+        "MongoDB Manual",
+        "Install MongoDB on Mac",
+        "Install MongoDB on Linux",
+        "Install MongoDB on Windows",
+        "MongoDB Query Document",
+        "An Introduction to MongoDB Query for Beginners",
+        "MongoDB Insert",
+        "MongoDB Updating",
+        "MongoDB Delete",
+        "MongoDB $set"
+      ],
+      "assignments": [
+        "Lab 4: MongoDB"
+      ],
+      "due_dates": [
+        "Wednesday of Week 5 @ 11:59 PM ET"
+      ]
+    },
+    "week5": {
+      "topics": [
+        "Understanding the Web and How it Works.",
+        "Running a Node.js Web Server",
+        "Node as an API (GET)"
+      ],
+      "readings": [
+        "Express.js homepage",
+        "Express 4.0 API",
+        "ExpressJS Tutorial",
+        "Postman Homepage",
+        "Postman - Tutorial YouTube",
+        "Express JS Crash Course -YouTube",
+        "Get started with Express, Routes, app get, router get #1 YouTube",
+        "Express router post request, body parser #3 - YouTube"
+      ],
+      "assignments": [
+        "Lab 5: JSON Routes"
+      ],
+      "due_dates": [
+        "Wednesday of Week 6 @ 11:59 PM ET"
+      ]
+    },
+    "week6": {
+      "topics": [
+        "Intermediate MongoDB",
+        "API Request Methods: (POST, PUT, PATCH, DELETE)",
+        "Server-side Error Checking/Handling",
+        "Final Project Deliverable #1 - Project Proposal Presentation"
+      ],
+      "readings": [
+        "MongoDB - Comparison Query Operators",
+        "MongoDB Logical Query Operators",
+        "MongoDB - Array Query Operators",
+        "MongoDB Element Query Operators"
+      ],
+      "assignments": [
+        "Lab 6: A Book API"
+      ],
+      "due_dates": [
+        "Thursday of Week 8 @ 11:59 PM ET"
+      ]
+    },
+    "week7": {
+      "topics": [
+        "Collaborative Programming",
+        "Intro to HTML"
+      ],
+      "readings": [
+        "How to push to github",
+        "Creating a Pull Request",
+        "Using GIT Branches",
+        "Branching and Merging",
+        "GIT Docs",
+        "GitHub Homepage",
+        "Introduction to HTML - W3Schools",
+        "Introduction to HTML -MDN",
+        "Intro to HTML YouTube",
+        "HTML Crash Course - YouTube",
+        "GitHub Tutorial YouTube"
+      ],
+      "assignments": [
+        "Lab 7: An HTML Document"
+      ],
+      "due_dates": [
+        "Wednesday of Week 9 @ 11:59 PM ET"
+      ]
+    },
+    "week8": {
+      "topics": [
+        "Express and Static Files and Assets",
+        "Introduction to CSS",
+        "Introduction to HTML Forms",
+        "HTML Templating with Node and Handlebars"
+      ],
+      "readings": [
+        "Write Templates Like A Node.js Pro: Handlebars Tutorial",
+        "CSS Tutorial",
+        "Handlebars npm",
+        "HTML Forms - w3"
+      ],
+      "assignments": [
+        "Final Project Deliverable #2 - Project DB Proposal",
+        "Lab 8: Template Time"
+      ],
+      "due_dates": [
+        "Tuesday @ 11:59 PM ET",
+        "Wednesday of Week 10 @ 11:59 PM ET"
+      ]
+    },
+    "week9": {
+      "topics": [
+        "Running Client-side Javascript",
+        "The DOM and Javascript",
+        "Accessing the Dom via Javascript",
+        "Client-Side Form Validation",
+        "Final Project Project Deliverable #3 - Project Pitch Presentation"
+      ],
+      "readings": [
+        "Javascript Tutorialspoint",
+        "Form Validation with JS",
+        "JavaScript Form Validation - YouTube",
+        "Form Validation - YouTube"
+      ],
+      "assignments": [
+        "Lab 9: Array Sort"
+      ],
+      "due_dates": [
+        "Thursday of Week 9 @ 11:59 PM ET",
+        "Wednesday of Week 11 @ 11:59 PM ET"
+      ]
+    },
+    "week10": {
+      "topics": [
+        "Middleware",
+        "Authentication and Authorization",
+        "Using Cookies: cookie-parser middleware and express-session",
+        "Cookie Based Authentication using Express, Middleware, and MongoDB"
+      ],
+      "readings": [
+        "express-session (NPM Documentation)",
+        "How to Manage Session using Node.js and Express",
+        "ExpressJS Sessions",
+        "NodeJS Essentials 33: Express Sessions - YouTube",
+        "Cookie Parser NPM",
+        "BCrypt NPM",
+        "ExpressJS Cookies",
+        "Hashing Passwords with BCrypt",
+        "Using Middleware"
+      ],
+      "assignments": [
+        "Lab 10: Authentication and Middleware"
+      ],
+      "due_dates": [
+        "Wednesday of Week 12 @ 11:59 PM ET"
+      ]
+    },
+    "week11": {
+      "topics": [
+        "Introduction to AJAX",
+        "Using AJAX and JQuery",
+        "Security concerns",
+        "Making a dynamic HTML page"
+      ],
+      "readings": [
+        "jQuery - AJAX Introduction",
+        "Ajax/jQuery Learning Center",
+        "jQuery - Ajax Tutorial",
+        "Ajax Events",
+        "xss nodejs npm",
+        "Cross Site Scripting (XSS)"
+      ],
+      "assignments": [
+        "Lab 11: AJAX (EC)"
+      ],
+      "due_dates": [
+        "Monday of Week 13 @ 11:59 PM ET"
+      ]
+    },
+    "week12": {
+      "topics": [
+        "Introduction to jQuery",
+        "Console API",
+        "Window API",
+        "Other API’s",
+        "Misc API’s",
+        "Basic Web Accessibility"
+      ],
+      "readings": []
+    },
+    "week13": {
+      "topics": [
+        "Accessibility Through Keyboard Navigation",
+        "Advanced CSS",
+        "Bootstrap",
+        "Bootstrap concepts",
+        "Bootstrap Grid",
+        "Common Layout Components",
+        "Bootstrap Components",
+        "What now?",
+        "Final Project"
+      ],
+      "readings": [],
+      "assignments": [
+        "Final Project Deliverable #4 - Final Walkthrough Presentation",
+        "Final Project Deliverable #4 - Final Project Result & Code",
+        "Final Project Deliverable #4 - Final Project Individual Contribution"
+      ],
+      "due_dates": [
+        "Sunday of Week 13 @ 11:59 PM ET"
+      ]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "30%",
+      "exams": "",
+      "projects": "40%",
+      "quizzes": "5%",
+      "final": "5%"
+    },
+    "scale": "",
+    "policies": "Late assignments (Labs and Quizzes) will receive a 15-point penalty PER DAY that it is late. Any final project component that is late will receive a 25-point penalty PER DAY that it is late."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "I do not require attendance, however it is strongly advised that you attend the live sessions.",
+    "late_work": "Late assignments (Labs and Quizzes) will receive a 15-point penalty PER DAY that it is late. There will be a 5-minute grace period.",
+    "academic_integrity": "The following pledge shall be written in full and signed by every student on all submitted work: 'I pledge my honor that I have abided by the Stevens Honor System.'",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, Proficient in at least one modern programming language, Computer: Mac (OS X) or Linux or PC, Webcam, Microphone.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:48:13.705232",
+    "pdf_source": "../StevensCourses\\CS 546 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 23157,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Web Programming",
+      "code": "CS 546",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Frank Appolonia",
+        "email": "fappolon@stevens.edu",
+        "office_hours": "Wednesdays, 7:30 pm - 9:30 pm ET",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will provide students with a first strong approach of internet programming.",
+    "learning_outcomes": [
+      "Install and configure a modern web programming environment that includes a web server, a modern backend programming language, and a modern database.",
+      "Write programs in the chosen programming language that use most of the features of the language and its standard libraries.",
+      "Use a modern database in order to create database-driven applications.",
+      "Create HTML pages and use basic JavaScript code to enhance the pages.",
+      "Evaluate the accessibility level of web pages and create web pages designed to work for all people, regardless of their hardware, culture, location, physical or mental ability.",
+      "Use client-side techniques (such as AJAX) and frameworks that allow for the creation of dynamic web pages.",
+      "Identify major vulnerabilities in web development and use defensive tactics to reduce their likelihood.",
+      "Create a complete market-ready database-driven web application in a team that goes through the entire software life cycle, with technical and non-technical presentations."
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [
+      "CS-442 or CS-561",
+      "CS-146 or SOC-611"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

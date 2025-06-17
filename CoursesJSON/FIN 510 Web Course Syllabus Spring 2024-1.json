@@ -1,0 +1,183 @@
+{
+  "textbooks": [
+    {
+      "title": "International Financial Statement Analysis",
+      "authors": ["Thomas R. Robinson", "Elaine Henry", "Michael A. Broihahn"],
+      "edition": "4th",
+      "year": "2020",
+      "ISBN": "978-1-119-62805-7"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": ["Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Financial Statement Fundamentals"],
+      "readings": ["Chapters 1 & 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Financial Reporting Legal/Regulatory Framework"],
+      "readings": ["Chapters 2, 13 & 15"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Income Statements"],
+      "readings": ["Chapter 3"],
+      "assignments": ["Assignment 1"],
+      "due_dates": ["2/20/2024"]
+    },
+    "week5": {
+      "topics": ["Balance Sheets"],
+      "readings": ["Chapter 4"],
+      "assignments": ["Assignment 2"],
+      "due_dates": ["2/25/2024"]
+    },
+    "week6": {
+      "topics": ["Cash Flow Statements"],
+      "readings": ["Chapter 5"],
+      "assignments": ["Assignment 3"],
+      "due_dates": ["3/3/2024"]
+    },
+    "week7": {
+      "topics": ["Inventory, LT Assets & Liabilities"],
+      "readings": ["Chapters 7, 8, & 10"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Analysis of Financial Institutions"],
+      "readings": ["Chapter 16"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Compensation & Taxes"],
+      "readings": ["Chapters 9 & 14"],
+      "assignments": ["Assignment 4"],
+      "due_dates": ["4/21/2024"]
+    },
+    "week10": {
+      "topics": ["Reporting Quality; Ethics"],
+      "readings": ["Chapters 11 & 17"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Analysis Techniques"],
+      "readings": ["Chapters 6 & 12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "10%",
+      "exams": "90%",
+      "projects": "",
+      "quizzes": "",
+      "final": "50%"
+    },
+    "scale": "A >92; A- 91.99~89; B+ 88~86; B 85~82; B- 81~80; C+ 79~77; C 76~73; C- 72~70; D+ 69~67; D 66~60; F<60",
+    "policies": "20% of the total points will be deducted for assignments received late without a valid excuse; assignments received more than 3 days late may receive a greater than 20% reduction, at the instructor’s discretion, up to 100%."
+  },
+  "assignments": [
+    {
+      "name": "Assignment 1",
+      "description": "Due after Income Statements discussion",
+      "due_date": "2/20/2024"
+    },
+    {
+      "name": "Assignment 2",
+      "description": "Due after Balance Sheets discussion",
+      "due_date": "2/25/2024"
+    },
+    {
+      "name": "Assignment 3",
+      "description": "Due after Cash Flow Statements discussion",
+      "due_date": "3/3/2024"
+    },
+    {
+      "name": "Assignment 4",
+      "description": "Due after Compensation & Taxes discussion",
+      "due_date": "4/21/2024"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance will be taken every class, and class participation is strongly encouraged. However, attendance neither is required, nor will any student be graded on attendance or participation.",
+    "late_work": "20% of the total points will be deducted for assignments received late without a valid excuse; assignments received more than 3 days late may receive a greater than 20% reduction, at the instructor’s discretion, up to 100%.",
+    "academic_integrity": "Students must abide by the Stevens Honor System and submit a pledge with their work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "January 22, 2024 - Course begins",
+    "February 19, 2024 - No class (rescheduled to February 21)",
+    "March 11, 2024 - No class (Spring Break)",
+    "April 8, 2024 - No class",
+    "March 4, 2024 - Mid-semester exam available",
+    "March 19, 2024 - Mid-semester exam submission deadline",
+    "April 29, 2024 - Final exam available",
+    "May 8, 2024 - Final exam submission deadline"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills; navigating Canvas; live web conferencing using Zoom; current Mac or PC with high-speed internet connection; webcam; microphone; Microsoft Word, Excel, and PowerPoint.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:20:04.645523",
+    "pdf_source": "../StevensCourses\\FIN 510 Web Course Syllabus Spring 2024-1.pdf",
+    "source_type": "file",
+    "text_length": 27614,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Analysis of Financial Statements",
+      "code": "FIN 510/ACC 510-WS",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Mark Hefter, JD, LLM, CPA",
+        "email": "mhefter@stevens.edu",
+        "office_hours": "By Appointment Only",
+        "contact_info": "phone/text: (917) 860-9323"
+      }
+    },
+    "course_description": "The course is part of the Finance Core for the Master of Science in Finance which is one of the Stevens programs that is in the CFA University Affiliation Program. As such, it maps at least 70% to the CFA Candidate Body of Knowledge for Financial Statement Analysis.",
+    "learning_outcomes": [
+      "Describe the accounting principles for documenting economic events that affect a firm’s financial position.",
+      "Demonstrate proficiency in financial reporting mechanics, including the effect of transactions and adjusting entries on financial statements.",
+      "Read and understand basic financial statements such as the income statement, balance sheet, statement of changes in shareholders’ equity, and statement of cash flows.",
+      "Understand the accounting choices that companies make and the implications of these choices for the information presented in a company’s financial statements.",
+      "Employ financial analysis techniques to evaluate short-term and long-term firm performance, particularly on the following dimensions: profitability, efficiency, liquidity, and solvency.",
+      "Evaluate the alignment between short term financial outcomes and long-term strategic goals.",
+      "Understand the differences and similarities between US (federal and state) and international financial reporting standards and multinational reporting requirements of companies.",
+      "Increase their familiarity with the use of financial databases and sources of financial information such as EDGAR, Bloomberg, Marketwatch, Morningstar, etc.",
+      "Appreciate the legal and regulatory environment of financial reporting, ethical issues and best practices designed to avoid ethical lapses."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

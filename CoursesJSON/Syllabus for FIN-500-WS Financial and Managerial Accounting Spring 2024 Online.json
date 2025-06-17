@@ -1,0 +1,210 @@
+{
+  "textbooks": [
+    {
+      "title": "Survey of Accounting",
+      "author": "Kimmel and Weygandt",
+      "edition": "Second Edition",
+      "ISBN": "9781119606765"
+    },
+    {
+      "title": "WileyPLUS Access",
+      "ISBN": "9781119612414"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Financial Statements"],
+      "readings": ["Chapter 1"],
+      "assignments": ["Online Homework in WileyPLUS"],
+      "due_dates": ["22-Jan"]
+    },
+    "week2": {
+      "topics": ["A Further Look at Financial Statements"],
+      "readings": ["Chapter 2"],
+      "assignments": ["HW 1"],
+      "due_dates": ["29-Jan"]
+    },
+    "week3": {
+      "topics": ["Accounting Information Systems"],
+      "readings": ["Chapter 3"],
+      "assignments": ["HW 2"],
+      "due_dates": ["5-Feb"]
+    },
+    "week4": {
+      "topics": ["Accrual Accounting"],
+      "readings": ["Chapter 4"],
+      "assignments": ["HW 3"],
+      "due_dates": ["12-Feb"]
+    },
+    "week5": {
+      "topics": ["Exam 1"],
+      "readings": ["Chapters 1 to 4"],
+      "assignments": [],
+      "due_dates": ["21-Feb"]
+    },
+    "week6": {
+      "topics": ["Fraud, Internal Controls & Cash"],
+      "readings": ["Chapter 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Inventory and Receivables"],
+      "readings": ["Chapters 6 and 7"],
+      "assignments": ["HW 4"],
+      "due_dates": ["4-Mar"]
+    },
+    "week8": {
+      "topics": ["Spring Break"],
+      "readings": [],
+      "assignments": ["HW 5"],
+      "due_dates": ["11-Mar"]
+    },
+    "week9": {
+      "topics": ["Long-Lived Assets and Liabilities and Shareholder Equity"],
+      "readings": ["Chapters 8 and 9"],
+      "assignments": ["HW 6"],
+      "due_dates": ["18-Mar"]
+    },
+    "week10": {
+      "topics": ["Exam 2"],
+      "readings": ["Chapters 5 to 9"],
+      "assignments": [],
+      "due_dates": ["25-Mar"]
+    },
+    "week11": {
+      "topics": ["Financial Statement Analysis"],
+      "readings": ["Chapter 10"],
+      "assignments": ["HW 7"],
+      "due_dates": ["1-Apr"]
+    },
+    "week12": {
+      "topics": ["Managerial Accounting and Job Order Costing"],
+      "readings": ["Chapters 11 and 12"],
+      "assignments": ["HW 8"],
+      "due_dates": ["8-Apr"]
+    },
+    "week13": {
+      "topics": ["Cost-Volume-Profit (Break-Even)"],
+      "readings": ["Chapter 13"],
+      "assignments": ["HW 9"],
+      "due_dates": ["15-Apr"]
+    },
+    "week14": {
+      "topics": ["Budgeting with Special Emphasis on Capital Investments"],
+      "readings": ["Chapters 15, 16, and 18"],
+      "assignments": ["HW 10"],
+      "due_dates": ["22-Apr"]
+    },
+    "week15": {
+      "topics": ["Exam 3"],
+      "readings": ["Chapters 10 to 13, 15, 16 & 18"],
+      "assignments": [],
+      "due_dates": ["29-Apr"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "25%",
+      "assignments": "25%",
+      "exams": "75%",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 94-100%, A-: 90-93%, B+: 87-89%, B: 84-86%, B-: 80-83%, C+: 77-79%, C: 70-78%, F: Below 70%",
+    "policies": "Excessive absences and lack of preparedness will influence final grade determination."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "Assigned in WileyPLUS for Week 2"
+    },
+    {
+      "name": "Homework 2",
+      "description": "Assigned in WileyPLUS for Week 3"
+    },
+    {
+      "name": "Homework 3",
+      "description": "Assigned in WileyPLUS for Week 4"
+    },
+    {
+      "name": "Homework 4",
+      "description": "Assigned in WileyPLUS for Week 7"
+    },
+    {
+      "name": "Homework 5",
+      "description": "Assigned in WileyPLUS for Week 8"
+    },
+    {
+      "name": "Homework 6",
+      "description": "Assigned in WileyPLUS for Week 9"
+    },
+    {
+      "name": "Homework 7",
+      "description": "Assigned in WileyPLUS for Week 11"
+    },
+    {
+      "name": "Homework 8",
+      "description": "Assigned in WileyPLUS for Week 12"
+    },
+    {
+      "name": "Homework 9",
+      "description": "Assigned in WileyPLUS for Week 13"
+    },
+    {
+      "name": "Homework 10",
+      "description": "Assigned in WileyPLUS for Week 14"
+    }
+  ],
+  "policies": {
+    "attendance": "Regular attendance is a very important part of class participation. Excessive absences will result in a reduction of a student’s final grade.",
+    "late_work": "Late submission of a Homework assignment will result in loss of full credit.",
+    "academic_integrity": "Students must uphold the ideals set forth in the Honor System. Cheating is illegal and immoral.",
+    "accommodations": "Students with documented disabilities should contact the Director of Disability Services for accommodations."
+  },
+  "important_dates": [
+    "Exam 1: 21-Feb",
+    "Exam 2: 25-Mar",
+    "Exam 3: 29-Apr"
+  ],
+  "additional_info": {
+    "course_format": "Taught in the Online Format using Zoom and Canvas.",
+    "technology_requirements": "Basic computer with web-browser, webcam with microphone, Word, Excel, PowerPoint, and Zoom.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:04:31.837587",
+    "pdf_source": "../StevensCourses/Syllabus for FIN-500-WS Financial and Managerial Accounting Spring 2024 Online.pdf",
+    "source_type": "file",
+    "text_length": 18689,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Financial and Managerial Accounting",
+      "code": "FIN-500",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "James B. Biagi, JD, CPA",
+        "email": "jbiagi@stevens.edu",
+        "office_hours": "Monday & Tuesday Noon to 3:00 pm on Campus. Zoom appointments available.",
+        "contact_info": "(201) 216-5035"
+      }
+    },
+    "course_description": "This course will provide the student with the principles and techniques of financial and managerial accounting for technical organizations.",
+    "learning_outcomes": [
+      "Critically analyze financial statements, with a full appreciation of the inherent limitations of reported financial information.",
+      "Utilize ratio and trend analyses to evaluate the condition and performance of business entities.",
+      "Apply the concepts of present value analysis to valuing assets and making appropriate business decisions.",
+      "Create realistic departmental/corporate budgets.",
+      "Obtain and utilize financial data to make effective business decisions, including make/buy, capital investment, product introduction timing, etc.",
+      "Utilize cost accounting data to support operating decisions and cost reduction efforts."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "textbooks": [
+    {
+      "title": "Introduction to Operations Research",
+      "author": "Frederick S. Hillier & Gerald J. Lieberman",
+      "edition": "11th",
+      "ISBN10": "1259872998",
+      "ISBN13": "9781259872990"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Web Campus Orientation", "Getting off to a good start"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Ch01 – Introduction"],
+      "readings": [],
+      "assignments": ["Assignment 1"],
+      "due_dates": ["T, Sep 17"]
+    },
+    "week4": {
+      "topics": ["Ch02 - Overview of How Operations Research and Analytics Professionals Analyze Problems"],
+      "readings": [],
+      "assignments": ["Assignment 2"],
+      "due_dates": ["T, Sep 24"]
+    },
+    "week5": {
+      "topics": ["Ch03 - Introduction to Linear Programming (LP)"],
+      "readings": [],
+      "assignments": ["Assignment 3"],
+      "due_dates": ["T, Oct 01"]
+    },
+    "week6": {
+      "topics": ["Ch03 - Introduction to LP (continued)"],
+      "readings": [],
+      "assignments": ["Assignment 4"],
+      "due_dates": ["T, Oct 08"]
+    },
+    "week7": {
+      "topics": ["Ch03 - Introduction to LP (continued)"],
+      "readings": [],
+      "assignments": ["Assignment 5"],
+      "due_dates": ["T, Oct 15"]
+    },
+    "week8": {
+      "topics": ["Ch04 - Solving Linear Programming"],
+      "readings": [],
+      "assignments": ["Assignment 6"],
+      "due_dates": ["T, Oct 29"]
+    },
+    "week9": {
+      "topics": ["Break"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Ch06 - Duality Theory"],
+      "readings": [],
+      "assignments": ["Assignment 7"],
+      "due_dates": ["T, Nov 05"]
+    },
+    "week11": {
+      "topics": ["Ch09 - The Transportation and Assignment Problem"],
+      "readings": [],
+      "assignments": ["Assignment 8"],
+      "due_dates": ["T, Nov 12"]
+    },
+    "week12": {
+      "topics": ["Ch10 – Network Optimization"],
+      "readings": [],
+      "assignments": ["Assignment 9"],
+      "due_dates": ["T, Nov 19"]
+    },
+    "week13": {
+      "topics": ["Ch16 - Decision Analysis"],
+      "readings": [],
+      "assignments": ["Assignment 10"],
+      "due_dates": ["T, Dec 03"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "100 points per assignment, average of highest 10 out of 12 assignments",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 93 - 100, A-: 90 - 92.9, B+: 87 - 89.9, B: 83 - 86.9, B-: 80 - 82.9, C+: 77 - 79.9, C: 73 - 76.9, C-: 70 - 72.9",
+    "policies": "No extra credit, make-up work, or resubmissions. Late submissions are not accepted."
+  },
+  "assignments": [
+    {
+      "name": "Assignment 1",
+      "description": "Due: T, Sep 17"
+    },
+    {
+      "name": "Assignment 2",
+      "description": "Due: T, Sep 24"
+    },
+    {
+      "name": "Assignment 3",
+      "description": "Due: T, Oct 01"
+    },
+    {
+      "name": "Assignment 4",
+      "description": "Due: T, Oct 08"
+    },
+    {
+      "name": "Assignment 5",
+      "description": "Due: T, Oct 15"
+    },
+    {
+      "name": "Assignment 6",
+      "description": "Due: T, Oct 29"
+    },
+    {
+      "name": "Assignment 7",
+      "description": "Due: T, Nov 05"
+    },
+    {
+      "name": "Assignment 8",
+      "description": "Due: T, Nov 12"
+    },
+    {
+      "name": "Assignment 9",
+      "description": "Due: T, Nov 19"
+    },
+    {
+      "name": "Assignment 10",
+      "description": "Due: T, Dec 03"
+    },
+    {
+      "name": "Assignment 11",
+      "description": "Due: T, Dec 10"
+    },
+    {
+      "name": "Assignment 12",
+      "description": "Due: T, Dec 17"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late assignments will not be accepted. No Exceptions.",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Math-based, focuses on modeling real-world problems.",
+    "technology_requirements": "Excel Solver Add-In (required), LINDO/LINGO (optional), OR Tutor (required), Interactive Operations Research (IOR) Tutorial (required).",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:12:01.607486",
+    "pdf_source": "../StevensCourses\\EM605 Syllabus - Fall 2024 v1.pdf",
+    "source_type": "file",
+    "text_length": 10269,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Elements of Operations Research",
+      "code": "EM 605",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "David R. Nowicki, Ph.D.",
+        "email": "Please use Canvas email for all correspondence.",
+        "office_hours": "by appointment only",
+        "contact_info": "+1 201.600.7552"
+      }
+    },
+    "course_description": "This course strongly emphasizes modeling to obtain and utilize resources to produce and deliver valuable goods and services to meet the organization’s goals.",
+    "learning_outcomes": [
+      "Build operations research models of complex systems.",
+      "Use software packages for the solution of management problems.",
+      "Understand the results of computer modeling.",
+      "Apply the appropriate analytical technique to real-world problems.",
+      "Summarize and present analysis results clearly and coherently."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

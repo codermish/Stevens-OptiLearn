@@ -1,0 +1,77 @@
+{
+  "textbooks": [
+    {
+      "title": "Digital Signal Processing: A Computer Based Approach",
+      "author": "Sanjit K. Mitra",
+      "edition": "4th",
+      "ISBN": "007736676X"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": ["Time-domain characterizations", "Basic sequences and operations"], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": ["Sampling", "Discrete-time systems and properties"], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": ["Impulse response", "Linear convolution", "Difference equations"], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": ["DTFT", "DFT/FFT", "Z-transform and properties"], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": ["Circular convolution", "Linear convolution by DFT/FFT", "Partial-fraction expansion"], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": ["Frequency response", "Magnitude, phase and group delays"], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": ["Transfer functions", "Linear-phase filters", "Minimum and maximum phase filters"], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": ["All-pass filters", "Inverse systems"], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": ["Digital processing of continuous-time signals", "Interpretation of sampling in the frequency domain"], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": ["Reconstruction", "Sampling theorem", "Sampling of bandpass signals"], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": ["Butterworth, Chebyshev, and elliptic approximations", "Analog filter designs"], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": ["Digital filter structures", "Canonic and non-canonic structures"], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": ["Digital filter design", "Bilinear and spectral transformations", "Gibbs phenomenon"], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "10%",
+      "exams": "80%",
+      "projects": "10%",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "No late work will be accepted.",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:58:47.715867",
+    "pdf_source": "../StevensCourses\\EE 548 syllabus (4).pdf",
+    "source_type": "file",
+    "text_length": 2437,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Digital Signal Processing",
+      "code": "EE/CpE548",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Hongbin Li",
+        "email": "use Canvas mail tool",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": ["An undergraduate-level course on Linear System Theory, or Signals and Systems, or equivalent"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

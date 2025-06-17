@@ -1,0 +1,178 @@
+{
+  "textbooks": [
+    {
+      "title": "zyBook CS 550 Computer Organization and Design with ARM",
+      "edition": "1e"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Computers and Technology"],
+      "readings": ["Module 1 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities", "HW #1 assigned"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Integrated Circuits"],
+      "readings": ["Module 2 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Instruction Set"],
+      "readings": ["Module 3 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due", "HW#1 due", "HW #2 assigned"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Computer Operations"],
+      "readings": ["Module 4 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Addressing and Assembly Language"],
+      "readings": ["Module 5 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due", "Programming Project #1 assigned", "Exam #1 due"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Computer Arithmetic and Circuit Design"],
+      "readings": ["Module 6 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due", "HW #2 due"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Processor Datapath and Implementation"],
+      "readings": ["Module 7 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due", "Programming Project #1 due", "HW #3 assigned"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Pipelining and Pipeline Implementation"],
+      "readings": ["Module 8 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due", "Programming Project #2 assigned"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Hazards and Exceptions"],
+      "readings": ["Module 9 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Memory Technology and Hierarchy"],
+      "readings": ["Module 10 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due", "Programming Project #2 due", "HW #3 due", "Exam #2 due", "HW #4 assigned"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Caches"],
+      "readings": ["Module 11 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Parallel Processors"],
+      "readings": ["Module 12 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due", "HW #4 due", "HW #5 assigned"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Network Topologies"],
+      "readings": ["Module 13 of zyBooks"],
+      "assignments": ["Participation and Challenge Activities due", "HW #5 due", "Exam #3 due"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "7.5%",
+      "assignments": "30%",
+      "exams": "30%",
+      "projects": "15%",
+      "quizzes": "10%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late assignments (even by one minute) will be given a -10% decrease penalty per day after the deadline."
+  },
+  "assignments": [
+    {
+      "name": "HW #1",
+      "description": "Assigned in Week 1"
+    },
+    {
+      "name": "HW #2",
+      "description": "Assigned in Week 3"
+    },
+    {
+      "name": "HW #3",
+      "description": "Assigned in Week 7"
+    },
+    {
+      "name": "HW #4",
+      "description": "Assigned in Week 10"
+    },
+    {
+      "name": "HW #5",
+      "description": "Assigned in Week 12"
+    },
+    {
+      "name": "Programming Project #1",
+      "description": "Assigned in Week 5"
+    },
+    {
+      "name": "Programming Project #2",
+      "description": "Assigned in Week 8"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late assignments (even by one minute) will be given a -10% decrease penalty per day after the deadline.",
+    "academic_integrity": "Any sign of collaboration will result in a 0 and being reported to the Honor Board.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online, with one weekly Live Session.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:52:08.584850",
+    "pdf_source": "../StevensCourses\\CS 550 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 17592,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Computer Organization and Programming",
+      "code": "CS 550",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Reza Peyrovian",
+        "email": "rpeyrovi@stevens.edu",
+        "office_hours": "See course Homepage for details",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course provides an intensive introduction to material on computer organization and assembly language programming required for entrance into the graduate program in Computer Science or Computer Engineering.",
+    "learning_outcomes": [
+      "Understand how a computer program written in high-level language, such as C, along with its data can be translated into binary machine language and stored as binary numbers, leading to the concept of stored-program computer.",
+      "Understand how other forms of data, such as decimal or real numbers, are represented, and how hardware follows arithmetic algorithms (such as add and multiply) to perform these operations.",
+      "Understand the internal structure of the CPU to accomplish load, store, arithmetic, and branching using program counter, registers, and various memory addressing modes.",
+      "Understand the difference between pipelined and un-pipelined CPUs, their data paths and control paths, and measuring CPU performance.",
+      "Understand the fundamentals of memory hierarchy and the role of caches in speeding instruction execution and measuring and improving performance of caches.",
+      "Write programs in assembly language involving loops, branching, and subroutine; compile and execute them."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "Undergraduates need permission from their advisor."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

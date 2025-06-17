@@ -1,0 +1,167 @@
+{
+  "textbooks": [
+    {
+      "title": "Algorithm Design and Applications",
+      "author": "Goodrich and Tamassia",
+      "publisher": "John Wiley Publishing",
+      "year": "2015",
+      "ISBN": "978-1-118-33591-8"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [],
+      "readings": ["Chapter 1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [],
+      "readings": ["Chapter 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [],
+      "readings": ["Chapters 3 and 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [],
+      "readings": ["Chapter 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [],
+      "readings": ["Chapter 6"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [],
+      "readings": ["Chapter 7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [],
+      "readings": ["Chapters 8 and 9"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [],
+      "readings": ["Chapter 10"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [],
+      "readings": ["Chapter 11"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [],
+      "readings": ["Chapter 12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [],
+      "readings": ["Chapter 13"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [],
+      "readings": ["Chapter 14"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [],
+      "readings": ["Chapter 15"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "15%",
+      "exams": "30%",
+      "projects": "15%",
+      "quizzes": "10%",
+      "final": "15%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "type": "Homework",
+      "description": "Several homework assignments in each module."
+    },
+    {
+      "type": "Projects",
+      "description": "One or more projects on advanced topics will be assigned for submission."
+    },
+    {
+      "type": "Exams",
+      "description": "Two exams: a midterm exam and a final exam."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is required for live sessions, and there will be an attendance quiz during each live session.",
+    "late_work": "",
+    "academic_integrity": "All students must adhere to the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Weekly activities, including topics are posted on Canvas.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:56:10.084370",
+    "pdf_source": "../StevensCourses\\CS 590-WN Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 9279,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Algorithms",
+      "code": "CS 590",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Reza Peyrovian",
+        "email": "rpeyrovi@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will provide focus on more complex data structures, and algorithm design and analysis, using one or more modern imperative language(s).",
+    "learning_outcomes": [
+      "Differentiate the meaning of big-O, Theta, and Omega notations.",
+      "Apply the Master Theorem to prove asymptotic assumptions.",
+      "Compare and analyze basic and advanced sorting algorithms.",
+      "Implement search trees such as Binary Search Trees, AVL trees, and Red-Black Trees.",
+      "Implement standard algorithms using graphs and weighted graphs in C++/Java (e.g., DFS, BFS, MST, topological sort).",
+      "Implement standard algorithms to solve the shortest path finding problem (Dijkstra, Bellman-Ford, Floyd-Warshall).",
+      "Apply standard algorithm design techniques such as the greedy technique, dynamic programming, hashing, and space/time trade-offs."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [
+      "CS 501",
+      "CS 570"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

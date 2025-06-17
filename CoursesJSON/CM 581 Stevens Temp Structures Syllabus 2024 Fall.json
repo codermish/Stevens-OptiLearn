@@ -1,0 +1,237 @@
+{
+  "textbooks": [
+    {
+      "title": "Temporary Structure in Construction",
+      "author": "Robert Ratay, Editor-in-Chief",
+      "edition": "Third Edition",
+      "publisher": "McGraw-Hill Publishers",
+      "year": "2012"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Introduction to Class/Professional and Business Practices",
+        "Discuss syllabus and outline of class",
+        "Discuss project",
+        "Lecture on professional and business practices (Chapter 1)",
+        "Class presentation on standards, codes and regulations",
+        "Presentation by Richard Paradis on standards and codes development"
+      ],
+      "readings": [],
+      "assignments": [
+        "Finish Worksheet 1 and submit on canvas"
+      ],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Standards, Codes and Regulations (Chap 2)",
+        "Finish Chapter 2 presentation",
+        "Begin Chapter 3 presentation",
+        "Presentation: Codes by Richard Paradis"
+      ],
+      "readings": [],
+      "assignments": [
+        "Finish Worksheet 1 and submit on canvas"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Construction and Environmental Loads (Chap 3)",
+        "Class presentation on construction and environmental loads",
+        "Presentation on construction in Antarctica"
+      ],
+      "readings": [],
+      "assignments": [
+        "Finish Quiz 1 and submit on canvas"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Safety and Legal (Chap 4) (Chap 5)",
+        "Class presentation on safety and legal",
+        "Presentation by Larry Conners on real-life failures"
+      ],
+      "readings": [],
+      "assignments": [
+        "Finish Quiz 2 and submit on canvas",
+        "Research and present assigned temporary structure failure on 29 Sep"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Environmental Issues and Failures of Temporary Structures (Chap 23)",
+        "Class presentation on temporary structures",
+        "Presentation on the Grand Canyon Overlook"
+      ],
+      "readings": [],
+      "assignments": [
+        "Finish Worksheet 2 and submit on canvas",
+        "Discuss assigned temporary structure failure"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Mid-term"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Student Presentations (2). Chapter 6, Cofferdams; Chapter 7 and Earth Retaining Structures",
+        "Discussion on 3-D imagery in construction by David Leonard"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Student Presentations (2). Chapter 8 Diaphragms and Chapter 9 Construction Dewatering"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Student Presentations (2). Chapter 10, Underground Tunneling; and Chapter 11, Underpinning"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Student Presentations (3). Chapter 12, Roadway Decking; Chapter 13, Construction Ramps; and Chapter 14 Scaffolding"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Student Presentations. Chapter 15, Falsework; Chapter 16, Concrete Formwork; and Chapter 17, Bracing and Guying"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Student Presentations. Chapter 18, Bridge Falsework; Chapter 19, Temporary Structures for Restoration; and Chapter 20, Cranes"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Student Presentations and Final Exam Review. Chapter 21, Protection of Site and Chapter 22, Leading Edge"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "8%",
+      "exams": "50%",
+      "projects": "25%",
+      "quizzes": "7%",
+      "final": "25%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Present a chapter of the book to the class with supporting research materials."
+    },
+    {
+      "description": "Finish Worksheet 1 and submit on canvas."
+    },
+    {
+      "description": "Finish Worksheet 2 and submit on canvas."
+    },
+    {
+      "description": "Research and present assigned temporary structure failure."
+    },
+    {
+      "description": "Finish Quiz 1 and submit on canvas."
+    },
+    {
+      "description": "Finish Quiz 2 and submit on canvas."
+    }
+  ],
+  "policies": {
+    "attendance": "Students are expected to attend all classes. If they need to miss a class, email Professor Loomis before the class with your reason for missing the class.",
+    "late_work": "",
+    "academic_integrity": "Students must write and sign the Honor System pledge on all submitted work.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "date": "6 Sep 2024",
+      "event": "Week 1 Class Start"
+    },
+    {
+      "date": "11 Oct 2024",
+      "event": "Mid-term Exam"
+    },
+    {
+      "date": "13 Dec 2024",
+      "event": "Final Exam Due"
+    },
+    {
+      "date": "16 Dec 2024",
+      "event": "Grades Posted"
+    }
+  ],
+  "additional_info": {
+    "course_format": "On-line",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:39:20.790425",
+    "pdf_source": "../StevensCourses\\CM 581 Stevens Temp Structures Syllabus 2024 Fall.pdf",
+    "source_type": "file",
+    "text_length": 16817,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Temporary Structures for Heavy Construction",
+      "code": "CM-581",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Paula J. Loomis, PhD, FAIA, FSAME, AICP, LEED AP, SAP",
+        "email": "ploomisva@cox.net, ploomis@stevens.edu, Paula@urbancollaborative.com",
+        "office_hours": "As requested",
+        "contact_info": "757-630-4773"
+      }
+    },
+    "course_description": "Temporary structures, in construction, are those that are erected and used to aid in the construction of permanent structures. They are used in constructing buildings, bridges, tunnels and various other structures. This course explains how to design, operate, manage, cost, and oversee the safety of temporary structures. It also covers legal and insurance aspects.",
+    "learning_outcomes": [
+      "Demonstrate how to manage the design, erection, use and de-construction of a temporary structure utilizing advanced cost, time, quality and safety controls.",
+      "Analyze potential safety risks associated with temporary structures and how to mediate those risks in traditional and risky climates.",
+      "Understand the contractual arrangements for temporary structures and associated cost and risk implications.",
+      "Exhibit consistent use of integrative thinking."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

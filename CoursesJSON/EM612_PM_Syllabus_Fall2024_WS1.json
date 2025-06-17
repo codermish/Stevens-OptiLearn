@@ -1,0 +1,266 @@
+{
+  "textbooks": [
+    {
+      "title": "Project Management: Achieving a Competitive Advantage",
+      "author": "Jeffrey K. Pinto",
+      "edition": "Fifth Edition",
+      "ISBN": "9780137477258"
+    },
+    {
+      "title": "A Guide to the Project Management Book of Knowledge",
+      "author": "Project Management Institute",
+      "edition": "6th or 7th edition"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": [
+        "Introduction to Project Management",
+        "Notorious project failures - Berlin airport: Why did it go wrong?",
+        "Big Dig: Learning from a Mega Project"
+      ],
+      "readings": [
+        "Pinto, Chapter 1",
+        "PMBOK - Introduction to PM + PMBOK Areas"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": [
+        "Project Selection & Portfolio Management"
+      ],
+      "readings": [
+        "Pinto, Chapter 3",
+        "Project Selection Methods in Project Management. Fahad Usmani, PMP. October 8, 2022"
+      ],
+      "assignments": [
+        "HW #1"
+      ],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": [
+        "Project Scope Management & Systems Engineering"
+      ],
+      "readings": [
+        "Pinto, Chapter 5",
+        "Van Gemert, D. (2013). Systems engineering the project.",
+        "Kordova, S., Katz, E., & Frank, M. (2019). Managing development projects."
+      ],
+      "assignments": [
+        "Team Formations"
+      ],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": [
+        "Project Time Management"
+      ],
+      "readings": [
+        "Pinto, Chapter 9"
+      ],
+      "assignments": [
+        "HW #3"
+      ],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": [
+        "Project Time Management (Continued)"
+      ],
+      "readings": [
+        "Pinto, Chapter 10"
+      ],
+      "assignments": [
+        "HW #4"
+      ],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": [
+        "Columbus Day No Classes"
+      ],
+      "readings": [],
+      "assignments": [
+        "Homework #3 & #4 Solution",
+        "Load MS Project Before This Class",
+        "MS Project Tutorial #1",
+        "Project Proposal"
+      ],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": [
+        "Project Risk Management"
+      ],
+      "readings": [
+        "Pinto, Chapters 7 & 8",
+        "Vanhoucke, Mario. 'On the use of schedule risk analysis for project management.'"
+      ],
+      "assignments": [
+        "HW #5"
+      ],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": [
+        "Cost Estimation and Budgeting"
+      ],
+      "readings": [
+        "Pinto, Chapter 8"
+      ],
+      "assignments": [
+        "HW #6"
+      ],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": [
+        "Resource Management"
+      ],
+      "readings": [
+        "Pinto, Chapters 12 & 13"
+      ],
+      "assignments": [
+        "HW #7"
+      ],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": [
+        "Project Evaluation & Control"
+      ],
+      "readings": [
+        "Pinto, Chapter 14"
+      ],
+      "assignments": [
+        "HW #8"
+      ],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": [
+        "Critical Chain Project Scheduling",
+        "Agile Project Management"
+      ],
+      "readings": [
+        "Pinto, Chapter 11"
+      ],
+      "assignments": [
+        "HW #9"
+      ],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": [
+        "Project Closeout & Termination",
+        "Review for Final exam"
+      ],
+      "readings": [],
+      "assignments": [
+        "HW #10"
+      ],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": [
+        "Final Exam (Open-Book & Notes)",
+        "Project Presentations"
+      ],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "30%",
+      "projects": "60%",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "A: 90 - 100, B: 80 - 89, C: 70 - 79, F: <70",
+    "policies": "Regular and punctual attendance is required."
+  },
+  "assignments": [
+    {
+      "name": "Homework Assignments",
+      "description": "Various homework assignments throughout the course."
+    },
+    {
+      "name": "Term Project",
+      "description": "A team project demonstrating understanding of project management tools."
+    },
+    {
+      "name": "Colleague Evaluation Form",
+      "description": "Each team member must submit a one-page summary of contributions."
+    }
+  ],
+  "policies": {
+    "attendance": "Regular and punctual attendance is required.",
+    "late_work": "Late HW will be given a zero after review has begun.",
+    "academic_integrity": "Plagiarism and cheating will result in disciplinary action.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "date": "Mon. Sept. 9",
+      "event": "Class starts"
+    },
+    {
+      "date": "Mon. Oct. 14",
+      "event": "Columbus Day No Classes"
+    },
+    {
+      "date": "Mon. Dec. 2",
+      "event": "Final Exam"
+    },
+    {
+      "date": "Mon. Dec. 9",
+      "event": "Project Presentations"
+    }
+  ],
+  "additional_info": {
+    "course_format": "Online",
+    "technology_requirements": "Microsoft Project Software",
+    "support_resources": "Access MS Project via Microsoft Azure."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:12:31.964396",
+    "pdf_source": "../StevensCourses\\EM612_PM_Syllabus_Fall2024_WS1.pdf",
+    "source_type": "file",
+    "text_length": 20136,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Project Management of Complex Systems",
+      "code": "EM 612-WS1",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Ali Yassine, Ph.D.",
+        "email": "ayassine@stevens.edu",
+        "office_hours": "Mondays and Wednesdays 1:00-3:00pm virtually. Tuesdays 2:30-3:30pm In-person.",
+        "contact_info": "205 North Building"
+      }
+    },
+    "course_description": "Project Management of Complex Systems is a project-based course that exposes students to tools and methodologies useful for the effective management of systems engineering and engineering management projects.",
+    "learning_outcomes": [
+      "Build a solid foundation in the guidelines and principles of project management.",
+      "Identify considerations in creating a project organization, culture, and team.",
+      "Learn how to apply quantitative techniques to project planning, risk, performance, and monitoring.",
+      "Build a fundamental understanding of the tools of project management.",
+      "Establish the building blocks for the management of complex systems."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "Basic knowledge of probability and statistics"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

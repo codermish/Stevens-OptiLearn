@@ -1,0 +1,202 @@
+{
+  "textbooks": [
+    {
+      "title": "Database Concepts",
+      "authors": ["David Kroenke", "David Auer", "Scott L. Vandenberg", "Robert C. Yoder"],
+      "edition": "8th Edition",
+      "ISBN-13": "978-0134601533",
+      "ISBN-10": "013460153X",
+      "publisher": "Pearson",
+      "year": "2017"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to MIS631", "Introduction to Data Management Functions", "Factors Affecting Data Management Functions"],
+      "readings": ["Ch. 1"],
+      "assignments": ["ERwin installation", "Install PostgreSQL"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Tutorial on Database and Database Design"],
+      "readings": ["Ch. 2"],
+      "assignments": ["ERwin basics", "normalization"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Organizations and Data", "Research paper presentations & discussion"],
+      "readings": [],
+      "assignments": ["Prepare research paper presentations (Team)"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Query Languages – SQL"],
+      "readings": ["Ch. 3", "Ch. 3A"],
+      "assignments": ["ERwin tutorial + examples"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Tutorial on Abstraction and ER Data Modeling"],
+      "readings": ["Ch. 4", "Ch. 5"],
+      "assignments": ["SQL queries - basics"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Extended ER; Generalizing Data Model Patterns", "Information Modeling"],
+      "readings": [],
+      "assignments": ["Construct complex SQL queries", "SQL Certificate due"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Information Modeling – Advance Modeling", "Contracts and Formal Methods", "Discuss Key Semester Learnings"],
+      "readings": [],
+      "assignments": ["SQL queries - advanced"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Data and Database Administration Functions", "Physical Database Design", "Strategic Data Modeling"],
+      "readings": [],
+      "assignments": ["Extended ER data modeling", "Information Modeling Exam due"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Application of Data Modeling and Database Design to a business area"],
+      "readings": [],
+      "assignments": ["Midterm Exam Due"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Data Warehouse, Business Intelligence, and Big Data", "Row & Column data storage", "MapReduce exercise"],
+      "readings": [],
+      "assignments": ["Develop a DB model in Postgres using DDL"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["No Class for Thanksgiving Recess based on circumstances"],
+      "readings": [],
+      "assignments": ["Install a database in the cloud (AWS)"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Cloud Computing and Data Architectures", "NoSQL: document, key-value, column-wide, graph"],
+      "readings": [],
+      "assignments": ["Review Final Project with Teams"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Major Data Project Presentation (Team)"],
+      "readings": [],
+      "assignments": ["Use Erwin for data design project: modeling and database design"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "10%",
+      "exams": "15% (Mid-term), 15% (Information Modeling Exam)",
+      "projects": "40% (Team Database Project)",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "title": "Individual & Team Assignments",
+      "description": "Review and comment on several assigned readings from the research and professional literature and modeling exercises. Developing a business case.",
+      "weight": "10%"
+    },
+    {
+      "title": "SQL Certification",
+      "description": "Required SQL Module: https://www.sololearn.com/Course/SQL/",
+      "weight": "10%"
+    },
+    {
+      "title": "Information Modeling Exam",
+      "description": "",
+      "weight": "15%"
+    },
+    {
+      "title": "Mid Term",
+      "description": "Individual assignment focused on technology. References and all sources used (articles, texts, Web sites, etc.) must be provided in standard format.",
+      "weight": "15%"
+    },
+    {
+      "title": "Team Database Project",
+      "description": "Develop a functional database demonstrated at the conclusion of the course. Includes business problem analysis, identification of database requirements, data modeling, and creation of the database.",
+      "weight": "40%"
+    },
+    {
+      "title": "Participation",
+      "description": "Assessment based on contributions to in-class discussions throughout the semester.",
+      "weight": "10%"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Last Day of Class",
+      "date": "Wednesday Dec 14"
+    },
+    {
+      "event": "Final Exam Period",
+      "date": "Thursday Dec 15 – Thursday Dec 22"
+    },
+    {
+      "event": "Thanksgiving Recess",
+      "date": "Wednesday Nov 23 – Sunday Nov 27"
+    }
+  ],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "Required Software: ERwin",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:05:58.530775",
+    "pdf_source": "../StevensCourses/Syllabus MIS 631-C-WS Managing Data Fall 2023.pdf",
+    "source_type": "file",
+    "text_length": 7153,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Management",
+      "code": "MIS631",
+      "credits": "2 credits",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Elizabeth Gomez",
+        "email": "egomez2@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This 2-credit course focuses on data and database management, with an emphasis on modeling and design, and their application to business decision making. The course provides a conceptual understanding of both organizational and technical issues associated with data. The central theme concerns data modeling and databases. We examine organizational approaches to managing and integrating data. Among the topics included are normalization, entity-relationship modeling, relational database design, SQL, and data definition language (DDL). Discussed are specific applications such as strategic data management, master data management, and physical database design. The course concludes with a brief overview of Decision Support Systems, data warehousing and business intelligence, NoSQL databases (e.g., MongoDB) and cloud computing. The course includes several case studies and modeling and design projects.",
+    "learning_outcomes": [
+      "Understand the role of data in the competitiveness and strategy of organizations",
+      "Design relational databases in normalized form",
+      "Build SQL queries",
+      "Develop and critique entity-relationship (ER) data models",
+      "Elucidate advanced data modeling issues e.g., temporal data modeling, meta-data, etc.",
+      "Identify and analyze data quality in a business context",
+      "Develop and evaluate strategic data plans; e.g., Master data management plan, enterprise data strategy & models",
+      "Understand the growing importance and issues associated with data warehousing, business intelligence and analytics, and big data."
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [
+      "Students must satisfy the requirement for enrollment in either the BI&A or MIS master’s degree programs."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [
+      "Students in MIS 631 must also enroll in the associated 1‐credit lab course MIS 632 Managing Data Lab."
+    ],
+    "corequisites_count": 1
+  }
+}

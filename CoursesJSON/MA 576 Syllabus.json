@@ -1,0 +1,215 @@
+{
+  "textbooks": [
+    {
+      "title": "Introduction to Stochastic Search and Optimization: Estimation, Simulation, and Control",
+      "author": "James C. Spall",
+      "publisher": "Wiley",
+      "year": 2003
+    },
+    {
+      "title": "Nonlinear Optimization",
+      "author": "Andrzej Ruszczynski",
+      "publisher": "Princeton University Press",
+      "year": 2006
+    },
+    {
+      "title": "Lectures on stochastic programming: modeling and theory",
+      "author": "Alexander Shapiro, Darinka Dentcheva, Andrzej Ruszczyński",
+      "publisher": "Society for Industrial and Applied Mathematics",
+      "year": 2014
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Optimization problems in data science (e.g., matrix completion, SVM, risk minimization, clustering)", "Properties of convex sets, separation and representation"],
+      "readings": ["Lecture notes", "[R] Ch. 1, 2"],
+      "assignments": ["HW 1"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Convex functions", "Subgradient calculus"],
+      "readings": ["[R] Ch. 2"],
+      "assignments": ["HW 2"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Optimality conditions"],
+      "readings": ["[R] Ch. 3"],
+      "assignments": ["HW 3"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Lagrange duality", "Application to classification problems"],
+      "readings": ["[R] Ch. 4"],
+      "assignments": ["HW 4"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Gradient descent methods", "Newton’s method", "Choice of stepsizes", "Condition number", "Rate of convergence"],
+      "readings": ["[R] Ch. 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Conjugate gradient method", "Preconditioning", "Momentum acceleration techniques", "CG without gradients"],
+      "readings": ["[R] Ch. 5"],
+      "assignments": ["HW 5"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Subgradient methods for unconstrained optimization", "Subgradient methods with projection", "Basic dual method"],
+      "readings": ["[R] Ch. 7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Cutting plane methods", "Regularization", "Proximal point and bundle method", "Application to ridge regression"],
+      "readings": ["[R] Ch. 7"],
+      "assignments": ["HW 6"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Penalty methods", "Application of subgradients and cutting-plane techniques to constrained problems", "Augmented Lagrangian"],
+      "readings": ["[R] Ch. 6"],
+      "assignments": ["HW 7"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Decomposition approaches for large problems", "ADMM", "ASM", "ADAL", "SLIN"],
+      "readings": ["Lecture notes and papers"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Sample average approximation", "Risk minimization", "Overfitting", "Bias and asymptotics"],
+      "readings": ["[SDR] S 5.1, 7.2"],
+      "assignments": ["HW 8"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Stochastic subgradient methods", "Basic version", "Averaging of direction", "Finite-difference methods", "Stochastic methods for constrained optimization"],
+      "readings": ["[S] Ch 5,6"],
+      "assignments": ["HW 9"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Algorithmic improvements (e.g., Adam, AdaGrad)", "Variance reduction techniques", "Kernel smoothing (time permitting)"],
+      "readings": ["Papers", "[S] Ch. 13"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "35%",
+      "exams": "55%",
+      "projects": "",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "name": "HW 1",
+      "description": ""
+    },
+    {
+      "name": "HW 2",
+      "description": ""
+    },
+    {
+      "name": "HW 3",
+      "description": ""
+    },
+    {
+      "name": "HW 4",
+      "description": ""
+    },
+    {
+      "name": "HW 5",
+      "description": ""
+    },
+    {
+      "name": "HW 6",
+      "description": ""
+    },
+    {
+      "name": "HW 7",
+      "description": ""
+    },
+    {
+      "name": "HW 8",
+      "description": ""
+    },
+    {
+      "name": "HW 9",
+      "description": ""
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [
+    {
+      "event": "Midterm exam",
+      "date": ""
+    }
+  ],
+  "additional_info": {
+    "course_format": "Class",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:26:40.327430",
+    "pdf_source": "../StevensCourses\\MA 576 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 6603,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Optimization for Data Science",
+      "code": "MA 576",
+      "credits": "3 credits",
+      "semester": "Spring",
+      "year": "2022",
+      "instructor": {
+        "name": "Pedro Vilanova-Guerra",
+        "email": "pguerra@stevens.edu",
+        "office_hours": "See course Homepage for details",
+        "contact_info": ""
+      }
+    },
+    "course_description": "The objective of this course is to introduce the students to the theory and methods of optimization used in data science.",
+    "learning_outcomes": [
+      "Use subgradients of convex functions and stochastic subgradients both for the purpose of theoretical analysis as well as in numerical methods.",
+      "Use Lagrange duality in numerical methods and in decomposition approaches.",
+      "Apply subgradient calculus to calculate subgradients of the dual functions applying Fenchel-Moreau theorem, Rockafellar-Moreau theorem and other results.",
+      "Apply the first order necessary conditions of optimality for problems with differentiable and non-differentiable functions including the verification of appropriate constraint qualification conditions. Verify the optimality of points by the first- and second-order sufficient optimality conditions.",
+      "Apply the basic steps of the numerical methods listed in the syllabus; be aware of their convergence assumptions, advantages and disadvantages; choose an appropriate numerical method for a given problem.",
+      "Apply the fundamental decomposition and distribution approaches to create tailored distributed methods for particular applied problems. They will be aware of the applicability and convergence properties of the methods.",
+      "Use stochastic approximation and randomized techniques; identify when these techniques are needed and how to apply them.",
+      "Formulate a sample-based optimization problem and be aware of the necessary probabilistic guarantees for its solution."
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [
+      "Undergraduate knowledge of multivariate calculus",
+      "linear algebra",
+      "probability"
+    ],
+    "prerequisites_count": 3,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

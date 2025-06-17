@@ -1,0 +1,252 @@
+{
+  "textbooks": [
+    {
+      "title": "Blink",
+      "author": "Malcolm Gladwell",
+      "edition": "2005 (reprinted 2007)",
+      "ISBN": "978-0316010665"
+    },
+    {
+      "title": "Making Hard Decisions",
+      "author": "Clemen and Reilly",
+      "edition": "3rd Edition (2014)",
+      "ISBN": "978-0538797573"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Overall course content and requirements"],
+      "readings": ["Read the syllabus", "Become familiar with Canvas Shell and Zoom"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to course"],
+      "readings": ["Ch 1-2 Clemen"],
+      "assignments": ["Homework 1"],
+      "due_dates": ["Sep 9"]
+    },
+    "week3": {
+      "topics": ["Review of probability", "Statistics Refresher", "Monte Carlo Simulation", "Decision Trees"],
+      "readings": ["Ch 7 Clemen", "Ch 11 Clemen", "Ch 3 Clemen"],
+      "assignments": ["Homework 2", "Homework 3"],
+      "due_dates": ["Sep 16", "Sep 16"]
+    },
+    "week4": {
+      "topics": ["Bayes Law", "Classification of mistakes", "Framing a decision"],
+      "readings": ["Ch 7 Clemen", "Ch 1 & 3 Clemen"],
+      "assignments": ["Homework 4"],
+      "due_dates": ["Sep 23"]
+    },
+    "week5": {
+      "topics": ["Identifying Alternatives"],
+      "readings": ["Ch 4 Clemen up to risk profiles"],
+      "assignments": ["Homework 5", "Homework 6"],
+      "due_dates": ["Sep 30", "Sep 30", "Oct 2"]
+    },
+    "week6": {
+      "topics": ["Utility Theory", "Criteria", "Multi-attribute evaluation", "AHP", "Pair-wise comparison weighting"],
+      "readings": ["Ch 14 Clemen"],
+      "assignments": ["Homework 7"],
+      "due_dates": ["Oct 7"]
+    },
+    "week7": {
+      "topics": ["Pair-wise with eigenvectors", "Cognitive Biases"],
+      "readings": [],
+      "assignments": ["Homework 8"],
+      "due_dates": ["Oct 14"]
+    },
+    "week8": {
+      "topics": ["Risk and Opportunity Intro", "DOD Risk Mgmt Guide"],
+      "readings": [],
+      "assignments": ["Outline Assignment"],
+      "due_dates": ["Oct 14"]
+    },
+    "week9": {
+      "topics": ["Risk Planning", "Risk Identification"],
+      "readings": ["Blink Book"],
+      "assignments": ["Blink Book Report", "Homework 9"],
+      "due_dates": ["Oct 21", "Oct 21"]
+    },
+    "week10": {
+      "topics": ["Analyzing Risks"],
+      "readings": [],
+      "assignments": ["Homework 10"],
+      "due_dates": ["Oct 28"]
+    },
+    "week11": {
+      "topics": ["Risk Handling"],
+      "readings": [],
+      "assignments": ["Homework 11", "Homework 12"],
+      "due_dates": ["Nov 4", "Nov 4"]
+    },
+    "week12": {
+      "topics": ["Risk Monitoring", "Pugh Process"],
+      "readings": [],
+      "assignments": ["Term Paper"],
+      "due_dates": ["Nov 11"]
+    },
+    "week13": {
+      "topics": ["Choosing alternatives", "Engineering Trade Studies", "Decision Dominance", "Even Swap"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Sensitivity Analysis", "Implementing the decision"],
+      "readings": ["Ch 5 Clemen"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Game Theory"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week16": {
+      "topics": ["Virtual Office Hour"],
+      "readings": [],
+      "assignments": ["Course Project"],
+      "due_dates": ["Dec 12"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "13%",
+      "exams": "",
+      "projects": "47%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "First homework assignment"
+    },
+    {
+      "name": "Homework 2",
+      "description": "Second homework assignment"
+    },
+    {
+      "name": "Homework 3",
+      "description": "Third homework assignment"
+    },
+    {
+      "name": "Homework 4",
+      "description": "Fourth homework assignment"
+    },
+    {
+      "name": "Homework 5",
+      "description": "Fifth homework assignment"
+    },
+    {
+      "name": "Homework 6",
+      "description": "Sixth homework assignment"
+    },
+    {
+      "name": "Homework 7",
+      "description": "Seventh homework assignment"
+    },
+    {
+      "name": "Homework 8",
+      "description": "Eighth homework assignment"
+    },
+    {
+      "name": "Outline Assignment",
+      "description": "Annotated outline covering your plan for both the Course Project and the Term Paper"
+    },
+    {
+      "name": "Blink Book Report",
+      "description": "Short paper identifying six key points from the book and your reaction to them"
+    },
+    {
+      "name": "Homework 9",
+      "description": "Ninth homework assignment"
+    },
+    {
+      "name": "Homework 10",
+      "description": "Tenth homework assignment"
+    },
+    {
+      "name": "Homework 11",
+      "description": "Eleventh homework assignment"
+    },
+    {
+      "name": "Homework 12",
+      "description": "Twelfth homework assignment"
+    },
+    {
+      "name": "Term Paper",
+      "description": "Examines a real life decision that has been made in the past"
+    },
+    {
+      "name": "Course Project",
+      "description": "Engineering trade study incorporating concepts learned in the course"
+    }
+  ],
+  "policies": {
+    "attendance": "Not graded.",
+    "late_work": "All assignments need to be turned in by the assigned due dates if the student wishes to earn the full credit for the submission.",
+    "academic_integrity": "All Stevens’ graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "date": "Sep 3",
+      "event": "Course starts"
+    },
+    {
+      "date": "Dec 12",
+      "event": "Course Project due"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:22:38.139534",
+    "pdf_source": "../StevensCourses\\SYS 660 Syllabus for Online Courses_FALL 2024-1.pdf",
+    "source_type": "file",
+    "text_length": 32789,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Decision and Risk Analysis for Complex Systems",
+      "code": "SYS 660",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Earl Sprague",
+        "email": "esprague@stevens.edu",
+        "office_hours": "Virtual office hours via Zoom",
+        "contact_info": "303-912-1166"
+      }
+    },
+    "course_description": "The ability to structure and analyze an effective trade study under conditions of uncertainty and risk is a core systems engineering skill.",
+    "learning_outcomes": [
+      "Define a decision",
+      "Explain the basics of probability theory important to decision making",
+      "Recognize factors contributing to successful and unsuccessful decisions",
+      "Apply a simple model for decision making",
+      "Discern the difference between a well-framed problem and a poorly-framed one",
+      "Utilize at least two techniques for generating alternatives",
+      "Apply at least three techniques for deciding a course of action",
+      "Define risk and opportunity",
+      "Set up a risk/opportunity management plan",
+      "Define the difference between risk and issues",
+      "Structure and solve decision problems using an engineering trade study approach"
+    ],
+    "learning_outcomes_count": 11,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

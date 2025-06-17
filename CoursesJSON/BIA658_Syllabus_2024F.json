@@ -1,0 +1,197 @@
+{
+  "textbooks": [
+    {
+      "title": "Analyzing the social web",
+      "author": "Jennifer Golbeck",
+      "edition": "2013",
+      "ISBN": "0124055311"
+    },
+    {
+      "title": "Social network analysis: Methods and applications",
+      "author": "Wasserman, S. & Faust, K.",
+      "edition": "1994",
+      "ISBN": ""
+    },
+    {
+      "title": "Introduction to social network methods",
+      "author": "Hanneman, R. A. & Riddle, M.",
+      "edition": "2005",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction & Basic Concepts"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Lab 1: R Basics"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Lab 2: Basic Social Network Analysis in R"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Structural Properties and Tie Formation I (Presentation Week)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Structural Properties and Tie Formation II (Presentation Week)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Lab 3: Analysis of Network Structures"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Node Attributes, Homophily and Communities (Presentation Week)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Lab 4: Community Detection and Network Visualization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Node Positions, Tie Strength and Social Capital (Presentation Week)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Social Influence, Diffusion and Contagion (Presentation Week)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Lab 5: QAP & ERGM"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Bipartite & Semantic Networks (Presentation Week)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Thanks Giving Holiday: No Class"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Special Topic/Guest Lecture (SNA in Python)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Final Project Presentation"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "40%",
+      "exams": "",
+      "projects": "35%",
+      "quizzes": "",
+      "final": "20%"
+    },
+    "scale": "A: >= 94%, A-: >= 90.0% < 94.0%, B+: >= 87.0% < 90.0%, B: >= 84.0% < 87.0%, B-: >= 80.0% < 84.0%, C+: >= 77.0% < 80.0%, C: >= 70.0% < 77.0%, F: < 70%",
+    "policies": "Graduate students need a grade of C or above to pass the course."
+  },
+  "assignments": [
+    {
+      "title": "Lab Exercises",
+      "description": "Exercises for methods/topics discussed in labs.",
+      "weight": "40%",
+      "submission": "To be submitted online through Canvas. Due before the next class begins."
+    },
+    {
+      "title": "Paper Presentation and Response",
+      "description": "Present 1 course readings in class (15%), and participate in in-class discussions of the papers (5%).",
+      "weight": "20%"
+    },
+    {
+      "title": "Class Participation",
+      "description": "Attendance and participation in in-class exercises and quizzes.",
+      "weight": "5%"
+    },
+    {
+      "title": "Final Project Report and Presentation",
+      "description": "Students work in groups of 3-4 to analyze a secondary social network data. Includes an oral in-class presentation for 10-15 minutes (10%) and a 12-15 page written report (25%).",
+      "weight": "35%"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance without participation in class will only receive a passing grade (3%).",
+    "late_work": "Late penalty: 20% will be deducted for each late day. No homework will be accepted 3 days after the due date.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Thanksgiving Holiday",
+      "date": "11/28"
+    }
+  ],
+  "additional_info": {
+    "course_format": "In-person class on Thursdays from 6:30-9:00PM EST.",
+    "technology_requirements": "Please bring your laptop to class and Install R and Gelphi on your laptop.",
+    "support_resources": "Office of Disability Services for accommodations."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:37:40.829477",
+    "pdf_source": "../StevensCourses\\BIA658_Syllabus_2024F.pdf",
+    "source_type": "file",
+    "text_length": 9332,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Social Network Analytics and Visualization",
+      "code": "BIA 658-WS",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Bei Yan",
+        "email": "bei.yan@stevens.edu",
+        "office_hours": "Tuesday 11:00am – 12:00 pm, Wednesday 7:30 pm – 8:30 pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course introduces concepts, theories, and tools of social network analysis (SNA). Application areas include social media analytics, information and technology diffusion and market segmentation and targeting.",
+    "learning_outcomes": [
+      "Understand concepts and theories of social networks",
+      "Learn how to collect and analyze social networks data",
+      "Acquire analytical skills to conduct social network analysis"
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

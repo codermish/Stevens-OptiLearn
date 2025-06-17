@@ -1,0 +1,149 @@
+{
+  "textbooks": [
+    {
+      "title": "SAS for Finance",
+      "author": "Harish Gulati",
+      "publisher": "Packt Publishing",
+      "ISBN": "9781788624565"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Housekeeping", "Introduction to SAS"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["SAS Environment and First program (Reading Data into SAS)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["First program (Reading Data into SAS)--continued"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Data Cleaning and Preprocessing"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Modifying and Combining SAS Data Sets"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Exploratory Data Analysis, Summarization and Reporting"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Time Series Modeling in the Financial Industry"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Forecasting Stock Prices and Portfolio Decisions"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Credit Risk Management"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Budget and Demand Forecasting"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Inflation Forecasting for Financial Planning"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Simple, Multiple Regression and UCM"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Special Topics", "Final Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "40%",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": "50%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "Laptop with Excel, Internet access or ability to install software (admin rights)",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:17:30.230406",
+    "pdf_source": "../StevensCourses\\FE 517 Mod00_Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 2274,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Financial Lab: SAS for Finance",
+      "code": "FE 517",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2013",
+      "instructor": {
+        "name": "Khasha Dehnad",
+        "email": "kdehnad@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "In this course the students will learn the basics of SAS programming using financial data and applications. The course provides an introduction to programming, graphics, and data analysis using SAS Software. The course concentrates on fundamental components of SAS Software: data processing, managing SAS libraries, graphical and statistical procedures, creating, formatting and exporting reports. In addition, several advanced topics will be introduced: SAS SQL procedures and SAS Macro Language.",
+    "learning_outcomes": [
+      "Create SAS datasets.",
+      "Merge and combine multiple SAS datasets.",
+      "Perform basic statistical analysis.",
+      "Visualize the data.",
+      "Develop SAS macros.",
+      "Develop statistical and time series models with financial applications."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

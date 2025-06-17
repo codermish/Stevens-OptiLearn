@@ -1,0 +1,168 @@
+{
+  "textbooks": [
+    {
+      "title": "User Interface Design and Evaluation",
+      "authors": ["Debbie Stone", "Caroline Jarrett", "Mark Woodroffe", "Shailey Minocha"],
+      "edition": "2005"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to User Design Interface"],
+      "readings": ["Chapters 1-3"],
+      "assignments": ["Case Study Challenge", "Quiz"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Principles of UI Design and the User Environment"],
+      "readings": ["Chapters 4-5"],
+      "assignments": ["Case Study Challenge", "Quiz"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Requirements Specifications"],
+      "readings": ["Chapters 6-7"],
+      "assignments": ["Project 1 Requirements Specifications", "Quiz"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Physical Design"],
+      "readings": ["Chapters 8-9"],
+      "assignments": ["Case Study Challenge", "Quiz", "Start Project 2"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Interaction on Design and Styles"],
+      "readings": ["Chapters 10-11"],
+      "assignments": ["Case Study Challenge", "Quiz"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Interaction Devices and Elements"],
+      "readings": ["Chapters 12-13"],
+      "assignments": ["Case Study Challenge", "Quiz"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["The Design Paradigm"],
+      "readings": ["Chapters 14-15"],
+      "assignments": ["Case Study Challenge", "Quiz"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Designing a Graphical User Interface and Web Design"],
+      "readings": ["Chapters 16-17"],
+      "assignments": ["Project 2 Designing the User Interface", "Quiz"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Embedded Systems"],
+      "readings": ["Chapters 18-19"],
+      "assignments": ["Case Study Challenge", "Quiz", "Start Project 3"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Evaluation Part I"],
+      "readings": ["Chapters 20-22"],
+      "assignments": ["Case Study Challenge", "Quiz"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Evaluation Part II"],
+      "readings": ["Chapters 23-25"],
+      "assignments": ["Case Study Challenge", "Quiz"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Inspections and More Complex Evaluations"],
+      "readings": ["Chapters 26-27"],
+      "assignments": ["Project 3 Designing an Embedded System", "Quiz"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["The Art of Persuasion"],
+      "readings": ["Chapters 28-19"],
+      "assignments": ["Quiz"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "",
+      "exams": "",
+      "projects": "60%",
+      "quizzes": "10%",
+      "final": ""
+    },
+    "scale": "A: 100% to 94%, A-: < 94% to 90%, B+: < 90% to 87%, B: < 87% to 84%, B-: < 84% to 80%, C+: < 80% to 77%, C: < 77% to 70%, F: < 70% to 0%",
+    "policies": "20% of the total points will be deducted for assignments received 1-2 days late; assignments received more than 2 days late will receive 0 points. There are no makeups for quizzes but your lowest score will be dropped."
+  },
+  "assignments": [
+    {
+      "name": "Case Study Challenge",
+      "description": "Various case studies throughout the course."
+    },
+    {
+      "name": "Project 1 Requirements Specifications",
+      "description": "Specifications for the first project."
+    },
+    {
+      "name": "Project 2 Designing the User Interface",
+      "description": "Designing the user interface for the second project."
+    },
+    {
+      "name": "Project 3 Designing an Embedded System",
+      "description": "Designing an embedded system for the third project."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1-2 days late; assignments received more than 2 days late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, current Mac (OS X) or PC (Windows 10+) with high-speed internet connection, webcam, microphone, Microsoft Word.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:47:43.113804",
+    "pdf_source": "../StevensCourses\\CS 545 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 12476,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Human Computer Interaction",
+      "code": "CS 545",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Debbie Reid",
+        "email": "dreid@stevens.edu",
+        "office_hours": "See course homepage for details",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This is an introduction to Human Computer Interaction (HCI). It covers basic concepts, principles, and frameworks in HCI; models of interaction; and design guidelines and methodologies.",
+    "learning_outcomes": [
+      "Design a human computer interaction that considers cognition, emotion, and social mechanisms.",
+      "Design a human computer interaction that considers how human computer interactions can affect people’s attitudes and behaviors.",
+      "Collect and interpret stakeholder needs to identify project requirements.",
+      "Implement a user-centered approach to design an interface for a given application or activity.",
+      "Apply predictive techniques to conduct analytical evaluation and usability testing of a user interface.",
+      "Communicate usability testing findings to stakeholders."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [
+      "Undergraduates: CS 182 or CS 385",
+      "Graduates: CS 590"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "textbooks": [
+    {
+      "title": "Introduction to Algorithms",
+      "authors": "Cormen, Leiserson, Rivest and Stein",
+      "edition": "3e/4e"
+    },
+    {
+      "title": "Data Structures and Algorithm Analysis in Java",
+      "authors": "Mark A. Weiss",
+      "edition": "3e"
+    },
+    {
+      "title": "Cracking the Coding Interview",
+      "authors": "Gayle Laakmann Mcdowell"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction and Course Overview"],
+      "readings": ["Syllabus and class canvas"],
+      "assignments": ["Setup development tools"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Algorithm and Complexity"],
+      "readings": ["Notes Ch 1"],
+      "assignments": ["HW questions 1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Arrays"],
+      "readings": ["Review videos of dynamic memory", "Notes: Dynamic Arrays"],
+      "assignments": ["Programming HW 1"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Linked Lists, stacks, Queues"],
+      "readings": ["CLRS Ch 10", "Notes: LinkedLists, Stacks, Queues"],
+      "assignments": ["Mini project 1"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Sorting"],
+      "readings": ["Notes: Sorting", "CLRS Ch 6,7: Sorting"],
+      "assignments": ["HW questions 2"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Trees I"],
+      "readings": ["CLRS Ch 12: binary Search Trees", "Ch 13: RBTree", "Ch 18: B-Tree", "Notes: Trees"],
+      "assignments": ["Programming HW 2"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Trees II"],
+      "readings": ["CLRS Ch 12: binary Search Trees", "Ch 13: RBTree", "Ch 18: B-Tree", "Notes: Trees"],
+      "assignments": ["Mini project 2"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Hashing"],
+      "readings": ["Chapter 11"],
+      "assignments": ["HW questions 3"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Searching Algorithms I"],
+      "readings": ["CLRS ch14-16"],
+      "assignments": ["Programming HW 3"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Searching Algorithms II"],
+      "readings": ["CLRS ch14-16"],
+      "assignments": ["Mini project 3"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Graph Theory I"],
+      "readings": ["CLRS Ch 20-22"],
+      "assignments": ["HW questions 4", "Final project assignment and grouping"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Graph Theory II"],
+      "readings": ["CLRS Ch 23-24"],
+      "assignments": ["Programming HW 4"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Selected topics / Modern Programming"],
+      "readings": ["CLRS Ch 19, 26-29"],
+      "assignments": ["Final project milestone 1: projects tasks, repositories created, journal search, task divide and conquer, etc."],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Selected topics / Modern Programming"],
+      "readings": ["CLRS Ch 31-35"],
+      "assignments": ["HW questions 5"],
+      "due_dates": []
+    },
+    "week15": {
+      "topics": ["Course Review"],
+      "readings": [],
+      "assignments": ["Final project milestone 2: algorithm applied, code implementation status report, etc."],
+      "due_dates": []
+    },
+    "week16": {
+      "topics": ["Final project presentations"],
+      "readings": [],
+      "assignments": ["Final project presentation"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "5%",
+      "assignments": "20%",
+      "exams": "",
+      "projects": "30%",
+      "quizzes": "",
+      "final": "25%"
+    },
+    "scale": "A: 93-100%, A-: 90-92%, B+: 87-89%, B: 83-86%, B-: 80-82%, C+: 77-79%, C: 73-76%, C-: 70-72%, D+: 67-69%, D: 63-66%, D-: 60-62%, F: < 60%",
+    "policies": "All assignments have due dates. There is a grace period of one week after the specified due date. Assignments submitted between the due date and the end of the grace period will receive 70% penalty."
+  },
+  "assignments": [
+    {
+      "name": "HW questions 1",
+      "description": "Homework questions for Week 2"
+    },
+    {
+      "name": "Programming HW 1",
+      "description": "Programming homework for Week 3"
+    },
+    {
+      "name": "Mini project 1",
+      "description": "Mini project for Week 4"
+    },
+    {
+      "name": "HW questions 2",
+      "description": "Homework questions for Week 5"
+    },
+    {
+      "name": "Programming HW 2",
+      "description": "Programming homework for Week 6"
+    },
+    {
+      "name": "Mini project 2",
+      "description": "Mini project for Week 7"
+    },
+    {
+      "name": "HW questions 3",
+      "description": "Homework questions for Week 8"
+    },
+    {
+      "name": "Programming HW 3",
+      "description": "Programming homework for Week 9"
+    },
+    {
+      "name": "Mini project 3",
+      "description": "Mini project for Week 10"
+    },
+    {
+      "name": "HW questions 4",
+      "description": "Homework questions for Week 11"
+    },
+    {
+      "name": "Programming HW 4",
+      "description": "Programming homework for Week 12"
+    },
+    {
+      "name": "Final project milestone 1",
+      "description": "Projects tasks, repositories created, journal search, task divide and conquer, etc."
+    },
+    {
+      "name": "HW questions 5",
+      "description": "Homework questions for Week 14"
+    },
+    {
+      "name": "Final project milestone 2",
+      "description": "Algorithm applied, code implementation status report, etc."
+    },
+    {
+      "name": "Final project presentation",
+      "description": "Final project presentations"
+    }
+  ],
+  "policies": {
+    "attendance": "Deadlines are an unavoidable part of being a professional, and this course is no exception. Course requirements must be completed and posted or submitted on or before the specified due date and delivery time deadline.",
+    "late_work": "Assignments received more than one week late will receive 0 points. There is a grace period of one week after the specified due date. Assignments submitted between the due date and the end of the grace period will receive 70% penalty.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "March 14th: Spring Recess",
+    "March 21st: No Class. Monday Class Schedule"
+  ],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Programming well in Java and Python (or C++), a basic knowledge of calculus for some of the numerical parts of the course, the ability to debug your programs.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:25:24.758664",
+    "pdf_source": "../StevensCourses\\2024S-CPE593-WS.pdf",
+    "source_type": "file",
+    "text_length": 16386,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Applied Data Structures and Algorithms",
+      "code": "CPE593",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Jingxuan Liu",
+        "email": "jLiu153@stevens.edu",
+        "office_hours": "Mondays 12:00-1:00PM, Thursdays 6:00-8:00PM",
+        "contact_info": "201.887.1316"
+      }
+    },
+    "course_description": "Applied Data Structures and algorithms is an intensive introduction to brilliant solutions to classical problems with wide application across computer programming.",
+    "learning_outcomes": [
+      "Analyze programs and algorithms and determine the complexity of the code.",
+      "Identify the best possible performance based on limits to algorithmic efficiency.",
+      "Write, debug, and test data structures.",
+      "Apply the best data structure or algorithm for a particular purpose.",
+      "Recognize and apply common approaches to high-performance such as divide-and-conquer.",
+      "Independently research new algorithms based on knowledge of the fundamentals.",
+      "Gain familiarity with other areas of computer algorithms for future growth and learning."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [
+      "CPE552",
+      "EE553 or equivalent knowledge of Java, C++, or Python"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

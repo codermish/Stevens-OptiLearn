@@ -1,0 +1,98 @@
+{
+  "textbooks": [
+    {
+      "title": "Software Engineering",
+      "author": "Ian Sommerville",
+      "edition": "10th",
+      "ISBN": "0133943038"
+    },
+    {
+      "title": "The Mythical Man-month: Essays on Software Engineering",
+      "author": "F.P. Brooks",
+      "edition": "20th Anniversary",
+      "ISBN": "0201835959"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": ["Midterm Examination"]},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": ["Logbook Submission"], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": ["Final Examination"]}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "25%",
+      "assignments": "10%",
+      "exams": "25% (Midterm), 40% (Final)",
+      "projects": "",
+      "quizzes": "25%",
+      "final": "40%"
+    },
+    "scale": "A: 93-100%, A-: <93-90%, B+: <90-87%, B: <87-83%, B-: <83-80%, C+: <80-77%, C: <77-73%, C-: <73-70%, F: <70",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Logbook Assignment - At least 10 entries in Microsoft Word or '.txt' format due by the end of the 12th week."
+    },
+    {
+      "description": "Team problem assignment - Each half of the course includes a 2-week assignment."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance will be taken in every class. Students are responsible for all assigned work if they miss a class.",
+    "late_work": "Assignments must be submitted on time; late submissions will be rejected.",
+    "academic_integrity": "Plagiarism is intolerable; violations will result in no points for the assignment and a reduction in letter grade.",
+    "accommodations": "Students needing accommodations should discuss this with the instructor during the first week of classes."
+  },
+  "important_dates": [
+    "Midterm Examination: Week 7",
+    "Final Examination: Week 14",
+    "Logbook Submission: End of Week 12"
+  ],
+  "additional_info": {
+    "course_format": "Case history and project-oriented.",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:20:33.792984",
+    "pdf_source": "../StevensCourses\\00-SSW-540-Syllabus_2024F.pdf",
+    "source_type": "file",
+    "text_length": 9131,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Fundamentals of Software Engineering",
+      "code": "SSW 540",
+      "credits": "3",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Y. Morgan",
+        "email": "ymorgan@stevens.com",
+        "office_hours": "W & Tr 3:00-5:00 pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course introduces the subject of software engineering from a quantitative, analytic- and metrics-based point of view.",
+    "learning_outcomes": [
+      "Understanding the consequential issues when the proper software engineering methods are ignored.",
+      "Understand the impact of requirements and architecture planning on software development.",
+      "Able to evaluate newer methods and practices in software engineering."
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

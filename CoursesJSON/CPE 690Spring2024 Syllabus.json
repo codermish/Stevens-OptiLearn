@@ -1,0 +1,192 @@
+{
+  "textbooks": [
+    {
+      "title": "CMOS VLSI Design: A Circuits and Systems Perspective",
+      "author": "Neil Weste and David Harris",
+      "edition": "4th Edition",
+      "ISBN": "0-321-54774-8",
+      "publisher": "Addison Wesley",
+      "year": "2010"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to VLSI Design"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["CMOS Fabrication & Layout"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["MOS Transistors and CMOS Logic"],
+      "readings": [],
+      "assignments": ["HW1"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["DC and Transient Response"],
+      "readings": [],
+      "assignments": ["HW2"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Logic Effort"],
+      "readings": [],
+      "assignments": ["HW3"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Power Estimation"],
+      "readings": [],
+      "assignments": ["HW4"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Interconnect"],
+      "readings": [],
+      "assignments": ["HW5"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["SPICE Circuit Simulation"],
+      "readings": [],
+      "assignments": ["HW6"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Combinational Logic"],
+      "readings": [],
+      "assignments": ["HW7"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Sequential Logic"],
+      "readings": [],
+      "assignments": ["HW8"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["SRAM"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Packaging, Power and Clock Distr."],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "50%",
+      "exams": "50%",
+      "projects": "",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "A: 90~100; A-: 85~89; B: 80~84; B-: 75~79; C: 70~74; C-: 65~69; D: 60~64",
+    "policies": "Submissions that are a few hours late will not be penalized. More than one day late may incur a penalty of 20%. More than one week late will not be graded."
+  },
+  "assignments": [
+    {
+      "name": "HW1",
+      "description": "Homework assignment for week 3"
+    },
+    {
+      "name": "HW2",
+      "description": "Homework assignment for week 4"
+    },
+    {
+      "name": "HW3",
+      "description": "Homework assignment for week 5"
+    },
+    {
+      "name": "HW4",
+      "description": "Homework assignment for week 6"
+    },
+    {
+      "name": "HW5",
+      "description": "Homework assignment for week 8"
+    },
+    {
+      "name": "HW6",
+      "description": "Homework assignment for week 9"
+    },
+    {
+      "name": "HW7",
+      "description": "Homework assignment for week 10"
+    },
+    {
+      "name": "HW8",
+      "description": "Homework assignment for week 11"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1~6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": ""
+    },
+    {
+      "event": "Final Exam",
+      "date": ""
+    }
+  ],
+  "additional_info": {
+    "course_format": "One lecture (150 minutes) per week, accompanied by homework assignments.",
+    "technology_requirements": "PC with high-speed internet connection; Microsoft Word; Microsoft PowerPoint.",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:43:32.528267",
+    "pdf_source": "../StevensCourses\\CPE 690Spring2024 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 12325,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to VLSI Design",
+      "code": "",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Professor Zhuo Feng",
+        "email": "zhuo.feng@stevens.edu",
+        "office_hours": "Friday 9:00am-12:00 pm",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course provides introductions to various design aspects of modern integrated circuits, as well as related modeling and analysis techniques.",
+    "learning_outcomes": [
+      "Be able to develop transistor level circuit diagrams for CMOS digital gates, storage components and arithmetic operators and be able to estimate their performance.",
+      "Understand the operation of the MOS transistor and its application to CMOS digital design and understand the tradeoffs between performance, noise margin and power dissipation.",
+      "Know how to layout full custom CMOS circuits obeying process design rules and evaluate the function and performance of these circuits using commercially available circuit simulation tools (SPICE).",
+      "Understand the CMOS fabrication process and the relationship between layout and mask based fabrication.",
+      "Know how to design transistor-level digital circuits using a number of different circuit techniques including static compound, pseudo-NMOS and dynamic gates and understand the tradeoffs in performance, area and power dissipation."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

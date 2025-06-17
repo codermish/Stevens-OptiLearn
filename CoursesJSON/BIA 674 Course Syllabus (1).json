@@ -1,0 +1,217 @@
+{
+  "textbooks": [
+    {
+      "title": "Supply chain management: Strategy, planning, and operation",
+      "author": "Chopra, S.",
+      "edition": "7th",
+      "ISBN": "9780134731889"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Introduction"],
+      "readings": ["Syllabus"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Understanding the Supply Chain"],
+      "readings": ["Chapters 1 & 2"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 1", "Homework 1", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Supply Chain Drivers and Metrics & Designing the Supply Chain Network"],
+      "readings": ["Chapter 3"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 2", "Homework 2", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Network Design and Supply Chain"],
+      "readings": ["Chapter 5"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 3", "Homework 3", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Designing Global Supply Chain Networks"],
+      "readings": ["Chapter 6"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 4", "Homework 4", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Demand Forecasting in a Supply Chain"],
+      "readings": ["Chapter 7"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 5", "Homework 5", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Aggregate Planning in a Supply Chain"],
+      "readings": ["Chapter 8"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 6", "Homework 6", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Sales and Operations Planning in a Supply Chain"],
+      "readings": ["Chapters 9 & 10"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Midterm", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["The Role of Cycle Inventory in a Supply Chain"],
+      "readings": ["Chapter 11"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 8", "Homework 8", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Managing Uncertainty In a Supply Chain"],
+      "readings": ["Chapters 12 & 13"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 9", "Homework 9", "Course Project Part 1", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Retail Analytics"],
+      "readings": ["Retail Analytics Papers"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Homework 10", "Course Project Part 2", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Transportation in a Supply Chain"],
+      "readings": ["Chapter 14"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 11", "Homework 11", "Course Project Part 3", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Sourcing Decision in a Supply Chain"],
+      "readings": ["Chapter 15"],
+      "assignments": ["Collaborative Annotation", "Interactive Video", "Quiz 12", "Homework 12", "Course Project Part 4", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Pricing and Revenue Management in a Supply Chain"],
+      "readings": ["Chapter 16"],
+      "assignments": ["Homework 13", "Course Project Part 5", "Final Exam", "Live Session Participation"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "20%",
+      "exams": "30%",
+      "projects": "20%",
+      "quizzes": "10%",
+      "final": "15%"
+    },
+    "scale": "A >92; A- 92~90; B+ 89~85; B 84~80; B- 79~75; C+ 74~70; C 69~65; C- 64~60; F<60",
+    "policies": "Late homework submissions or final project submissions will be subject to a 20% deduction."
+  },
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Homework 2",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Homework 3",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Homework 4",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Homework 5",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Homework 6",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Homework 10",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Homework 11",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Homework 12",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Homework 13",
+      "description": "To help reinforce the material covered in the module."
+    },
+    {
+      "name": "Course Project Part 1",
+      "description": "You will be required to read a case study and answer the questions using the principles learned throughout the course."
+    },
+    {
+      "name": "Course Project Part 2",
+      "description": "You will be required to read a case study and answer the questions using the principles learned throughout the course."
+    },
+    {
+      "name": "Course Project Part 3",
+      "description": "You will be required to read a case study and answer the questions using the principles learned throughout the course."
+    },
+    {
+      "name": "Course Project Part 4",
+      "description": "You will be required to read a case study and answer the questions using the principles learned throughout the course."
+    },
+    {
+      "name": "Course Project Part 5",
+      "description": "You will be required to read a case study and answer the questions using the principles learned throughout the course."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late homework submissions or final project submissions will be subject to a 20% deduction.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration, recording, editing, and uploading video via Kaltura or Quicktime.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:33:45.242757",
+    "pdf_source": "../StevensCourses\\BIA 674 Course Syllabus (1).pdf",
+    "source_type": "file",
+    "text_length": 19865,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Supply Chain Analytics",
+      "code": "BIA-674",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Dr. Alkis Vazacopoulos",
+        "email": "avazacop@stevens.edu",
+        "office_hours": "Monday evenings from 7:00-8:00 pm EST.",
+        "contact_info": "(201) 256 -7323"
+      }
+    },
+    "course_description": "Supply Chain Management introduces the tactical and strategic issues surrounding the design and operation of supply chains, to develop supply chain analytical skills for solving real-life problems.",
+    "learning_outcomes": [
+      "Assess the goals for the supply chain to interpret the impact of supply chain decisions on the success of a global company.",
+      "Determine the major drivers of supply chain performance and calculate key metrics that track the performance of the supply chain.",
+      "Develop analytic methodologies to extract knowledge and business intelligence from the dynamic information about future demand, available production capacity, and sources of supply.",
+      "Develop models and utilize optimization methods for facility location, network design decisions, transportation optimization, aggregate planning, inventory optimization using Excel Solver and Decision Analysis tools.",
+      "Construct actionable business decisions using retail sales data, value product availability, and make pricing and inventory decisions.",
+      "Assess opportunities using procurement and vendor data, perform spend analysis and make sourcing decisions.",
+      "Assess risk in the supply chain and develop methodologies to reduce risk by using simulation and scenario-based modeling."
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

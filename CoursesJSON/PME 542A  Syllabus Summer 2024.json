@@ -1,0 +1,211 @@
+{
+  "textbooks": [
+    {
+      "title": "The Jungle",
+      "author": "Upton Sinclair",
+      "edition": "1905, 1906"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Orientation Begins"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Lecture 1", "Lecture 2"],
+      "readings": ["The Jungle by Upton Sinclair, Chapters 1 – 10"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Lecture 3", "Lecture 4"],
+      "readings": [
+        "Regulation: A Primer by Susan Dudley and Jerry Brito, Chapters 1 and 2",
+        "The Theory of Economic Regulation by George J. Stigler",
+        "The Jungle by Upton Sinclair, Chapters 11 - 20"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Lecture 5", "Assignment of Project 1"],
+      "readings": [
+        "Good Laboratory Practices (GLP)",
+        "Good Clinical Practices (GCP)",
+        "Good Manufacturing Practices (GMP)",
+        "Part 11"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Lecture 6"],
+      "readings": [
+        "Quality System Regulation (QSR)",
+        "Biologics",
+        "Combination Products",
+        "The Jungle by Upton Sinclair, Chapters 31 - End"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Lecture 7", "Lecture 8"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Presentations for Project 1", "Explore some FDA Guidance documents for drugs, biologics and medical devices"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Assignment of Project 2", "Lecture 9"],
+      "readings": [
+        "European Union Health Documents",
+        "Chinese GMP Rules",
+        "ISO",
+        "ICH",
+        "IMDRF"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Lecture 10"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Presentations for Project 2"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Lecture 11"],
+      "readings": [
+        "Declaration of Helsinki",
+        "Nuremberg Code",
+        "The Baltimore Affair"
+      ],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Lecture 12", "Lecture 13"],
+      "readings": [
+        "FDA Office of Pharmaceutical Quality",
+        "Data Integrity and Compliance Guidance"
+      ],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "",
+      "exams": "",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 90 - 100 %, B: 80 – 89 %, C: 70 – 79 %, F: Below 70 %",
+    "policies": "Any student that fails the midterm or final exam will fail the course."
+  },
+  "assignments": [
+    {
+      "description": "Presentation #1",
+      "weight": "15%"
+    },
+    {
+      "description": "Peer Review of Project 1",
+      "weight": "5%"
+    },
+    {
+      "description": "Presentation #2",
+      "weight": "20%"
+    },
+    {
+      "description": "Peer Review of Project 2",
+      "weight": "5%"
+    },
+    {
+      "description": "Midterm Exam",
+      "weight": "25%"
+    },
+    {
+      "description": "Final Exam",
+      "weight": "30%"
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "If you have a legitimate problem (e.g., illness, family crisis) with a due date, please email me before the due date with an explanation and we will work something out.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "date": "May 9",
+      "event": "Orientation Begins"
+    },
+    {
+      "date": "Week of June 23",
+      "event": "Midterm Exam"
+    },
+    {
+      "date": "Week of July 30",
+      "event": "Final Exam"
+    }
+  ],
+  "additional_info": {
+    "course_format": "The course may employ lectures, class discussions, exercises, team projects, a midterm exam, a final exam and an individual term paper or project.",
+    "technology_requirements": "Basic computer and web-browsing skills; Current Mac or PC capable of accessing Canvas with a high-speed internet connection; Microsoft Word, Excel and PowerPoint.",
+    "support_resources": "For more information about Canvas access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:49:54.033695",
+    "pdf_source": "../StevensCourses\\PME 542A  Syllabus Summer 2024.pdf",
+    "source_type": "file",
+    "text_length": 17721,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Global Regulation and Compliance in the Life Science Industry",
+      "code": "PME 542",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Professor Marc Bernhardt",
+        "email": "marc.bernhardt@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course explores the economic theory of regulation in general, and the US and international regulatory environments that govern the pharmaceutical, medical device and biotechnology industries.",
+    "learning_outcomes": [
+      "To demonstrate an understanding of the economic theory of regulation",
+      "To determine the requirements and role of US and international regulation for a pharmaceutical, medical device, or biotech company to operate successfully in a global environment.",
+      "To assess the role of ethics in life sciences regulation and compliance, and to demonstrate the process of making ethical decisions.",
+      "To effectively communicate the results of assignments and research about life sciences regulation and compliance in written reports"
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

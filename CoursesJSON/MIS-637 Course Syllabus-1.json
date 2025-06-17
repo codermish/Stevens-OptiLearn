@@ -1,0 +1,170 @@
+{
+  "textbooks": [
+    {
+      "title": "Discovering Knowledge in Data: An introduction to Data Mining",
+      "authors": ["Daniel T. Larose", "Chantal D. Larose"],
+      "edition": "2nd",
+      "ISBN": "978-1-118-87357-1"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Introduction"],
+      "readings": ["Syllabus"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to Data Mining and Knowledge Discovery"],
+      "readings": ["Chapter 1"],
+      "assignments": ["Discussion", "Homework", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Understanding and Preparing Data I"],
+      "readings": ["Chapter 2, parts 2.1 – 2.4"],
+      "assignments": ["Discussion", "Homework", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Understanding and Preparing Data II"],
+      "readings": ["Chapter 2, parts 2.5 – 2.9"],
+      "assignments": ["Discussion", "Homework", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Supervised Learning: k-Nearest Neighbor Algorithm I"],
+      "readings": ["Chapters 6, part 6.1 and Chapter 7, parts 7.1 – 7.3, and 7.6"],
+      "assignments": ["Discussion", "Homework", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Supervised Learning: k-Nearest Neighbor Algorithm II"],
+      "readings": ["Chapter 7, parts 7.7 – 7.8"],
+      "assignments": ["Collaborative Annotation", "Discussion", "Homework", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Supervised Learning: Decision Trees I"],
+      "readings": ["Chapter 8, parts 8.1 - 8.4"],
+      "assignments": ["Discussion", "Homework", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Supervised Learning: Decision Trees II"],
+      "readings": ["Chapters 8, parts 8.5 and 8.6"],
+      "assignments": ["Discussion", "Homework", "Live Session Participation", "Case Report due (all)", "Case Presentations (1st group)", "Exam 1"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Supervised Learning: Neural Networks I"],
+      "readings": ["Chapter 9, parts 9.1-9.4"],
+      "assignments": ["Discussion", "Homework", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Supervised Learning: Neural Networks II"],
+      "readings": ["Chapter 9, parts 9.5-9.7 and 9.10"],
+      "assignments": ["Collaborative Annotation", "Discussion", "Homework", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Unsupervised Learning: k-Mean Clustering Algorithm"],
+      "readings": ["Chapter 10, parts 10.1-10.2 and 10.5-10.6"],
+      "assignments": ["Discussion", "Homework", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Project Review and Discussion"],
+      "readings": ["Work on Case Study and Final Team Project"],
+      "assignments": ["Discussion", "Live Session Participation"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Case Presentations and Discussion"],
+      "readings": [],
+      "assignments": ["Case Report due (all)", "Case Presentation due (2nd group)", "Final Team Project and Presentation due by end of final exam period", "Case Study 2 and Presentation (second group)", "Final Team Project and Presentation", "Exam 2"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "40%",
+      "projects": "20%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A >92; A- 92~90; B+ 89~85; B 84~80; B- 79~75; C+ 74~70; C 69~65; C- 64~60; F<60",
+    "policies": "Late homework or final project submissions will be subject to a 20% deduction."
+  },
+  "assignments": [
+    {
+      "name": "Homework",
+      "description": "To help reinforce the material covered in the module, a homework exercise will be assigned to you each week."
+    },
+    {
+      "name": "Case Study Reports and Presentations",
+      "description": "These are team assignments. You will be required to read a case study and apply the principles learned throughout the course."
+    },
+    {
+      "name": "Final Team Project",
+      "description": "There is a practical final project that provides an opportunity to apply and demonstrate knowledge you acquired throughout the course."
+    },
+    {
+      "name": "Peer Evaluations",
+      "description": "Required submission with each team assignment. These support collaboration and will be used to adjust grades based on individual contribution."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late homework or final project submissions will be subject to a 20% deduction.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, Live web conferencing using Zoom, Recording a slide presentation with audio narration.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:43:29.797613",
+    "pdf_source": "../StevensCourses/MIS-637 Course Syllabus-1.pdf",
+    "source_type": "file",
+    "text_length": 17739,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Data Analytics and Machine Learning",
+      "code": "MIS-637",
+      "credits": "3",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Dr. Foad Mahdavi Pajouh",
+        "email": "fmahdav1@stevens.edu",
+        "office_hours": "Wednesdays, 8:00 pm – 9:00 pm (Appointments only via email)",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will focus on Data Mining & Knowledge Discovery Algorithms and their applications in solving real world business and operation problems.",
+    "learning_outcomes": [
+      "Formulate the objectives of Knowledge Discovery using Data Analytics and Machine Learning algorithms, and identify profound questions to be answered.",
+      "Identify relevant data and corresponding databases, data warehouses, and data sources from which Knowledge can be extracted.",
+      "Preprocess the data (Clean, Integrate, and Transform).",
+      "Determine proper algorithms, discovery models, and technologies to use for Knowledge Discovery.",
+      "Execute and discover patterns and dependencies to make predictions.",
+      "Extract and apply Nuggets of knowledge to make intelligent scientific, business, and operations decisions.",
+      "Present and document results.",
+      "Input the extracted knowledge to the next iterative step."
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [
+      "Students are expected to be familiar with calculus, elementary probability & statistics."
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

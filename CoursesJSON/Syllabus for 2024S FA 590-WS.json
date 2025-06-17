@@ -1,0 +1,154 @@
+{
+  "textbooks": [
+    {
+      "title": "An Introduction to Statistical Learning with Applications in R",
+      "authors": ["Gareth James", "Daniela Witten", "Trevor Hastie", "Robert Tibshirani"],
+      "edition": "2014",
+      "ISBN": ""
+    },
+    {
+      "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction",
+      "authors": ["Trevor Hastie", "Robert Tibshirani", "Jerome Friedman"],
+      "edition": "Second Edition, Tenth Printing 2013",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Examples of supervised learning", "Regression", "Introduction to Machine learning terms such as features, learning rate, epoch, loss function"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Examples of supervised learning", "Classification: Linear discriminant analysis", "Mahalanobis Distance"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Introduction to Support Vector Machines", "Hard Margin", "Constrained optimization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Statistics Review", "Regression Models", "Model Selection"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Logistic Regression"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Classification and Tree method"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Basis Expansions", "Regularization"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Resampling Methods", "Cross-Validation", "Bootstrap Method"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Nearest Neighbor Method"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Random Forest"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Introduction to Neural Networks"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Recurrent & Convolutional Network"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Unsupervised Learning", "Clustering techniques"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["Review/TBD"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "55%",
+      "exams": "15%",
+      "projects": "",
+      "quizzes": "",
+      "final": "30%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "",
+    "late_work": "",
+    "academic_integrity": "",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:03:39.713207",
+    "pdf_source": "../StevensCourses/Syllabus for 2024S FA 590-WS.pdf",
+    "source_type": "file",
+    "text_length": 2454,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Statistical Machine Learning In Finance",
+      "code": "FE 590",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Prof. Kosrow Dehnad",
+        "email": "kdehnad1@stevens.edu",
+        "office_hours": "Tuesdays 3:00-4:00 PM (Eastern Daylight Time)",
+        "contact_info": ""
+      }
+    },
+    "course_description": "",
+    "learning_outcomes": [],
+    "learning_outcomes_count": 0,
+    "prerequisites": ["Knowledge of R or Python (or willingness to learn)", "Prob/Stat background"],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

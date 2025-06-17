@@ -1,0 +1,182 @@
+{
+  "textbooks": [
+    {
+      "title": "Probability and statistics for engineering and the sciences",
+      "author": "Devore, J. L.",
+      "edition": "9th",
+      "ISBN": "978-1305251809"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Visualizing Data"],
+      "readings": [
+        "Course syllabus",
+        "Module reading: Communicating Uncertainty Through Data Visualization",
+        "Module reading: Descriptive Statistics"
+      ],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Probability Basics"],
+      "readings": [
+        "Module reading: Marginal, Joint and Conditional Probabilities",
+        "Module reading: Using Excel to Simulate Random Events"
+      ],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Modeling Uncertainty with Discrete Probability Distributions"],
+      "readings": [
+        "Module reading: Discrete Random Variables and Probability Distributions",
+        "Module reading: Common Discrete Probability Distributions"
+      ],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Modeling Uncertainty with Continuous Probability Distributions"],
+      "readings": [
+        "Module reading: Continuous Random Variables and Probability Distributions",
+        "Module reading: Common Continuous Probability Distributions"
+      ],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Joint Probabilities"],
+      "readings": [
+        "Module reading: Joint distributions and sums of independent random variables",
+        "Module reading: Relationships between multiple random variables"
+      ],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Generating Simulated Data"],
+      "readings": [
+        "Pseudo Random Number Generators",
+        "RandU: A bad example of Pseudo RNG",
+        "Module Reading: Simulations with Pseudo Random Number Generators"
+      ],
+      "assignments": ["Quiz", "Discussion", "Midterm Exam"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Inferential Statistics"],
+      "readings": ["Module reading: Estimating Population Mean and Variance"],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Hypothesis Testing and Analysis of Variance"],
+      "readings": ["Module reading: Hypothesis Testing"],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Design of Experiments for Data Collection"],
+      "readings": [
+        "Experimental design principles",
+        "Sample weighting"
+      ],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Data-Driven System Modeling"],
+      "readings": ["Readings on linear regression"],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Bayesian Statistics (Part 1)"],
+      "readings": [
+        "Module Reading: Bayesian Statistics",
+        "Bayesian vs frequentist statistics",
+        "Seeing theory - Bayesian influence"
+      ],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Bayesian Statistics (Part 2)"],
+      "readings": [
+        "Readings on Bayesian hypothesis testing, calculating Bayes factors, and credible intervals"
+      ],
+      "assignments": ["Quiz", "Discussion", "Homework assignment"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Decision Analysis"],
+      "readings": [
+        "Readings on decision trees, the expected value of perfect information, and the expected value of sample (imperfect) information"
+      ],
+      "assignments": ["Quiz", "Discussion", "Homework assignment", "Final Exam"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "13%",
+      "assignments": "33.5%",
+      "exams": "34%",
+      "projects": "",
+      "quizzes": "6.5%",
+      "final": "18%"
+    },
+    "scale": "",
+    "policies": "Late assignments are penalized 10% per day and will not be accepted after solutions are posted."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "Attendance is mandatory for live sessions.",
+    "late_work": "Late assignments are penalized 10% per day and will not be accepted after solutions are posted.",
+    "academic_integrity": "Collaboration is allowed on homework provided each student completes their own work. Copying will result in a 0 for the assignment.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm Exam: Module 6",
+    "Final Exam: Module 13"
+  ],
+  "additional_info": {
+    "course_format": "Students are expected to attend class sessions, participate in classroom activities, and complete weekly online quizzes, homework, and discussions.",
+    "technology_requirements": "",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T11:17:30.536189",
+    "pdf_source": "../StevensCourses\\SYS 501 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 17883,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Probability and Statistics for Systems Engineering",
+      "code": "SYS 501",
+      "credits": "3.0",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Christian Sprague",
+        "email": "sprague@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course is designed for students with a background in engineering, technology, or science who have not taken a class in statistics or need a refresher class.",
+    "learning_outcomes": [
+      "Understand and apply probability distributions to a variety of data sets.",
+      "Understand statistics associated with probability distributions.",
+      "Understand concepts of confidence intervals.",
+      "Apply hypothesis testing.",
+      "Understand basic simulation steps."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

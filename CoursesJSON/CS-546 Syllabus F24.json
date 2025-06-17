@@ -1,0 +1,154 @@
+{
+  "textbooks": [],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Course Introduction", "Setting up Node.js", "Intro to JavaScript syntax"],
+      "readings": [],
+      "assignments": ["Lab #1"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Modules and NPM", "Creating a Simple Node Application"],
+      "readings": [],
+      "assignments": ["Lab #2"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Asynchronous Code", "Promises", "Reading and Writing to Files"],
+      "readings": [],
+      "assignments": ["Lab #3"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Introduction to MongoDB", "Interacting with MongoDB in Node.js"],
+      "readings": [],
+      "assignments": ["Lab #4"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Fundamentals of Web Development", "Running a Node.js server", "Node.js as an API (GET)"],
+      "readings": [],
+      "assignments": ["Lab #5"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Intermediate MongoDB", "Node.js as an API (PUT POST DELETE)", "Server-Side Error Checking"],
+      "readings": [],
+      "assignments": ["Lab #6"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Introduction to Git", "Programming in a Group Environment", "Basic HTML and CSS"],
+      "readings": [],
+      "assignments": ["Lab #7"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Templating with Node.js", "HTML Forms"],
+      "readings": [],
+      "assignments": ["Lab #8"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Introduction to Frontend JavaScript", "Client-Side Form Validation"],
+      "readings": [],
+      "assignments": ["Lab #9"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Middleware", "Cookies and Authentication"],
+      "readings": [],
+      "assignments": ["Lab #10"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Introduction to AJAX and Basic Web Security"],
+      "readings": [],
+      "assignments": ["Lab #11"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["TBA"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["TBA"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "33%",
+      "exams": "25%",
+      "projects": "39%",
+      "quizzes": "",
+      "final": "25%"
+    },
+    "scale": "A: 90-100%, B: 80-89%, C: 70-79%, D: 60-69%, F: below 60%",
+    "policies": "You MUST have an average of at LEAST 70% to pass the course."
+  },
+  "assignments": [
+    {
+      "description": "Lab assignments should be handed in on time. Multiple file assignments should be submitted in an archive with a readme file."
+    },
+    {
+      "description": "Final project includes a web application with multiple backend and frontend components, proposal, database proposal, and presentation."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late assignments will receive a 15-point penalty PER DAY that it is late. Final project components will receive a 25-point penalty PER DAY.",
+    "academic_integrity": "ZERO tolerance policy for sharing code and cheating. Plagiarism will result in a 0 for the lab or project.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "In-person and online (pre-recorded lecture videos)",
+    "technology_requirements": "WS Online students must have a working webcam and compatible computer for the final exam.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:56:31.039223",
+    "pdf_source": "../StevensCourses\\CS-546 Syllabus F24.pdf",
+    "source_type": "file",
+    "text_length": 14983,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Web Programming",
+      "code": "CS-546",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2024",
+      "instructor": {
+        "name": "Patrick Hill",
+        "email": "phill@stevens.edu",
+        "office_hours": "To be announced",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course will provide students with a first strong approach of internet programming.",
+    "learning_outcomes": [
+      "Install and configure a web programming environment.",
+      "Write programs in the chosen programming language.",
+      "Use a modern database to create database-driven applications.",
+      "Create HTML pages and use basic JavaScript.",
+      "Evaluate web accessibility.",
+      "Use client-side techniques and frameworks.",
+      "Identify major vulnerabilities in web development.",
+      "Create a complete market-ready database-driven web application."
+    ],
+    "learning_outcomes_count": 8,
+    "prerequisites": [
+      "Graduate: CPE 590/ CS 590 – Algorithms",
+      "Undergraduate: CS 182 - Introduction to Comp Sci-Honors II or CS 385 - Algorithms"
+    ],
+    "prerequisites_count": 2,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

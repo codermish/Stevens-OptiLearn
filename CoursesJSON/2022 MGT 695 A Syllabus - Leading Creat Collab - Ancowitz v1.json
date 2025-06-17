@@ -1,0 +1,202 @@
+{
+  "textbooks": [
+    {
+      "title": "Applied Improvisation: Leading, Collaborating and Creating Beyond the Theatre",
+      "author": "Dudeck, T. R. and McClure, C.",
+      "edition": "2018",
+      "ISBN": ""
+    },
+    {
+      "title": "The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation",
+      "author": "Lipmanowicz, H. and McCandless, K.",
+      "edition": "2013",
+      "ISBN": ""
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction - Part 1 (WHAT)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["September 12, 2022"]
+    },
+    "week2": {
+      "topics": ["Introduction - Part 2 (WHAT)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["September 19, 2022"]
+    },
+    "week3": {
+      "topics": ["What is Creative Collaboration? - Part 1 (WHAT)"],
+      "readings": [],
+      "assignments": ["Moonwalk 1: Lead an exercise outside of class – post a video testimonial."],
+      "due_dates": ["October 3, 2022"]
+    },
+    "week4": {
+      "topics": ["What is Creative Collaboration? - Part 2 (WHAT)"],
+      "readings": [],
+      "assignments": ["Team A facilitates all-class activity"],
+      "due_dates": ["October 11, 2022"]
+    },
+    "week5": {
+      "topics": ["The Brain and Play (WHAT)"],
+      "readings": [],
+      "assignments": ["Team B facilitates all-class activity", "Sandbox Time"],
+      "due_dates": ["October 17, 2022"]
+    },
+    "week6": {
+      "topics": ["Organizational Climate vs. Organizational Culture (SO WHAT)"],
+      "readings": [],
+      "assignments": ["Team C facilitates all-class activity", "Moonwalk 2 Design"],
+      "due_dates": ["October 24, 2022"]
+    },
+    "week7": {
+      "topics": ["Inclusion - Part 1 (SO WHAT)"],
+      "readings": [],
+      "assignments": ["Team D facilitates all-class activity"],
+      "due_dates": ["October 31, 2022"]
+    },
+    "week8": {
+      "topics": ["Inclusion - Part 2 (SO WHAT)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["November 7, 2022"]
+    },
+    "week9": {
+      "topics": ["One-on-One Collaboration Tactics - Part 1 (SO WHAT)"],
+      "readings": [],
+      "assignments": ["Moonwalk 2: Delivery—Lead 3 collaboration activities outside of class"],
+      "due_dates": ["November 14, 2022"]
+    },
+    "week10": {
+      "topics": ["One-on-One Collaboration Tactics - Part 2 (SO WHAT)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["November 21, 2022"]
+    },
+    "week11": {
+      "topics": ["Integrating Collaborative Practices at Work - Part 1 (NOW WHAT)"],
+      "readings": [],
+      "assignments": ["Self-Reflection Insights and Implications"],
+      "due_dates": ["November 28, 2022"]
+    },
+    "week12": {
+      "topics": ["Integrating Collaborative Practices at Work - Part 2 (NOW WHAT)"],
+      "readings": [],
+      "assignments": ["Final Quiz"],
+      "due_dates": ["December 5, 2022"]
+    },
+    "week13": {
+      "topics": ["Reflection, Gratitude, Class Redesign (NOW WHAT)"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": ["December 12, 2022"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "15 points",
+      "assignments": "10 points for Moonwalk 1, 10 points for Team A, 10 points for Team B, 10 points for Team C, 10 points for Team D, 20 points for Moonwalk 2",
+      "exams": "15 points for Final Quiz",
+      "projects": "",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "A: 93-100, A-: 90-92, B+: 87-89, B: 83-86, B-: 80-82, C+: 76-79, C: 77-79, C-: 70-72, D+: 67-69, D: 63-66, D-: 60-62, F: <60",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Moonwalk 1: Lead an exercise outside of class – post a video testimonial.",
+      "points": 10
+    },
+    {
+      "description": "Team A facilitates all-class activity.",
+      "points": 10
+    },
+    {
+      "description": "Team B facilitates all-class activity.",
+      "points": 10
+    },
+    {
+      "description": "Sandbox Time: Happens outside class and share in learning journal.",
+      "points": 10
+    },
+    {
+      "description": "Moonwalk 2 Design: Design 3 collaboration activities you’ll lead outside class.",
+      "points": 10
+    },
+    {
+      "description": "Team C facilitates all-class activity.",
+      "points": 10
+    },
+    {
+      "description": "Team D facilitates all-class activity.",
+      "points": 10
+    },
+    {
+      "description": "Moonwalk 2: Delivery—Lead 3 collaboration activities outside of class and respond to reflection questions in your learning journal.",
+      "points": 20
+    },
+    {
+      "description": "Self-Reflection Insights and Implications.",
+      "points": 10
+    },
+    {
+      "description": "Final Quiz.",
+      "points": 15
+    }
+  ],
+  "policies": {
+    "attendance": "0 points if you miss more than 2 classes.",
+    "late_work": "",
+    "academic_integrity": "You must cite all references for your written ideas and use quotation marks for all direct quotes from other resources.",
+    "accommodations": ""
+  },
+  "important_dates": [
+    "September 12, 2022 - Class begins",
+    "September 26, 2022 - No class (holiday)",
+    "October 10, 2022 - No class (holiday)",
+    "December 12, 2022 - Last class"
+  ],
+  "additional_info": {
+    "course_format": "Engagement in practice before theory.",
+    "technology_requirements": "",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:20:58.780689",
+    "pdf_source": "../StevensCourses\\2022 MGT 695 A Syllabus - Leading Creat Collab - Ancowitz v1.pdf",
+    "source_type": "file",
+    "text_length": 13470,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Leading Creative Collaboration",
+      "code": "MGT 695 A",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2022",
+      "instructor": {
+        "name": "Nancy Ancowitz",
+        "email": "nancowit@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course builds individual awareness of creativity and collaboration skills while increasing your capacity for both.",
+    "learning_outcomes": [
+      "Communicate the value of enhancing a group’s or organization's creative and collaborative skills and mentor others to build and use these skills at work",
+      "Design and facilitate effective group ideation and problem-solving events",
+      "Confidently engage others in productive creative abrasion to make the best use of the diversity of perspectives on a team",
+      "Motivate yourself and others to address problems that have long been tolerated or accepted as unsolvable attributes of the status quo",
+      "Assess key attributes of an organization's culture so you can influence the architectural, interpersonal, and philosophical systems that undermine innovation",
+      "Set personal standards and priorities for yourself as leaders committed to exceptional group creativity and collaboration, and monitor your own continued practice and growth",
+      "Lead others to address meaningful problems and possibilities everywhere you find them"
+    ],
+    "learning_outcomes_count": 7,
+    "prerequisites": ["MGT 612"],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

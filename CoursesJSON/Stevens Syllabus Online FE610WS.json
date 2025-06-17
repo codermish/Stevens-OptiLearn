@@ -1,0 +1,154 @@
+{
+  "textbooks": [
+    {
+      "title": "Stochastic Calculus for Finance vol II",
+      "author": "Steven E. Shreve",
+      "edition": "2004",
+      "ISBN": "978-0387401010"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Probability review: Random variables and vectors", "Stochastic processes"],
+      "readings": ["Ch. 1 and 2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Random walk", "Brownian motion"],
+      "readings": ["Ch. 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Markov Property", "Reflection Principle and Passage Times"],
+      "readings": ["Ch. 3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Stochastic Calculus (Integrands)"],
+      "readings": ["Ch. 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Ito lemma and applications"],
+      "readings": ["Ch. 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Black-Scholes-Merton Model"],
+      "readings": ["Ch. 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Multivariable Stochastic Calculus"],
+      "readings": ["Ch. 4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Risk-Neutral Measure and Girsanov"],
+      "readings": ["Ch. 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Multidimensional Stock Model"],
+      "readings": ["Ch. 5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["PDE's and SDE's"],
+      "readings": ["Ch. 6"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Poisson Processes and Jump Diffusion"],
+      "readings": ["Ch. 11"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Exotic Options"],
+      "readings": ["Ch. 7"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "25%",
+      "exams": "75%",
+      "projects": "",
+      "quizzes": "",
+      "final": "45%"
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "description": "Around 5 homework assignments throughout the semester. Collaboration is encouraged."
+    }
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "Late homework will lose 10 points for each day it is late. Assignments are due by the specified time.",
+    "academic_integrity": "Any plagiarism or other form of cheating will be dealt with under relevant Stevens policies.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "Fully online with pre-recorded lectures and weekly problem set sessions.",
+    "technology_requirements": "Basic computer and web-browsing skills, live web conferencing using Zoom, compiling PDFs, VR headset provided by the school.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) for support."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:54:56.886208",
+    "pdf_source": "../StevensCourses\\Stevens Syllabus Online FE610WS.pdf",
+    "source_type": "file",
+    "text_length": 25428,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Stochastic Calculus for Finance",
+      "code": "FE 610",
+      "credits": "",
+      "semester": "Spring",
+      "year": "2024",
+      "instructor": {
+        "name": "Thomas Lonon",
+        "email": "tlonon@stevens.edu",
+        "office_hours": "by appointment",
+        "contact_info": "201-216-3705"
+      }
+    },
+    "course_description": "This course is designed for advanced undergraduate students and masters students in Financial Engineering.",
+    "learning_outcomes": [
+      "Classify stochastic processes as martingales, Markov, or both/neither",
+      "Simplify stochastic (Ito) integrals",
+      "Determine the differentials of functions of stochastic processes",
+      "Change probability measures to facilitate pricing of derivatives",
+      "Solve stochastic differential equations through transformations to partial differential equations."
+    ],
+    "learning_outcomes_count": 5,
+    "prerequisites": [
+      "Knowledge of Calculus and Probability"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

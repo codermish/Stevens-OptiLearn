@@ -1,0 +1,162 @@
+{
+  "textbooks": [
+    {
+      "title": "Programming in C",
+      "author": "zyBooks",
+      "edition": "Online ebook",
+      "ISBN": ""
+    },
+    {
+      "title": "Advanced Programming in the UNIX Environment",
+      "author": "Stevens and Rago",
+      "edition": "3rd Edition",
+      "ISBN": "978-0-321-63773-"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Linux"],
+      "readings": ["zyBooks Module 3", "zyBooks Module 4"],
+      "assignments": ["Weekly Quiz in Canvas", "Project 1"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Arrays", "Functions"],
+      "readings": ["zyBooks Module 5", "zyBooks Module 6"],
+      "assignments": ["Weekly Quiz in Canvas"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Structures", "Pointers"],
+      "readings": ["zyBooks Module 7", "zyBooks Module 8"],
+      "assignments": ["Weekly Quiz in Canvas", "Project 2"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Recursion", "Searching and Sorting Algorithms"],
+      "readings": ["zyBooks Module 10", "zyBooks Module 11", "Stevens & Rago Chapters 3, 14"],
+      "assignments": ["Weekly Quiz in Canvas"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Input and Output"],
+      "readings": ["zyBooks Module 9", "zyBooks Module 12"],
+      "assignments": ["Weekly Quiz in Canvas", "Project 3"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Files and Directories"],
+      "readings": ["Stevens & Rago Chapter 4"],
+      "assignments": ["Weekly Quiz in Canvas"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Shell Scripting"],
+      "readings": ["Linux Shell Scripting for Beginners videos by Udemy", "Linux Shell Scripting Tutorial by Edureka"],
+      "assignments": ["Weekly Quiz in Canvas", "Linux Challenge Activity", "Project 4"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Processes"],
+      "readings": ["Stevens & Rago Chapters 7 - 8"],
+      "assignments": ["Weekly Quiz in Canvas"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Signals"],
+      "readings": ["Stevens & Rago Chapters 9 - 10"],
+      "assignments": ["Weekly Quiz in Canvas", "Project 5"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Threads and Daemons"],
+      "readings": ["Stevens & Rago Chapters 11 - 13"],
+      "assignments": ["Weekly Quiz in Canvas", "Linux Challenge Activity"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Pipes"],
+      "readings": ["Stevens & Rago Textbook chapter 15"],
+      "assignments": ["Weekly Quiz in Canvas", "Linux Challenge Activity"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Sockets"],
+      "readings": ["Stevens & Rago Textbook chapter 16"],
+      "assignments": ["Weekly Quiz in Canvas", "Project 6"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Libraries"],
+      "readings": ["Stevens & Rago Textbook chapters 5, 6, 20"],
+      "assignments": ["Weekly Quiz in Canvas", "Linux Challenge Activity"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "30%",
+      "exams": "10%",
+      "projects": "30%",
+      "quizzes": "20%",
+      "final": "10%"
+    },
+    "scale": "",
+    "policies": "20% of the total points will be deducted for assignments received 1-2 days late; assignments received more than 2 days late will receive 0 points."
+  },
+  "assignments": [
+    "Project 1",
+    "Project 2",
+    "Project 3",
+    "Project 4",
+    "Project 5",
+    "Project 6"
+  ],
+  "policies": {
+    "attendance": "",
+    "late_work": "20% of the total points will be deducted for assignments received 1-2 days late; assignments received more than 2 days late will receive 0 points.",
+    "academic_integrity": "All Stevens graduate students promise to be fully truthful and avoid dishonesty, fraud, misrepresentation, and deceit of any type in relation to their academic work.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Computer: Linux Ubuntu with high-speed internet connection; Webcam: built-in or external webcam, fully installed; Microphone: built-in laptop or tablet mic or external microphone; Required Software: Microsoft Word.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:46:54.394510",
+    "pdf_source": "../StevensCourses\\CS 525-WN Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 16526,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Systems Programming",
+      "code": "CS 525-WN",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Debbie Reid",
+        "email": "dreid@stevens.edu",
+        "office_hours": "See course homepage for details",
+        "contact_info": ""
+      }
+    },
+    "course_description": "In this course, students will learn to develop system-level software in the C programming language while gaining an understanding of the UNIX family of operating systems and their programming environment.",
+    "learning_outcomes": [
+      "Create efficient C programs on the Linux platform.",
+      "Allocate and free memory correctly and safely.",
+      "Execute Linux commands and processes via command line, scripts or GUI-based applications.",
+      "Recognize and execute process, signal, and socket system calls.",
+      "Develop and utilize applications through streams, buffers, pipes, files, and devices.",
+      "Link standard, shared, and generated libraries to applications."
+    ],
+    "learning_outcomes_count": 6,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

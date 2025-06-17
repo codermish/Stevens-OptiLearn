@@ -1,0 +1,199 @@
+{
+  "textbooks": [
+    {
+      "title": "The art of R programming: a tour of statistical software design",
+      "author": "Norman Matlo",
+      "edition": "First",
+      "ISBN": {
+        "ISBN-10": "1593273843",
+        "ISBN-13": "978-1593273842"
+      }
+    },
+    {
+      "title": "An Introduction to Analysis of Financial Data with R",
+      "author": "Ruey Tsay",
+      "edition": "First",
+      "ISBN": {
+        "ISBN-10": "0470890819",
+        "ISBN-13": "978-0470890813"
+      }
+    },
+    {
+      "title": "Introduction to the Practice of Statistics",
+      "author": "David S. Moore, George P. McCabe, Bruce A. Craig",
+      "edition": "Eighth",
+      "ISBN": {
+        "ISBN-13": "978-1464158933",
+        "ISBN-10": "1464158932"
+      }
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["R Basic (1)", "Data Structure & Loops"],
+      "readings": ["Required: Lecture Notes L1", "Optional: The Art of R Prog. Ch.1-Ch4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["R Basic (2)", "Data Frame", "Self-defined functions"],
+      "readings": ["Required: Lecture Notes L2", "Optional: The Art of R Prog. Ch.5-Ch.7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["R Basic (3)", "Date & Time objects", "Visualization"],
+      "readings": ["Required: Lecture Notes L3", "Optional: The Art of R Prog. Ch.12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["R Basic (4)", "Packages: quant mod"],
+      "readings": ["Required: Lecture Notes L4", "Optional: A Intro. to Anal. of Fina. Ch.1.1"],
+      "assignments": ["Assignment #1"],
+      "due_dates": ["Week 4"]
+    },
+    "week5": {
+      "topics": ["Stats in R (1)", "Generating Random Variables", "Discrete distribution & Sampling"],
+      "readings": ["Required: Lecture Notes L5", "Optional: The Art of R Prog. Ch.8"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Stats in R (2)", "Returns & Moments"],
+      "readings": ["Required: Lecture Notes L6", "Optional: A Intro. to Anal. of Fina. Ch.1.1", "Optional: Intro. to Prac. of Stat. Ch.1"],
+      "assignments": ["Assignment #2"],
+      "due_dates": ["Week 6"]
+    },
+    "week7": {
+      "topics": ["Stats in R (3)", "Linear regression", "Stepwise selection"],
+      "readings": ["Required: Lecture Notes L7", "Optional: Intro. to Prac. of Stat. Ch.2", "Optional: L7_supplement.pdf"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Numerical method in R (1)", "Bisection method & Newton's Method", "Gradient Descent"],
+      "readings": ["Required: Lecture Notes L8", "Optional: A Intro. to Anal. of Fina. Ch.1.2"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Numerical method in R (2)", "BS Model & Implied Volatility"],
+      "readings": ["Required: Lecture Notes L9", "Optional: A Intro. to Anal. of Fina. Ch.1.3"],
+      "assignments": ["Midterm"],
+      "due_dates": ["Week 10"]
+    },
+    "week11": {
+      "topics": ["Numerical method in R (3)", "Monte-Carlo Simulation"],
+      "readings": ["Required: Lecture Notes 10"],
+      "assignments": ["Assignment #3"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Numerical method in R (4)", "Optimization in R"],
+      "readings": ["Required: Lecture Notes 11", "Optional: Optimization in R.pdf"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Numerical method in R (5)", "Interpolation", "Numerical integration"],
+      "readings": ["Required: Lecture Notes 12"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week14": {
+      "topics": ["R-markdown and Basic LaTeX", "Review Midterm and Assignment 3-4"],
+      "readings": [],
+      "assignments": ["Assignment #4"],
+      "due_dates": ["Week 14"]
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "3%",
+      "assignments": "30%",
+      "exams": "70%",
+      "projects": "",
+      "quizzes": "",
+      "final": "40%"
+    },
+    "scale": "",
+    "policies": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "Assignment #1",
+      "description": "Due in Week 4"
+    },
+    {
+      "name": "Assignment #2",
+      "description": "Due in Week 6"
+    },
+    {
+      "name": "Assignment #3",
+      "description": "Due in Week 11"
+    },
+    {
+      "name": "Assignment #4",
+      "description": "Due in Week 14"
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is not mandatory and will not be counted in the final grade.",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "Any plagiarism or other form of cheating will be dealt with under relevant Stevens policies.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    "Midterm due in Week 10",
+    "Final due in Week 14"
+  ],
+  "additional_info": {
+    "course_format": "fully online",
+    "technology_requirements": "Access the course at stevens.edu/canvas.",
+    "support_resources": "Contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:18:18.931788",
+    "pdf_source": "../StevensCourses\\FE515_WS_syllabus 2024F.pdf",
+    "source_type": "file",
+    "text_length": 18957,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Introduction to R-WS",
+      "code": "FE-515",
+      "credits": "",
+      "semester": "Fall",
+      "year": "2023",
+      "instructor": {
+        "name": "Beichen Zhang",
+        "email": "bzhang61@stevens.edu",
+        "office_hours": "Wednesday 2:00-4:00pm, EST",
+        "contact_info": ""
+      }
+    },
+    "course_description": "This course aims at helping students from Financial Engineering and Financial Analytics with core courses study.",
+    "learning_outcomes": [
+      "Use the basic syntax in R: if-else statement, loops, self-defined functions, etc.",
+      "Generate plots for analyzing data (e.g. scatter plot, bar plot, box plot).",
+      "Use data downloading packages to download stock and option data, read and write the date into .csv file.",
+      "Construct linear model for prediction and use stepwise regression for model selection.",
+      "Apply root finding methods (to calculate yield of bonds or implied volatility of options).",
+      "Generate random number for simulation (e.g. Monte-Carlo simulation for Black Scholes Model).",
+      "Solve optimization problems with R packages (e.g. Quadratic programming for Portfolio optimization).",
+      "Interpolate data (e.g. Interpolate yield curve).",
+      "Numerical integration (e.g. Calculate option price with numerical integration)."
+    ],
+    "learning_outcomes_count": 9,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "textbooks": [
+    {
+      "title": "Python for Data Analysis",
+      "author": "Wes McKinney",
+      "edition": "2012",
+      "ISBN": "978-1-449-31979-3"
+    },
+    {
+      "title": "Python for Informatics",
+      "author": "Charles Severance [Dr. Chuck]",
+      "edition": "2011",
+      "ISBN": "N/A"
+    }
+  ],
+  "course_schedule": {
+    "week1": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week2": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week3": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week4": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week5": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week6": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week7": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week8": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week9": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week10": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week11": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week12": {"topics": [], "readings": [], "assignments": [], "due_dates": []},
+    "week13": {"topics": [], "readings": [], "assignments": [], "due_dates": []}
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "3%",
+      "assignments": "54%",
+      "exams": "17%",
+      "projects": "26%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late assignments/programs/projects lose 20% after due date/time, 50% after 24 hours, receive a zero after 48 hours."
+  },
+  "assignments": [],
+  "policies": {
+    "attendance": "You are expected to attend every class and be on time. You must bring your computer to class.",
+    "late_work": "Late assignments/programs/projects lose 20% after due date/time, 50% after 24 hours, receive a zero after 48 hours.",
+    "academic_integrity": "Cheating of any kind – including 'code sharing' between students - will result in a zero grade for the assignment and could also be subject to other Stevens academic penalties.",
+    "accommodations": ""
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "",
+    "technology_requirements": "Python 3.6.n or 3.7.n, PyCharm or any other Python IDE or plain text editor + terminal.",
+    "support_resources": ""
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T10:13:05.099049",
+    "pdf_source": "../StevensCourses\\EM624_Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 4678,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Informatics for Engineering Management",
+      "code": "EM 624",
+      "credits": "",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Dr. Carlo Lipizzi",
+        "email": "clipizzi@stevens.edu",
+        "office_hours": "",
+        "contact_info": ""
+      }
+    },
+    "course_description": "",
+    "learning_outcomes": [
+      "Design and carry out an analysis of data files.",
+      "Use Python and tools in the Python libraries to manipulate and analyze data.",
+      "Analyze a variety of types of information used in today’s business environment.",
+      "Describe the role of software development in today’s business environment."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [],
+    "prerequisites_count": 0,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

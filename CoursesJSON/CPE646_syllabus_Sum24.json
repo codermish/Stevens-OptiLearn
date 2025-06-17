@@ -1,0 +1,185 @@
+{
+  "textbooks": [
+    {
+      "title": "Pattern Classification",
+      "author": "Richard O. Duda, Peter E. Hart, David G. Stork",
+      "edition": "Second Edition",
+      "ISBN": "0-471-05669-3"
+    },
+    {
+      "title": "Computer Manual in MATLAB to Accompany Pattern Classification",
+      "author": "David G. Stork, Elad Yom-Tov",
+      "edition": "2nd Edition",
+      "ISBN": "0-471-42977-5"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction"],
+      "readings": ["CPE646-1"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Bayesian Decision Theory"],
+      "readings": ["CPE646-2"],
+      "assignments": ["HW 1"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Normal Density, Discriminant Functions"],
+      "readings": ["CPE646-3"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Maximum-likelihood Estimation"],
+      "readings": ["CPE646-4"],
+      "assignments": ["HW 2"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["Bayesian Parameter Estimation"],
+      "readings": ["CPE646-4"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Component Analysis"],
+      "readings": ["CPE646-5"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Expectation-Maximization and HMM"],
+      "readings": ["CPE646-6"],
+      "assignments": ["HW 3"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Midterm Exam"],
+      "readings": [],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Parzen Window Estimation"],
+      "readings": ["CPE646-7"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["K Nearest-Neighbor Estimation"],
+      "readings": ["CPE646-8"],
+      "assignments": ["HW 4"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Generalized Linear Discriminant Functions"],
+      "readings": ["CPE646-9"],
+      "assignments": [],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Multilayer Neural Networks"],
+      "readings": ["CPE646-10"],
+      "assignments": ["HW 5"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Unsupervised Learning", "Project Presentation"],
+      "readings": ["CPE646-11"],
+      "assignments": [],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "",
+      "assignments": "20%",
+      "exams": "40%",
+      "projects": "40%",
+      "quizzes": "",
+      "final": ""
+    },
+    "scale": "",
+    "policies": "Late Policy: 20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points."
+  },
+  "assignments": [
+    {
+      "name": "HW 1",
+      "description": "Assignment related to Bayesian Decision Theory."
+    },
+    {
+      "name": "HW 2",
+      "description": "Assignment related to Maximum-likelihood Estimation."
+    },
+    {
+      "name": "HW 3",
+      "description": "Assignment related to Expectation-Maximization and HMM."
+    },
+    {
+      "name": "HW 4",
+      "description": "Assignment related to K Nearest-Neighbor Estimation."
+    },
+    {
+      "name": "HW 5",
+      "description": "Assignment related to Multilayer Neural Networks."
+    }
+  ],
+  "policies": {
+    "attendance": "Attendance is required and will be recorded. Excused absences can be granted with proper documentation.",
+    "late_work": "20% of the total points will be deducted for assignments received 1-6 days late; assignments received more than 1 week late will receive 0 points.",
+    "academic_integrity": "Students are bound by the Graduate Student Code of Academic Integrity.",
+    "accommodations": "Stevens Institute of Technology provides appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [
+    {
+      "event": "Midterm Exam",
+      "date": "July 9"
+    },
+    {
+      "event": "Project Presentation",
+      "date": "August 20"
+    }
+  ],
+  "additional_info": {
+    "course_format": "This is an online lecture based course. New lectures will be posted once per week.",
+    "technology_requirements": "",
+    "support_resources": "Office of Counseling and Psychological Services (CAPS) offers free and confidential services."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:45:14.991829",
+    "pdf_source": "../StevensCourses\\CPE646_syllabus_Sum24.pdf",
+    "source_type": "file",
+    "text_length": 12444,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Pattern Recognition and Classification",
+      "code": "CpE 646",
+      "credits": "",
+      "semester": "Summer",
+      "year": "2024",
+      "instructor": {
+        "name": "Hong Man",
+        "email": "hman@stevens.edu",
+        "office_hours": "Canvas Discussions",
+        "contact_info": ""
+      }
+    },
+    "course_description": "Introduction and general pattern recognition concerns, statistical pattern recognition, supervised learning, unsupervised learning, syntactic pattern recognition, neural pattern recognition.",
+    "learning_outcomes": [
+      "Apply mathematical principles such as linear algebra, probabilities and statistics.",
+      "Understand the components in common pattern recognition systems and the stages in system design cycle.",
+      "Analyze a practical pattern recognition problem, provide an effective system solution, and assess the expected system performance.",
+      "Implement pattern recognition system or component using computer language (e.g. C/C++, python) or software (e.g. Matlab)."
+    ],
+    "learning_outcomes_count": 4,
+    "prerequisites": [
+      "Probability and statistics (EE 605 or equivalent)"
+    ],
+    "prerequisites_count": 1,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "textbooks": [
+    {
+      "title": "Think Python: How to think like a computer scientist",
+      "author": "Downey, A. B.",
+      "edition": "Version 2.4.0",
+      "publisher": "Green Tea Press",
+      "year": "2015"
+    },
+    {
+      "title": "Introduction to data mining",
+      "author": "Tan, P. N., Steinbach, M., Karpatne, A., & Kumar, V.",
+      "edition": "2nd ed.",
+      "publisher": "Pearson Education",
+      "year": "2019"
+    },
+    {
+      "title": "Personalized Machine Learning",
+      "author": "McAuley, J.",
+      "publisher": "Cambridge University Press",
+      "year": "2022"
+    }
+  ],
+  "course_schedule": {
+    "week1": {
+      "topics": ["Introduction to Python"],
+      "readings": [
+        "Think Python 2e, Chapters 1, 2, 5, 7-12, 14.5, 19.2",
+        "Learn Python 3 | Codecademy, Section 3 and 9"
+      ],
+      "assignments": ["Quiz on Python", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week2": {
+      "topics": ["Introduction to Pandas"],
+      "readings": [
+        "User Guide — pandas 1.5.3 documentation",
+        "10 minutes to pandas — pandas 1.5.3 documentation"
+      ],
+      "assignments": ["Quiz on Pandas", "Start Project 1", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week3": {
+      "topics": ["Exploratory Data Analysis"],
+      "readings": [
+        "Python Exploratory Data Analysis Tutorial",
+        "Detailed exploratory data analysis with python | Kaggle",
+        "PyViz: Simplifying the Data Visualisation process in Python.",
+        "Python Visualization",
+        "Linear Regression with Python | Connor Johnson"
+      ],
+      "assignments": ["Continue Project 1", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week4": {
+      "topics": ["Beautiful Soup"],
+      "readings": [
+        "How To Scrape Web Pages with Beautiful Soup and Python 3 | DigitalOcean",
+        "Beautiful Soup 4.12.0 documentation",
+        "Automate the Boring Stuff with Python by Al Sweigart, Chapter 12",
+        "CSS Selectors Reference",
+        "Beautiful Soup: Build a Web Scraper With Python"
+      ],
+      "assignments": ["Submit Project 1", "Start Project 2", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week5": {
+      "topics": ["String Processing, Regular Expressions, and MongoDB"],
+      "readings": [
+        "String Manipulation in Python - PythonForBeginners.com",
+        "Strings and Character Data in Python",
+        "Python String Methods: The Ultimate Guide - DataCamp",
+        "Python - Regular Expressions",
+        "Python Regular Expressions | Python Education | Google Developers",
+        "Datacamp: Python Regular Expression Tutorial",
+        "Python RegEx"
+      ],
+      "assignments": ["Submit Project 2", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week6": {
+      "topics": ["Using Association and Collaborative Filtering for Recommender Systems"],
+      "readings": [
+        "Collaborative Filtering - ML - GeeksforGeeks",
+        "\"Personalized Machine Learning\". Section 4.3",
+        "Apriori Algorithm - GeeksforGeeks",
+        "The Elements of Statistical Learning (Chapter 14.2)"
+      ],
+      "assignments": ["Start Project 3", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week7": {
+      "topics": ["Selenium"],
+      "readings": [
+        "2. Getting Started — Selenium Python Bindings 2 documentation",
+        "Web Scraping using Selenium and Python | ScrapingBee",
+        "Getting started | Selenium",
+        "Action Class in Selenium – Mouse Click & Keyboard Events"
+      ],
+      "assignments": ["Continue Project 3", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week8": {
+      "topics": ["Clustering"],
+      "readings": [
+        "Cluster Analysis: Basic Concepts and Algorithms, Chapter 8.1, 8.2, 8.3, 8.5",
+        "Infolab.Stanford: Chapter 7.2 and 7.3 - Clustering",
+        "Text Clustering, K-Means, Gaussian Mixture Models, Expectation- Maximization, Hierarchical Clustering Slides 1–58",
+        "Different Types of Clustering Algorithm - GeeksforGeeks",
+        "The Elements of Statistical Learning, Chapter 13.2",
+        "Agglomerative Hierarchical Clustering in Python with Scikit-Learn",
+        "2.1. Gaussian mixture models — scikit-learn 1.2.2 documentation",
+        "Gaussian Mixture Models Explained | by Oscar Contreras Carrasco | Towards Data Science",
+        "The Elements of Statistical Learning (Sections 7.3–7.5)"
+      ],
+      "assignments": ["Continue Project 3", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week9": {
+      "topics": ["Categorization"],
+      "readings": [
+        "The Elements of Statistical Learning Chapters 2, 3.4, 4.4, 7.2",
+        "James Stein’s Estimator",
+        "Stein’s Paradox in Statistics"
+      ],
+      "assignments": ["Submit Project 3", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week10": {
+      "topics": ["Natural Language Processing I"],
+      "readings": [
+        "5 Simple Ways to Tokenize Text in Python",
+        "Lemmatization with NLTK",
+        "Sentiment Analysis Tools Overview, Part 1. Positive and Negative Words Databases, The Medium",
+        "To Scale or Not to Scale: Comparing Popular Sentiment Analysis Dictionaries on Educational Twitter Data"
+      ],
+      "assignments": ["Start Project 4", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week11": {
+      "topics": ["Natural Language Processing II"],
+      "readings": [
+        "spaCy Tutorial - Complete Guide - NLP FOR HACKERS",
+        "Understanding TF-IDF for Machine Learning | Capital One"
+      ],
+      "assignments": ["Continue Project 4", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week12": {
+      "topics": ["Topic Modelling"],
+      "readings": [
+        "What is the expectation maximization algorithm?",
+        "Latent Dirichlet Allocation",
+        "Probabilistic Topic Models",
+        "Your Guide to Latent Dirichlet Allocation | by Lettier | Medium",
+        "Topic Modeling of Earnings Calls Using Latent Dirichlet Allocation (LDA): Efficient Topic Extraction - HDS",
+        "Intuition behind Latent Dirichlet Allocation (LDA) for Topic Modeling"
+      ],
+      "assignments": ["Continue Project 4", "Live Session Pre-work Activity"],
+      "due_dates": []
+    },
+    "week13": {
+      "topics": ["Showcase of Project Presentations"],
+      "readings": [],
+      "assignments": ["Submit Project 4", "Live Session Pre-work Activity"],
+      "due_dates": []
+    }
+  },
+  "grading": {
+    "breakdown": {
+      "participation": "10%",
+      "assignments": "",
+      "exams": "0%",
+      "projects": "75%",
+      "quizzes": "15%",
+      "final": ""
+    },
+    "scale": "",
+    "policies": ""
+  },
+  "assignments": [
+    {
+      "name": "Quiz on Python",
+      "description": "Assessment of knowledge in Python."
+    },
+    {
+      "name": "Quiz on Pandas",
+      "description": "Assessment of knowledge in Pandas."
+    },
+    {
+      "name": "Project 1",
+      "description": "Group project involving web scraping and data analysis."
+    },
+    {
+      "name": "Project 2",
+      "description": "Continuation of web scraping and data analysis."
+    },
+    {
+      "name": "Project 3",
+      "description": "Advanced project involving collaborative filtering."
+    },
+    {
+      "name": "Project 4",
+      "description": "Final project showcasing all learned techniques."
+    }
+  ],
+  "policies": {
+    "attendance": "Full participation in live sessions means showing up on time, being prepared and attentive, and participating in any activities or group discussions.",
+    "late_work": "Assignments received 1-6 days late will have 20% of the total points deducted; assignments received more than one week late will receive 0 points.",
+    "academic_integrity": "Students are expected to comply with the University’s Academic Integrity Policy. Individuals caught cheating will face disciplinary actions from the university.",
+    "accommodations": "Stevens Institute of Technology is dedicated to providing appropriate accommodations to students with documented disabilities."
+  },
+  "important_dates": [],
+  "additional_info": {
+    "course_format": "This course is fully online.",
+    "technology_requirements": "Basic computer and web-browsing skills, navigating Canvas, live web conferencing using Zoom, recording a slide presentation with audio narration.",
+    "support_resources": "For more information about course access or support, contact the Technology Resource and Assistance Center (TRAC) by calling 201-216-5500."
+  },
+  "_metadata": {
+    "extraction_date": "2025-06-17T09:30:57.121524",
+    "pdf_source": "../StevensCourses\\BIA 660 Syllabus.pdf",
+    "source_type": "file",
+    "text_length": 18446,
+    "model_used": "gpt-4o-mini",
+    "course_info": {
+      "title": "Web Mining",
+      "code": "BIA660",
+      "credits": "3",
+      "semester": "",
+      "year": "",
+      "instructor": {
+        "name": "Jordan Low",
+        "email": "jlow1@stevens.edu",
+        "office_hours": "Listed on course homepage",
+        "contact_info": ""
+      }
+    },
+    "course_description": "In this course, students will learn through hands-on experience how to extract data from the web and analyze web-scale data using distributed computing.",
+    "learning_outcomes": [
+      "Identify and profile candidate sources of valuable data",
+      "Automatically collect and manage the information needed for analytics tasks",
+      "Apply a wide range of both quantitative and qualitative analytics techniques to applications across multiple business domains"
+    ],
+    "learning_outcomes_count": 3,
+    "prerequisites": [
+      "Some programming experience",
+      "Multivariate Data Analytics (BIA 652)",
+      "Data & Knowledge Management (MIS 630)",
+      "Knowledge Discovery in Databases (MIS 637)"
+    ],
+    "prerequisites_count": 4,
+    "corequisites": [],
+    "corequisites_count": 0
+  }
+}
