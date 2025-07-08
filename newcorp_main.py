@@ -1432,7 +1432,6 @@ elif st.session_state.logged_in and st.session_state.current_step == 4:
         st.session_state.input_method = None
     
     # Input method selection with burgundy buttons
-    st.markdown("**Choose your preferred input method:**")
     st.markdown("<br>", unsafe_allow_html=True)
     
     col1, col2 = st.columns(2)
