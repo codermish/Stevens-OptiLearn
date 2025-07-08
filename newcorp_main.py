@@ -22,6 +22,8 @@ from reportlab.lib.units import inch
 
 # Page setup
 st.set_page_config(page_title="Stevens OptiLearn", layout="wide", initial_sidebar_state="collapsed")
+OPENAI_KEY = st.secrets["openai"]["api_key"]
+api_key = openai_client = OpenAI(api_key=OPENAI_KEY)
 
 # Enhanced CSS Styling with Stevens Institute of Technology branding
 st.markdown("""
@@ -1246,13 +1248,12 @@ if not st.session_state.logged_in:
     with col2:
         user_id = st.text_input("User ID", placeholder="Enter your Stevens corporate ID")
         password = st.text_input("Password", type="password", placeholder="Enter your password")
-        api_key = "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"
         
         if st.button("Login"):
             if user_id in USER_CREDENTIALS and USER_CREDENTIALS[user_id] == password:
                 st.session_state.logged_in = True
                 st.session_state.current_step = 2
-                if api_key: st.session_state.openai_api_key = api_key
+                st.session_state.openai_api_key = OPENAI_KEY        
                 st.success("Login successful!")
                 st.rerun()
             else:
