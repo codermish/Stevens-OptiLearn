@@ -23,7 +23,7 @@ from reportlab.lib.units import inch
 # Page setup
 st.set_page_config(page_title="Stevens OptiLearn", layout="wide", initial_sidebar_state="collapsed")
 OPENAI_KEY = st.secrets["openai"]["api_key"]
-api_key = openai_client = OpenAI(api_key=OPENAI_KEY)
+openai_client = OpenAI(api_key=OPENAI_KEY)
 
 # Enhanced CSS Styling with Stevens Institute of Technology branding
 st.markdown("""
