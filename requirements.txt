@@ -4,3 +4,9 @@ pymongo
 numpy
 scikit-learn
 reportlab
+streamlit
+pandas
+numpy
+scikit-learn
+openai
+pymongo
