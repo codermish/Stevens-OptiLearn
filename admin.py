@@ -7,6 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from bson import ObjectId
 import json
+import io
 
 # MongoDB Configuration
 MONGO_URI = "mongodb+srv://codermishyt:tQk0U81QVvktb5s4@optilearn.vu626pu.mongodb.net/?retryWrites=true&w=majority&tlsAllowInvalidCertificates=true"
@@ -168,7 +169,7 @@ def show_company_detail(company_data):
     company_name = company_data.get('company_name', 'Unknown Company')
     st.markdown(f"""
     <div class="company-detail-header">
-        <h1> {company_name}</h1>
+        <h1>🏢 {company_name}</h1>
         <p>Learning recommendations and proposal generation</p>
     </div>
     """, unsafe_allow_html=True)
@@ -203,7 +204,7 @@ def show_company_detail(company_data):
     
     with col1:
         if course_recs:
-            if st.button(f" View Courses ({len(course_recs)})", key="view_courses"):
+            if st.button(f"📚 View Courses ({len(course_recs)})", key="view_courses"):
                 st.session_state.current_view = "courses"
                 st.rerun()
         else:
@@ -255,7 +256,7 @@ def show_company_detail(company_data):
                     Match: {similarity:.1%}
                     """)
 
-# Proposal Generator - NEW FUNCTIONALITY
+# UPDATED Proposal Generator - More Professional and Clean
 def show_proposal_generator(company_data):
     st.markdown("""
     <style>
@@ -341,6 +342,15 @@ def show_proposal_generator(company_data):
         padding: 1.5rem;
         margin: 2rem 0;
     }
+    .course-description {
+        background: #f8f9fa;
+        padding: 0.75rem;
+        border-radius: 6px;
+        margin: 0.5rem 0;
+        font-size: 0.9rem;
+        color: #555;
+        border-left: 3px solid #800020;
+    }
     </style>
     """, unsafe_allow_html=True)
     
@@ -367,8 +377,8 @@ def show_proposal_generator(company_data):
     company_name = company_data.get('company_name', 'Unknown Company')
     st.markdown(f"""
     <div class="proposal-header">
-        <h1>Create Proposal</h1>
-        <p>Design a customized learning proposal for {company_name}</p>
+        <h1>Create Professional Learning Proposal</h1>
+        <p>Design a customized educational pathway for {company_name}</p>
     </div>
     """, unsafe_allow_html=True)
     
@@ -402,13 +412,14 @@ def show_proposal_generator(company_data):
     col1, col2 = st.columns(2)
     
     with col1:
-        st.markdown("##  Available Courses")
+        st.markdown("## 📚 Available Courses")
         if course_recs:
             for i, course in enumerate(course_recs):
                 course_id = f"course_{i}"
                 course_name = course.get('course_name', 'Unknown Course')
                 course_code = course.get('course_code', 'N/A')
                 similarity = parse_mongo_number(course.get('similarity_score', 0))
+                description = course.get('description', 'Professional development course designed to enhance key competencies.')
                 
                 # Check if this course is selected
                 is_selected = course_id in st.session_state.selected_courses
@@ -437,7 +448,7 @@ def show_proposal_generator(company_data):
                     update_credits()  # Update immediately
                     st.rerun()  # Refresh UI
                 
-                # Display course info
+                # Display course info with description
                 with st.container():
                     st.markdown(f"""
                     <div class="item-card {card_class}">
@@ -446,16 +457,24 @@ def show_proposal_generator(company_data):
                         <p><strong>Credits:</strong> 3</p>
                     </div>
                     """, unsafe_allow_html=True)
+                    
+                    # Show description
+                    st.markdown(f"""
+                    <div class="course-description">
+                        <strong>Description:</strong> {description[:150]}{'...' if len(description) > 150 else ''}
+                    </div>
+                    """, unsafe_allow_html=True)
         else:
             st.info("No courses available for this company.")
     
     with col2:
-        st.markdown("##  Available Certificates")
+        st.markdown("## 🏆 Available Certificates")
         if cert_recs:
             for i, cert in enumerate(cert_recs):
                 cert_id = f"cert_{i}"
                 cert_name = cert.get('course_name', 'Unknown Certificate')
                 similarity = parse_mongo_number(cert.get('similarity_score', 0))
+                description = cert.get('course_description', 'Specialized certificate program designed to develop advanced professional skills.')
                 
                 # Check if this certificate is selected
                 is_selected = cert_id in st.session_state.selected_certificates
@@ -484,12 +503,19 @@ def show_proposal_generator(company_data):
                     update_credits()  # Update immediately
                     st.rerun()  # Refresh UI
                 
-                # Display certificate info
+                # Display certificate info with description
                 with st.container():
                     st.markdown(f"""
                     <div class="item-card {card_class}">
                         <p><strong>Match:</strong> {similarity:.1%}</p>
                         <p><strong>Credits:</strong> 3</p>
+                    </div>
+                    """, unsafe_allow_html=True)
+                    
+                    # Show description
+                    st.markdown(f"""
+                    <div class="course-description">
+                        <strong>Description:</strong> {description[:150]}{'...' if len(description) > 150 else ''}
                     </div>
                     """, unsafe_allow_html=True)
         else:
@@ -527,19 +553,26 @@ def show_proposal_generator(company_data):
         </div>
         """, unsafe_allow_html=True)
         
-        # Display selected items
+        # Display selected items with descriptions
         if selected_course_details:
             st.markdown("### Selected Courses:")
             for course in selected_course_details:
-                st.markdown(f"• **{course.get('course_name', 'Unknown')}** ({course.get('course_code', 'N/A')}) - 3 credits")
+                course_name = course.get('course_name', 'Unknown')
+                course_code = course.get('course_code', 'N/A')
+                description = course.get('description', 'Professional development course.')
+                st.markdown(f"• **{course_name}** ({course_code}) - 3 credits")
+                st.markdown(f"  _{description[:100]}{'...' if len(description) > 100 else ''}_")
         
         if selected_cert_details:
             st.markdown("### Selected Certificates:")
             for cert in selected_cert_details:
-                st.markdown(f"• **{cert.get('course_name', 'Unknown')}** - 3 credits")
+                cert_name = cert.get('course_name', 'Unknown')
+                description = cert.get('course_description', 'Professional certificate program.')
+                st.markdown(f"• **{cert_name}** - 3 credits")
+                st.markdown(f"  _{description[:100]}{'...' if len(description) > 100 else ''}_")
         
         # Action buttons
-        col1, col2, col3 = st.columns(3)
+        col1, col2 = st.columns(2)
         
         with col1:
             if st.button("🗑️ Clear All", key="clear_all"):
@@ -551,33 +584,30 @@ def show_proposal_generator(company_data):
         
         with col2:
             if current_credits <= max_credits:
-                if st.button("📄 Generate Stevens Proposal", key="generate_proposal"):
-                    st.success("✅ Proposal generated successfully!")
+                if st.button("📄 Generate Professional Proposal", key="generate_proposal"):
+                    st.success("✅ Professional proposal generated successfully!")
                     
                     # Show proposal preview with Stevens styling
                     st.markdown(f"""
                     <div style="background: white; padding: 2rem; border-radius: 15px; border: 2px solid #800020; margin: 1rem 0;">
-                        <div style="display: flex; align-items: center; margin-bottom: 2rem;">
-                            <img src="https://www.siecindia.com/images/university-logo/stevens.webp" style="height: 80px; margin-right: 2rem;">
-                            <div>
-                                <h1 style="color: #800020; margin: 0; font-size: 1.8rem;">Stevens × {company_name} | Professional Education</h1>
-                                <p style="color: #666666; margin: 0.5rem 0;">College of Professional Education</p>
-                            </div>
+                        <div style="text-align: center; margin-bottom: 2rem; padding: 1rem; background: #f8f9fa; border-radius: 10px; border: 2px solid #800020;">
+                            <div style="font-size: 1.8rem; font-weight: bold; color: #800020; margin-bottom: 0.5rem;">🎓 STEVENS INSTITUTE OF TECHNOLOGY</div>
+                            <div style="font-size: 1.2rem; color: #666666; margin-bottom: 1rem;">College of Professional Education</div>
+                            <div style="font-size: 1.4rem; font-weight: bold; color: #800020;">Stevens Professional Education Partnership</div>
+                            <div style="color: #666666; margin-top: 0.5rem;">Customized Learning Solutions for {company_name}</div>
                         </div>
-                    
                     </div>
                     """, unsafe_allow_html=True)
                     
-                    # Generate PDF
+                    # Generate PDF with professional structure (no degree section)
                     try:
+                        import requests
                         from reportlab.lib.pagesizes import letter, A4
-                        from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image, Table, TableStyle
+                        from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
                         from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
                         from reportlab.lib.units import inch
                         from reportlab.lib import colors
                         from reportlab.lib.enums import TA_LEFT, TA_CENTER
-                        import io
-                        import requests
                         
                         # Create PDF buffer
                         buffer = io.BytesIO()
@@ -593,8 +623,8 @@ def show_proposal_generator(company_data):
                         stevens_title = ParagraphStyle(
                             'StevensTitle',
                             parent=styles['Heading1'],
-                            fontSize=20,
-                            textColor=colors.Color(0.5, 0, 0.125),  # Stevens burgundy
+                            fontSize=22,
+                            textColor=colors.Color(0.5, 0, 0.125),
                             spaceAfter=12,
                             alignment=TA_LEFT
                         )
@@ -602,7 +632,7 @@ def show_proposal_generator(company_data):
                         stevens_subtitle = ParagraphStyle(
                             'StevensSubtitle',
                             parent=styles['Normal'],
-                            fontSize=12,
+                            fontSize=14,
                             textColor=colors.grey,
                             spaceAfter=20,
                             alignment=TA_LEFT
@@ -637,131 +667,109 @@ def show_proposal_generator(company_data):
                             alignment=TA_LEFT
                         )
                         
+                        course_detail_style = ParagraphStyle(
+                            'CourseDetailStyle',
+                            parent=styles['Normal'],
+                            fontSize=10,
+                            leftIndent=30,
+                            spaceAfter=4,
+                            textColor=colors.Color(0.3, 0.3, 0.3),
+                            alignment=TA_LEFT
+                        )
+                        
                         highlight_style = ParagraphStyle(
                             'HighlightStyle',
                             parent=styles['Normal'],
-                            fontSize=11,
+                            fontSize=12,
                             textColor=colors.Color(0.5, 0, 0.125),
-                            backColor=colors.Color(1, 0.96, 0.8),
+                            backColor=colors.Color(1, 0.98, 0.9),
                             borderColor=colors.Color(0.5, 0, 0.125),
                             borderWidth=1,
-                            borderPadding=10,
+                            borderPadding=15,
                             spaceBefore=15,
                             spaceAfter=15,
                             alignment=TA_LEFT
                         )
                         
-                        # Try to download and add Stevens logo
-                        try:
-                            logo_response = requests.get("https://www.siecindia.com/images/university-logo/stevens.webp", timeout=10)
-                            if logo_response.status_code == 200:
-                                logo_buffer = io.BytesIO(logo_response.content)
-                                logo = Image(logo_buffer, width=1.5*inch, height=1*inch)
-                                
-                                # Create header table with logo and title
-                                header_data = [
-                                    [logo, Paragraph(f"Stevens × {company_name} | Professional Education", stevens_title)],
-                                    ["", Paragraph("College of Professional Education", stevens_subtitle)]
-                                ]
-                                
-                                header_table = Table(header_data, colWidths=[2*inch, 4.5*inch])
-                                header_table.setStyle(TableStyle([
-                                    ('ALIGN', (0, 0), (0, -1), 'LEFT'),
-                                    ('ALIGN', (1, 0), (1, -1), 'LEFT'),
-                                    ('VALIGN', (0, 0), (-1, -1), 'MIDDLE'),
-                                    ('LEFTPADDING', (0, 0), (-1, -1), 0),
-                                    ('RIGHTPADDING', (0, 0), (-1, -1), 0),
-                                    ('TOPPADDING', (0, 0), (-1, -1), 0),
-                                    ('BOTTOMPADDING', (0, 0), (-1, -1), 0),
-                                    ('LINEBELOW', (0, -1), (-1, -1), 3, colors.Color(0.5, 0, 0.125)),
-                                ]))
-                                story.append(header_table)
-                            else:
-                                # Fallback without logo
-                                story.append(Paragraph(f"Stevens × {company_name} | Professional Education", stevens_title))
-                                story.append(Paragraph("College of Professional Education", stevens_subtitle))
-                        except:
-                            # Fallback without logo if download fails
-                            story.append(Paragraph(f"Stevens × {company_name} | Professional Education", stevens_title))
-                            story.append(Paragraph("College of Professional Education", stevens_subtitle))
-                        
+                        # Header
+                        story.append(Paragraph("Stevens Professional Education Partnership", stevens_title))
+                        story.append(Paragraph(f"Customized Learning Solutions for {company_name}", stevens_subtitle))
                         story.append(Spacer(1, 20))
                         
-                        # Introduction
-                        intro_text = f"""Stevens Institute of Technology, through its College of Professional Education (CPE), 
-                        can partner with {company_name} with accredited graduate programs that map to near-term skill priorities."""
-                        story.append(Paragraph(intro_text, highlight_style))
+                        # Executive Summary
+                        executive_summary = f"""Stevens Institute of Technology's College of Professional Education presents a tailored learning solution for {company_name}. This proposal outlines a comprehensive educational pathway designed to enhance your organization's capabilities through targeted skill development in key areas aligned with your industry requirements."""
+                        story.append(Paragraph("Executive Summary", stevens_heading))
+                        story.append(Paragraph(executive_summary, highlight_style))
                         story.append(Spacer(1, 20))
                         
-                        # Section A: Graduate Degree Programs
-                        story.append(Paragraph("A. Graduate Degree Programs", stevens_heading))
+                        # Recommended Learning Path
+                        story.append(Paragraph("Recommended Learning Path", stevens_heading))
                         
-                        degree_programs = [
-                            "M.Eng. Electrical Engineering (Power & Smart Grid Concentration) – grid planning, protection, DER integration",
-                            "M.S. Sustainability Management – renewable generation, ESG analytics",
-                            "M.S. Data Science – machine learning, predictive maintenance analytics",
-                            "M.Eng. Engineering Management – tech-centric leadership, operations strategy",
-                            "M.S. Applied Artificial Intelligence – enterprise AI design & deployment",
-                            "MBA (Tech & Analytics Focus) – strategic leadership, digital operations, data-driven decision-making"
-                        ]
-                        
-                        for program in degree_programs:
-                            story.append(Paragraph(f"• {program}", bullet_style))
-                        
-                        story.append(Spacer(1, 20))
-                        
-                        # Section B: Graduate Certificates
-                        story.append(Paragraph("B. Graduate Certificates (3 credits each)", stevens_heading))
-                        
-                        # STEM & Technical Systems
+                        # Selected Courses Section
                         if selected_course_details:
-                            story.append(Paragraph("STEM & Technical Systems", stevens_subheading))
+                            story.append(Paragraph("Professional Courses", stevens_subheading))
+                            story.append(Paragraph("The following courses have been selected based on alignment with your organizational needs:", bullet_style))
+                            story.append(Spacer(1, 10))
+                            
                             for course in selected_course_details:
                                 course_name = course.get('course_name', 'Unknown Course')
                                 course_code = course.get('course_code', '')
+                                description = course.get('description', 'Comprehensive professional development course designed to enhance key competencies.')
+                                similarity = parse_mongo_number(course.get('similarity_score', 0))
+                                
                                 if course_code:
-                                    story.append(Paragraph(f"• {course_name} ({course_code})", bullet_style))
+                                    story.append(Paragraph(f"<b>{course_name} ({course_code})</b> - 3 Credits", bullet_style))
                                 else:
-                                    story.append(Paragraph(f"• {course_name}", bullet_style))
+                                    story.append(Paragraph(f"<b>{course_name}</b> - 3 Credits", bullet_style))
+                                
+                                story.append(Paragraph(f"Description: {description}", course_detail_style))
+                                story.append(Paragraph(f"Organizational Match: {similarity:.1%}", course_detail_style))
+                                story.append(Spacer(1, 8))
                         
-                        # Leadership & Operations
+                        # Selected Certificates Section
                         if selected_cert_details:
-                            story.append(Paragraph("Leadership & Operations", stevens_subheading))
+                            story.append(Paragraph("Professional Certificates", stevens_subheading))
+                            story.append(Paragraph("The following certificates provide specialized expertise in targeted areas:", bullet_style))
+                            story.append(Spacer(1, 10))
+                            
                             for cert in selected_cert_details:
                                 cert_name = cert.get('course_name', 'Unknown Certificate')
-                                story.append(Paragraph(f"• {cert_name}", bullet_style))
+                                description = cert.get('course_description', 'Specialized certificate program designed to develop advanced professional skills.')
+                                similarity = parse_mongo_number(cert.get('similarity_score', 0))
+                                
+                                story.append(Paragraph(f"<b>{cert_name}</b> - 3 Credits", bullet_style))
+                                story.append(Paragraph(f"Description: {description}", course_detail_style))
+                                story.append(Paragraph(f"Organizational Match: {similarity:.1%}", course_detail_style))
+                                story.append(Spacer(1, 8))
                         
-                        # Highlight box
+                        # Program Benefits
+                        story.append(Paragraph("Program Benefits", stevens_heading))
                         
-                        # Section 2: Pathway Design
-                        story.append(Paragraph("2. Pathway Design & Scalability", stevens_heading))
-                        
-                        pathway_items = [
-                            f"<b>Stackable Credits:</b> Every certificate equals four graduate courses that can transfer seamlessly into the aligned master's degree program. A {company_name} employee can finish a certificate in 9–12 months and apply all 12 credits toward a 30–36 credit master's program.",
-                            f"<b>Tuition Leverage:</b> {company_name}'s educational benefit can be applied to any Stevens graduate courses across programs each year.",
-                            f"<b>Cohort Customization:</b> With sufficient enrollment volume, Stevens can package dedicated {company_name} cohorts, insert personalized courses and learning pathways.",
-                            f"<b>AI-Driven Course Mapping:</b> Stevens' CPE uses an internal AI engine to match {company_name} role profiles and capability matrices to the optimal sequence of certificates and degree pathways."
+                        benefits = [
+                            f"<b>Stackable Credits:</b> All {current_credits} credits can be applied toward relevant master's degree programs at Stevens.",
+                            f"<b>Professional Recognition:</b> Industry-recognized credentials from a top-tier technological university.",
+                            f"<b>Flexible Delivery:</b> Online and hybrid options to accommodate {company_name}'s scheduling needs.",
+                            f"<b>Expert Faculty:</b> Learn from industry practitioners and academic thought leaders.",
+                            f"<b>Networking Opportunities:</b> Connect with professionals across various industries and specializations."
                         ]
                         
-                        for item in pathway_items:
-                            story.append(Paragraph(f"• {item}", bullet_style))
+                        for benefit in benefits:
+                            story.append(Paragraph(f"• {benefit}", bullet_style))
                         
                         story.append(Spacer(1, 20))
                         
-                        # Section 3: Outcome Summary
-                        story.append(Paragraph("3. Outcome Summary", stevens_heading))
-                        story.append(Paragraph(f"By combining modular certificates with clear degree pathways, Stevens gives {company_name} a low-risk, quick-start route to:", bullet_style))
+                        # Implementation Timeline
+                        story.append(Paragraph("Implementation Timeline", stevens_heading))
                         
-                        outcomes = [
-                            "Upskill engineers in grid modernization, renewables, and data analytics.",
-                            "Scale leadership and operational excellence training for supervisors and managers.",
-                            "Convert ongoing tuition dollars into accredited master's degrees, strengthening retention and internal mobility."
+                        timeline_items = [
+                            "Program customization and enrollment: 2-3 weeks",
+                            f"Course delivery timeline: 9-12 months for {total_items} courses/certificates",
+                            "Ongoing support and progress monitoring throughout the program",
+                            "Certificate completion and credit documentation: Upon successful completion"
                         ]
                         
-                        for outcome in outcomes:
-                            story.append(Paragraph(f"• {outcome}", bullet_style))
-                        
-        
+                        for item in timeline_items:
+                            story.append(Paragraph(f"• {item}", bullet_style))
                         
                         story.append(Spacer(1, 30))
                         
@@ -770,13 +778,14 @@ def show_proposal_generator(company_data):
                             ["Proposal Summary", ""],
                             ["Company:", company_data.get('company_name', 'N/A')],
                             ["Industry:", company_data.get('industry', 'N/A')],
-                            ["Total Credits Selected:", f"{current_credits}/36"],
-                            ["Courses:", str(len(selected_course_details))],
-                            ["Certificates:", str(len(selected_cert_details))],
-                            ["Generated:", datetime.now().strftime("%B %d, %Y")]
+                            ["Total Credits:", f"{current_credits}"],
+                            ["Professional Courses:", str(len(selected_course_details))],
+                            ["Professional Certificates:", str(len(selected_cert_details))],
+                            ["Estimated Duration:", f"{total_items * 3}-{total_items * 4} months"],
+                            ["Proposal Date:", datetime.now().strftime("%B %d, %Y")]
                         ]
                         
-                        summary_table = Table(summary_data, colWidths=[2*inch, 3*inch])
+                        summary_table = Table(summary_data, colWidths=[2.5*inch, 2.5*inch])
                         summary_table.setStyle(TableStyle([
                             ('BACKGROUND', (0, 0), (-1, 0), colors.Color(0.5, 0, 0.125)),
                             ('TEXTCOLOR', (0, 0), (-1, 0), colors.whitesmoke),
@@ -792,6 +801,20 @@ def show_proposal_generator(company_data):
                         ]))
                         story.append(summary_table)
                         
+                        # Next Steps
+                        story.append(Spacer(1, 20))
+                        story.append(Paragraph("Next Steps", stevens_heading))
+                        
+                        next_steps = [
+                            "Review and approve this customized learning proposal",
+                            "Schedule a consultation to discuss implementation details",
+                            "Finalize enrollment and payment arrangements",
+                            "Begin your professional development journey with Stevens"
+                        ]
+                        
+                        for step in next_steps:
+                            story.append(Paragraph(f"• {step}", bullet_style))
+                        
                         # Footer
                         story.append(Spacer(1, 30))
                         footer_style = ParagraphStyle(
@@ -801,8 +824,9 @@ def show_proposal_generator(company_data):
                             textColor=colors.grey,
                             alignment=TA_CENTER
                         )
-                        story.append(Paragraph(f"Stevens × {company_name} | Professional Education", footer_style))
                         story.append(Paragraph("Stevens Institute of Technology - College of Professional Education", footer_style))
+                        story.append(Paragraph("Professional Development Partnerships", footer_style))
+                        story.append(Paragraph(f"Prepared for: {company_name} | Generated: {datetime.now().strftime('%B %d, %Y')}", footer_style))
                         
                         # Build PDF
                         doc.build(story)
@@ -813,39 +837,21 @@ def show_proposal_generator(company_data):
                         
                         # Download button for PDF
                         st.download_button(
-                            label="📥 Download Stevens Proposal (PDF)",
+                            label="📥 Download Professional Proposal (PDF)",
                             data=pdf_data,
-                            file_name=f"Stevens_Proposal_{company_name.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d')}.pdf",
+                            file_name=f"Stevens_Professional_Learning_Proposal_{company_name.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d')}.pdf",
                             mime="application/pdf"
                         )
                         
                     except ImportError:
                         st.error("📋 PDF generation requires reportlab library. Please install it: `pip install reportlab`")
                         
-                        # Fallback to HTML if reportlab not available
-                        html_content = f"""<!DOCTYPE html>
-<html><head><meta charset="UTF-8"><title>Stevens Proposal</title></head>
-<body style="font-family: Arial, sans-serif; margin: 40px;">
-<h1 style="color: #800020;">Stevens × {company_name} | Professional Education</h1>
-<p>Professional proposal content here...</p>
-</body></html>"""
-                        
-                        st.download_button(
-                            label="📥 Download Proposal (HTML)",
-                            data=html_content.encode('utf-8'),
-                            file_name=f"Stevens_Proposal_{company_name.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d')}.html",
-                            mime="text/html"
-                        )
-                        
                     except Exception as e:
                         st.error(f"Error generating PDF: {str(e)}")
                         st.info("Please try again or contact support if the issue persists.")
             else:
-                st.button("📄 Generate Stevens Proposal", disabled=True, help="Reduce credits to 36 or less")
-        
-        with col3:
-            if st.button("📧 Email Proposal", key="email_proposal", disabled=current_credits > max_credits):
-                st.info("Email functionality would be implemented here")
+                st.button("📄 Generate Professional Proposal", disabled=True, help="Reduce credits to 36 or less")
+
 
 # Course detail page - UPDATED with better navigation
 def show_course_recommendations(company_data):
@@ -911,7 +917,7 @@ def show_course_recommendations(company_data):
     company_name = company_data.get('company_name', 'Unknown Company')
     st.markdown(f"""
     <div class="course-header">
-        <h1>Course Recommendations</h1>
+        <h1>📚 Course Recommendations</h1>
         <p>Build your foundation with these recommended courses for {company_name}</p>
     </div>
     """, unsafe_allow_html=True)
@@ -1086,7 +1092,7 @@ def show_course_recommendations(company_data):
     st.markdown("---")
     col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        if st.button(" Create Proposal with These Courses", key="courses_to_proposal"):
+        if st.button("📋 Create Proposal with These Courses", key="courses_to_proposal"):
             st.session_state.current_view = "proposal"
             # Clear any existing selections
             st.session_state.selected_courses = set()
@@ -1158,7 +1164,7 @@ def show_certificate_recommendations(company_data):
     company_name = company_data.get('company_name', 'Unknown Company')
     st.markdown(f"""
     <div class="cert-header">
-        <h1>Certificate Recommendations</h1>
+        <h1>🏆 Certificate Recommendations</h1>
         <p>Enhance your expertise with these specialized certificates for {company_name}</p>
     </div>
     """, unsafe_allow_html=True)
@@ -1272,7 +1278,7 @@ def show_certificate_recommendations(company_data):
     st.markdown("---")
     col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        if st.button("Create Proposal with These Certificates", key="certs_to_proposal"):
+        if st.button("📋 Create Proposal with These Certificates", key="certs_to_proposal"):
             st.session_state.current_view = "proposal"
             # Clear any existing selections
             st.session_state.selected_courses = set()
@@ -1757,7 +1763,7 @@ def main():
         total_courses = sum([len(comp.get('course_recommendations', {}).get('recommendations', [])) for comp in companies_with_courses])
         st.markdown("""
         <div class="metric-card">
-            <h3>Course Recommendations</h3>
+            <h3>📚 Course Recommendations</h3>
             <h2>{}</h2>
             <p>{} companies have courses</p>
         </div>
@@ -1780,7 +1786,7 @@ def main():
         unique_dbs = len(set([comp.get('_source_db', 'Unknown') for comp in companies_data]))
         st.markdown("""
         <div class="metric-card">
-            <h3> Industries</h3>
+            <h3>🏭 Industries</h3>
             <h2>{}</h2>
             <p>{} databases</p>
         </div>
@@ -1789,7 +1795,7 @@ def main():
     # Analytics section
     st.markdown("""
     <div class="section-header">
-        <h2>Analytics & Insights</h2>
+        <h2>📊 Analytics & Insights</h2>
     </div>
     """, unsafe_allow_html=True)
     
@@ -1863,7 +1869,7 @@ def main():
     # Companies list - with burgundy background
     st.markdown("""
     <div class="companies-overview">
-        <h2> Companies Overview</h2>
+        <h2>🏢 Companies Overview</h2>
     </div>
     """, unsafe_allow_html=True)
     
@@ -1881,7 +1887,7 @@ def main():
     # Display companies - UPDATED with new button flow
     for i, company in enumerate(filtered_companies):
         has_recommendations = 'course_recommendations' in company or 'certificate_recommendations' in company
-        company_title = f" {company.get('company_name', 'Unknown Company')} - {company.get('industry', 'Unknown Industry')}"
+        company_title = f"🏢 {company.get('company_name', 'Unknown Company')} - {company.get('industry', 'Unknown Industry')}"
         
         if not has_recommendations:
             company_title += " (No Recommendations)"
@@ -1970,7 +1976,7 @@ def main():
             
             with col4:
                 if has_recommendations and (course_recs or cert_recs):
-                    if st.button(f" Create Proposal", key=f"proposal_{i}"):
+                    if st.button(f"📋 Create Proposal", key=f"proposal_{i}"):
                         st.session_state.selected_company = company
                         st.session_state.current_view = "proposal"
                         # Clear any existing selections
