@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 from bson import ObjectId
 import json
 import io
+import time
 
 # MongoDB Configuration
 MONGO_URI = "mongodb+srv://codermishyt:tQk0U81QVvktb5s4@optilearn.vu626pu.mongodb.net/?retryWrites=true&w=majority&tlsAllowInvalidCertificates=true"
@@ -48,7 +49,9 @@ def get_companies_data():
             try:
                 db = client[db_name]
                 collection = db['company']  # We know it's 'company' not 'companies'
-                data = list(collection.find())
+                data_cursor = collection.find().sort([("last_updated", pymongo.DESCENDING)])
+                data = list(data_cursor)
+
                 if data:
                     st.success(f"✅ Loaded {len(data)} companies from {db_name}.company")
                     # Add database source info to each document
@@ -66,6 +69,44 @@ def get_companies_data():
         st.error(f"❌ Error fetching companies data: {e}")
         return []
 
+# Helper function to get course field with fallbacks
+def get_course_field(course, field_name, fallback_fields=None, default='N/A'):
+    """Get course field with multiple fallback options"""
+    if fallback_fields is None:
+        fallback_fields = []
+    
+    # Primary field
+    value = course.get(field_name)
+    if value and str(value).strip():
+        return str(value).strip()
+    
+    # Try fallback fields
+    for fallback in fallback_fields:
+        value = course.get(fallback)
+        if value and str(value).strip():
+            return str(value).strip()
+    
+    return default
+
+# Helper function to get program field with fallbacks
+def get_program_field(program, field_name, fallback_fields=None, default='N/A'):
+    """Get program field with multiple fallback options"""
+    if fallback_fields is None:
+        fallback_fields = []
+    
+    # Primary field
+    value = program.get(field_name)
+    if value and str(value).strip():
+        return str(value).strip()
+    
+    # Try fallback fields
+    for fallback in fallback_fields:
+        value = program.get(fallback)
+        if value and str(value).strip():
+            return str(value).strip()
+    
+    return default
+
 # Helper function to parse MongoDB dates
 def parse_mongo_date(date_obj):
     if isinstance(date_obj, dict) and '$date' in date_obj:
@@ -75,6 +116,48 @@ def parse_mongo_date(date_obj):
         else:
             return str(date_obj['$date'])
     return str(date_obj)
+
+# Helper function to get timestamp for sorting
+def get_company_timestamp(company):
+    """Extract timestamp from company data for sorting purposes"""
+    # Try different timestamp fields in order of preference
+    timestamp_fields = [
+        'last_updated',
+        'created_at',
+        'updated_at',
+        ('course_recommendations', 'generated_at'),
+        ('certificate_recommendations', 'generated_at')
+    ]
+    
+    for field in timestamp_fields:
+        if isinstance(field, tuple):
+            # Nested field
+            value = company.get(field[0], {}).get(field[1])
+        else:
+            # Direct field
+            value = company.get(field)
+        
+        if value:
+            try:
+                if isinstance(value, dict) and '$date' in value:
+                    if isinstance(value['$date'], dict) and '$numberLong' in value['$date']:
+                        return int(value['$date']['$numberLong']) / 1000
+                    else:
+                        return datetime.fromisoformat(str(value['$date']).replace('Z', '+00:00')).timestamp()
+                elif isinstance(value, datetime):
+                    return value.timestamp()
+                elif isinstance(value, str):
+                    try:
+                        return datetime.fromisoformat(value.replace('Z', '+00:00')).timestamp()
+                    except:
+                        continue
+                elif isinstance(value, (int, float)):
+                    return float(value)
+            except:
+                continue
+    
+    # If no timestamp found, return 0 (oldest)
+    return 0
 
 # Helper function to parse MongoDB ObjectId
 def parse_mongo_id(id_obj):
@@ -92,6 +175,53 @@ def parse_mongo_number(num_obj):
         elif '$numberLong' in num_obj:
             return int(num_obj['$numberLong'])
     return float(num_obj) if num_obj else 0.0
+
+# FIXED: Helper function to get course field with fallbacks
+def get_course_field(course, field_name, fallback_fields=None, default='N/A'):
+    """Get course field with multiple fallback options"""
+    if fallback_fields is None:
+        fallback_fields = []
+    
+    # Primary field
+    value = course.get(field_name)
+    if value and str(value).strip():
+        return str(value).strip()
+    
+    # Try fallback fields
+    for fallback in fallback_fields:
+        value = course.get(fallback)
+        if value and str(value).strip():
+            return str(value).strip()
+    
+    return default
+
+# FIXED: Helper function to get course description with intelligent fallbacks
+def get_course_description(course):
+    """Get course description with intelligent fallbacks"""
+    # Try primary description fields
+    description_fields = ['description', 'course_description', 'desc', 'summary', 'overview']
+    
+    for field in description_fields:
+        desc = course.get(field)
+        if desc and str(desc).strip() and len(str(desc).strip()) > 10:
+            return str(desc).strip()
+    
+    # If no description found, try to construct one from available data
+    course_name = get_course_field(course, 'course_name', ['name', 'title', 'course_title'])
+    module_title = course.get('module_title', '')
+    course_type = course.get('course_type', '')
+    
+    # Construct description based on available data
+    if module_title and course_type:
+        return f"A {course_type} course focusing on {module_title} concepts and practical applications."
+    elif module_title:
+        return f"Professional course covering {module_title} topics and methodologies."
+    elif course_type:
+        return f"A {course_type} course designed to enhance professional competencies."
+    elif course_name != 'N/A':
+        return f"Professional development course: {course_name}. Designed to build essential skills and knowledge."
+    else:
+        return "Comprehensive professional development course designed to enhance key competencies and practical skills."
 
 # Helper function to clean course requirements
 def parse_course_requirements(requirements):
@@ -126,7 +256,7 @@ def calculate_credits():
 def update_credits():
     st.session_state.total_credits = calculate_credits()
 
-# Company detail view - NEW VIEW for better navigation
+# Company detail view - UPDATED with Company Requirements
 def show_company_detail(company_data):
     st.markdown("""
     <style>
@@ -157,6 +287,28 @@ def show_company_detail(company_data):
         margin-bottom: 1rem;
         border-left: 4px solid #800020;
     }
+    .requirements-section {
+        background: #fff5f5;
+        padding: 1.5rem;
+        border-radius: 10px;
+        margin-bottom: 2rem;
+        border-left: 4px solid #800020;
+        border: 2px solid #800020;
+    }
+    .requirements-list {
+        background: white;
+        padding: 1rem;
+        border-radius: 8px;
+        margin-top: 1rem;
+        border-left: 4px solid #800020;
+    }
+    .requirement-item {
+        background: #f8f9fa;
+        padding: 0.75rem;
+        margin: 0.5rem 0;
+        border-radius: 6px;
+        border-left: 3px solid #800020;
+    }
     </style>
     """, unsafe_allow_html=True)
     
@@ -169,12 +321,12 @@ def show_company_detail(company_data):
     company_name = company_data.get('company_name', 'Unknown Company')
     st.markdown(f"""
     <div class="company-detail-header">
-        <h1>🏢 {company_name}</h1>
+        <h1> {company_name}</h1>
         <p>Learning recommendations and proposal generation</p>
     </div>
     """, unsafe_allow_html=True)
     
-    # Company info
+    # Company info and recommendations (existing layout)
     col1, col2 = st.columns(2)
     with col1:
         st.markdown(f"""
@@ -199,28 +351,108 @@ def show_company_detail(company_data):
         </div>
         """, unsafe_allow_html=True)
     
+    # Company Requirements Section
+    st.markdown("##  Company Requirements")
+    
+    # Try to get requirements from various possible fields
+    requirements_data = (
+        company_data.get('requirements') or 
+        company_data.get('company_requirements') or 
+        company_data.get('learning_requirements') or 
+        company_data.get('training_needs') or
+        company_data.get('skills_needed') or
+        company_data.get('requirements_text') or
+        []
+    )
+    
+    # Also check if requirements are nested in other structures
+    if not requirements_data:
+        # Check if requirements are in course_recommendations metadata
+        course_req_meta = company_data.get('course_recommendations', {})
+        requirements_data = course_req_meta.get('requirements', [])
+    
+    if requirements_data:
+        # Parse requirements data
+        if isinstance(requirements_data, str):
+            try:
+                # Try to parse as JSON if it's a string
+                import json
+                parsed_reqs = json.loads(requirements_data)
+                if isinstance(parsed_reqs, list):
+                    requirements_list = parsed_reqs
+                else:
+                    requirements_list = [requirements_data]
+            except:
+                requirements_list = [requirements_data]
+        elif isinstance(requirements_data, list):
+            requirements_list = requirements_data
+        else:
+            requirements_list = [str(requirements_data)]
+        
+        # Display requirements in a nice format
+        for i, req in enumerate(requirements_list):
+            if isinstance(req, dict):
+                # If requirement is a dict, extract relevant fields
+                req_title = req.get('title', req.get('name', req.get('skill', f'Requirement {i+1}')))
+                req_description = req.get('description', req.get('details', ''))
+                req_priority = req.get('priority', req.get('importance', 'Medium'))
+                req_category = req.get('category', req.get('type', 'General'))
+                
+                st.markdown(f"""
+                <div class="requirement-item">
+                    <h5 style="color: #800020; margin: 0 0 0.5rem 0;">{req_title}</h5>
+                    {f'<p style="margin: 0.25rem 0;"><strong>Category:</strong> {req_category}</p>' if req_category != 'General' else ''}
+                    {f'<p style="margin: 0.25rem 0;"><strong>Priority:</strong> {req_priority}</p>' if req_priority != 'Medium' else ''}
+                    {f'<p style="margin: 0.25rem 0; color: #666;">{req_description}</p>' if req_description else ''}
+                </div>
+                """, unsafe_allow_html=True)
+            else:
+                # Simple string requirement
+                st.markdown(f"""
+                <div class="requirement-item">
+                    <h5 style="color: #800020; margin: 0;"> {str(req)}</h5>
+                </div>
+                """, unsafe_allow_html=True)
+    else:
+        # No requirements found - show helpful message
+        st.markdown(f"""
+        <div class="requirements-section">
+            <h3 style="color: #800020; margin-top: 0;">Company Requirements</h3>
+            <div class="requirements-list">
+                <p style="color: #666666; margin: 0; text-align: center;">
+                    <strong>ℹ️ No specific requirements found</strong><br>
+                    Requirements data not available in the current company profile.
+                </p>
+                <p style="color: #666666; margin: 1rem 0 0 0; font-size: 0.9rem;">
+                    <strong>Available company fields:</strong><br>
+                    {', '.join([key for key in company_data.keys() if not key.startswith('_')])}
+                </p>
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+    
     # Action buttons
     col1, col2, col3 = st.columns(3)
     
     with col1:
         if course_recs:
-            if st.button(f"📚 View Courses ({len(course_recs)})", key="view_courses"):
+            if st.button(f"View Courses ({len(course_recs)})", key="view_courses"):
                 st.session_state.current_view = "courses"
                 st.rerun()
         else:
-            st.button("📚 No Courses Available", disabled=True)
+            st.button("No Courses Available", disabled=True)
     
     with col2:
         if cert_recs:
-            if st.button(f"🏆 View Certificates ({len(cert_recs)})", key="view_certificates"):
+            if st.button(f"View Certificates ({len(cert_recs)})", key="view_certificates"):
                 st.session_state.current_view = "certificates"
                 st.rerun()
         else:
-            st.button("🏆 No Certificates Available", disabled=True)
+            st.button("No Certificates Available", disabled=True)
     
     with col3:
         if course_recs or cert_recs:
-            if st.button("📋 Create Proposal", key="create_proposal"):
+            if st.button(" Create Proposal", key="create_proposal"):
                 st.session_state.current_view = "proposal"
                 # Clear any existing selections
                 st.session_state.selected_courses = set()
@@ -241,8 +473,9 @@ def show_company_detail(company_data):
                 st.markdown("### Top Courses")
                 for i, course in enumerate(course_recs[:3]):  # Show top 3
                     similarity = parse_mongo_number(course.get('similarity_score', 0))
+                    course_name = get_course_field(course, 'course_name', ['name', 'title'])
                     st.markdown(f"""
-                    **{course.get('course_name', 'Unknown')}**  
+                    **{course_name}**  
                     Match: {similarity:.1%} | Type: {course.get('course_type', 'N/A')}
                     """)
         
@@ -251,8 +484,9 @@ def show_company_detail(company_data):
                 st.markdown("### Top Certificates")
                 for i, cert in enumerate(cert_recs[:3]):  # Show top 3
                     similarity = parse_mongo_number(cert.get('similarity_score', 0))
+                    cert_name = get_course_field(cert, 'course_name', ['name', 'title'])
                     st.markdown(f"""
-                    **{cert.get('course_name', 'Unknown')}**  
+                    **{cert_name}**  
                     Match: {similarity:.1%}
                     """)
 
@@ -390,7 +624,7 @@ def show_proposal_generator(company_data):
     
     st.markdown(f"""
     <div class="credits-tracker {credits_class}">
-        <h3>Credit Tracker</h3>
+        <h3>💳 Credit Tracker</h3>
         <div class="credits-display">{current_credits} / {max_credits} Credits</div>
         <div class="credits-bar">
             <div class="credits-fill" style="width: {credits_percentage}%"></div>
@@ -412,14 +646,14 @@ def show_proposal_generator(company_data):
     col1, col2 = st.columns(2)
     
     with col1:
-        st.markdown("## 📚 Available Courses")
+        st.markdown("##  Available Courses")
         if course_recs:
             for i, course in enumerate(course_recs):
                 course_id = f"course_{i}"
-                course_name = course.get('course_name', 'Unknown Course')
-                course_code = course.get('course_code', 'N/A')
+                course_name = get_course_field(course, 'course_name', ['name', 'title', 'course_title'])
+                course_code = get_course_field(course, 'course_code', ['code', 'course_id'])
                 similarity = parse_mongo_number(course.get('similarity_score', 0))
-                description = course.get('description', 'Professional development course designed to enhance key competencies.')
+                description = get_course_description(course)
                 
                 # Check if this course is selected
                 is_selected = course_id in st.session_state.selected_courses
@@ -468,13 +702,13 @@ def show_proposal_generator(company_data):
             st.info("No courses available for this company.")
     
     with col2:
-        st.markdown("## 🏆 Available Certificates")
+        st.markdown("##  Available Certificates")
         if cert_recs:
             for i, cert in enumerate(cert_recs):
                 cert_id = f"cert_{i}"
-                cert_name = cert.get('course_name', 'Unknown Certificate')
+                cert_name = get_course_field(cert, 'course_name', ['name', 'title', 'certificate_name'])
                 similarity = parse_mongo_number(cert.get('similarity_score', 0))
-                description = cert.get('course_description', 'Specialized certificate program designed to develop advanced professional skills.')
+                description = get_course_description(cert)
                 
                 # Check if this certificate is selected
                 is_selected = cert_id in st.session_state.selected_certificates
@@ -557,17 +791,17 @@ def show_proposal_generator(company_data):
         if selected_course_details:
             st.markdown("### Selected Courses:")
             for course in selected_course_details:
-                course_name = course.get('course_name', 'Unknown')
-                course_code = course.get('course_code', 'N/A')
-                description = course.get('description', 'Professional development course.')
+                course_name = get_course_field(course, 'course_name', ['name', 'title'])
+                course_code = get_course_field(course, 'course_code', ['code', 'course_id'])
+                description = get_course_description(course)
                 st.markdown(f"• **{course_name}** ({course_code}) - 3 credits")
                 st.markdown(f"  _{description[:100]}{'...' if len(description) > 100 else ''}_")
         
         if selected_cert_details:
             st.markdown("### Selected Certificates:")
             for cert in selected_cert_details:
-                cert_name = cert.get('course_name', 'Unknown')
-                description = cert.get('course_description', 'Professional certificate program.')
+                cert_name = get_course_field(cert, 'course_name', ['name', 'title', 'certificate_name'])
+                description = get_course_description(cert)
                 st.markdown(f"• **{cert_name}** - 3 credits")
                 st.markdown(f"  _{description[:100]}{'...' if len(description) > 100 else ''}_")
         
@@ -585,7 +819,6 @@ def show_proposal_generator(company_data):
         with col2:
             if current_credits <= max_credits:
                 if st.button("📄 Generate Professional Proposal", key="generate_proposal"):
-                    st.success("✅ Professional proposal generated successfully!")
                     
                     # Show proposal preview with Stevens styling
                     st.markdown(f"""
@@ -599,7 +832,7 @@ def show_proposal_generator(company_data):
                     </div>
                     """, unsafe_allow_html=True)
                     
-                    # Generate PDF with professional structure (no degree section)
+                    # Generate PDF with professional structure
                     try:
                         import requests
                         from reportlab.lib.pagesizes import letter, A4
@@ -712,12 +945,12 @@ def show_proposal_generator(company_data):
                             story.append(Spacer(1, 10))
                             
                             for course in selected_course_details:
-                                course_name = course.get('course_name', 'Unknown Course')
-                                course_code = course.get('course_code', '')
-                                description = course.get('description', 'Comprehensive professional development course designed to enhance key competencies.')
+                                course_name = get_course_field(course, 'course_name', ['name', 'title'])
+                                course_code = get_course_field(course, 'course_code', ['code', 'course_id'])
+                                description = get_course_description(course)
                                 similarity = parse_mongo_number(course.get('similarity_score', 0))
                                 
-                                if course_code:
+                                if course_code != 'N/A':
                                     story.append(Paragraph(f"<b>{course_name} ({course_code})</b> - 3 Credits", bullet_style))
                                 else:
                                     story.append(Paragraph(f"<b>{course_name}</b> - 3 Credits", bullet_style))
@@ -733,8 +966,8 @@ def show_proposal_generator(company_data):
                             story.append(Spacer(1, 10))
                             
                             for cert in selected_cert_details:
-                                cert_name = cert.get('course_name', 'Unknown Certificate')
-                                description = cert.get('course_description', 'Specialized certificate program designed to develop advanced professional skills.')
+                                cert_name = get_course_field(cert, 'course_name', ['name', 'title'])
+                                description = get_course_description(cert)
                                 similarity = parse_mongo_number(cert.get('similarity_score', 0))
                                 
                                 story.append(Paragraph(f"<b>{cert_name}</b> - 3 Credits", bullet_style))
@@ -837,7 +1070,7 @@ def show_proposal_generator(company_data):
                         
                         # Download button for PDF
                         st.download_button(
-                            label="📥 Download Professional Proposal (PDF)",
+                            label="📄 Download Professional Proposal (PDF)",
                             data=pdf_data,
                             file_name=f"Stevens_Professional_Learning_Proposal_{company_name.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d')}.pdf",
                             mime="application/pdf"
@@ -852,8 +1085,7 @@ def show_proposal_generator(company_data):
             else:
                 st.button("📄 Generate Professional Proposal", disabled=True, help="Reduce credits to 36 or less")
 
-
-# Course detail page - UPDATED with better navigation
+# FIXED: Course detail page with improved data handling
 def show_course_recommendations(company_data):
     st.markdown("""
     <style>
@@ -899,10 +1131,18 @@ def show_course_recommendations(company_data):
         font-size: 0.8rem;
         font-weight: bold;
     }
+    .debug-info {
+        background: #fff3cd;
+        border: 1px solid #ffc107;
+        border-radius: 8px;
+        padding: 1rem;
+        margin: 1rem 0;
+        font-size: 0.9rem;
+    }
     </style>
     """, unsafe_allow_html=True)
     
-    # Navigation buttons - FIXED to go back to company detail
+    # Navigation buttons
     col1, col2 = st.columns([1, 1])
     with col1:
         if st.button("← Back to Company", key="course_back"):
@@ -917,7 +1157,7 @@ def show_course_recommendations(company_data):
     company_name = company_data.get('company_name', 'Unknown Company')
     st.markdown(f"""
     <div class="course-header">
-        <h1>📚 Course Recommendations</h1>
+        <h1> Course Recommendations</h1>
         <p>Build your foundation with these recommended courses for {company_name}</p>
     </div>
     """, unsafe_allow_html=True)
@@ -947,6 +1187,8 @@ def show_course_recommendations(company_data):
         ), unsafe_allow_html=True)
         return
     
+
+    
     # Categorize courses more meaningfully
     technical_courses = [course for course in course_recs if course.get('course_type', '').lower() == 'technical']
     mixed_courses = [course for course in course_recs if course.get('course_type', '').lower() == 'mixed']
@@ -955,38 +1197,13 @@ def show_course_recommendations(company_data):
     # Combine mixed and other courses for "Advanced Courses"
     advanced_courses = mixed_courses + other_courses
     
-    # Show course type distribution for debugging
-    if course_recs:
-        course_types = {}
-        for course in course_recs:
-            course_type = course.get('course_type', 'Unknown')
-            course_types[course_type] = course_types.get(course_type, 0) + 1
-        
-        st.markdown(f"""
-        <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; border-left: 4px solid #800020;">
-            <h4 style="color: #800020; margin-top: 0;">Course Type Distribution</h4>
-            <p style="margin: 0.5rem 0;"><strong>Total Courses:</strong> {len(course_recs)}</p>
-        </div>
-        """, unsafe_allow_html=True)
-        
-        col_debug1, col_debug2 = st.columns(2)
-        with col_debug1:
-            st.markdown("**Raw Course Types:**")
-            for course_type, count in course_types.items():
-                st.write(f"• **{course_type}**: {count} courses")
-        
-        with col_debug2:
-            st.markdown("**Dashboard Categories:**")
-            st.write(f"• **Technical**: {len(technical_courses)} courses")
-            st.write(f"• **Advanced/Mixed**: {len(advanced_courses)} courses")
-    
     # Two column layout
     col1, col2 = st.columns(2)
     
     with col1:
         st.markdown("""
         <div class="course-section">
-            <h2>Technical Courses</h2>
+            <h2> Technical Courses</h2>
             <p style="color: #666666; margin: 0.5rem 0;">Pure technical and programming courses</p>
         </div>
         """, unsafe_allow_html=True)
@@ -1002,16 +1219,32 @@ def show_course_recommendations(company_data):
             """, unsafe_allow_html=True)
         
         for i, course in enumerate(technical_courses):
-            course_name = course.get('course_name', 'Unknown Course')
-            course_code = course.get('course_code', 'N/A')
-            description = course.get('description', 'No description available')
+            # FIXED: Use improved field extraction
+            course_name = get_course_field(course, 'course_name', ['name', 'title', 'course_title'])
+            course_code = get_course_field(course, 'course_code', ['code', 'course_id'])
+            description = get_course_description(course)
             similarity = parse_mongo_number(course.get('similarity_score', 0))
             best_week = course.get('best_week', 'N/A')
             module_title = course.get('module_title', 'N/A')
             rank = parse_mongo_number(course.get('rank', 0))
             
             # Create expandable course item
-            with st.expander(f"{course_name}", expanded=False):
+            with st.expander(f" {course_name}", expanded=False):
+                # FIXED: Show data quality indicator
+                missing_fields = []
+                if course_code == 'N/A':
+                    missing_fields.append('course_code')
+                if len(description) < 50:
+                    missing_fields.append('description')
+                
+                if missing_fields:
+                    st.markdown(f"""
+                    <div class="debug-info">
+                        <strong>⚠️ Data Quality Note:</strong> Some fields are missing or incomplete: {', '.join(missing_fields)}<br>
+                        <small>Using intelligent fallbacks to provide complete information.</small>
+                    </div>
+                    """, unsafe_allow_html=True)
+                
                 st.markdown(f"""
                 <div class="course-details">
                     <p><strong>Course Code:</strong> {course_code}</p>
@@ -1033,11 +1266,13 @@ def show_course_recommendations(company_data):
                     st.markdown("**Learning Outcomes:**")
                     for outcome in learning_outcomes:
                         st.markdown(f"• {outcome}")
+                else:
+                    st.info("Learning outcomes will be provided during course enrollment.")
     
     with col2:
         st.markdown("""
         <div class="course-section">
-            <h2>Mixed Courses</h2>
+            <h2> Mixed Courses</h2>
             <p style="color: #666666; margin: 0.5rem 0;">Mixed and advanced courses</p>
         </div>
         """, unsafe_allow_html=True)
@@ -1052,9 +1287,10 @@ def show_course_recommendations(company_data):
             """, unsafe_allow_html=True)
         
         for i, course in enumerate(advanced_courses):
-            course_name = course.get('course_name', 'Unknown Course')
-            course_code = course.get('course_code', 'N/A')
-            description = course.get('description', 'No description available')
+            # FIXED: Use improved field extraction
+            course_name = get_course_field(course, 'course_name', ['name', 'title', 'course_title'])
+            course_code = get_course_field(course, 'course_code', ['code', 'course_id'])
+            description = get_course_description(course)
             similarity = parse_mongo_number(course.get('similarity_score', 0))
             best_week = course.get('best_week', 'N/A')
             module_title = course.get('module_title', 'N/A')
@@ -1065,7 +1301,22 @@ def show_course_recommendations(company_data):
             icon = "🎯" if course_type == "mixed" else "📚"
             
             # Create expandable course item
-            with st.expander(f"{icon} {course_name}", expanded=False):
+            with st.expander(f" {course_name}", expanded=False):
+                # FIXED: Show data quality indicator
+                missing_fields = []
+                if course_code == 'N/A':
+                    missing_fields.append('course_code')
+                if len(description) < 50:
+                    missing_fields.append('description')
+                
+                if missing_fields:
+                    st.markdown(f"""
+                    <div class="debug-info">
+                        <strong>⚠️ Data Quality Note:</strong> Some fields are missing or incomplete: {', '.join(missing_fields)}<br>
+                        <small>Using intelligent fallbacks to provide complete information.</small>
+                    </div>
+                    """, unsafe_allow_html=True)
+                
                 st.markdown(f"""
                 <div class="course-details">
                     <p><strong>Course Code:</strong> {course_code}</p>
@@ -1087,12 +1338,14 @@ def show_course_recommendations(company_data):
                     st.markdown("**Learning Outcomes:**")
                     for outcome in learning_outcomes:
                         st.markdown(f"• {outcome}")
+                else:
+                    st.info("Learning outcomes will be provided during course enrollment.")
     
     # Action button to create proposal
     st.markdown("---")
     col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        if st.button("📋 Create Proposal with These Courses", key="courses_to_proposal"):
+        if st.button(" Create Proposal with These Courses", key="courses_to_proposal"):
             st.session_state.current_view = "proposal"
             # Clear any existing selections
             st.session_state.selected_courses = set()
@@ -1100,7 +1353,7 @@ def show_course_recommendations(company_data):
             st.session_state.total_credits = 0
             st.rerun()
 
-# Certificate detail page - UPDATED with better navigation
+# FIXED: Certificate detail page with improved data handling
 def show_certificate_recommendations(company_data):
     st.markdown("""
     <style>
@@ -1146,17 +1399,25 @@ def show_certificate_recommendations(company_data):
         font-size: 0.8rem;
         font-weight: bold;
     }
+    .debug-info {
+        background: #fff3cd;
+        border: 1px solid #ffc107;
+        border-radius: 8px;
+        padding: 1rem;
+        margin: 1rem 0;
+        font-size: 0.9rem;
+    }
     </style>
     """, unsafe_allow_html=True)
     
-    # Navigation buttons - FIXED to go back to company detail
+    # Navigation buttons
     col1, col2 = st.columns([1, 1])
     with col1:
         if st.button("← Back to Company", key="cert_back"):
             st.session_state.current_view = "company_detail"
             st.rerun()
     with col2:
-        if st.button("🏠 Dashboard", key="cert_home"):
+        if st.button("Dashboard", key="cert_home"):
             st.session_state.current_view = "dashboard"
             st.rerun()
     
@@ -1164,7 +1425,7 @@ def show_certificate_recommendations(company_data):
     company_name = company_data.get('company_name', 'Unknown Company')
     st.markdown(f"""
     <div class="cert-header">
-        <h1>🏆 Certificate Recommendations</h1>
+        <h1> Certificate Recommendations</h1>
         <p>Enhance your expertise with these specialized certificates for {company_name}</p>
     </div>
     """, unsafe_allow_html=True)
@@ -1194,6 +1455,7 @@ def show_certificate_recommendations(company_data):
         ), unsafe_allow_html=True)
         return
     
+
     # Split certificates into two categories
     mid_point = len(cert_recs) // 2
     specialized_certs = cert_recs[:mid_point] if cert_recs else []
@@ -1205,13 +1467,14 @@ def show_certificate_recommendations(company_data):
     with col1:
         st.markdown("""
         <div class="cert-section">
-            <h2>🎯 Specialized Certificates</h2>
+            <h2> Specialized Certificates</h2>
         </div>
         """, unsafe_allow_html=True)
         
         for i, cert in enumerate(specialized_certs):
-            cert_name = cert.get('course_name', 'Unknown Certificate')
-            description = cert.get('course_description', 'No description available')
+            # FIXED: Use improved field extraction
+            cert_name = get_course_field(cert, 'course_name', ['name', 'title', 'certificate_name'])
+            description = get_course_description(cert)
             requirements = cert.get('course_requirements', 'No requirements listed')
             similarity = parse_mongo_number(cert.get('similarity_score', 0))
             rank = parse_mongo_number(cert.get('rank', 0))
@@ -1220,7 +1483,16 @@ def show_certificate_recommendations(company_data):
             req_list = parse_course_requirements(requirements)
             
             # Create expandable certificate item
-            with st.expander(f"🏆 {cert_name}", expanded=False):
+            with st.expander(f" {cert_name}", expanded=False):
+                # FIXED: Show data quality indicator
+                if len(description) < 50:
+                    st.markdown(f"""
+                    <div class="debug-info">
+                        <strong>⚠️ Data Quality Note:</strong> Description was enhanced using available course data.<br>
+                        <small>Original description may have been incomplete or missing.</small>
+                    </div>
+                    """, unsafe_allow_html=True)
+                
                 st.markdown(f"""
                 <div class="cert-details">
                     <p><strong>Description:</strong> {description}</p>
@@ -1237,17 +1509,20 @@ def show_certificate_recommendations(company_data):
                     st.markdown("**Requirements:**")
                     for req in req_list:
                         st.markdown(f"• {req}")
+                else:
+                    st.info("Specific requirements will be provided during enrollment.")
                         
     with col2:
         st.markdown("""
         <div class="cert-section">
-            <h2>💼 Professional Certificates</h2>
+            <h2> Professional Certificates</h2>
         </div>
         """, unsafe_allow_html=True)
         
         for i, cert in enumerate(professional_certs):
-            cert_name = cert.get('course_name', 'Unknown Certificate')
-            description = cert.get('course_description', 'No description available')
+            # FIXED: Use improved field extraction
+            cert_name = get_course_field(cert, 'course_name', ['name', 'title', 'certificate_name'])
+            description = get_course_description(cert)
             requirements = cert.get('course_requirements', 'No requirements listed')
             similarity = parse_mongo_number(cert.get('similarity_score', 0))
             rank = parse_mongo_number(cert.get('rank', 0))
@@ -1256,7 +1531,16 @@ def show_certificate_recommendations(company_data):
             req_list = parse_course_requirements(requirements)
             
             # Create expandable certificate item
-            with st.expander(f"📜 {cert_name}", expanded=False):
+            with st.expander(f" {cert_name}", expanded=False):
+                # FIXED: Show data quality indicator
+                if len(description) < 50:
+                    st.markdown(f"""
+                    <div class="debug-info">
+                        <strong>⚠️ Data Quality Note:</strong> Description was enhanced using available course data.<br>
+                        <small>Original description may have been incomplete or missing.</small>
+                    </div>
+                    """, unsafe_allow_html=True)
+                
                 st.markdown(f"""
                 <div class="cert-details">
                     <p><strong>Description:</strong> {description}</p>
@@ -1273,6 +1557,8 @@ def show_certificate_recommendations(company_data):
                     st.markdown("**Requirements:**")
                     for req in req_list:
                         st.markdown(f"• {req}")
+                else:
+                    st.info("Specific requirements will be provided during enrollment.")
     
     # Action button to create proposal
     st.markdown("---")
@@ -1302,6 +1588,8 @@ def main():
         st.session_state.selected_company = None
     if 'show_data_status' not in st.session_state:
         st.session_state.show_data_status = False
+    if 'sort_order' not in st.session_state:
+        st.session_state.sort_order = 'desc'  # 'desc' for newest first, 'asc' for oldest first
     
     # Custom CSS for Stevens Professional Branding - Toned Down
     st.markdown("""
@@ -1528,6 +1816,30 @@ def main():
         box-shadow: 0 4px 15px rgba(128, 0, 32, 0.3);
     }
     
+    /* Sort Button Styling - UPDATED */
+    .stButton > button[data-testid="sort_desc"],
+    .stButton > button[data-testid="sort_asc"] {
+        background: var(--stevens-white) !important;
+        color: var(--stevens-burgundy) !important;
+        border: 2px solid var(--stevens-burgundy) !important;
+        padding: 0.5rem 1rem !important;
+        border-radius: 8px !important;
+        font-weight: 600 !important;
+        font-size: 0.9rem !important;
+        transition: all 0.3s ease !important;
+        text-transform: none !important;
+        letter-spacing: normal !important;
+        box-shadow: 0 2px 8px rgba(128, 0, 32, 0.1) !important;
+    }
+    
+    .stButton > button[data-testid="sort_desc"]:hover,
+    .stButton > button[data-testid="sort_asc"]:hover {
+        background: var(--stevens-burgundy) !important;
+        color: var(--stevens-white) !important;
+        transform: translateY(-1px) !important;
+        box-shadow: 0 4px 15px rgba(128, 0, 32, 0.3) !important;
+    }
+    
     /* Comprehensive Expander Styling */
     
     /* All possible expander header selectors */
@@ -1675,29 +1987,56 @@ def main():
         st.error("No companies data found. Please check your MongoDB connection.")
         return
     
-    # Filters and controls row
-    col_filter1, col_filter2, col_btn1, col_btn2 = st.columns(4)
-    
+    # Filters and controls row - UPDATED with recommendations filter
+    col_filter1, col_filter2, col_filter3, col_sort, col_btn1, col_btn2 = st.columns(6)
+
     with col_filter1:
-        # Industry filter
+    # Industry filter
         industries = list(set([comp.get('industry', 'Unknown') for comp in companies_data]))
         selected_industry = st.selectbox("Industry", ["All"] + industries)
-    
+
     with col_filter2:
         # Company size filter
         company_sizes = list(set([comp.get('company_size', 'Unknown') for comp in companies_data]))
-        selected_size = st.selectbox("Company Size", ["All"] + company_sizes)
-    
+        selected_size = st.selectbox(" Company Size", ["All"] + company_sizes)
+
+    with col_filter3:
+        # Recommendations filter - NEW FILTER
+        recommendations_options = ["All", "With Recommendations", "Without Recommendations"]
+        selected_recommendations = st.selectbox(" Recommendations", recommendations_options)
+
+    with col_sort:
+        # Sort button
+        st.markdown("<br>", unsafe_allow_html=True)  # Add spacing
+        current_sort_label = " Newest First" if st.session_state.sort_order == 'desc' else " Oldest First"
+        if st.button(current_sort_label, key="sort_timestamp", help="Click to toggle sort order"):
+            # Toggle sort order
+            st.session_state.sort_order = 'asc' if st.session_state.sort_order == 'desc' else 'desc'
+            st.rerun()
+
     with col_btn1:
         st.markdown("<br>", unsafe_allow_html=True)  # Add spacing
         if st.button("Refresh Data"):
             st.cache_data.clear()
             st.rerun()
-    
+
     with col_btn2:
         st.markdown("<br>", unsafe_allow_html=True)  # Add spacing
-        if st.button("Show Data Status"):
+        if st.button("🔍 Show Data Status"):
             st.session_state.show_data_status = not st.session_state.get('show_data_status', False)
+
+    # Filter companies based on selections - UPDATED to include recommendations filter
+    filtered_companies = companies_data
+    if selected_industry != "All":
+        filtered_companies = [comp for comp in filtered_companies if comp.get('industry') == selected_industry]
+    if selected_size != "All":
+        filtered_companies = [comp for comp in filtered_companies if comp.get('company_size') == selected_size]
+
+    # NEW: Apply recommendations filter
+    if selected_recommendations == "With Recommendations":
+        filtered_companies = [comp for comp in filtered_companies if 'course_recommendations' in comp or 'certificate_recommendations' in comp]
+    elif selected_recommendations == "Without Recommendations":
+        filtered_companies = [comp for comp in filtered_companies if 'course_recommendations' not in comp and 'certificate_recommendations' not in comp]
     
     # Show data status if toggled
     if st.session_state.get('show_data_status', False):
@@ -1708,8 +2047,9 @@ def main():
             <div class="info-box">
                 <h4 style="color: var(--stevens-burgundy); margin-top: 0;">✅ Data Status</h4>
                 <p>Loaded {} companies</p>
+                <p>Sort Order: {}</p>
             </div>
-            """.format(len(companies_data)), unsafe_allow_html=True)
+            """.format(len(companies_data), "Newest First" if st.session_state.sort_order == 'desc' else "Oldest First"), unsafe_allow_html=True)
         
         with col_status2:
             # Show database breakdown
@@ -1720,7 +2060,7 @@ def main():
             
             st.markdown("""
             <div class="info-box">
-                <h4 style="color: var(--stevens-burgundy); margin-top: 0;">📊 Database Distribution</h4>
+                <h4 style="color: var(--stevens-burgundy); margin-top: 0;">Database Distribution</h4>
             </div>
             """, unsafe_allow_html=True)
             
@@ -1733,11 +2073,17 @@ def main():
             
             st.markdown("""
             <div class="info-box">
-                <h4 style="color: var(--stevens-burgundy); margin-top: 0;">🎯 Recommendation Status</h4>
+                <h4 style="color: var(--stevens-burgundy); margin-top: 0;">📋 Recommendation Status</h4>
                 <p>• With recommendations: {}</p>
                 <p>• Without recommendations: {}</p>
             </div>
             """.format(companies_with_recs, len(companies_data) - companies_with_recs), unsafe_allow_html=True)
+    
+    # Sort companies by timestamp - NEW FEATURE
+    try:
+        companies_data.sort(key=get_company_timestamp, reverse=(st.session_state.sort_order == 'desc'))
+    except Exception as e:
+        st.warning(f"⚠️ Warning: Could not sort companies by timestamp: {e}")
     
     # Filter companies based on selections
     filtered_companies = companies_data
@@ -1746,13 +2092,19 @@ def main():
     if selected_size != "All":
         filtered_companies = [comp for comp in filtered_companies if comp.get('company_size') == selected_size]
     
+    # Apply recommendations filter
+    if selected_recommendations == "With Recommendations":
+        filtered_companies = [comp for comp in filtered_companies if 'course_recommendations' in comp or 'certificate_recommendations' in comp]
+    elif selected_recommendations == "Without Recommendations":
+        filtered_companies = [comp for comp in filtered_companies if 'course_recommendations' not in comp and 'certificate_recommendations' not in comp]
+    
     # Dashboard metrics
     col1, col2, col3, col4 = st.columns(4)
     
     with col1:
         st.markdown("""
         <div class="metric-card">
-            <h3>📈 Total Companies</h3>
+            <h3>Total Companies</h3>
             <h2>{}</h2>
         </div>
         """.format(len(companies_data)), unsafe_allow_html=True)
@@ -1763,7 +2115,7 @@ def main():
         total_courses = sum([len(comp.get('course_recommendations', {}).get('recommendations', [])) for comp in companies_with_courses])
         st.markdown("""
         <div class="metric-card">
-            <h3>📚 Course Recommendations</h3>
+            <h3> Course Recommendations</h3>
             <h2>{}</h2>
             <p>{} companies have courses</p>
         </div>
@@ -1775,7 +2127,7 @@ def main():
         total_certificates = sum([len(comp.get('certificate_recommendations', {}).get('recommendations', [])) for comp in companies_with_certs])
         st.markdown("""
         <div class="metric-card">
-            <h3>🏆 Certificate Recommendations</h3>
+            <h3> Certificate Recommendations</h3>
             <h2>{}</h2>
             <p>{} companies have certificates</p>
         </div>
@@ -1786,7 +2138,7 @@ def main():
         unique_dbs = len(set([comp.get('_source_db', 'Unknown') for comp in companies_data]))
         st.markdown("""
         <div class="metric-card">
-            <h3>🏭 Industries</h3>
+            <h3> Industries</h3>
             <h2>{}</h2>
             <p>{} databases</p>
         </div>
@@ -1795,7 +2147,7 @@ def main():
     # Analytics section
     st.markdown("""
     <div class="section-header">
-        <h2>📊 Analytics & Insights</h2>
+        <h2>Analytics & Insights</h2>
     </div>
     """, unsafe_allow_html=True)
     
@@ -1806,7 +2158,7 @@ def main():
     if not companies_with_recommendations:
         st.markdown("""
         <div class="info-box">
-            <h3 style="color: var(--stevens-burgundy); margin-top: 0;">🔄 Recommendation System Status</h3>
+            <h3 style="color: var(--stevens-burgundy); margin-top: 0;">🔧 Recommendation System Status</h3>
             <p><strong>Current Status:</strong> No recommendations found in database</p>
             <p><strong>Next Steps:</strong></p>
             <ul style="color: var(--stevens-grey-dark);">
@@ -1834,8 +2186,8 @@ def main():
         </div>
         """, unsafe_allow_html=True)
     
-    # Industry distribution chart
-    col1, col2 = st.columns(2)
+    # Industry distribution chart and Popular Courses Analysis
+    col1, col2, col3 = st.columns(3)
     
     with col1:
         industry_counts = {}
@@ -1866,12 +2218,81 @@ def main():
         )
         st.plotly_chart(fig_size, use_container_width=True)
     
+    with col3:
+        # Popular Courses Analysis - NEW FEATURE
+        course_popularity = {}
+        course_types = {}
+        total_course_recommendations = 0
+        
+        # Analyze all course recommendations across companies
+        for comp in companies_data:
+            course_recs = comp.get('course_recommendations', {}).get('recommendations', [])
+            for course in course_recs:
+                course_name = get_course_field(course, 'course_name', ['name', 'title'])
+                course_code = get_course_field(course, 'course_code', ['code'])
+                course_type = course.get('course_type', 'Unknown')
+                
+                # Use course name as key, but display with code if available
+                display_name = f"{course_name} ({course_code})" if course_code != 'N/A' else course_name
+                course_popularity[display_name] = course_popularity.get(display_name, 0) + 1
+                course_types[course_type] = course_types.get(course_type, 0) + 1
+                total_course_recommendations += 1
+        
+        if course_popularity:
+            # Get top 8 most popular courses (reduced from 10 for better display)
+            top_courses = sorted(course_popularity.items(), key=lambda x: x[1], reverse=True)[:8]
+            
+            if top_courses:
+                course_names = [name[:25] + "..." if len(name) > 25 else name for name, _ in top_courses]
+                course_counts = [count for _, count in top_courses]
+                
+                fig_courses = px.bar(
+                    x=course_counts,
+                    y=course_names,
+                    orientation='h',
+                    title=f"Top {len(top_courses)} Popular Courses",
+                    labels={'x': 'Times Recommended', 'y': 'Course Name'},
+                    color_discrete_sequence=['#800020']
+                )
+                fig_courses.update_layout(
+                    height=350,
+                    yaxis={'categoryorder': 'total ascending'},
+                    margin=dict(l=20, r=20, t=40, b=20)
+                )
+                st.plotly_chart(fig_courses, use_container_width=True)
+                
+                # Add course statistics
+                unique_courses = len(course_popularity)
+                avg_recommendations = total_course_recommendations / len(companies_with_recommendations) if companies_with_recommendations else 0
+                
+                st.markdown(f"""
+                <div class="info-box" style="margin-top: 1rem; padding: 1rem;">
+                    <h5 style="color: var(--stevens-burgundy); margin: 0 0 0.5rem 0;">📈 Course Statistics</h5>
+                    <p style="margin: 0.25rem 0; font-size: 0.9rem;"><strong>Unique Courses:</strong> {unique_courses}</p>
+                    <p style="margin: 0.25rem 0; font-size: 0.9rem;"><strong>Total Recommendations:</strong> {total_course_recommendations}</p>
+                    <p style="margin: 0.25rem 0; font-size: 0.9rem;"><strong>Avg per Company:</strong> {avg_recommendations:.1f}</p>
+                </div>
+                """, unsafe_allow_html=True)
+            else:
+                st.info("No course recommendations found to analyze")
+        else:
+            st.info("No course recommendations available for popularity analysis")
+    
     # Companies list - with burgundy background
     st.markdown("""
     <div class="companies-overview">
-        <h2>🏢 Companies Overview</h2>
+        <h2>Companies Overview</h2>
     </div>
     """, unsafe_allow_html=True)
+    
+    # Show sort information
+    if filtered_companies:
+        sort_info_text = f"Showing {len(filtered_companies)} companies sorted by timestamp ({'descending' if st.session_state.sort_order == 'desc' else 'ascending'} order)"
+        if filtered_companies and len(filtered_companies) < len(companies_data):
+            sort_info_text += f" - Filtered from {len(companies_data)} total companies"
+        
+        # Add active sort indicator
+        active_sort = "Newest First (Active)" if st.session_state.sort_order == 'desc' else "Oldest First (Active)"
     
     # Add info about recommendations
     if not companies_with_recommendations:
@@ -1884,10 +2305,16 @@ def main():
         </div>
         """, unsafe_allow_html=True)
     
-    # Display companies - UPDATED with new button flow
+    # Display companies - UPDATED with timestamp display
     for i, company in enumerate(filtered_companies):
         has_recommendations = 'course_recommendations' in company or 'certificate_recommendations' in company
-        company_title = f"🏢 {company.get('company_name', 'Unknown Company')} - {company.get('industry', 'Unknown Industry')}"
+        company_title = f"{company.get('company_name', 'Unknown Company')} - {company.get('industry', 'Unknown Industry')}"
+        
+        # Add timestamp to title if available
+        timestamp = get_company_timestamp(company)
+        if timestamp > 0:
+            timestamp_str = datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d %H:%M")
+            company_title += f" |  {timestamp_str}"
         
         if not has_recommendations:
             company_title += " (No Recommendations)"
@@ -1899,13 +2326,19 @@ def main():
             
             with col1:
                 source_db = company.get('_source_db', 'Unknown')
+                # Display timestamp information
+                timestamp_display = "N/A"
+                if timestamp > 0:
+                    timestamp_display = datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d %H:%M:%S")
+                
                 st.markdown(f"""
                 <div class="company-card">
-                    <h3>Company Information</h3>
+                    <h3> Company Information</h3>
                     <p><strong>Name:</strong> {company.get('company_name', 'N/A')}</p>
                     <p><strong>Industry:</strong> {company.get('industry', 'N/A')}</p>
                     <p><strong>Size:</strong> {company.get('company_size', 'N/A')}</p>
                     <p><strong>Contact:</strong> {company.get('contact_email', 'N/A')}</p>
+                    <p><strong>Last Updated:</strong> {timestamp_display}</p>
                     <p><strong>Source DB:</strong> {source_db}</p>
                     <p><strong>Document ID:</strong> {parse_mongo_id(company.get('_id', {}))}</p>
                 </div>
@@ -1935,7 +2368,7 @@ def main():
                 else:
                     st.markdown(f"""
                     <div class="company-card">
-                        <h3>Recommendations Status</h3>
+                        <h3>⚠️ Recommendations Status</h3>
                         <p style="color: #666666;"><strong>Status:</strong> No recommendations available</p>
                         <p><strong>Available Fields:</strong> {', '.join(company.keys())}</p>
                         <p style="color: #666666; font-size: 0.9em;">
@@ -1949,34 +2382,34 @@ def main():
             
             with col1:
                 if has_recommendations:
-                    if st.button(f"📋 View Details", key=f"view_company_{i}"):
+                    if st.button(f" View Details", key=f"view_company_{i}"):
                         st.session_state.selected_company = company
                         st.session_state.current_view = "company_detail"
                         st.rerun()
                 else:
-                    st.button(f"📋 No Details Available", key=f"view_company_{i}", disabled=True)
+                    st.button(f"No Details Available", key=f"view_company_{i}", disabled=True)
             
             with col2:
                 if has_recommendations and course_recs:
-                    if st.button(f"📚 Courses ({len(course_recs)})", key=f"courses_{i}"):
+                    if st.button(f"Courses ({len(course_recs)})", key=f"courses_{i}"):
                         st.session_state.selected_company = company
                         st.session_state.current_view = "courses"
                         st.rerun()
                 else:
-                    st.button(f"📚 No Courses", key=f"courses_{i}", disabled=True)
+                    st.button(f"No Courses", key=f"courses_{i}", disabled=True)
             
             with col3:
                 if has_recommendations and cert_recs:
-                    if st.button(f"🏆 Certificates ({len(cert_recs)})", key=f"certificates_{i}"):
+                    if st.button(f"Certificates ({len(cert_recs)})", key=f"certificates_{i}"):
                         st.session_state.selected_company = company
                         st.session_state.current_view = "certificates"
                         st.rerun()
                 else:
-                    st.button(f"🏆 No Certificates", key=f"certificates_{i}", disabled=True)
+                    st.button(f"No Certificates", key=f"certificates_{i}", disabled=True)
             
             with col4:
                 if has_recommendations and (course_recs or cert_recs):
-                    if st.button(f"📋 Create Proposal", key=f"proposal_{i}"):
+                    if st.button(f"Create Proposal", key=f"proposal_{i}"):
                         st.session_state.selected_company = company
                         st.session_state.current_view = "proposal"
                         # Clear any existing selections
@@ -1993,9 +2426,9 @@ def main():
                 course_similarities = [parse_mongo_number(r.get('similarity_score', 0)) for r in course_recs]
                 avg_similarity = sum(course_similarities) / len(course_similarities) if course_similarities else 0
                 max_possible_credits = min((len(course_recs) + len(cert_recs)) * 3, 36)
-                st.markdown(f"**Quick Stats:** Avg Similarity: {avg_similarity:.1%} | Max Credits: {max_possible_credits}/36")
+                st.markdown(f"**📈 Quick Stats:** Avg Similarity: {avg_similarity:.1%} | Max Credits: {max_possible_credits}/36")
             else:
-                st.markdown("**Status:** Needs recommendations")
+                st.markdown("** Status:** Needs recommendations")
 
 if __name__ == "__main__":
     main()
